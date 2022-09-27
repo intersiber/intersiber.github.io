@@ -1,5 +1,5 @@
 title: "intersiber"
-email: intersiber@gmail.com
+email: intersibercom@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
@@ -25,7 +25,7 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   sal:
-    name: Sal
+    name: intersiber
     display_name: intersiber
     avatar: 'assets/images/sal.png'
     email: intersiber@gmail.com
@@ -33,13 +33,13 @@ authors:
     twitter: https://twitter.com/intersiber
     description: "intersiber"
   john:
-    name: John
-    display_name: John
+    name: Hakan Torun
+    display_name: Hakan Torun
     avatar: 'assets/images/john.png'
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    web: https://hakan.io
+    twitter: https://twitter.com/onepase
+    description: "Hakan Torun"
 
 # Social
 social:

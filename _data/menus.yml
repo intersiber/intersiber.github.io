@@ -1,32 +1,30 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Anasayfa
   url: ""
 
-- title: About
+- title: Hakkında
   url: "about/"
 
-- title: Contact
+- title: İletişim
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Arşiv
+  url: ""
   class: "ml-2 btn btn-dark text-white px-3"
-  external: true
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Anasayfa
   url: ""
 
-- title: Privacy Policy
+- title: Gizlilik Politikası
   url: "privacy-policy/"
 
-- title: Contact
+- title: Reklam
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
+- title: Hakkında
+  url: "about/"
