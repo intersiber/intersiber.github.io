@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10218'
 permalink: /turk-hackerlar-cinli-sinovaci-hedef-aldi-asi-ureticisinin-anasayfasina-turkistan-bayragi/
 post_views_count:
     - '12'
-image: /wp-content/uploads/2020/12/turk-hackerlar-cinli-sinovac-i-hedef-aldi-asi-ureticisinin-anasayfasinda-dogu-turkistan-bayragi.jpg
+image: images/turk-hackerlar-cinli-sinovac-i-hedef-aldi-asi-ureticisinin-anasayfasinda-dogu-turkistan-bayragi.jpg
 categories:
     - Güvenlik
 tags:

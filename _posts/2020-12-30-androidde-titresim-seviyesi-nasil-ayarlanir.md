@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10212'
 permalink: /androidde-titresim-seviyesi-nasil-ayarlanir/
 post_views_count:
     - '15'
-image: /wp-content/uploads/2020/12/android-de-titresim-seviyesi-nasil-ayarlanir.jpg
+image: images/android-de-titresim-seviyesi-nasil-ayarlanir.jpg
 categories:
     - Mobil
     - 'Ne Nasıl?'

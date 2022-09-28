@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10192'
 permalink: /iddia-applein-otomobili-en-erken-2028de-tanitilacak/
 post_views_count:
     - '12'
-image: /wp-content/uploads/2020/12/apple-otomobili-en-erken-2028-de-tanitilacak.png
+image: images/apple-otomobili-en-erken-2028-de-tanitilacak.png
 categories:
     - Apple
     - 'Elektrikli Otomobil'

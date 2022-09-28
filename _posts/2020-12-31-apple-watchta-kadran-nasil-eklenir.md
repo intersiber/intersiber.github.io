@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10222'
 permalink: /apple-watchta-kadran-nasil-eklenir/
 post_views_count:
     - '14'
-image: /wp-content/uploads/2020/12/apple-watch-ta-kadran-nasil-eklenir.jpg
+image: images/apple-watch-ta-kadran-nasil-eklenir.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:

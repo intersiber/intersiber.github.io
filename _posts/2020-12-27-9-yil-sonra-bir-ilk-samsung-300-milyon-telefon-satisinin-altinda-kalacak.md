@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10181'
 permalink: /9-yil-sonra-bir-ilk-samsung-300-milyon-telefon-satisinin-altinda-kalacak/
 post_views_count:
     - '16'
-image: /wp-content/uploads/2020/12/9-yil-sonra-bir-ilk-samsung-300-milyon-telefon-satisinin-altinda-kalacak.jpg
+image: images/9-yil-sonra-bir-ilk-samsung-300-milyon-telefon-satisinin-altinda-kalacak.jpg
 categories:
     - Mobil
 tags:

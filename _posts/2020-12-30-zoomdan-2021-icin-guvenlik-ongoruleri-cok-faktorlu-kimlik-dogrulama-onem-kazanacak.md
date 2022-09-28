@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10215'
 permalink: /zoomdan-2021-icin-guvenlik-ongoruleri-cok-faktorlu-kimlik-dogrulama-onem-kazanacak/
 post_views_count:
     - '15'
-image: /wp-content/uploads/2020/12/zoom-dan-2021-icin-guvenlik-ongoruleri-cok-faktorlu-kimlik-dogrulama-onem-kazanacak.png
+image: images/zoom-dan-2021-icin-guvenlik-ongoruleri-cok-faktorlu-kimlik-dogrulama-onem-kazanacak.png
 categories:
     - Güvenlik
 tags:

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10208'
 permalink: /malezya-ordusuna-siber-saldiri-duzenlendi/
 post_views_count:
     - '14'
-image: /wp-content/uploads/2020/12/malezya-ordusuna-siber-saldiri-duzenlendi-1.jpg
+image: images/malezya-ordusuna-siber-saldiri-duzenlendi-1.jpg
 categories:
     - Güvenlik
 tags:

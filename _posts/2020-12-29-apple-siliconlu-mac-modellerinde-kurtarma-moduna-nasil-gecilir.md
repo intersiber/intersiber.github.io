@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10199'
 permalink: /apple-siliconlu-mac-modellerinde-kurtarma-moduna-nasil-gecilir/
 post_views_count:
     - '14'
-image: /wp-content/uploads/2020/12/apple-silicon-lu-mac-modellerinde-kurtarma-moduna-nasil-gecilir.jpg
+image: images/apple-silicon-lu-mac-modellerinde-kurtarma-moduna-nasil-gecilir.jpg
 categories:
     - 'Ne Nasıl?'
 tags:

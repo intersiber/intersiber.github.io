@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10204'
 permalink: /google-dokumanlardaki-acik-bilgisayar-korsanlarinin-ozel-belgeleri-gormesine-izin-verebilirdi/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/12/google-dokumanlar-acigi-bilgisayar-korsanlarinin-ozel-bilgileri-gormesine-izin-verebilirdi.jpg
+image: images/google-dokumanlar-acigi-bilgisayar-korsanlarinin-ozel-bilgileri-gormesine-izin-verebilirdi.jpg
 categories:
     - Güvenlik
 tags:
