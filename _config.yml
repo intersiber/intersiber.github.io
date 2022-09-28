@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 author: intersiber
 paginate: 10
 paginate_path: "/sayfa/:num"
@@ -21,22 +21,22 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: UA-43255182-11
 
 # Authors
 authors:
-  sal:
+  intersiber:
     name: intersiber
     display_name: intersiber
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/intersiber.png'
     email: intersiber@gmail.com
     web: https://intersiber.com/
     twitter: https://twitter.com/intersiber
     description: "intersiber"
-  john:
+  Hakan Torun:
     name: Hakan Torun
     display_name: Hakan Torun
-    avatar: 'assets/images/john.png'
+    avatar: 'assets/images/hakan-torun.jpg'
     email: wowthemesnet@gmail.com
     web: https://hakan.io
     twitter: https://twitter.com/onepase
