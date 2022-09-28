@@ -6,7 +6,8 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: intersiber
-paginate: 30
+paginate: 10
+paginate_path: "/sayfa/:num"
 disqus: 'intersiber'
 locale: tr_tr
 lang: tr_tr
