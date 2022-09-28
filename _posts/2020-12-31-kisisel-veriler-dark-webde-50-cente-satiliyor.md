@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10228'
 permalink: /kisisel-veriler-dark-webde-50-cente-satiliyor/
 post_views_count:
     - '9'
-image: /wp-content/uploads/2020/12/kisisel-verileri-dark-web-e-50-cente-satiyorlar.jpg
+image: images/kisisel-verileri-dark-web-e-50-cente-satiyorlar.jpg
 categories:
     - Güvenlik
 tags:
