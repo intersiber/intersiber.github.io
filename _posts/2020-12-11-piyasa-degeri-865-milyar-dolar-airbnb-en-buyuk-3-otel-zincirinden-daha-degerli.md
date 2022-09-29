@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9990'
 permalink: /piyasa-degeri-865-milyar-dolar-airbnb-en-buyuk-3-otel-zincirinden-daha-degerli/
 post_views_count:
     - '47'
-image: /wp-content/uploads/2020/12/piyasa-degeri-86-5-milyar-dolar-airbnb-en-buyuk-3-otel-zincirinden-daha-degerli.jpg
+image: images/piyasa-degeri-86-5-milyar-dolar-airbnb-en-buyuk-3-otel-zincirinden-daha-degerli.jpg
 categories:
     - Genel
 tags:
@@ -19,7 +19,7 @@ tags:
 
 AirBnb hisselerindeki yükselişin farklı bir anlamı daha var. O da, ev ve oda kiralama platformunun piyasa değerinin 86,5 milyar dolara ulaşması. Bunun anlamı, AirBnb, dünyanın en büyük 3 otel zincirinin toplamından daha değerli.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/airbnb-hisseleri.png)</figure>## Hilton, Marriott ve Intercontinental’den daha değerli
+<figure class="wp-block-image size-large">![](images/airbnb-hisseleri.png)</figure>## Hilton, Marriott ve Intercontinental’den daha değerli
 
 AirBnb, perşembe günü kapanış fiyatları itibariyle dünyanın en büyük üç otel zinciri olan Hilton Worldwide Holdings, Marriott International ve Intercontinental Hotels Group’tan daha değerli oldu. Bu üç otel zincinin değeri 84 milyar dolar.
 

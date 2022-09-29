@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8542'
 permalink: /app-store-ve-google-playde-yasaklanmisti-zynn-tartismalara-yol-acan-para-odeme-ozelligini-kaldirdi/
 post_views_count:
     - '57'
-image: /wp-content/uploads/2020/06/app-store-ve-google-play-de-yasaklanmisti-zynn-tartismalara-yol-acan-para-odeme-ozelligini-kaldirdi.jpg
+image: images/app-store-ve-google-play-de-yasaklanmisti-zynn-tartismalara-yol-acan-para-odeme-ozelligini-kaldirdi.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ tags:
 
 Ödeme özelliğinin **Zynncheers** adlı bir ödül sistemi ile değiştirileceği, Zynncheers ile kullanıcılara video izlediklerinde puan verileceği aktarıldı. Ancak puanlar para yerine geçmeyecek. Şirket, puanların çeşitli avantajlar ve ödüllerle değerlendirileceğini söyledi. Şirket sözcüsü, Zynncheers kullanımı için planların olduğu ve kullanıcıların geri bildirimlerinin önemsendiğini söyledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/zynn-para-odeme-ozelligi.png)</figure>## Ödeme modeli ile zirveye çıktı
+<figure class="wp-block-image size-large">![](images/zynn-para-odeme-ozelligi.png)</figure>## Ödeme modeli ile zirveye çıktı
 
 Zynn, kullanıcılarına ödeme yapması ile tanındıktan sonra, App Store ve **Google** **Play’de** kısa süre içinde, en çok indirilen ücretsiz uygulamalar listesinde zirveye çıkmayı başardı. Mayıs ayında tanıtılan uygulama, mağazalarda Tiktok’u dahi geride bırakmayı başardı. Ancak uygulama, önce Google Play ardından da **App** **Store’da**, **Tiktok** içeriklerinin izinsiz alınması şikayetinin ardından, intihal nedeniyle kaldırıldı.
 

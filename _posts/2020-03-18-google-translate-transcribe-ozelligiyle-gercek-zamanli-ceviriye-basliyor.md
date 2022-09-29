@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/google-2.jpg
+image: images/google-2.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Teknoloji devi, çeviri hizmeti Google Translate ile gerçek zamanlı çeviri ya
 
 Salı günü Google, kullanıcıların Translate Android uygulamasını kullanarak diğer dillerde konuşmaları eş zamanlı olarak yazmasına olanak sağlayan bir özellik üzerine çalıştıklarını söyledi. Gerçek zamanlı çeviri özelliği sekiz dili destekleyecek ve önümüzdeki birkaç gün içinde kullanıma sunulacak. Bu diller: İngilizce, Fransızca, Almanca, Hintçe, Portekizce, Rusça, İspanyolca ve Tayca.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/google-translate.jpg)</figure>Google Translate Ürün Yöneticisi Sami Iqram, yaptığı açıklamada, “Konuşma çevirilerini çeşitli durumlarda kullanıma sunmaya devam edeceğiz. Şu anda, Transcribe özelliği en iyi sessiz bir ortamda konuşan bir kişi ile çalışmakta. Diğer durumlarda, uygulamanın söylenenleri tam olarak anlaması için elinden geleni yapacaktır.” dedi.
+<figure class="wp-block-image size-full">![](images/google-translate.jpg)</figure>Google Translate Ürün Yöneticisi Sami Iqram, yaptığı açıklamada, “Konuşma çevirilerini çeşitli durumlarda kullanıma sunmaya devam edeceğiz. Şu anda, Transcribe özelliği en iyi sessiz bir ortamda konuşan bir kişi ile çalışmakta. Diğer durumlarda, uygulamanın söylenenleri tam olarak anlaması için elinden geleni yapacaktır.” dedi.
 
 ## Özellik Nasıl Kullanılıyor?
 

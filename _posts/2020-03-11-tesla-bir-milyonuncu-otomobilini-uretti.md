@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '75'
-image: /wp-content/uploads/2020/03/tesla-1-milyonuncu-otomobilini-uretti.jpeg
+image: images/tesla-1-milyonuncu-otomobilini-uretti.jpeg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -29,6 +29,6 @@ Dünyanın en büyük elektrikli otomobil üreticisi Tesla, 1 milyonuncu otomobi
 
 **Tesla** geçtiğimiz yıl elektrikli otomobil üreticisi Çin’li BYD’yi geçerek dünyanın en büyük elektrikli otomobil üreticisi olmuştu. Tesla Model S, Model X ve Model 3 ile yakaladığı satış başarısını Model Y ile devam ettirecek. Ayrıca 2021 yılında üretimine başlayacağı elektrikli TIR modeli **CyberTruck** ile adından uzun yıllar söz ettireceğe benziyor.
 
-<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/03/tesla-1-milyonuncu-otomobilini-uretti-2.jpeg?fit=640%2C274&ssl=1)</figure>Tesla fabrikalarında üretilen 1 milyonuncu otomobil şirket için önemli bir dönüm noktası oldu. Elektrikli otomobillerin hayatımızda yer edinmesinde önemli bir payı olan Tesla’nın bu başarısını, şirketin CEO’su **Elon Musk** Twitter üzerinden yaptığı paylaşımla duyurdu.
+<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.comimages/tesla-1-milyonuncu-otomobilini-uretti-2.jpeg?fit=640%2C274&ssl=1)</figure>Tesla fabrikalarında üretilen 1 milyonuncu otomobil şirket için önemli bir dönüm noktası oldu. Elektrikli otomobillerin hayatımızda yer edinmesinde önemli bir payı olan Tesla’nın bu başarısını, şirketin CEO’su **Elon Musk** Twitter üzerinden yaptığı paylaşımla duyurdu.
 
 Elon Musk, “Tesla ekibini 1 milyonuncu otomobilimizi ürettiği için tebrik ediyorum” notuyla [paylaştığı](https://twitter.com/elonmusk/status/1237204618850992129) fotoğraflarla, Tesla ekibini tebrik etti.

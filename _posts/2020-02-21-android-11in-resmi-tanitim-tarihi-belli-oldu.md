@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '16'
-image: /wp-content/uploads/2020/02/android-11-tanitim-tarihi.jpg
+image: images/android-11-tanitim-tarihi.jpg
 categories:
     - 'İşletim Sistemleri'
 tags:
@@ -25,7 +25,7 @@ tags:
 
 Google’ın her yıl düzenlediği geliştirici konferansı Google I/O’nun 2020 etkinliğinde Android 11 tanıtılacak. Android işletim sisteminin en yeni versiyonuyla ilgili detaylı bilgilerin verileceği etkinlikte Google’ın diğer ürün ve servisleri de yer alacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/android-logo.png)</figure>## Resmi tanıtım 12-14 Mayıs’ta
+<figure class="wp-block-image size-large">![](images/android-logo.png)</figure>## Resmi tanıtım 12-14 Mayıs’ta
 
 Google I/O 2020 **12-14 Mayıs** tarihleri arasında. Etkinlik bu yıl da geçtiğimiz yıl olduğu gibi şirketin merkezi Mountain View, Kaliforniya’da.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10150'
 permalink: /google-kullanilmayan-hesaplarin-verilerini-ne-zaman-siliyor/
 post_views_count:
     - '15'
-image: /wp-content/uploads/2020/12/google-kullanilmayan-hesaplarin-verilerini-ne-zaman-siliyor.png
+image: images/google-kullanilmayan-hesaplarin-verilerini-ne-zaman-siliyor.png
 categories:
     - Genel
 tags:
@@ -30,7 +30,7 @@ Google’ın, bulut servislerinde ne kadar süre kullanmazsanız hesabınızı k
 
 ## Google verilerinizi ne zaman siler?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/google-servisleri-nelerdir-1600x900.jpg)</figure>1 Haziran 2021 itibariyle Google, etkin olmayan hesaplardaki verileri silme konusunda birtakım yeni politikalar getiriyor. Google’daki fotoğraflar, dosyalar ve tüm verilerin silinmesi konusu, aşağıda durumda geçerlidir:
+<figure class="wp-block-image size-large">![](images/google-servisleri-nelerdir-1600x900.jpg)</figure>1 Haziran 2021 itibariyle Google, etkin olmayan hesaplardaki verileri silme konusunda birtakım yeni politikalar getiriyor. Google’daki fotoğraflar, dosyalar ve tüm verilerin silinmesi konusu, aşağıda durumda geçerlidir:
 
 - Hesabınız iki yıl aktif değilse
 - İki yıllık depolama sınırını aştıysanız.

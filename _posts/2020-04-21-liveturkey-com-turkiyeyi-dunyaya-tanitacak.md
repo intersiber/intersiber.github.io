@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5769'
 permalink: /liveturkey-com-turkiyeyi-dunyaya-tanitacak/
 post_views_count:
     - '78'
-image: /wp-content/uploads/2020/04/live-turkey-turkiye-nin-tanitimi-icin-internet-projesi.png
+image: images/live-turkey-turkiye-nin-tanitimi-icin-internet-projesi.png
 categories:
     - Genel
 tags:
@@ -24,13 +24,13 @@ Bakanlık, yaptığı açıklamada yemek kültüründen sanata, spordan eğlence
 
 Sitede, Türkiye hakkında merak ettiği konular olan turistler için, her konuda açıklayıcı görsel içerikler sunuluyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/live-turkey-turkiye-online-tanitim-sitesi-1600x873.png)</figure>Bakanlık, yaptığı açıklamada **LiveTurkey** üzerinden, dünyaca ünlü şeflerin yemek yapma etkinliklerinin sunulacağını, bunun yanı sıra Türkiye’deki müzelerin ve doğal güzelliklerin takip edilebileceğini aktardı.
+<figure class="wp-block-image size-large">![](images/live-turkey-turkiye-online-tanitim-sitesi-1600x873.png)</figure>Bakanlık, yaptığı açıklamada **LiveTurkey** üzerinden, dünyaca ünlü şeflerin yemek yapma etkinliklerinin sunulacağını, bunun yanı sıra Türkiye’deki müzelerin ve doğal güzelliklerin takip edilebileceğini aktardı.
 
 Sitede ayrıca, Türkiye’de yapılabilecek tüm etkinliklerin listelendiğini ve Türkiye’yi keşfetmek isteyen turistlerin, keyifli bir online turizm deneyimi yaşayacağı aktarıldı.
 
 Sitenin Instagram, Youtube ve Twitter’daki markası ise, **GoTurkey** oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/GOTURKEY-nedir-turkiye-turizm-tanitim-sitesi.png)</figure>Dünyanın en çok turist çeken ülkelerinden Türkiye, koronavirüs salgını sonrasında insanların evde daha çok vakit geçirdiği bugünlerde, dijital turizm deneyimi yaratmayı amaçlayarak, potansiyel turistlere erişmeyi amaçlıyor.
+<figure class="wp-block-image size-large">![](images/GOTURKEY-nedir-turkiye-turizm-tanitim-sitesi.png)</figure>Dünyanın en çok turist çeken ülkelerinden Türkiye, koronavirüs salgını sonrasında insanların evde daha çok vakit geçirdiği bugünlerde, dijital turizm deneyimi yaratmayı amaçlayarak, potansiyel turistlere erişmeyi amaçlıyor.
 
 Salgının etkisi, birçok turizm ülkesinin turist kaybetmesine neden olacak. Turizm ülkelerinden biri olan İtalya için analistler, koronavirüs salgını nedeniyle ortalama 25 milyon turist kaybı olacağını aktardı. Bu da, turizmin yarattığı ekonomik hareketliliği çok iyi bir şekilde ifade ediyor.
 

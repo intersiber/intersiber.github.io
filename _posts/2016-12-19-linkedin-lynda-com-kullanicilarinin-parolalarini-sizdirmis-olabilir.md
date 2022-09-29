@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=770'
 permalink: /linkedin-lynda-com-kullanicilarinin-parolalarini-sizdirmis-olabilir/
 post_views_count:
     - '737'
-image: /wp-content/uploads/2016/12/Lynda.jpg
+image: images/Lynda.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

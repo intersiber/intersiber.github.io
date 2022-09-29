@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8624'
 permalink: /ios-14-ile-bircok-uygulama-ve-komut-icin-telefonun-arkasina-dokunmak-yeterli-olacak/
 post_views_count:
     - '411'
-image: /wp-content/uploads/2020/06/ios-14-ile-bircok-uygulama-ve-komut-icin-telefonun-arkasina-dokunmak-yeterli-olacak.png
+image: images/ios-14-ile-bircok-uygulama-ve-komut-icin-telefonun-arkasina-dokunmak-yeterli-olacak.png
 categories:
     - Apple
     - Mobil
@@ -20,7 +20,7 @@ tags:
 
 Apple, bu yıl koronavirüs salgını nedeniyle ilk defa online olarak düzenlenen **WWDC** 20, **Dünya** **Geliştiriciler** **Konferansı’nda** iOS’ta gelen yenilikleri paylaşmayı sürdürüyor. Apple’ın, **iOS 14** ile ilgili duyurduğu önemli yeniliklerden biri, belli görevleri gerçekleştirmek için **iPhone’un** arkasına dokunmak. “Back tap” olarak tanıtılan bu yeni erişilebilirlik özelliğinde, iki kere ya da üç kere dokunma ile, farklı işlevleri yerine getirebilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/iphone-back-tap-ozelligi-nedir.jpeg)</figure>## Back Tap ile neler yapılabilecek?
+<figure class="wp-block-image size-large">![](images/iphone-back-tap-ozelligi-nedir.jpeg)</figure>## Back Tap ile neler yapılabilecek?
 
 Apple’ın sunduğu yeni özellik, iki ya da üç dokunuş ile ekran görüntüsü alma, telefonu kitleme ya da sessize alma, ses seviyesini değiştirme ya da Google Asistan gibi uygulamaları başlatma gibi görevleri yerine getirmeyi sağlayacak.
 

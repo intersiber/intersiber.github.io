@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6926'
 permalink: /yandex-navigasyon-istanbul-trafigini-analiz-etti-yogunluk-mayista-nisanin-iki-katina-cikti/
 post_views_count:
     - '59'
-image: /wp-content/uploads/2020/05/yandex-navigasyon-istanbul-trafigini-analiz-etti-yogunluk-mayis-ta-nisan-in-iki-katina-cikti.png
+image: images/yandex-navigasyon-istanbul-trafigini-analiz-etti-yogunluk-mayis-ta-nisan-in-iki-katina-cikti.png
 categories:
     - Genel
 tags:
@@ -23,7 +23,7 @@ Yandex Navigasyon, 1 Nisan ile 11 Mayıs arasında, sokağa çıkma yasağının
 
 ## Yoğunluk 10 üzerinden 6 puan
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/yandex-navigasyon-trafik-yogunlugu-haritasi.png)</figure>Raporda trafik yoğunluğu, 1 puan ile 10 puan arasında derecelendirildi. **Yandex** **Navigasyon’a** göre, İstanbul trafiğinin ortalaması, 10 üzerinden 6 oldu.
+<figure class="wp-block-image size-large">![](images/yandex-navigasyon-trafik-yogunlugu-haritasi.png)</figure>Raporda trafik yoğunluğu, 1 puan ile 10 puan arasında derecelendirildi. **Yandex** **Navigasyon’a** göre, İstanbul trafiğinin ortalaması, 10 üzerinden 6 oldu.
 
 Trafik Mayıs ayında, Nisan ayındaki yoğunluğun iki katına yakına yakın oldu. Bu da, koronavirüsün en yoğun görüldüğü şehir olan İstanbul’da, Mayıs ayında ortaya çıkan tablodaki iyimser durumun, insanları rahatlattığını gösterdi.
 

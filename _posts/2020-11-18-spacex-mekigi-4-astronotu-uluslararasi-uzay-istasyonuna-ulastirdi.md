@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9708'
 permalink: /spacex-mekigi-4-astronotu-uluslararasi-uzay-istasyonuna-ulastirdi/
 post_views_count:
     - '25'
-image: /wp-content/uploads/2020/11/space-x-mekigi-4-astronotu-uluslararasi-uzay-istasyonuna-ulastirdi.png
+image: images/space-x-mekigi-4-astronotu-uluslararasi-uzay-istasyonuna-ulastirdi.png
 categories:
     - Uzay
 tags:

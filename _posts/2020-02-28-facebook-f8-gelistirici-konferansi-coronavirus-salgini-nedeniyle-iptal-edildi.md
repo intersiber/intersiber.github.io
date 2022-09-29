@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/facebook-f8-geliştirici-konferansi.jpg
+image: images/facebook-f8-gelistirici-konferansi.jpg
 categories:
     - Etkinlik
 tags:
@@ -27,7 +27,7 @@ tags:
 
 Coronavirus salgını teknoloji şirketlerini etkilemeye devam ediyor. Geçtiğimiz günlerde Barselona’da düzenlenecek olan [Mobil Dünya Kongresi MWC20](https://intersiber.com/mobil-dunya-kongresi-mwc20-coronavirus-sebebiyle-resmen-iptal-edildi/)‘nin iptal edilmesinin ardından bir iptal haberi de Facebook’tan geldi.
 
-<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/02/facebook-f9-2020-coronavirus-salgini-nedeniyle-iptal-edildi.jpg?fit=640%2C360&ssl=1)</figure>Facebook’un her yıl düzenlediği F8 Geliştirici Konferansında dünyanın dört bir yanından geliştiriciler bir araya geliyordu. Ancak Facebook tarafından yapılan açıklama ile konferansın iptal edildiği duyuruldu. 5-6 Mayıs tarihlerinde San Jose’de gerçekleştirilmesi planlanan konferans Coronavirus salgını nedeniyle iptal edildi.
+<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.comimages/facebook-f9-2020-coronavirus-salgini-nedeniyle-iptal-edildi.jpg?fit=640%2C360&ssl=1)</figure>Facebook’un her yıl düzenlediği F8 Geliştirici Konferansında dünyanın dört bir yanından geliştiriciler bir araya geliyordu. Ancak Facebook tarafından yapılan açıklama ile konferansın iptal edildiği duyuruldu. 5-6 Mayıs tarihlerinde San Jose’de gerçekleştirilmesi planlanan konferans Coronavirus salgını nedeniyle iptal edildi.
 
 ## Etkinlik online gerçekleşecek
 

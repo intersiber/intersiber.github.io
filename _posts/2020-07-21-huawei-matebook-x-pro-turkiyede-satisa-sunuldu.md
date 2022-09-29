@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9135'
 permalink: /huawei-matebook-x-pro-turkiyede-satisa-sunuldu/
 post_views_count:
     - '40'
-image: /wp-content/uploads/2020/07/5D97CED2-4645-48DA-9D21-E55950063624.jpeg
+image: images/5D97CED2-4645-48DA-9D21-E55950063624.jpeg
 categories:
     - 'Dizüstü Bilgisayar'
 tags:
@@ -20,7 +20,7 @@ Merakla beklenen yeni **Huawei MateBook X Pro**, 10. Nesil Intel **Core i7** iş
 
 Daha çok akıllı telefon üreticisi olarak bilinen **Huawei**, şimdiye kadarki en güçlü dizüstü bilgisayarını sonunda Türkiye’de satışa sundu. Her anlamda üst düzey özelliklere sahip olan ve performans konusunda ihtiyaçları fazlasıyla karşılayan yeni **MateBook X Pro Huawei**‘in en güncel dizüstü bilgisayarı konumunda yer alıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/07/B19CE5D2-14B7-4D57-8DE1-0A30245A1A12-1600x900.jpeg)</figure>Marka **Ultra FullView** olarak adlandırdığı ekran tasarımıyla kullanıcılarına yüzde 91 ekran/gövde oranı sunarak çerçevelerinden neredeyse tamamen kurtulmuş gibi görünüyor. Ayrıca bu ekran tamamen **dokunmatik** özelliğe sahip olmasıyla da oldukça dikkat çekiyor.
+<figure class="wp-block-image size-large">![](images/B19CE5D2-14B7-4D57-8DE1-0A30245A1A12-1600x900.jpeg)</figure>Marka **Ultra FullView** olarak adlandırdığı ekran tasarımıyla kullanıcılarına yüzde 91 ekran/gövde oranı sunarak çerçevelerinden neredeyse tamamen kurtulmuş gibi görünüyor. Ayrıca bu ekran tamamen **dokunmatik** özelliğe sahip olmasıyla da oldukça dikkat çekiyor.
 
 Yeni **MateBook X Pro**, 10. Nesil İntel Core i7-10510 U işlemcilerle birlikte geliyor ve bilgisayar **2GB** **GDDR5** belleğe sahip. Bununla birlikte cihaz **NVİDİA GeForce MX250** ile kullanıcıların oyun konusundaki beklentileri de karşılayacak bir performans sunuyor. **13** saate kadar video oynatabilme özelliği ve **15** saate kadar ofis kullanımına sahip olan **MateBook X Pro** 56Wh kapasiteli bataryayla donatılmış.
 

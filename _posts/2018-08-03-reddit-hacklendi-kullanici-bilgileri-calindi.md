@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '331'
-image: /wp-content/uploads/2018/08/reddit.png
+image: images/reddit.png
 categories:
     - Güvenlik
     - 'Öne Çıkan'

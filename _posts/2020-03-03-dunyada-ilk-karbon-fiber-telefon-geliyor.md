@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=2580'
 permalink: /dunyada-ilk-karbon-fiber-telefon-geliyor/
 post_views_count:
     - '52'
-image: /wp-content/uploads/2020/03/dunyanin-ilk-karbon-fiber-telefonu-tanitildi-1.jpg
+image: images/dunyanin-ilk-karbon-fiber-telefonu-tanitildi-1.jpg
 categories:
     - Mobil
 tags:
@@ -22,7 +22,7 @@ Akıllı telefon sektöründe gün geçmiyor ki yeni bir teknoloji bulunmasın. 
 
 Şu an piyasada yer alan akıllı telefonların hemen hemen hepsi polikarbonat isimli bir maddeden oluşuyor. Yüksek fiyatlı telefonlarda ise alüminyum, çelik, seramik ve cam gibi karışımlarda mevcut. Ancak **Carbon 1 Mark II** isimli yeni akıllı telefon, gövdesinin karbon fiber olması ile sektöre farklı bir renk getirdi. Kullanıcıların büyük ilgisini çeken karbon fiber, telefonların daha sağlam ve hafif olmasını sağlayacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/dunyanin-ilk-karbon-fiber-telefonu-carbon-1-mark-iinin-ozellikleri-1583101752.jpg)</figure>## **Carbon 1 Mark II Özellikleri**
+<figure class="wp-block-image size-large">![](images/dunyanin-ilk-karbon-fiber-telefonu-carbon-1-mark-iinin-ozellikleri-1583101752.jpg)</figure>## **Carbon 1 Mark II Özellikleri**
 
 Carbon 1 Mark’a ilk baktığımızda oldukça düz ve sade bir tasarıma sahip olduğunu görebiliyoruz. Bununla birlikte 6,01 inç büyüklüğünde bir ekrana sahip… Telefonun işlemcisi ise MediaTek Helio P90.
 

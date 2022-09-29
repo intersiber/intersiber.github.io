@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '287'
-image: /wp-content/uploads/2018/03/iphone-ios-11-qr.jpg
+image: images/iphone-ios-11-qr.jpg
 categories:
     - Apple
     - 'Öne Çıkan'
@@ -36,13 +36,13 @@ iOS 11’e sahip Apple cihazları kamera uygulaması ile kadraja giren alanda he
 
 Mueller’e göre iOS 11’in yerleşik QR kod okuyucusu bağlantıları ayıklamada çok başarısız. Öyle ki, saldırganlar tarafından QR kod vasıtasıyla bağlantılar çok rahat bir şekilde manipüle edilebiliyor.
 
-![](https://intersiber.com/wp-content/uploads/2018/03/ios11-built-in-qr-code-camera-fail.jpg)
+![](images/ios11-built-in-qr-code-camera-fail.jpg)
 
 Bu QR kod’un içerdiği bilgi
 
 *https://xxx\\@facebook.com:443@infosec.rm-it.de/*
 
-![](https://intersiber.com/wp-content/uploads/2018/03/ios-11-camera-qr-kod-acik.jpg)
+![](images/ios-11-camera-qr-kod-acik.jpg)
 
 iOS 11′ sahip bir cihazın kamera uygulaması ile görüntülediğiniz zaman algıladığı QR kod sonucunda web tarayıcı ile facebook.com’a bağlanmak istiyor. Kullanıcıdan onay aldığında ise bağlandığı adres infosec.rm-it.de oluyor, bingo!
 

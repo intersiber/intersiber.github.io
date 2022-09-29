@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7477'
 permalink: /ingiltere-5g-altyapisinda-huawei-ekipmanlarini-kaldirmayi-planliyor/
 post_views_count:
     - '50'
-image: /wp-content/uploads/2020/05/ingiltere-5g-altyapisinda-huawei-ekipmanlarini-kaldirmayi-planliyor.jpg
+image: images/ingiltere-5g-altyapisinda-huawei-ekipmanlarini-kaldirmayi-planliyor.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Ulusal güvenlik endişeleri nedeniyle İngiltere’de Tory partisi üyeleri, 20
 
 Trump yönetimi, Huawei teknolojisinin kullanılmasını yasaklamış ve ABD şirketlerinin, ulusal güvenlik riski oluşturabilecek yabancı yapımı telekomünikasyon ekipmanı satın almalarını engelleyen bir karar çıkarmıştı. Karar, Huawei’nin yanı sıra **ZTE** gibi **Çinli** **telekom** devlerinin ABD’de iş yapmasını engelleyen bir hamle olarak görülüyor. Yasak, **Trump** tarafından geçen hafta, 2021 Mayıs’a kadar uzatılmıştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/huawei-5g-altyapisi-ingiltere-de-kaldirilacak-1600x900.jpg)</figure>ABD hükümeti, Huawei’nin casusluk çabalarına Çin hükümetinin yardımcı olabileceğini savunmuş, Huawei ise bu suçlamaları defalarca reddetmişti. Trump, bu yılın başında konuyla ilgili Johnson’ı aradı ve İngiltere ile istihbarat ortaklığının yeniden değerlendirildiğini söyledi.
+<figure class="wp-block-image size-large">![](images/huawei-5g-altyapisi-ingiltere-de-kaldirilacak-1600x900.jpg)</figure>ABD hükümeti, Huawei’nin casusluk çabalarına Çin hükümetinin yardımcı olabileceğini savunmuş, Huawei ise bu suçlamaları defalarca reddetmişti. Trump, bu yılın başında konuyla ilgili Johnson’ı aradı ve İngiltere ile istihbarat ortaklığının yeniden değerlendirildiğini söyledi.
 
 Johnson, İngiltere’de 5G altyapısı için Huawei ekipmanlarının kullanımını sınırlayarak, şirketin teknolojisinin hassas bölgelerde kullanımını yasakladı. Ocak ayında İngiltere’nin 5G altyapısı için çok fazla seçenek olmadığını söyleyen Johnson’a karşı, **Vodafone** da yaptığı açıklamada Huawei ekipmanlarının kaldırılmasının çok maliyetli olacağını ifade etmişti.
 

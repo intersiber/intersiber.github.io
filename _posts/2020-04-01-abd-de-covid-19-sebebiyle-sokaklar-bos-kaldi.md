@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/new-york-covid-19-times-meydani.jpeg
+image: images/new-york-covid-19-times-meydani.jpeg
 categories:
     - Genel
 tags:
@@ -28,6 +28,6 @@ ABD’de 180.000’e ulaşan koronavirüs ile enfekte olmuş insan sayısının 
 
 **COVID-19** koronavirüs salgınının ülkedeki etkilerinden biri de, ülke genelinde sosyal medya kullanımının artması oldu. Son 24 saat içerisinde sosyal medyada salgınla ilgili milyonlarca durum bildirimi paylaşılırken, bir yandan da sosyal medya kullanım oranlarının bölgesel olarak arttığı bildirildi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/new-york-covid-19-koronavirus-salgini.jpeg)<figcaption>Fotoğraf: Twitter/terrygavinwi</figcaption></figure>ABD’li kullanıcılar sosyal medyayı zaten aktif olarak kullanıyordu. Ancak salgın sebebiyle evlerine kapanan insanlar, henüz ne zaman sonlanacağı belirsiz olan salgın sebebiyle vakitlerinin büyük bir kısmını daha fazla sosyal medyada geçirmeye başladı.
+<figure class="wp-block-image size-full">![](images/new-york-covid-19-koronavirus-salgini.jpeg)<figcaption>Fotoğraf: Twitter/terrygavinwi</figcaption></figure>ABD’li kullanıcılar sosyal medyayı zaten aktif olarak kullanıyordu. Ancak salgın sebebiyle evlerine kapanan insanlar, henüz ne zaman sonlanacağı belirsiz olan salgın sebebiyle vakitlerinin büyük bir kısmını daha fazla sosyal medyada geçirmeye başladı.
 
 ABD salgından en çok etkilenen ülkelerden birisi. Bing verilerine göre ülkede tespit edilmiş vaka sayısı bugün itibariyle **180.000** civarında. ABD’de nüfus yoğunluğunun en fazla olduğu bölgelerden birisi olan New York şehrinin Manhattan yarımadasında insanlar evlerine kapanırken, normal şartlarda insan ve araç trafiğinden dolayı yürümenin bir hayli zor olduğu New York caddeleri boş kaldı.

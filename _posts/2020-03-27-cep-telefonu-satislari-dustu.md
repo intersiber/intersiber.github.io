@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Apple-çin.png
+image: images/Apple-çin.png
 categories:
     - Mobil
 tags:
@@ -29,6 +29,6 @@ tags:
 
 Birçok kullanıcı, kısa süre içerisinde COVID-19 **corona virüs** salgınının etkilerinden ötürü yeni cihaz almak, mevcut akıllı telefonunu değiştirmek gibi konularda soru işaretleri ve ekonomik belirsizlik nedeniyle mobil cihazlara ilgiyi azaltmak zorunda kaldı veya cihaz alımını erteledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Apple-4-1600x1010.jpg)</figure>## Apple Satışları Düşünce Geri Adım Attı
+<figure class="wp-block-image size-large">![](images/Apple-4-1600x1010.jpg)</figure>## Apple Satışları Düşünce Geri Adım Attı
 
 Apple’ın Çin’de ve diğer ülkelerde düşen satışlar nedeniyle sınırları kaldırdığı, bir dönem 1 hafta kadar kısa süreli uygulanan [cihaz sınırlamasının kaldırılmasının](https://intersiber.com/apple-geri-adim-atti-kisi-basina-satis-sinirlamasi-kaldirildi/) ardında düşen cihaz satışları olduğu iddia edilmişti.

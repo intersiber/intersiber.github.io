@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Samsung-Galaxy-M11-2.jpg
+image: images/Samsung-Galaxy-M11-2.jpg
 categories:
     - Mobil
 tags:
@@ -26,6 +26,6 @@ Samsung Galaxy M11 modelinin tasarımı ile ilgili merak edilenler bugün ortaya
 
 Çok sayıda kullanıcının özellikle Hindistan, Afganistan gibi ülkelerde alt-orta düzey modelleri tercih ediyor olmasından dolayı Güney Koreli teknoloji üreticisi Samsung, bu seviyedeki modelleri ile bazı ülkelerde çok fazla ilgi görüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Samsung-Galaxy-M11.jpg)</figure>## Samsung Galaxy M11 ne zaman çıkacak?
+<figure class="wp-block-image size-large">![](images/Samsung-Galaxy-M11.jpg)</figure>## Samsung Galaxy M11 ne zaman çıkacak?
 
 Samsung Galaxy M11 modelinin ne zaman satışa sunulacağı ve tanıtımının ne zaman yapılacağı ile ilgili kesinleşmiş bilgiler bulunmuyor. Bu soru işaretleri özellikle de cihazın fiyatının ne kadar olacağı ile yakından ilgili olsa da, modelin bu yaz aylarına kadar satışa sunulması öngörülüyor.

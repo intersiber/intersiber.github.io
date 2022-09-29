@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/disney2.jpg
+image: images/disney2.jpg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ tags:
 
 **Disney+** aboneliğine sahip olmak isteyen kullanıcılar aylık 5.99 euro ya da yıllık 59.99 euro ödeyerek kullanabiliyor. Disney, Pixar, Marvel, tüm Star Wars serileri ile National Geographic’in hit yapımlarının yer aldığı **Disney+**‘da, Disney+ özel yapımı olan Mandalorian da var ve Bebek Yoda mizahları ile platformun popülerliği bir hayli artmış durumda.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/disney-plus-yapimlari.jpg)</figure>**Disney+**‘nın Fransa’ya da gelmesi gerekiyordu, ancak **koronavirüs** pandemisi nedeniyle Disney lansmanı ertelemeye karar verdi. Diğer ülkeler, AB sunucuları üzerindeki baskıyı hafifletmeye yardımcı olmak için gelecek ay akış kalitesini düşürecek.
+<figure class="wp-block-image size-full">![](images/disney-plus-yapimlari.jpg)</figure>**Disney+**‘nın Fransa’ya da gelmesi gerekiyordu, ancak **koronavirüs** pandemisi nedeniyle Disney lansmanı ertelemeye karar verdi. Diğer ülkeler, AB sunucuları üzerindeki baskıyı hafifletmeye yardımcı olmak için gelecek ay akış kalitesini düşürecek.
 
 ABD, İngiltere ve Avrupa’nın geri kalanı arasındaki sunulan içeriklerde de küçük farklılıklar olacak. Disney+’nın Türkiye’ye ne zaman geleceği ise henüz belli değil.

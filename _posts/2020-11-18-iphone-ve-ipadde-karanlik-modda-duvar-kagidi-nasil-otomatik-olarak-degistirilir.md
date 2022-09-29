@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9711'
 permalink: /iphone-ve-ipadde-karanlik-modda-duvar-kagidi-nasil-otomatik-olarak-degistirilir/
 post_views_count:
     - '65'
-image: /wp-content/uploads/2020/11/iphone-ve-ipad-de-karanlik-modda-duvar-kagidi-nasil-otomatik-degistirilir.jpg
+image: images/iphone-ve-ipad-de-karanlik-modda-duvar-kagidi-nasil-otomatik-degistirilir.jpg
 categories:
     - Apple
 tags:
@@ -27,7 +27,7 @@ tags:
 - “Fotoğraflar” kategorisinde, kısmen kesilmiş birkaç daireye benzeyen karanlık mod simgesini içeren duvar kağıtlarından birini seçin.
 - Koyu ve açık mod simgesi olan duvar kağıtları, karanlık ya da açık mod etkinleştirildiğinde sürümler arasında otomatik olarak geçiş yapacaktır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/iphone-karanlik-mod-otomatik-duvar-kagitlari.jpg)</figure>- Sonraki ekranda “Ayarla”ya dokunun. Ardından duvar kağıdını, kilitli ekranda, ana ekranda ya da her ikisinde görmek isteyip istemediğinizi seçin.
+<figure class="wp-block-image size-large">![](images/iphone-karanlik-mod-otomatik-duvar-kagitlari.jpg)</figure>- Sonraki ekranda “Ayarla”ya dokunun. Ardından duvar kağıdını, kilitli ekranda, ana ekranda ya da her ikisinde görmek isteyip istemediğinizi seçin.
 
 Denetim Merkezi’ni açıp, parlaklık kaydırıcısını basılı tutarak, koyu ya da açık mod düğmesine dokunup Ayarlar’ı kapatın ve açık moddan karanlık moda (ya da tersi) geçiş yapın. Geçiş yaptıktan sonra, ayarladığınız duvar kağıdının otomatik olarak değişeceğini fark edeceksiniz!
 

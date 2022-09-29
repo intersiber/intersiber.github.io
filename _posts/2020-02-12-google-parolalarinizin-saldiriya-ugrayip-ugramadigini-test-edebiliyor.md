@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/google-parolalarin-saldiriya-ugrayip-ugramadigini-test-edebiliyor.png
+image: images/google-parolalarin-saldiriya-ugrayip-ugramadigini-test-edebiliyor.png
 categories:
     - Güvenlik
 tags:
@@ -30,7 +30,7 @@ Bu parola testi temel olarak kullanıcıya 3 geri dönüt veriyor.
 - Parolanın tekrar edilip edilmediği
 - Google hesabına bağlı parolaların zorluk dereceleri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/2019-10-02-image-7-1600x1013.jpg)</figure>Google bu test servisini Twitter aracılığıyla tüm kullanıcılarına sundu.
+<figure class="wp-block-image size-large">![](images/2019-10-02-image-7-1600x1013.jpg)</figure>Google bu test servisini Twitter aracılığıyla tüm kullanıcılarına sundu.
 
 <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">> K33p y0uR p@$$w0rds clo$3 &amp; y0uR P@$$w0rD Ch3ckUp closer.   
 >   

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/OnePlus-7-ve-7-Pro-3.jpg
+image: images/OnePlus-7-ve-7-Pro-3.jpg
 categories:
     - Mobil
 tags:
@@ -29,6 +29,6 @@ Gelişmiş sistem kararlılığı ve sorunların giderilmesi adı altında perfo
 
 Bazı OnePlus 7 ve 7 Pro kullanıcıları **ağır çekim** videoların hızlı olduğunda söz ederken, bu sorunun giderilmesi için birçok kullanıcı şirketle iletişime geçmişti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/OnePlus-7-ve-7-Pro.png)</figure>Aynı zamanda galerideki fotoğrafların aniden kaybolması ile ilgili sorunun giderildiği yeni güncellemede videoların geç oynatılması sorununun da giderildiği açıklandı.
+<figure class="wp-block-image size-large">![](images/OnePlus-7-ve-7-Pro.png)</figure>Aynı zamanda galerideki fotoğrafların aniden kaybolması ile ilgili sorunun giderildiği yeni güncellemede videoların geç oynatılması sorununun da giderildiği açıklandı.
 
 Güncellemeyi indirmek isteyen OnePlus 7 ve 7 Pro kullanıcıları kısa süre içerisinde cihazlarında bir güncelleme bildirimi alacaklar. Hemen kontrol etmek için ayarlarda yer alan güncelleme bölümüne giderek güncellemeleri denetleyebilirsiniz.

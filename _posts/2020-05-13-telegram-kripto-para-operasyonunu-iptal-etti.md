@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6871'
 permalink: /telegram-kripto-para-operasyonunu-iptal-etti/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/05/telegram-kripto-para-operasyonunu-iptal-etti.jpg
+image: images/telegram-kripto-para-operasyonunu-iptal-etti.jpg
 categories:
     - Genel
 tags:
@@ -26,6 +26,6 @@ Telegram, ABD Menkul Kıymetler ve Borsa Komisyonu SEC ile uzun süren görüşm
 
 ## 1,7 milyar dolarlık fon toplandı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/telegram-open-network-nedir-ton-1600x900.jpg)</figure>SEC, geçtiğimiz yılın Ekim ayında Telegram’ın **Gram** adlı **kripto** **para** biriminde, 1,7 milyar dolarlık erken satış jeton sürecinde, satışları durdurması emrini vermişti. Fon, **Telegram’ın** Gram adlı kripto para projesi için ICO sürecinde, 2018’den bu yana toplanmaktaydı. **SEC** incelemesinin ardından şirket, **ICO** sürecini iptal etme kararı almıştı.
+<figure class="wp-block-image size-large">![](images/telegram-open-network-nedir-ton-1600x900.jpg)</figure>SEC, geçtiğimiz yılın Ekim ayında Telegram’ın **Gram** adlı **kripto** **para** biriminde, 1,7 milyar dolarlık erken satış jeton sürecinde, satışları durdurması emrini vermişti. Fon, **Telegram’ın** Gram adlı kripto para projesi için ICO sürecinde, 2018’den bu yana toplanmaktaydı. **SEC** incelemesinin ardından şirket, **ICO** sürecini iptal etme kararı almıştı.
 
 **Durov**, alınan kararla ilgili ABD yasal mercilerini eleştirdi ve “Bu savaş, neslimizin en önemli savaşı olabilir” dedi. SEC kararlarının ardından sekteye uğrayan kripto para projesi ile ilgili olarak, “Doğru bir savaşta savaşıyorsunuz. Umarım bu savaşın galibi olursunuz” diye ekledi.

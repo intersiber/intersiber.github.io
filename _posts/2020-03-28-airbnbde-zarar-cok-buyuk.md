@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=4555'
 permalink: /airbnbde-zarar-cok-buyuk/
 post_views_count:
     - '94'
-image: /wp-content/uploads/2020/03/Airbnb-.jpg
+image: images/Airbnb-.jpg
 categories:
     - Genel
 tags:
@@ -19,6 +19,6 @@ Bir anda beklemedikleri bir şekilde zarara uğrayan Airbnb’de işler değişi
 
 Aynı zamanda şirket çalışanlarının bu dönemde işten ayrılmaları veya kazandıkları ikramiyelerin ödenmesinin pek de fazla mümkün olamayabileceği, tüm dünyada tamamen iptal edilen rezervasyonlar ile beraber aynı zamanda şirketin gün içerisinde gelir elde edemez noktaya geldiği belirtildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Airbnb-2-1600x900.jpg)</figure>İşe alımların durdurulacağı Airbnb’de, milyonlarca dolarlık kar rakamlarının bu sene zarara dönüşmesi ve şirketin iflas korumaya bile başvurmasının mümkün olabileceğinden söz ediliyor.
+<figure class="wp-block-image size-large">![](images/Airbnb-2-1600x900.jpg)</figure>İşe alımların durdurulacağı Airbnb’de, milyonlarca dolarlık kar rakamlarının bu sene zarara dönüşmesi ve şirketin iflas korumaya bile başvurmasının mümkün olabileceğinden söz ediliyor.
 
 Artık kimsenin rezervasyon yapmadığı tatil destinasyonlarında büyük bir sessizlik sürüyor.

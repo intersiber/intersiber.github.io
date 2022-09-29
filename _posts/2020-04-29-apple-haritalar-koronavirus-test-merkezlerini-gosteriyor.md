@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6166'
 permalink: /apple-haritalar-koronavirus-test-merkezlerini-gosteriyor/
 post_views_count:
     - '18'
-image: /wp-content/uploads/2020/04/apple-haritalar-koronavirus-test-noktalarini-gosteriyor.png
+image: images/apple-haritalar-koronavirus-test-noktalarini-gosteriyor.png
 categories:
     - Apple
 tags:
@@ -26,6 +26,6 @@ Apple’ın, test merkezlerinin bilgi kartlarında çalışma saatleri, adres ve
 
 Google, 17 Nisan’da ABD için geçerli olmak üzere covid-19 test merkezlerini haritada göstermeye başlamıştı. Ancak Apple Haritalar verileri ile karşılaştırıldığında, Google’ın çok fazla sayıda test merkezini göstermediği anlaşılıyor. Google öncelikli olarak New Jersey, Oklahoma, Oregon ve Pennsylvania gibi eyaletlerde test merkezlerini listelemişti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/apple-google-koronavirus-takip-sistemi.jpg)</figure>**Apple** bunlara ek olarak Las Vegas, New Orleans, Portland, Salt Lake City ve San Diego gibi merkezler de dahil olmak üzere, **mobilite** **trendleri** raporunda bir güncelleme yaptı. Apple, geçtiğimiz haftalarda İstanbul’un da dahil olduğu büyük şehirlerde, koronavirüs sürecindeki mobilite değişimlerini içeren raporunu paylaşmıştı.
+<figure class="wp-block-image size-large">![](images/apple-google-koronavirus-takip-sistemi.jpg)</figure>**Apple** bunlara ek olarak Las Vegas, New Orleans, Portland, Salt Lake City ve San Diego gibi merkezler de dahil olmak üzere, **mobilite** **trendleri** raporunda bir güncelleme yaptı. Apple, geçtiğimiz haftalarda İstanbul’un da dahil olduğu büyük şehirlerde, koronavirüs sürecindeki mobilite değişimlerini içeren raporunu paylaşmıştı.
 
 Apple, Google ile birlikte iOS ve Android akıllı telefonlarda, kitlesel **koronavirüs takip sistemi** üzerinde çalışan bir ekip kurdu.

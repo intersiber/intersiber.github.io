@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/applekatlanabilir.jpg
+image: images/applekatlanabilir.jpg
 categories:
     - Apple
 tags:
@@ -34,7 +34,7 @@ Elektronik cihazlar, birinci cihazın kenarının ikinci bir elektronik cihazın
 
 Birinci ve ikinci aygıtların kenarları arasındaki bitişikliğin saptanmasına yanıt olarak, aygıtlar, her aygıtın ayrı ayrı çalıştığı bağımsız bir çalışma modundan, aygıtların kaynaklarının paylaşıldığı bir ortak çalışma moduna geçebilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/katlanabiliripad.jpg)</figure>Ortak çalışma modunda, görüntüler cihazlardaki ekranlara yayılabilir, ilgili cihazlardaki hoparlörler bir ses parçasının farklı kanallarını oynatmak için kullanılabilir, farklı cihazlardaki kameralar ve sensörler birbirleriyle işbirliği içinde kullanılabilir ve diğer kaynaklar paylaşılabilir.
+<figure class="wp-block-image size-large">![](images/katlanabiliripad.jpg)</figure>Ortak çalışma modunda, görüntüler cihazlardaki ekranlara yayılabilir, ilgili cihazlardaki hoparlörler bir ses parçasının farklı kanallarını oynatmak için kullanılabilir, farklı cihazlardaki kameralar ve sensörler birbirleriyle işbirliği içinde kullanılabilir ve diğer kaynaklar paylaşılabilir.
 
 Ekranları hizalayan mıknatıslar içinse **Apple**‘ın açıklaması şöyle:
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/elon-musk-2-scaled.jpg
+image: images/elon-musk-2-scaled.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Teknoloji dünyasının en tanındık simalarından olan, her attığı adımı 
 
 Kendisinin koronavirüs ile ilgili neler düşündüğü sorusuna ”**korona virüs paniği aptalca!**” diyerek yanıt veren milyarder isim, bu açıklaması ile çok sayıda kişinin desteğini alırken bir o kadar da eleştirildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/elon-musk.jpg)</figure>Birçok kişi teknoloji dünyasının özellikle sosyal medya şirketlerinin başta koronavirus COVID-19 olmak üzere tüm virüsler ve potansiyel olası salgınlar hakkında denetim mekanizmaları oluşturmasını, aksi durumda insanların paniğe kapıldığını belirtti.
+<figure class="wp-block-image size-large">![](images/elon-musk.jpg)</figure>Birçok kişi teknoloji dünyasının özellikle sosyal medya şirketlerinin başta koronavirus COVID-19 olmak üzere tüm virüsler ve potansiyel olası salgınlar hakkında denetim mekanizmaları oluşturmasını, aksi durumda insanların paniğe kapıldığını belirtti.
 
 ## Başkan Donald Trump Endişeye Gerek Yok Demişti
 

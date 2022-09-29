@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6535'
 permalink: /ios-13-5-ile-tibbi-kimliginizi-otomatik-olarak-paylasabileceksiniz/
 post_views_count:
     - '33'
-image: /wp-content/uploads/2020/05/ios-13-5-ile-tibbi-kimliginizi-otomatik-olarak-paylasabileceksiniz.jpg
+image: images/ios-13-5-ile-tibbi-kimliginizi-otomatik-olarak-paylasabileceksiniz.jpg
 categories:
     - Apple
 tags:
@@ -22,7 +22,7 @@ tags:
 
 Şirket önümüzdeki birkaç hafta içerisinde yayınlanacak olan **IOS 13.5**‘in, tıbbi kimliğinize kaydettiğiniz bilgileri otomatik olarak paylaşmak için telefonunuzu veya akıllı saatinizi ayarlamanıza izin vereceğini söyledi. Böylece Apple’ın **Health** uygulamasındaki bir özellik olan **Medical ID**‘ye kan grubunuzu veya mevcut herhangi bir tıbbi durumunuzu ekleyebilir, acil durum temaslarınız ve yiyecek veya tıbbi alerjileriniz gibi bilgileri içerecek şekilde düzenleyebileceksiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/ios-13-5-1600x961.jpg)</figure>Yeni özellik, bir acil durum çağrısı sırasında kullanıcının **Tıbbi Kimliğini** dağıtım görevlisi ile otomatik olarak paylaşmasını sağlıyor. Bu da dağıtım görevlisini kullanıcının önceden var olan tıbbi durumları hakkında bilgilendiriyor.
+<figure class="wp-block-image size-large">![](images/ios-13-5-1600x961.jpg)</figure>Yeni özellik, bir acil durum çağrısı sırasında kullanıcının **Tıbbi Kimliğini** dağıtım görevlisi ile otomatik olarak paylaşmasını sağlıyor. Bu da dağıtım görevlisini kullanıcının önceden var olan tıbbi durumları hakkında bilgilendiriyor.
 
 Alternatif olarak, kullanıcılar **Apple Health** uygulamalarındaki özelliği etkinleştirmek için bu yolu izleyebilirler:
 

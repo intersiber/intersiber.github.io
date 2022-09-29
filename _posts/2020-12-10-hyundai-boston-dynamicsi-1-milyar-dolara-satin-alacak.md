@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9986'
 permalink: /hyundai-boston-dynamicsi-1-milyar-dolara-satin-alacak/
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/12/hyundai-1-milyar-dolara-boston-robotics-i-satin-aliyor.jpg
+image: images/hyundai-1-milyar-dolara-boston-robotics-i-satin-aliyor.jpg
 categories:
     - Genel
 tags:

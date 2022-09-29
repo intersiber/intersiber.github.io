@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/xiaomi-mi-air-2s.png
+image: images/xiaomi-mi-air-2s.png
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Xiaomi hızını alamadı ve 1 ay içerisinde 2. kulaklığı tanıttı. Teknolo
 
 ABD’li Apple’ın kablosuz kulaklık pazarında rekor kırdığı son dönemde, birçok şirket AirPods benzeri kulaklıklar üretmek, bunların satış oranlarını daha fazla artırmak için çaba harcıyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/04/Xiaomi-Mi-Air-2S-2.jpg)</figure>## 24 Saate Kadar Pil Süresi
+<figure class="wp-block-image size-full">![](images/Xiaomi-Mi-Air-2S-2.jpg)</figure>## 24 Saate Kadar Pil Süresi
 
 Farklı modlara sahip olan Xiaomi Mi Air 2S modelinin özellikle en dikkat çeken tarafı ise 24 saate kadar dayanan pil süresi olacak. Elbette bu pil süresi tek şarjla her şartta mümkün değil. Kulaklığın şarj süresi; kullanım oranı, ses seviyesi, dinlenen müziğe göre oldukça büyük değişimler gösterecektir.
 

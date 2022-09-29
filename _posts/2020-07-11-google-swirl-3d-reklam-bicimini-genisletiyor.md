@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9025'
 permalink: /google-swirl-3d-reklam-bicimini-genisletiyor/
 post_views_count:
     - '72'
-image: /wp-content/uploads/2020/07/google-swirl-3d-reklam-bicimini-genisletiyor.jpg
+image: images/google-swirl-3d-reklam-bicimini-genisletiyor.jpg
 categories:
     - Genel
 tags:
@@ -20,6 +20,6 @@ tags:
 
 **Swirl** kullanıcıların reklamdaki ürünü döndürmelerine, yakınlaştırmalarına ve genişletmelerine olanak sağlayarak, ürün önlerindeymiş gibi hissetmelerine, ürünle etkileşim kurmalarına olanak tanıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/07/3d-google-Swirl-1600x800.jpg)</figure>Mobil web’e göre tasarlanan **Swirl** kampanyaları oluşturmak için satıcılar 3D ürünlerini **Google Web Designer**‘a yükleyebiliyor ve **Poly** kullanarak modelleri düzenleyebiliyor.
+<figure class="wp-block-image size-large">![](images/3d-google-Swirl-1600x800.jpg)</figure>Mobil web’e göre tasarlanan **Swirl** kampanyaları oluşturmak için satıcılar 3D ürünlerini **Google Web Designer**‘a yükleyebiliyor ve **Poly** kullanarak modelleri düzenleyebiliyor.
 
 **Nissan** ve **Adidas** gibi büyük markaların da reklamlarında kullandığı **Swirl** ile daha fazla reklamların daha ilgi çekici ve gerçekçi olması beleniyor.

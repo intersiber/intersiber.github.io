@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/plagueinc.jpg
+image: images/plagueinc.jpg
 categories:
     - Oyun
 tags:
@@ -29,7 +29,7 @@ Pandemi simülasyon oyunu **Plague Inc**. , 2013’ten beri iOS’ta bulunmakta 
 
 İngiltere merkezli oyun geliştiricisi **Ndemic Creations**, salgın simülasyon oyunu Plague Inc.’in Çin’deki App Store’dan çekildiğini açıkladı .
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/coronavirusplague.jpg)</figure>**Ne oldu** : Çin Siber Yönetimi, Ndemic’e mobil oyunun “Çin’de yasadışı içerik içerdiğini” ve bu ülkede App Store’dan kaldırıldığını söyledi. Şirket bu kararın Çin yönetimi tarafından alındığını ve kendilerinin bu konuda bir kusurlarının olmadığını savunuyor. Ayrıca, en yakın zamanda App Store’a geri dönmek için çalışmaların sürdüğü belirtildi.
+<figure class="wp-block-image size-large">![](images/coronavirusplague.jpg)</figure>**Ne oldu** : Çin Siber Yönetimi, Ndemic’e mobil oyunun “Çin’de yasadışı içerik içerdiğini” ve bu ülkede App Store’dan kaldırıldığını söyledi. Şirket bu kararın Çin yönetimi tarafından alındığını ve kendilerinin bu konuda bir kusurlarının olmadığını savunuyor. Ayrıca, en yakın zamanda App Store’a geri dönmek için çalışmaların sürdüğü belirtildi.
 
 **Perde arkasında** : Çin hükümeti, video oyun endüstrisini sansürleme konusunda uzun bir geçmişe sahipti , 2000 yılında oyunlarda şiddete karşı savaşmak için görünüşte tüm konsolları yasakladı.
 

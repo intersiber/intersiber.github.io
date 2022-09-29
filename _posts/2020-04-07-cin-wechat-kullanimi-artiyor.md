@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/WeChat-2.jpg
+image: images/WeChat-2.jpg
 categories:
     - Genel
 tags:
@@ -26,6 +26,6 @@ tags:
 
 Birçok Çinli kullanıcı WeChat uygulamasının kendileri için en doğru mesajlaşma uygulaması olduğundan söz ederken, Çin’de birçok konuda kolaylık sağlayan uygulamanın özellikle de karantinada olan kentlerde kullanımı artıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/WeChat-.jpg)</figure>Weibo’da yayınlanan bilgilere göre artan WeChat kullanıcısı sayısının giderek daha fazla olmasının Çin’de uygulamanın daha fazla getiri sağlaması, aynı zamanda dünyada daha fazla tanınmasında etkili bir rolü olacağından söz ediliyor.
+<figure class="wp-block-image size-large">![](images/WeChat-.jpg)</figure>Weibo’da yayınlanan bilgilere göre artan WeChat kullanıcısı sayısının giderek daha fazla olmasının Çin’de uygulamanın daha fazla getiri sağlaması, aynı zamanda dünyada daha fazla tanınmasında etkili bir rolü olacağından söz ediliyor.
 
 WeChat halihazırda Çin’de en çok kullanılan uygulamalar arasında. Geçtiğimiz günlerde Çin yönetiminin koronavirüs salgınında aktif olarak WeChat’i kullandığı iddia [edilmişti](https://intersiber.com/cin-hukumetinin-wechat-sayesinde-salgini-engelledigi-iddia-edildi/). WeChat son zamanlarda farklı tartışmalara konu olsa da şirket tarafından iddialarla ilgili yapılmış bir açıklama bulunmuyor.

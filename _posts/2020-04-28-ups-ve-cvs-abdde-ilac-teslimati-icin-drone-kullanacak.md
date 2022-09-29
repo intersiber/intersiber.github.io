@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6110'
 permalink: /ups-ve-cvs-abdde-ilac-teslimati-icin-drone-kullanacak/
 post_views_count:
     - '55'
-image: /wp-content/uploads/2020/04/ups-ve-cvs-abd-de-ilac-teslimati-icin-drone-kullanacak.png
+image: images/ups-ve-cvs-abd-de-ilac-teslimati-icin-drone-kullanacak.png
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ UPS yetkilisi Scott Price, konuyla ilgili açıklamasında “Yeni drone teslima
 
 ## ABD’deki ilk drone teslimatı değil
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/ups-ve-cvs-drone-ile-ilac-teslimati.jpg)</figure>Yapılan uygulama, ABD’deki ilk drone teslimatı değil. Google Wing, geçen yıl Virginia’da sağlık ürünleri odaklı bir drone teslimat hizmeti başlatmıştı.
+<figure class="wp-block-image size-large">![](images/ups-ve-cvs-drone-ile-ilac-teslimati.jpg)</figure>Yapılan uygulama, ABD’deki ilk drone teslimatı değil. Google Wing, geçen yıl Virginia’da sağlık ürünleri odaklı bir drone teslimat hizmeti başlatmıştı.
 
 UPS de, geçen yılın Ekim ayında bir “**drone havayolu**” işletmesi için hükümet onayı almıştı. Şirket o dönemden beri, drone odaklı yan kuruluşu olan **UPS Flight Forward** ile, Kuzey Carolina’daki emeklilere binlerce teslimat gerçekleştirdi.
 

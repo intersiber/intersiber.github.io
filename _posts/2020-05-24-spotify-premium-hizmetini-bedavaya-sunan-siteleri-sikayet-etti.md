@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7488'
 permalink: /spotify-premium-hizmetini-bedavaya-sunan-siteleri-sikayet-etti/
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/05/spotify-premium-hizmetini-bedavaya-sunan-siteleri-sikayet-etti.jpg
+image: images/spotify-premium-hizmetini-bedavaya-sunan-siteleri-sikayet-etti.jpg
 categories:
     - Genel
 tags:
@@ -24,6 +24,6 @@ Popüler müzik platformu **Spotify**, **Premium** hizmetini ziyaretçilerine ü
 
 ## Spotify, o siteleri Google’a şikayet etti
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/spotify-yasadisi-premium-uyelik-sunan-siteleri-sikayet-etti-1.png)</figure>Koronavirüs süreci nedeniyle, gelir modelinde dalgalanma yaşayan Spotify, bu tür yasa dışı durumları, şirketin geleceğine bir tehdit olarak görüyor. Geçmişte de bu siteleri şikayet eden Spotify, Telif Hakkı Yasası **DMCA** uyarınca şikayetlerde bulunuyor.
+<figure class="wp-block-image size-large">![](images/spotify-yasadisi-premium-uyelik-sunan-siteleri-sikayet-etti-1.png)</figure>Koronavirüs süreci nedeniyle, gelir modelinde dalgalanma yaşayan Spotify, bu tür yasa dışı durumları, şirketin geleceğine bir tehdit olarak görüyor. Geçmişte de bu siteleri şikayet eden Spotify, Telif Hakkı Yasası **DMCA** uyarınca şikayetlerde bulunuyor.
 
 Birçok site ve URL için şikayette bulunan Spotify, 20’nin üzerinde alan adını, 60’tan fazla URL’yi kaldırmaya çalışıyor. Spotify, şikayette bulunulan sitelerin sadece servislerini ücretsiz olarak sunmuyor, aynı zamanda Spotify’ın onayını almış ya da sponsorluğunda gibi ifadelerle kendilerini yansıtıyor. Spotify, şüpheli sitelerden bazılarında, virüs karşıtı yazılımların uyarı verdiğini de ifade etti.

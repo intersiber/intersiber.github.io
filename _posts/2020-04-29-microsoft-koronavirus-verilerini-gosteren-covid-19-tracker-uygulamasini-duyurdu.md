@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6191'
 permalink: /microsoft-koronavirus-verilerini-gosteren-covid-19-tracker-uygulamasini-duyurdu/
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/04/microsoft-koronavirus-verilerini-gosteren-covid-19-uygulamasini-duyurdu.png
+image: images/microsoft-koronavirus-verilerini-gosteren-covid-19-uygulamasini-duyurdu.png
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Koronavirüs salgınıyla ilgili güncel verileri yayınlayan platformlar, milyo
 
 ## Güncel koronavirüs verilerini grafiklerle veriyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/covid-19-microsoft-koronavirus-uygulamasi-1600x853.png)</figure>**Microsoft’un** yayınladığı **COVID 19 Tracker**, güncel verileri grafiklere dökerek sunan bir platform. Küresel verilerin yanı sıra ülke bazında koronavirüs verilerini de, COVID 19 Tracker ile takip edebilirsiniz.
+<figure class="wp-block-image size-large">![](images/covid-19-microsoft-koronavirus-uygulamasi-1600x853.png)</figure>**Microsoft’un** yayınladığı **COVID 19 Tracker**, güncel verileri grafiklere dökerek sunan bir platform. Küresel verilerin yanı sıra ülke bazında koronavirüs verilerini de, COVID 19 Tracker ile takip edebilirsiniz.
 
 Uygulamanın diğer bir özelliği de, farklı parametrelere göre oluşturulan grafiklerin kıyaslanabilmesi. Koronavirüs konusunda, sağlıklı ve güncel bilgileri net bir şekilde sunan platformlara olan ilginin artması, şirketin böyle bir uygulama geliştirmesini sağladı.
 

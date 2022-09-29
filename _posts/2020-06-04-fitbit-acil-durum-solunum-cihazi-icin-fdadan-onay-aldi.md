@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8075'
 permalink: /fitbit-acil-durum-solunum-cihazi-icin-fdadan-onay-aldi/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/06/fitbit-acil-durum-solunum-cihazi-icin-fda-dan-onay-aldi.jpg
+image: images/fitbit-acil-durum-solunum-cihazi-icin-fda-dan-onay-aldi.jpg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ tags:
 
 ## Düşük maliyetli ve pratik
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/fitbit-ventilator.png)</figure>**Fitbit’in** ürettiği solunum cihazının en çok öne çıkan özelliği, uygun maliyetli olması ve kullanımı için eğitim ya da uzmanlığın gerekli olmaması. Bu da, özellikle acil durumlarda koronavirüs salgınında, en çok ihtiyaç duyulan tedavilerden biri olan solunum tedavisini daha pratik bir hale getirebilecek.
+<figure class="wp-block-image size-large">![](images/fitbit-ventilator.png)</figure>**Fitbit’in** ürettiği solunum cihazının en çok öne çıkan özelliği, uygun maliyetli olması ve kullanımı için eğitim ya da uzmanlığın gerekli olmaması. Bu da, özellikle acil durumlarda koronavirüs salgınında, en çok ihtiyaç duyulan tedavilerden biri olan solunum tedavisini daha pratik bir hale getirebilecek.
 
 **Fitbit** **ventilatörü**, **MIT’nin** **E-Vent** sistemini esas alıyor. Birleşik Krallık hükümeti de, aynı sistem ile hastanelerde solunum cihazı donanımını güçlendirdi. Koronavirüs pandemisinde, acil ihtiyaç duyulan bir gereksinim olan solunum cihazları, birçok kişinin hayatını kurtarabilir.
 

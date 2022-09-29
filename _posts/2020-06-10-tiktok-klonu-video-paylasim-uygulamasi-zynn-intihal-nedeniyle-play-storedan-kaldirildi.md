@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8331'
 permalink: /tiktok-klonu-video-paylasim-uygulamasi-zynn-intihal-nedeniyle-play-storedan-kaldirildi/
 post_views_count:
     - '85'
-image: /wp-content/uploads/2020/06/tiktok-klonu-video-paylasim-uygulamasi-zynn-intihal-nedeniyle-play-store-dan-kaldirildi.png
+image: images/tiktok-klonu-video-paylasim-uygulamasi-zynn-intihal-nedeniyle-play-store-dan-kaldirildi.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -24,7 +24,7 @@ Kullanıcılarına para ödemesiyle dikkatleri üzerine çeken **Zynn**, Mayıs 
 
 ## Kullanıcılara para ödeme vaadi gerçek mi?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/para-kazandiran-sosyal-medya-uygulamasi-zynn.jpg)</figure>**Zynn’in** bu kadar hızlı yükselmesi, kullanıcılara para kazanma vaadi sunmasından geliyor. Ne kadar yasal olduğu belli olmayan bu planda, kullanıcılara kayıt olmaları için 1 dolar verilirken, uygulamaya getirdikleri ilk kişi için 20 dolar, bunun ardından her beş kullanıcı içinse 10 dolar veriliyor. Bazı analistlere göre Zynn, bir nevi piramit şeması kurdu.
+<figure class="wp-block-image size-large">![](images/para-kazandiran-sosyal-medya-uygulamasi-zynn.jpg)</figure>**Zynn’in** bu kadar hızlı yükselmesi, kullanıcılara para kazanma vaadi sunmasından geliyor. Ne kadar yasal olduğu belli olmayan bu planda, kullanıcılara kayıt olmaları için 1 dolar verilirken, uygulamaya getirdikleri ilk kişi için 20 dolar, bunun ardından her beş kullanıcı içinse 10 dolar veriliyor. Bazı analistlere göre Zynn, bir nevi piramit şeması kurdu.
 
 ## Zynn: Reklamverenlere harcanan para kullanıcılara veriliyor
 

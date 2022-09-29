@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9962'
 permalink: /twitter-2020nin-enlerini-duyurdu-koronavirusle-ilgili-paylasimlar-400-milyon-rt-aldi/
 post_views_count:
     - '21'
-image: /wp-content/uploads/2020/12/twitter-2020-nin-enlerini-duyurdu-koronavirusle-ilgili-paylasimlar-400-milyon-rt-aldi.png
+image: images/twitter-2020-nin-enlerini-duyurdu-koronavirusle-ilgili-paylasimlar-400-milyon-rt-aldi.png
 categories:
     - 'Sosyal Medya'
 tags:

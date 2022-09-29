@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6725'
 permalink: /koronavirus-testlerinde-kucuk-hatalar-buyuk-sorunlara-yol-acabilir/
 post_views_count:
     - '18'
-image: /wp-content/uploads/2020/05/koronavirus-testlerinde-kucuk-hatalar-buyuk-sorunlara-yol-acabilir-scaled.jpeg
+image: images/koronavirus-testlerinde-kucuk-hatalar-buyuk-sorunlara-yol-acabilir-scaled.jpeg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ Bununla birlikte, ekonominin devam etmesi ve çarkın işlemesinin, insanları h
 
 10 bin kişiye yapılan testte, 700’e yakın kişinin hastalıkla ilgili net bir sonuç alamaması, toplum içinde hastalığın bulaşmasını engelleyecek bir durum oluşturmuyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/koronavirus-antikor-testleri-nedir.jpg)</figure>Bu da, pozitif sonuç alanların gerçeğin çok üzerinde çıkacak olması anlamına geliyor. İşe geri dönenlerin, yüz 60’ına yakın kadarının tekrar enfeksiyon kapma riski ile karşı karşıya kalması ve farkında olmadan hastalığı başkalarına yayması, yeni salgın dalgaları getirebilir.
+<figure class="wp-block-image size-large">![](images/koronavirus-antikor-testleri-nedir.jpg)</figure>Bu da, pozitif sonuç alanların gerçeğin çok üzerinde çıkacak olması anlamına geliyor. İşe geri dönenlerin, yüz 60’ına yakın kadarının tekrar enfeksiyon kapma riski ile karşı karşıya kalması ve farkında olmadan hastalığı başkalarına yayması, yeni salgın dalgaları getirebilir.
 
 **Koronavirüs** **antikor** **testlerinin**, daha yüksek bir doğruluk sağlaması adına iki kere tekrar edilmesi, oranın daha sağlıklı bir noktaya ulaşmasını sağlayabilir. Bu da yanlış pozitiflerin oranını yüzde 7’nin altına düşürür.
 

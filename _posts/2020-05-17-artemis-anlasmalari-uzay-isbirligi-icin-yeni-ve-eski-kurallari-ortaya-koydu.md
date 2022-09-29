@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7035'
 permalink: /artemis-anlasmalari-uzay-isbirligi-icin-yeni-ve-eski-kurallari-ortaya-koydu/
 post_views_count:
     - '82'
-image: /wp-content/uploads/2020/05/artemis-anlasmalari-uzay-isbirligi-icin-yeni-ve-eski-kurallari-ortaya-koydu-.jpg
+image: images/artemis-anlasmalari-uzay-isbirligi-icin-yeni-ve-eski-kurallari-ortaya-koydu-.jpg
 categories:
     - Uzay
 tags:
@@ -21,7 +21,7 @@ tags:
 
 **NASA**, Artemis Anlaşmaları’nın amacının sivil keşif ve uzayın kullanımını yönetmek için ortak bir **ilke kümesi** oluşturmak olduğunu söyledi. Ajansın yöneticisi **Jim Bridenstine** yaptığı açıklamaya göre anlaşma diğer ülkelerle ikili anlaşmaların temelini oluşturacak, böylece potansiyel ortaklar Artemis programına kaydolduklarında neyi kabul ettiklerini bilecekler.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/NASA-Astronaut-1-1600x1067.jpg)</figure>Ayrıca Artemis Anlaşmaları’nın geliştirilmesine öncülük eden NASA ortak yöneticisi **Mike Gold**, “Biz sadece astronotları Ay’a taşımak istemiyoruz, değerlerimizi ileri taşımak istiyoruz. Uzayda daha huzurlu, şeffaf ve güvenli bir geleceğe yol açacağına inandığımız bu ilkeleri sadece NASA ve birlikte çalıştığımız uluslararası ortaklarına değil, tüm dünyada benimsemeye teşvik etmek için **Artemis** projesi çevresindeki coşkuyu kullanmak istiyoruz.” dedi.
+<figure class="wp-block-image size-large">![](images/NASA-Astronaut-1-1600x1067.jpg)</figure>Ayrıca Artemis Anlaşmaları’nın geliştirilmesine öncülük eden NASA ortak yöneticisi **Mike Gold**, “Biz sadece astronotları Ay’a taşımak istemiyoruz, değerlerimizi ileri taşımak istiyoruz. Uzayda daha huzurlu, şeffaf ve güvenli bir geleceğe yol açacağına inandığımız bu ilkeleri sadece NASA ve birlikte çalıştığımız uluslararası ortaklarına değil, tüm dünyada benimsemeye teşvik etmek için **Artemis** projesi çevresindeki coşkuyu kullanmak istiyoruz.” dedi.
 
 **Anlaşmanın ilkeleri** arasında bilimsel bilgi paylaşımı, tarihi uzay eserlerinin korunması, uzayın yalnızca barışçıl amaçlarla araştırılması, uzay cisimlerinin kayıt altına alınması ve kaynakların uluslararası anlaşmalar kapsamında toplanması gibi maddeler yer alıyor. İlkeleri ve her birinin ardındaki mantığı açıklayan, her kitle tarafından anlaşılması amacıyla **kısa** ve **açık** bir şekilde oluşturulan **NASA** bildirisine aşağıdaki **linkten** ulaşabilirsiniz.
 

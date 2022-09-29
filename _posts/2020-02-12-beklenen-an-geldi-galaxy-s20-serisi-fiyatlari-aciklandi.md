@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/Samsung-Galaxy-S20-Ultra-cover.jpg
+image: images/Samsung-Galaxy-S20-Ultra-cover.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ Samsung, UNPACKED etkinliğinde tüm dünyanın merakla beklediği Galaxy S20 il
 
 [UNPACKED](https://intersiber.com/samsung-unpacked-2020-etkinliginde-hangi-cihazlar-tanitilacak/) etkinliğinde sadece **Galaxy S20** ve **Galaxy Z Flip** model telefonların tanıtımı yapılmadı. Samsung yetkilileri tarafından uzun süredir üzerinde çalıştıkları Samsung Buds Plus gibi çeşitli teknolojilerle ilgili de bilgiler verildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/samsungkapak_16_9_1581455448-880x495-1.jpg)</figure>## **Galaxy S20 Fiyatları Açıklandı**
+<figure class="wp-block-image size-large">![](images/samsungkapak_16_9_1581455448-880x495-1.jpg)</figure>## **Galaxy S20 Fiyatları Açıklandı**
 
 Samsung meraklılarının uzun bir zamandır beklediği Galaxy S20 model akıllı telefonlarının tanıtımı yapıldıktan sonra bugün de Türkiye fiyatı açıklanmış oldu. Buna göre klasik modellerin fiyatları şu şekilde olacak;
 

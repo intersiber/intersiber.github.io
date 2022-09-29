@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=710'
 permalink: /dropbox-onedrive-ve-google-drive-erisim-engeli/
 post_views_count:
     - '569'
-image: /wp-content/uploads/2016/10/Google-Drive-OneDrive-Dropbox.png
+image: images/Google-Drive-OneDrive-Dropbox.png
 categories:
     - Genel
     - 'Öne Çıkan'

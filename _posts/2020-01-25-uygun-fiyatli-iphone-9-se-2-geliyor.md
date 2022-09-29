@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '214'
-image: /wp-content/uploads/2020/01/iphone-9-se-2.jpg
+image: images/iphone-9-se-2.jpg
 categories:
     - Apple
     - Mobil

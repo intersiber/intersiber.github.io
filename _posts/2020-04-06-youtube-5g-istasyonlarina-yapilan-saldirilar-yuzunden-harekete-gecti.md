@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/youtube-yeni-donem.jpg
+image: images/youtube-yeni-donem.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -30,6 +30,6 @@ tags:
 
 Son dönemde **5G** istasyonlarının eylemciler tarafından yakılıp yıkılması videolarının YouTube’da yayınlanması üzerine şirket bu videoları kaldırma ve bu tür video içeriklerine izin vermemek gibi önemli kararlar aldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/ingiltere-5g-istasyon-koronavirus-covid-19.jpg)</figure>İngiltere’de ortaya çıkan ve Türkiye’de de kendisine destekçiler bulan akla hayale sığmayacak bir iddia ortaya atılmıştı. Bu iddiaya göre 5G istasyonlarının insanlara coronavirüsü yaydığı, corona virüsünün 5G istasyonlarından dolayı ortaya çıktığı gibi asılsız bir iddia ortaya atılmıştı.
+<figure class="wp-block-image size-large">![](images/ingiltere-5g-istasyon-koronavirus-covid-19.jpg)</figure>İngiltere’de ortaya çıkan ve Türkiye’de de kendisine destekçiler bulan akla hayale sığmayacak bir iddia ortaya atılmıştı. Bu iddiaya göre 5G istasyonlarının insanlara coronavirüsü yaydığı, corona virüsünün 5G istasyonlarından dolayı ortaya çıktığı gibi asılsız bir iddia ortaya atılmıştı.
 
 YouTube ise bu saçma iddiaların hemen ardından bu tür videoları yayınlayanlar, bu konuda yorum yapanları platformda barındırmayacak ve derhal videoları silecek.

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/apple-maps.jpg
+image: images/apple-maps.jpg
 categories:
     - Mobil
 tags:
@@ -28,7 +28,7 @@ tags:
 
 Bu portal, işletmeler tarafından ‌**Apple Maps‌**‘e bilgi eklemek için normal olarak kullanılan ‌**Apple Maps‌ Connect** portalına benzemekle birlikte, COVID-19 testlerine özgü bilgiler içeriyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/apple-maps-covid-19-test-konumlarini-gosterecek-1600x800.jpg)</figure>Hizmette test yerleri **kırmızı** bir tıbbi glif simgesi ve benzersiz bir **“COVID-19 Test Sitesi”** kartı ile görünecek. ‌**Apple Maps‌,** tesisin adını, ilgili sağlık hizmeti sağlayıcısını, iletişim numarasını, web sitesini ve test türü hakkında bilgileri görüntüleyecek. Uygulama, test yaptırmaya gitmeden önce bilmeniz gerekenleri söyleyecek. **Apple** uygulamaya ayrıca, test yerinin bir doktor tavsiyesi veya bir randevu gerektirip gerektirmeyeceğini belirten bir özellikte eklemek istiyor.
+<figure class="wp-block-image size-large">![](images/apple-maps-covid-19-test-konumlarini-gosterecek-1600x800.jpg)</figure>Hizmette test yerleri **kırmızı** bir tıbbi glif simgesi ve benzersiz bir **“COVID-19 Test Sitesi”** kartı ile görünecek. ‌**Apple Maps‌,** tesisin adını, ilgili sağlık hizmeti sağlayıcısını, iletişim numarasını, web sitesini ve test türü hakkında bilgileri görüntüleyecek. Uygulama, test yaptırmaya gitmeden önce bilmeniz gerekenleri söyleyecek. **Apple** uygulamaya ayrıca, test yerinin bir doktor tavsiyesi veya bir randevu gerektirip gerektirmeyeceğini belirten bir özellikte eklemek istiyor.
 
 Apple bu hizmet için, “Mümkün olduğunca çabuk, olabildiğince çok test yerini doğrulamak ve eklemek için çalışıyoruz.” dedi.
 

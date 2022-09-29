@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/corona-virüs.jpg
+image: images/corona-virus.jpg
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ Tüm dünyayı etkisi altına alan **koronavirüs** salgını 80 binden fazla in
 
 ABD’de **cihaz fiyatları** artmazken, Avrupa’da ise bazı teknolojik cihazların fiyatlarında beklenmedik artışlardan söz ediliyor.
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/03/corona-virüs-2.jpg?fit=640%2C427&ssl=1)</figure>Türkiye’de son dönemde özellikle televizyon modellerinin fiyatında beklenmeyen artışlar gündeme gelirken, bu fiyat artışında hem koronavirüs etkisi, hem de Dolar ve Euro kurunda yaşanan oynaklık bir sebep olarak gösteriliyor.
+<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.comimages/corona-virüs-2.jpg?fit=640%2C427&ssl=1)</figure>Türkiye’de son dönemde özellikle televizyon modellerinin fiyatında beklenmeyen artışlar gündeme gelirken, bu fiyat artışında hem koronavirüs etkisi, hem de Dolar ve Euro kurunda yaşanan oynaklık bir sebep olarak gösteriliyor.
 
 ## Koronavirüs Cihaz Üretimini Etkiledi
 

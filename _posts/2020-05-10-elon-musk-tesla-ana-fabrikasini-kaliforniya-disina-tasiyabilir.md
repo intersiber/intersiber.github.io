@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6702'
 permalink: /elon-musk-tesla-ana-fabrikasini-kaliforniya-disina-tasiyabilir/
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/05/elon-musk-tesla-ana-fabrikasini-kaliforniya-disina-tasiyabilir.png
+image: images/elon-musk-tesla-ana-fabrikasini-kaliforniya-disina-tasiyabilir.png
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -24,7 +24,7 @@ Musk, **Tesla’nın** gelecekteki üretim programını ve ana merkezini Teksas 
 
 Tesla’nın şu anda bir dava açıp açmadığı ve bu davanın hangi mahkemede görüldüğü bilinmiyor. Eyalet ve federal mahkemeleri hafta sonu nedeniyle kapalı. **Elon** **Musk**, **Twitter’da** diğer bir paylaşımında, Tesla hissedarlarına kısıtlama nedeniyle fabrikanın kapanmasından dolayı doğan zararlardan ötürü dava açmalarını da istedi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-fabrikasi.jpg)</figure>Alameda ilçesi, Kaliforniya’nın Fremont bölgesinde yer alan ve San Francisco’nun güneydoğusunda yer alan bir bölge. Tesla’nın gigafactory bölgesinin yer aldığı Alameda’nın yerel yetkilileri, Tesla’nın fabrikayı yeniden açma talebine izin vermedi ve tüm üretimi yasakladı.
+<figure class="wp-block-image size-large">![](images/tesla-fabrikasi.jpg)</figure>Alameda ilçesi, Kaliforniya’nın Fremont bölgesinde yer alan ve San Francisco’nun güneydoğusunda yer alan bir bölge. Tesla’nın gigafactory bölgesinin yer aldığı Alameda’nın yerel yetkilileri, Tesla’nın fabrikayı yeniden açma talebine izin vermedi ve tüm üretimi yasakladı.
 
 Geçtiğimiz hafta, Tesla fabrikada bazı üretim faaliyetlerine devam etmeyi planladığını söylemiş, yerel yetkililer ise buna izin verilmeyeceğini aktarmıştı.
 

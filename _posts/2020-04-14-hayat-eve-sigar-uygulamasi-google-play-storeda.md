@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5424'
 permalink: /hayat-eve-sigar-uygulamasi-google-play-storeda/
 post_views_count:
     - '109'
-image: /wp-content/uploads/2020/04/koronavirus-hayat-eve-sigar-android-uygulamasi-google-play-store-da.png
+image: images/koronavirus-hayat-eve-sigar-android-uygulamasi-google-play-store-da.png
 categories:
     - Mobil
 tags:
@@ -17,7 +17,7 @@ tags:
 
 Geçtiğimiz günlerde, Sağlık Bakanı Fahrettin Koca tarafından **koronavirüs** salgınının takibi için bir uygulama geliştirildiği açıklanmıştı. Hayat Eve Sığar isimli **uygulama**, Android uygulama mağazası Google Play Store’da yayınlandı. Uygulama, yeni tip koronavirüs (kovid-19) konusunda riskleri en aza indirmek amacı ile yayılmayı önleme maksatlı geliştirildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/saglik-bakanligi-koronavirus-hayat-eve-sigar-android-uygulamasi.png)</figure>## Şu an indirilemiyor
+<figure class="wp-block-image size-large">![](images/saglik-bakanligi-koronavirus-hayat-eve-sigar-android-uygulamasi.png)</figure>## Şu an indirilemiyor
 
 Uygulama, Google Play Store’da listelenmesine karşın şu anda indirilemiyor. Hayat Eve Sığar uygulamasını telefonunuza indirmek istediğinizde, “bu öğe ülkenizde kullanılamıyor” ve “bu uygulama yapım aşamasındadır” uyarıları geliyor. Ancak uygulamanın mağazada listelenmesi, yakın zaman içinde Android işletim sistemli akıllı telefonlar için indirilebileceği anlamına geliyor. Uygulama, Android dışında iOS işletim sistemli telefonlar için, App Store’da da yayınlanacak. Listelenen uygulama, Sağlık Bakanlığı’nın nasıl özellikler geliştirdiğini de görmemizi sağladı.
 
@@ -27,7 +27,7 @@ Telefon onayı ile giriş yapılabilen Hayat Eve Sığar uygulamasında, koronav
 
 ## Bulunduğunuz bölge riskli mi?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/saglik-bakanligi-koronavirus-uygulamasi.png)</figure>Uygulama, risk bölgeleri konusunda da kullanıcılarını uyarıyor. Konum servisi açılarak, çevrenizdeki koronavirüs enfekte olan kişilerin yoğunluğunu görebiliyorsunuz.
+<figure class="wp-block-image size-large">![](images/saglik-bakanligi-koronavirus-uygulamasi.png)</figure>Uygulama, risk bölgeleri konusunda da kullanıcılarını uyarıyor. Konum servisi açılarak, çevrenizdeki koronavirüs enfekte olan kişilerin yoğunluğunu görebiliyorsunuz.
 
 **Uygulamada** aynı zamanda, ailem bölümü yer alıyor. Aile üyeleriniz uygulamayı yüklediği takdirde onların konumlarını görebilir ve bulundukları bölgenin **koronavirüs** risk durumunu takip edebilirsiniz.
 

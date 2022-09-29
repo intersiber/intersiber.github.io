@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6381'
 permalink: /robotlar-uygulamalar-solunum-cihazlari-hintli-girisimciler-koronavirusle-nasil-savasiyor/
 post_views_count:
     - '37'
-image: /wp-content/uploads/2020/05/robotlar-uygulamalar-solunum-cihazları-hindistan-da-girisimciler-koronaviruse-karsi-neler-yapiyor.png
+image: images/robotlar-uygulamalar-solunum-cihazlari-hindistan-da-girisimciler-koronaviruse-karsi-neler-yapiyor.png
 categories:
     - Girişim
 tags:
@@ -25,7 +25,7 @@ Sosyal izolasyon ve temas takibi, son haftalarda teknoloji dünyasının en çok
 
 Hindistan hükümeti, Nisan ayının başlarında koronavirüs riski altındaki insanları bilgilendirmek adına GPS ve Bluetooth teknolojisini kullanan Aarogya Setu adlı bir **COVID-19 temas takibi uygulaması** başlattı. Bu girişim, **Apple** ve **Google’ın** COVID-19 takip sisteminden önce projelendirildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/koronavirus-uygulamalari-girisimleri.jpg)</figure>KlinicApp ve Practo isimli girişimler ise, evde koronavirüs testleri ve platform aracılığı ile, doktorlarla çevrimiçi görüşme hizmeti sunuyor.
+<figure class="wp-block-image size-large">![](images/koronavirus-uygulamalari-girisimleri.jpg)</figure>KlinicApp ve Practo isimli girişimler ise, evde koronavirüs testleri ve platform aracılığı ile, doktorlarla çevrimiçi görüşme hizmeti sunuyor.
 
 ## Krizin en kritik ihtiyacı: Ventilatörler
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6555'
 permalink: /googlein-guvenlik-dogrulama-kodu-uygulamasi-authenticator-guncellendi/
 post_views_count:
     - '97'
-image: /wp-content/uploads/2020/05/google-in-guvenlik-dogrulama-kodu-uygulamasi-authenticator-guncellendi.png
+image: images/google-in-guvenlik-dogrulama-kodu-uygulamasi-authenticator-guncellendi.png
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ Google, iOS ve Android’te çift faktörlü kimlik doğrulama için, kısa sür
 
 2012 yılında tanıtılan Authenticator, desteklendiği platformlarda otomatik güvenlik kodu üreten bir uygulama. Google Authenticator ile, web sitelere girişte tek kullanımlık kod için, SMS ile kod alma sorunu da tarihe karışmıştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-authenticator-nedir.jpg)</figure>En son olarak, 2017 yılında güncelleme alan Google Authenticator, bunun ardından tasarım da dahil olmak üzere herhangi bir güncelleme almadı. Ancak aradan geçen üç yılın ardından, **Google’ın** **çift** **faktörlü** **kimlik** **doğrulama** uygulamasına ciddi bir güncelleme geldi.
+<figure class="wp-block-image size-large">![](images/google-authenticator-nedir.jpg)</figure>En son olarak, 2017 yılında güncelleme alan Google Authenticator, bunun ardından tasarım da dahil olmak üzere herhangi bir güncelleme almadı. Ancak aradan geçen üç yılın ardından, **Google’ın** **çift** **faktörlü** **kimlik** **doğrulama** uygulamasına ciddi bir güncelleme geldi.
 
 ## Yeni güncellemenin özellikleri
 

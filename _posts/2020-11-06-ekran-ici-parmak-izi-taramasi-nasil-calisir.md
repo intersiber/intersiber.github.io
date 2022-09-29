@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9537'
 permalink: /ekran-ici-parmak-izi-taramasi-nasil-calisir/
 post_views_count:
     - '45'
-image: /wp-content/uploads/2020/11/ekran-ici-parmak-izi-tarayicisi-nasil-calisir.jpg
+image: images/ekran-ici-parmak-izi-tarayicisi-nasil-calisir.jpg
 categories:
     - 'Ne Nasıl?'
 tags:
@@ -25,7 +25,7 @@ Son birkaç yılda ise telefon üreticileri fiziksel parmak izi tarayıcıların
 
 ## Ekran içi tarama işlemi nasıl çalışıyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/ekran-ici-parmak-izi-okuyucusu-nasil-calisiyor.jpg)</figure>İster fiziksel, ister de ekran içi tasarım olsun, tarama süreci aynı ilerliyor. Ekranın belli bir bölümünün altında yer alan tarama bölümünde, kamera ya da farklı bir sensörle parmağınızın anlık görüntüsü alınır, bu veri biyometrik verilerle karşılaştırılır, eşleşme varsa telefonun kilidi açılır.
+<figure class="wp-block-image size-large">![](images/ekran-ici-parmak-izi-okuyucusu-nasil-calisiyor.jpg)</figure>İster fiziksel, ister de ekran içi tasarım olsun, tarama süreci aynı ilerliyor. Ekranın belli bir bölümünün altında yer alan tarama bölümünde, kamera ya da farklı bir sensörle parmağınızın anlık görüntüsü alınır, bu veri biyometrik verilerle karşılaştırılır, eşleşme varsa telefonun kilidi açılır.
 
 Ekran içi tarayıcılarda en büyük sorunlardan biri, tarama alanının küçük olması. Bu alan genellikle ekranın alt kısmındaki küçük bir kutu. Tarama işlemi anlık olabildiği gibi yavaş da olabilir, bu genellikle iki farklı tarama teknolojisinin içerdiği farktan kaynaklanır.
 

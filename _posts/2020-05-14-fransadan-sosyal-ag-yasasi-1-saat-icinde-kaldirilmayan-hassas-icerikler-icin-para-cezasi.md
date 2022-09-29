@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6917'
 permalink: /fransadan-sosyal-ag-yasasi-1-saat-icinde-kaldirilmayan-hassas-icerikler-icin-para-cezasi/
 post_views_count:
     - '40'
-image: /wp-content/uploads/2020/05/fransa-dan-sosyal-ag-yasasi-1-saat-icinde-kaldirilmayan-hassas-icerikler-icin-para-cezasi.png
+image: images/fransa-dan-sosyal-ag-yasasi-1-saat-icinde-kaldirilmayan-hassas-icerikler-icin-para-cezasi.png
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ Yeni düzenlemede ayrıca ırkçılık, cinsel ayrımcılık, taciz ve ağır ha
 
 ## Aktivistlerden tepki: Neyin terörizm ile ilişkili olduğu nasıl belirlenecek?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/fransa-sosyal-ag-para-cezasi-yasasi-nedir.jpg)</figure>Fransa’nın çıkardığı sosyal medya yasası, ülkede ifade özgürlüğünü savunan bazı aktivistlerin tepkisi çekti. Dijital haklar örgütü La Quadrature, yasanın polise neyin terörizm sayılıp sayılmadığına karar vermesi noktasında, sınırsız bir yetki verdiğini öne sürdü.
+<figure class="wp-block-image size-large">![](images/fransa-sosyal-ag-para-cezasi-yasasi-nedir.jpg)</figure>Fransa’nın çıkardığı sosyal medya yasası, ülkede ifade özgürlüğünü savunan bazı aktivistlerin tepkisi çekti. Dijital haklar örgütü La Quadrature, yasanın polise neyin terörizm sayılıp sayılmadığına karar vermesi noktasında, sınırsız bir yetki verdiğini öne sürdü.
 
 Bir **Facebook** **sözcüsü**, yaptığı açıklamada düzenlemenin ‘aşırı’ içeriklerle mücadelede önemli olduğunu söyledi.
 

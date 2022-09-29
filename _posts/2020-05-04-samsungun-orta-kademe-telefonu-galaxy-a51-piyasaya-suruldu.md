@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6406'
 permalink: /samsungun-orta-kademe-telefonu-galaxy-a51-piyasaya-suruldu/
 post_views_count:
     - '89'
-image: /wp-content/uploads/2020/05/galaxy-a51-piyasaya-suruldu.png
+image: images/galaxy-a51-piyasaya-suruldu.png
 categories:
     - Mobil
 tags:

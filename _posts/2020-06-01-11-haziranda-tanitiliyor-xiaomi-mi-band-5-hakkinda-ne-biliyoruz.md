@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7888'
 permalink: /11-haziranda-tanitiliyor-xiaomi-mi-band-5-hakkinda-ne-biliyoruz/
 post_views_count:
     - '98'
-image: /wp-content/uploads/2020/06/11-haziran-da-tanitiliyor-xiaomi-mi-band-5-hakkinda-neler-biliyoruz.jpg
+image: images/11-haziran-da-tanitiliyor-xiaomi-mi-band-5-hakkinda-neler-biliyoruz.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -27,6 +27,6 @@ tags:
 
 ## Mi Band 5 fiyatı ne olacak?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/xiaomi-mi-band-5-fiyati-ne-olacak-1600x787.jpg)</figure>Önceki akıllı saatlerden farklı olarak, **XiaoAi** adlı yapay zeka destekli bir sanal asistan sunacak olan Mi Band 5, merakla beklenen bir model. **Xiaomi’nin** akıllı saati Mi Band 4, şu anda Türkiye’de ortalama 200 TL ile satılıyor.
+<figure class="wp-block-image size-large">![](images/xiaomi-mi-band-5-fiyati-ne-olacak-1600x787.jpg)</figure>Önceki akıllı saatlerden farklı olarak, **XiaoAi** adlı yapay zeka destekli bir sanal asistan sunacak olan Mi Band 5, merakla beklenen bir model. **Xiaomi’nin** akıllı saati Mi Band 4, şu anda Türkiye’de ortalama 200 TL ile satılıyor.
 
 **Mi Band 5 fiyatı** için 179 Yuan telafuz ediliyor, bu fiyat ortalama olarak 170 TL’ye tekabül ediyor. Gümrük vergisi ve diğer ek ücretlerle birlikte, Xiaomi Mi Band 5’in Türkiye satış fiyatının en az 200 TL olacağını söylemek mümkün.

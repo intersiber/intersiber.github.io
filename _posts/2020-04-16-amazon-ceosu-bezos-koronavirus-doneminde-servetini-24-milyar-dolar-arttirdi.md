@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5560'
 permalink: /amazon-ceosu-bezos-koronavirus-doneminde-servetini-24-milyar-dolar-arttirdi/
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/04/amazon-ceo-su-jeff-bezos-koronavirus-doneminde-servetini-24-milyar-dolar-arttirdi.jpeg
+image: images/amazon-ceo-su-jeff-bezos-koronavirus-doneminde-servetini-24-milyar-dolar-arttirdi.jpeg
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ Dünyanın en zengin insanı konumunda olan Amazon CEO’yu **Jeff Bezos**, tüm
 
 Bloomberg Milyarderler Endeksi’nde dünyanın en zengin ismi olarak yer alan **Jeff Bezos**, salgın nedeniyle artan online alışveriş trendinin kazananlarından oldu. **Amazon**, artan talep nedeniyle binlerce yeni çalışanı işe alırken, hisselerde de ciddi artış söz konusu oldu. Hiseler, 2345 dolar düzeyini aşarak, tüm zamanların rekorunu kırdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/amazon-hisseleri-yukseldi.png)</figure>Bezos, şirket hisselerinin yüzde 11’ini elinde tutuyor.
+<figure class="wp-block-image size-large">![](images/amazon-hisseleri-yukseldi.png)</figure>Bezos, şirket hisselerinin yüzde 11’ini elinde tutuyor.
 
 Yoğunluktan dolayı sorunların da yaşandığı Amazon, eski müşterilerini bekletmemek adına yeni müşterileri bekleme listesine aldığını duyurmuştu. E-ticaret devi kapasitesini arttırdığı halde, tüm siparişlere hızlı bir şekilde yetişemedi.
 

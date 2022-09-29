@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7221'
 permalink: /sony-ve-microsoft-birlikte-yapay-zeka-destekli-fotograf-makineleri-uzerinde-calisiyor/
 post_views_count:
     - '45'
-image: /wp-content/uploads/2020/05/sony.jpg
+image: images/sony.jpg
 categories:
     - Genel
 tags:

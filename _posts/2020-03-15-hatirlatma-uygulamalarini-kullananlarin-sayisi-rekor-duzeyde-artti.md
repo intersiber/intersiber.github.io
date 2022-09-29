@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/el-yikama-hatirlatici-uygulama.jpeg
+image: images/el-yikama-hatirlatici-uygulama.jpeg
 categories:
     - Mobil
 tags:
@@ -26,7 +26,7 @@ Google Play Store ve App Store’da su içme, diş fırçalama, el yıkama gibi 
 
 **Apple** kullanıcılarının sık sık kullandığı kestirmeler özelliği ile ellerini ne zaman yıkladıkları gibi kestirmeler açtıkları, **Android** kullanıcılarının ise cihazlarının not defteri bölümüne ne zaman el yıkladıkları, ne kadar dezenfektan kullandıkları gibi bilgiler not ettikleri son dönemde artış göstermişti.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/hatirlatma-uygulamalari.png)</figure>Ancak kestirmeler ve not defteri gibi görece daha manuel yöntemler yerine, bir uygulama vasıtasıyla hatırlatıcı oluşturmak isteyen kullanıcılar hatırlatma uygulamalarına yöneldi.
+<figure class="wp-block-image size-full">![](images/hatirlatma-uygulamalari.png)</figure>Ancak kestirmeler ve not defteri gibi görece daha manuel yöntemler yerine, bir uygulama vasıtasıyla hatırlatıcı oluşturmak isteyen kullanıcılar hatırlatma uygulamalarına yöneldi.
 
 **Koronavirüs** salgını, yakın zamanda özellikle hatırlatma uygulamalarının artış göstermesinde ve kullanıcıların bu uygulamaları tercih etmesinde önemli bir sebep oldu. Birçok kullanıcı gün içerisinde yeterli sayıda ellerini yıkamadığı ve ellerini dezenfekte etmeyi unuttuğu için bu tür uygulamalara rağbet göstermeye başladı.
 

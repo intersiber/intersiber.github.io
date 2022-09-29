@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9447'
 permalink: /googleda-mirildanarak-sarki-arama-ozelligi-nasil-kullanilir/
 post_views_count:
     - '34'
-image: /wp-content/uploads/2020/10/google-da-mirildanarak-sarki-bulma-ozelligi-nasil-kullanilir.png
+image: images/google-da-mirildanarak-sarki-bulma-ozelligi-nasil-kullanilir.png
 categories:
     - Genel
 tags:
@@ -26,9 +26,9 @@ Bazen aklımıza bir şarkı takılır ancak bir türlü ismini bulamayız. Doğ
 - Android cihazlarda, ana ekranda bulunan Google Arama widget’ından “Mikrofon” simgesine de dokunabilirsiniz.
 - Dinleme ekranı göründüğünde, “Bir şarkı ara” seçeneği göreceksiniz. Ona dokunun.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/google-da-mirildanarak-sarki-nasil-bulunur.png)</figure>- Sonraki aşamada, tanılmalaya çalıştığınız şarkıyı mırıldanmaya ya da ıslık çalmaya başlayın. Bu araç aynı zamanda çalan gerçek müziği de tanımlayabilir.
+<figure class="wp-block-image size-large">![](images/google-da-mirildanarak-sarki-nasil-bulunur.png)</figure>- Sonraki aşamada, tanılmalaya çalıştığınız şarkıyı mırıldanmaya ya da ıslık çalmaya başlayın. Bu araç aynı zamanda çalan gerçek müziği de tanımlayabilir.
 - Google, aramanızla ilgili benzer eşleşmeler bulabilirse, sonuçları eşleşme yüzdeleri ile birlikte gösterecektir. Şarkınız, listelenmiş sonuçlar içinde yer almıyorsa, “Daha fazla sonuç”a dokunun.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/google-sesle-sarki-arama.png)</figure>- Google, şarkıyı tanımlayamazsa “Eşleşme bulunamıyor” yazan bie ekran görürsünüz. Tekrar denemek için, “Tekrar dene” seçeneğine dokunun.
+<figure class="wp-block-image size-large">![](images/google-sesle-sarki-arama.png)</figure>- Google, şarkıyı tanımlayamazsa “Eşleşme bulunamıyor” yazan bie ekran görürsünüz. Tekrar denemek için, “Tekrar dene” seçeneğine dokunun.
 
 Yapılan testlerden Hum to Search, yani mırıldanarak arama özelliği popüler şarkılar ve melodilerle iyi bir sonuç veriyor. Ancak mırıldanma ile kolay bir şekilde anlatılamayan şarkılarda iyi sonuç almak daha zor.

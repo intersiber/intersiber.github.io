@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7746'
 permalink: /huawei-p40-pro-satin-almadan-once-bilmeniz-gereken-4-sey/
 post_views_count:
     - '56'
-image: /wp-content/uploads/2020/05/huawei-p40-pro-satin-almadan-once-bilmeniz-gereken-4-sey.png
+image: images/huawei-p40-pro-satin-almadan-once-bilmeniz-gereken-4-sey.png
 categories:
     - Mobil
 tags:
@@ -22,7 +22,7 @@ Kamera özellikleri, ABD yaptırımlarından dolayı içerdiği dezavantajlar ve
 
 ## Google ürün ve hizmetleri yok
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/huawei-google-yasagi-nedir-1600x830.jpg)</figure>ABD hükümeti ile Çin arasında süren ticaret savaşlarında en büyük darbeyi yiyenlerden biri, Çinli teknoloji devi Huawei. ABD’li şirketlerin ürün ve hizmetlerini kullanması engellenen **Huawei**, P40 Pro modelinde Google ürün ve hizmetlerini kullanamıyor. **Google** Play Store’un yer almadığı telefonda Gmail, Youtube, Google Haritalar ve Chrome gibi uygulamalar yer almayacak.
+<figure class="wp-block-image size-large">![](images/huawei-google-yasagi-nedir-1600x830.jpg)</figure>ABD hükümeti ile Çin arasında süren ticaret savaşlarında en büyük darbeyi yiyenlerden biri, Çinli teknoloji devi Huawei. ABD’li şirketlerin ürün ve hizmetlerini kullanması engellenen **Huawei**, P40 Pro modelinde Google ürün ve hizmetlerini kullanamıyor. **Google** Play Store’un yer almadığı telefonda Gmail, Youtube, Google Haritalar ve Chrome gibi uygulamalar yer almayacak.
 
 Bu durum, P40 Pro’da işinize yarar hiçbir uygulamanın olmayacağı anlamına gelmiyor. **Huawei’nin** kendi e-posta uygulaması, tarayıcısı ve takvimi mevcut. Aynı zamanda kendi **uygulama** **mağazası** da var. Amazon, TikTok, Snapchat gibi uygulamalar, Fortnite gibi oyunlar uygulama mağazasında yer alıyor.
 
@@ -32,7 +32,7 @@ Bu durum, P40 Pro’da işinize yarar hiçbir uygulamanın olmayacağı anlamın
 
 ## İyi bir kamera ancak kusursuz değil
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/huawei-p40-pro-ozellikleri.jpg)</figure>Serinin bir önceki modeli **P30**, iddialı kamera performansıyla adından söz ettirmişti. P40 Pro da gerçekten iyi bir kameraya sahip. Dört lens içeren telefon, standart zoom’un yanı sıra süper geniş açılı lens, 5x optik zoom ve derinlik lensi içeriyor. Telefonun kamera donanımlarının standardı bu kadar yüksek olsa da, en iyi akıllı telefon kamerası demek biraz iddialı olabilir.
+<figure class="wp-block-image size-large">![](images/huawei-p40-pro-ozellikleri.jpg)</figure>Serinin bir önceki modeli **P30**, iddialı kamera performansıyla adından söz ettirmişti. P40 Pro da gerçekten iyi bir kameraya sahip. Dört lens içeren telefon, standart zoom’un yanı sıra süper geniş açılı lens, 5x optik zoom ve derinlik lensi içeriyor. Telefonun kamera donanımlarının standardı bu kadar yüksek olsa da, en iyi akıllı telefon kamerası demek biraz iddialı olabilir.
 
 Yapılan testlerde **P40** Pro, fotoğraflardaki sıcaklık ve beyaz dengesini çok iyi kuramamış gibi görünüyor. Nitekim rakipleri Galaxy S20 ve iPhone 11 Pro modellerinin çekimleri, daha doğal görünüyor. Daha iyi bir kamera arıyorsanız, P40 Pro Plus modelini tercih edebilirsiniz.
 

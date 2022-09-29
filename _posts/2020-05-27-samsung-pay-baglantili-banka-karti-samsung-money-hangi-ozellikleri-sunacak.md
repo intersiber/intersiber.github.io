@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7679'
 permalink: /samsung-pay-baglantili-banka-karti-samsung-money-hangi-ozellikleri-sunacak/
 post_views_count:
     - '56'
-image: /wp-content/uploads/2020/05/samsung-pay-baglantili-banka-karti-samsung-money-hangi-ozellikleri-sunacak.png
+image: images/samsung-pay-baglantili-banka-karti-samsung-money-hangi-ozellikleri-sunacak.png
 categories:
     - Genel
 tags:
@@ -20,7 +20,7 @@ Samsung, Sofi ve **Mastercard** işbirliği ile geliştirdiği, Samsung Pay uygu
 
 ## Mastercard altyapısına sahip olacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/samsung-money-nedir-ozellikleri-neler.png)</figure>Mayın ayının başlarında, Samsung’un ödeme sistemi ile ilgili [haberler](https://intersiber.com/samsung-bu-yaz-samsung-pay-banka-kartini-piyasaya-surecek/) çıkmıştı. Ancak şimdi, **Samsung** **Money** kartı ile ilgili daha fazla detay biliyoruz. Ödeme modelinde bir nakit yönetim hesabı ve Samsung Money banka kartı olacak. **Mastercard** altyapısına sahip olacak kart, The Bancorp Bank tarafından verilecek.
+<figure class="wp-block-image size-large">![](images/samsung-money-nedir-ozellikleri-neler.png)</figure>Mayın ayının başlarında, Samsung’un ödeme sistemi ile ilgili [haberler](https://intersiber.com/samsung-bu-yaz-samsung-pay-banka-kartini-piyasaya-surecek/) çıkmıştı. Ancak şimdi, **Samsung** **Money** kartı ile ilgili daha fazla detay biliyoruz. Ödeme modelinde bir nakit yönetim hesabı ve Samsung Money banka kartı olacak. **Mastercard** altyapısına sahip olacak kart, The Bancorp Bank tarafından verilecek.
 
 Samsung, Samsung Money’nin yüksek bir hesap ücreti ya da yüksek faiz sunmayacağına söz veriyor. Ancak şirket her ne kadar bir söz verse de, gelecekteki finansal etkiler, Samsung Money ile ilgili ücretlerin dalgalanmasına neden olabilir.
 

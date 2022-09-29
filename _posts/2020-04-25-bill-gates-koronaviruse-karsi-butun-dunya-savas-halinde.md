@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5954'
 permalink: /bill-gates-koronaviruse-karsi-butun-dunya-savas-halinde/
 post_views_count:
     - '74'
-image: /wp-content/uploads/2020/04/bill-gates-koronaviruse-karsi-butun-dunya-savas-halinde.jpeg
+image: images/bill-gates-koronaviruse-karsi-butun-dunya-savas-halinde.jpeg
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ Virüsün yayılmasını engellemek adına alınacak önlemlere ilişkin tavsiye
 
 ## Aşı için kaç yıl gerekiyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/koronavirus-krizi-milyonlarca-kisiyi-etkiledi.jpeg)</figure>Microsoft kurucusu, geniş katılımlı etkinliklere gitme noktasında henüz erken olduğunu ve bunun için, koronavirüs tedavisinin geliştirilmesi gerektiğini duyurdu. Bir aşının piyasaya sürülmesi için beş yıla ihtiyaç olabileceğiniz ifade eden Gates, “ABD hükümeti aşı için 18 aylık süreç öngörürken, bana göre bu iş daha uzun sürecek” yorumunda bulundu.
+<figure class="wp-block-image size-large">![](images/koronavirus-krizi-milyonlarca-kisiyi-etkiledi.jpeg)</figure>Microsoft kurucusu, geniş katılımlı etkinliklere gitme noktasında henüz erken olduğunu ve bunun için, koronavirüs tedavisinin geliştirilmesi gerektiğini duyurdu. Bir aşının piyasaya sürülmesi için beş yıla ihtiyaç olabileceğiniz ifade eden Gates, “ABD hükümeti aşı için 18 aylık süreç öngörürken, bana göre bu iş daha uzun sürecek” yorumunda bulundu.
 
 ## Evde test en ideali
 

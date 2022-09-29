@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10058'
 permalink: /youtube-turkiyede-temsilcilik-acacagini-duyurdu/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/12/youtube-turkiye-de-temsilcilik-acacagini-duyurdu.jpg
+image: images/youtube-turkiye-de-temsilcilik-acacagini-duyurdu.jpg
 categories:
     - Genel
     - 'Sosyal Medya'
@@ -26,7 +26,7 @@ tags:
 
 ## YouTube’un konuyla ilgili açıklaması
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/youtube-turkiye-ofisi.jpg)</figure>*“YouTube’un Türkiye’deki içerik üreticileri ve kullanıcılar için ne kadar önemli olduğunu biliyor, her gün on binlerce içerik üreticisinin Youtube’da yarattığı çok sesli özgün dünyayı ilgiyle takip ediyoruz. Bunun bilinciyle ve ilkelerimize bağlı kalarak YouTube için yerel bir tüzel kişi temsilci atama sürecini başlatma kararı aldık. Türkiye’deki yetkililerle de paylaştığımız bu kararı almış olmaktan memnuniyet duyuyoruz.”*
+<figure class="wp-block-image size-large">![](images/youtube-turkiye-ofisi.jpg)</figure>*“YouTube’un Türkiye’deki içerik üreticileri ve kullanıcılar için ne kadar önemli olduğunu biliyor, her gün on binlerce içerik üreticisinin Youtube’da yarattığı çok sesli özgün dünyayı ilgiyle takip ediyoruz. Bunun bilinciyle ve ilkelerimize bağlı kalarak YouTube için yerel bir tüzel kişi temsilci atama sürecini başlatma kararı aldık. Türkiye’deki yetkililerle de paylaştığımız bu kararı almış olmaktan memnuniyet duyuyoruz.”*
 
 ## Ne olmuştu?
 

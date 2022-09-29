@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7892'
 permalink: /george-floyd-protestolari-yagmaya-donusunce-apple-magazalarini-yeniden-kapatma-karari-aldi/
 post_views_count:
     - '60'
-image: /wp-content/uploads/2020/06/george-floyd-protestolari-yagmaya-donusunce-apple-mazalarini-yeniden-kapatma-karari-aldi.jpg
+image: images/george-floyd-protestolari-yagmaya-donusunce-apple-mazalarini-yeniden-kapatma-karari-aldi.jpg
 categories:
     - Apple
 tags:
@@ -23,6 +23,6 @@ ABD’de, geçtiğimiz günlerde **George** **Floyd** adlı siyahi bir vatandaş
 
 ## Pazar gününe kadar kapatıldı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/abd-de-apple-store-magazalari-yagmalandi.jpg)</figure>9to5Mac’in aktardığı bilgiye göre, **Apple** ABD’deki mağazalarının çoğunu Pazar gününe kapattı, bazı mağazaların ise Pazartesi’ye kadar kapalı olacağı aktarıldı. Bu haberi onaylayan şirket, “Çalışanlarımızın sağlığı ve güvenliğini göz önünde bulundurarak, ABD’deki mağazalarımızı Pazar gününe kadar kapalı tutma kararı aldık” yorumunu yaptı.
+<figure class="wp-block-image size-large">![](images/abd-de-apple-store-magazalari-yagmalandi.jpg)</figure>9to5Mac’in aktardığı bilgiye göre, **Apple** ABD’deki mağazalarının çoğunu Pazar gününe kapattı, bazı mağazaların ise Pazartesi’ye kadar kapalı olacağı aktarıldı. Bu haberi onaylayan şirket, “Çalışanlarımızın sağlığı ve güvenliğini göz önünde bulundurarak, ABD’deki mağazalarımızı Pazar gününe kadar kapalı tutma kararı aldık” yorumunu yaptı.
 
 **Apple’ın** isyanların odak noktası olan **Minneapolis’teki** Uptown mağazası başta olmak üzere, **Los** **Angeles’taki** Grove mağazası başta olmak üzere, birçok mağazası vandallar tarafından yağmalandı. Apple’ın vandalizmin hedefi olan bu mağazaları, 6-7 Haziran tarihlerine kadar kapalı olacak.

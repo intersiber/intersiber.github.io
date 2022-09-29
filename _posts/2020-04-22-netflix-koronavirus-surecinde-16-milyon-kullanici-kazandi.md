@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5792'
 permalink: /netflix-koronavirus-surecinde-16-milyon-kullanici-kazandi/
 post_views_count:
     - '40'
-image: /wp-content/uploads/2020/04/netflix-koronavirus-surecinde-16-milyon-yeni-kullanici-kazandi.jpeg
+image: images/netflix-koronavirus-surecinde-16-milyon-yeni-kullanici-kazandi.jpeg
 categories:
     - Genel
 tags:
@@ -26,6 +26,6 @@ Koronavirüs salgınının etkisiyle, yüz milyonlarca insanın evde geçirdiği
 
 ## Hisseleri rekor kırdı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/netflix-hisseleri-yukseldi.png)</figure>Şirket, elde ettiği bu büyüme ile toplam abone sayısını 183 milyona çıkardı. Şirket ayrıca, 3 yıllık dönemde gelirinin, geçen yılın aynı dönemine göre 3 kat yükselerek 709 milyon dolar olduğunu duyurdu. Açıklamanın ardından **Netflix** **hisseleri**, 433 dolar düzeyini geride bırakarak, tarihinin en yüksek noktasına geldi.
+<figure class="wp-block-image size-large">![](images/netflix-hisseleri-yukseldi.png)</figure>Şirket, elde ettiği bu büyüme ile toplam abone sayısını 183 milyona çıkardı. Şirket ayrıca, 3 yıllık dönemde gelirinin, geçen yılın aynı dönemine göre 3 kat yükselerek 709 milyon dolar olduğunu duyurdu. Açıklamanın ardından **Netflix** **hisseleri**, 433 dolar düzeyini geride bırakarak, tarihinin en yüksek noktasına geldi.
 
 Restoranlar, sinema salonları ve diğer sosyal aktivite merkezlerinin kapalı olması, Netflix’e olan ilginin artmasına neden oldu. Şirket, salgın sonrası dönemde abone sayılarının azalabileceği ve popülerliğin düşebileceği konusunda, hissedarları uyardı.

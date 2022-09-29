@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/koronavirus-covid-19-sagini-evsiz-insanlar.jpeg
+image: images/koronavirus-covid-19-sagini-evsiz-insanlar.jpeg
 categories:
     - Genel
 tags:
@@ -32,7 +32,7 @@ Yerel yönetimlerle birlikte halk sağlığı sistemi, virüsün yayılmasını 
 
 Ancak tüm planlama ve artan panik duygusu arasında, **COVID-19**‘un evsiz insanlar arasında yayılmasının etkisi geniş bir şekilde ne yazık ki tartışılmıyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/coronavirus-covid-19-koronavirus-salgini-evsiz-insanlar-scaled.jpeg)</figure>ABD’de yarım milyondan fazla insan evsiz. Yaşam koşulları ve kötü sağlık durumları, hastalığa yakalanma ve ondan ölme riskini daha yüksek hale getirebilir. Sevindirici olansa henüz evsiz insanlar arasından bildirilen bir vaka yok.
+<figure class="wp-block-image size-full">![](images/coronavirus-covid-19-koronavirus-salgini-evsiz-insanlar-scaled.jpeg)</figure>ABD’de yarım milyondan fazla insan evsiz. Yaşam koşulları ve kötü sağlık durumları, hastalığa yakalanma ve ondan ölme riskini daha yüksek hale getirebilir. Sevindirici olansa henüz evsiz insanlar arasından bildirilen bir vaka yok.
 
 Evsizlik yaşayan insanlar arasında yüksek bulaşıcı hastalık oranları yeni değil. Evsiz insanlarla ilgili bazı doktorlar tarafından tutulan verilere göre, evsizlerin tüberküloz, hepatit, HIV ve zatürre riski daha yüksek. Bu durum, hükümet yetkilileri ve sağlık kuruluşlarında, **koronavirüs**ün evsizler arasında da yayılabileceği endişesi yaratmalıdır.
 

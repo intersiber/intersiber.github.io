@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6377'
 permalink: /ingiltere-salgin-surecinde-tibbi-malzeme-nakliyatinda-drone-kullanacak/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/05/ingiltere-salgin-surecinde-tibbi-malzeme-nakliyatinda-drone-kullanacak.jpeg
+image: images/ingiltere-salgin-surecinde-tibbi-malzeme-nakliyatinda-drone-kullanacak.jpeg
 categories:
     - Genel
 tags:
@@ -23,7 +23,7 @@ Yaşanan bu durum, koronavirüs salgınına karşı ülkelerin, mevcut engelleri
 
 ## Drone’ların daha yaygın şekilde kullanılmasının önündeki engeller
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/kargo-icin-kullanilan-gelismis-drone-lar.png)</figure>İnsansız hava araçları, kamu hizmetlerinde ya da özel sektör faaliyetlerinde yer verilmek istenen bir yapı. Ancak çeşitli sorunlar, drone’ların hem İngiltere hem de diğer ülkelerde yaygınlaşmasının önünü tıkıyor. Ülkede 2018 yılında hazırlanan bir raporda, drone’ların bu süreçte kullanılmasının önündeki engeller şöyle sıralanmış:
+<figure class="wp-block-image size-large">![](images/kargo-icin-kullanilan-gelismis-drone-lar.png)</figure>İnsansız hava araçları, kamu hizmetlerinde ya da özel sektör faaliyetlerinde yer verilmek istenen bir yapı. Ancak çeşitli sorunlar, drone’ların hem İngiltere hem de diğer ülkelerde yaygınlaşmasının önünü tıkıyor. Ülkede 2018 yılında hazırlanan bir raporda, drone’ların bu süreçte kullanılmasının önündeki engeller şöyle sıralanmış:
 
 İlk sorun, güvenilir uzun mesafeli uçuşun önündeki engeller. Bu süreçte, iletişim ağlarının gelişmesi, iyileştirilmesi gerekliliği vurgulanıyor. Bunun dışında düşük irtifa hava trafiği yönetimi de, gelişmesi gereken konulardan.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8144'
 permalink: /iphone-12nin-piyasaya-cikisi-1-2-ay-gecikebilir/
 post_views_count:
     - '37'
-image: /wp-content/uploads/2020/06/iphone-12-nin-piyasaya-cikisi-1-2-ay-gecikebilir.png
+image: images/iphone-12-nin-piyasaya-cikisi-1-2-ay-gecikebilir.png
 categories:
     - Apple
     - Mobil
@@ -24,7 +24,7 @@ tags:
 
 ## Apple’ın yarı iletken ve altyapı çözümleri sağlayıcısı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-tedarikcisi-sirketlerden-broadcom.jpg)</figure>Broadcom, **Apple’ın** yarı iletken ve altyapı yazılım çözümleri alanında çalıştığı bir şirket. **Bloomberg’e** göre Apple, **eylül** ayında iPhone 12’yi piyasaya sürecek olsaydı, **Broadcom’dan** ürünler bu çeyrek içinde sipariş verilecekti. Şirket CEO’sunun açıklaması, bu tedarik sürecinin zaman çizelgesini ileri tarihe götürdüğünü gösteriyor.
+<figure class="wp-block-image size-large">![](images/apple-tedarikcisi-sirketlerden-broadcom.jpg)</figure>Broadcom, **Apple’ın** yarı iletken ve altyapı yazılım çözümleri alanında çalıştığı bir şirket. **Bloomberg’e** göre Apple, **eylül** ayında iPhone 12’yi piyasaya sürecek olsaydı, **Broadcom’dan** ürünler bu çeyrek içinde sipariş verilecekti. Şirket CEO’sunun açıklaması, bu tedarik sürecinin zaman çizelgesini ileri tarihe götürdüğünü gösteriyor.
 
 Tan’ın açıklamaları, Apple’ın iPhone 12 lansmanını erteleyebileceğine ilişkin son işaret. Daha önce de çeşitli kaynaklar, iPhone’ların **koronavirüs** kaynaklı üretim ertelemeleri nedeniyle normal tarihinden haftalar sonra çıkacağını aktarmıştı.
 

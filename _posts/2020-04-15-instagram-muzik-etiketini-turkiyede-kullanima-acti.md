@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5475'
 permalink: /instagram-muzik-etiketini-turkiyede-kullanima-acti/
 post_views_count:
     - '70'
-image: /wp-content/uploads/2020/04/instagram-muzik-etiketini-turkiye-de-kullanima-acti.png
+image: images/instagram-muzik-etiketini-turkiye-de-kullanima-acti.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -25,4 +25,4 @@ Müzik etiketinin yayına alınması sürecinde Instagram’ın ana şirketi Fac
 
 ## Instagram hikayeme nasıl müzik ekleyebilirim?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/instagram-muzik-turkiye-de-kullanimda.png)</figure>**Hikaye** paylaşım kısmında, **müzik** etiketini seçtikten sonra, kullanmak istediğiniz sanatçıyı ya da şarkıyı arayabiliyorsunuz. Aynı zamanda **Instagram**, hikayenin konseptine göre, modunuza göre de şarkı önerebiliyor. Dilerseniz şarkılara, sözleri de ekleyebiliyorsunuz. Farklı yazım tipleri ve renk seçenekleriyle, şarkı sözlerini özelleştirme imkanınız da var.
+<figure class="wp-block-image size-large">![](images/instagram-muzik-turkiye-de-kullanimda.png)</figure>**Hikaye** paylaşım kısmında, **müzik** etiketini seçtikten sonra, kullanmak istediğiniz sanatçıyı ya da şarkıyı arayabiliyorsunuz. Aynı zamanda **Instagram**, hikayenin konseptine göre, modunuza göre de şarkı önerebiliyor. Dilerseniz şarkılara, sözleri de ekleyebiliyorsunuz. Farklı yazım tipleri ve renk seçenekleriyle, şarkı sözlerini özelleştirme imkanınız da var.

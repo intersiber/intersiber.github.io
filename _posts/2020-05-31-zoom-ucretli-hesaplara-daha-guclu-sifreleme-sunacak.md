@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7837'
 permalink: /zoom-ucretli-hesaplara-daha-guclu-sifreleme-sunacak/
 post_views_count:
     - '54'
-image: /wp-content/uploads/2020/05/zoom-ucretli-hesaplara-daha-guclu-sifreleme-sunacak.jpg
+image: images/zoom-ucretli-hesaplara-daha-guclu-sifreleme-sunacak.jpg
 categories:
     - Güvenlik
 tags:
@@ -19,7 +19,7 @@ Reuters’a göre **Zoom**, ücretli hesaba sahip müşterilerine daha güçlü 
 
 ## Uçtan uca şifreleme çalışması sürüyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/zoom-sirket-binasi.jpg)</figure>Bir Zoom sözcüsü, geçen hafta, “**Zoom’un** uçtan uca şifrelemeye yaklaşımı büyük ölçüde devam eden bir çalışma. Hangi müşterilerin bu kapsamda yer alacağından ne zaman uygulamanın başlayacağı, taslak programımızda belli” dedi.
+<figure class="wp-block-image size-large">![](images/zoom-sirket-binasi.jpg)</figure>Bir Zoom sözcüsü, geçen hafta, “**Zoom’un** uçtan uca şifrelemeye yaklaşımı büyük ölçüde devam eden bir çalışma. Hangi müşterilerin bu kapsamda yer alacağından ne zaman uygulamanın başlayacağı, taslak programımızda belli” dedi.
 
 Şifreleme konusunda **Zoom’un** yeni stratejisi her ne kadar program ile netleştirilmiş olsa da, henüz belli olmayan noktalar çok. Video görüşmelerinde **uçtan** **uca** **şifreleme** ekleme konusunda, telefon hatlarından bağlanan kullanıcıların hariç tutulacağı, hatta Zoom’un kendi güvenlik ekiplerinin, müşterilerine gerçek zamanlı yardım etme aşamasında da çağrılara eklenmeyeceği aktarıldı.
 

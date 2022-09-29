@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5738'
 permalink: /lg-velvetin-videosunu-paylasildi/
 post_views_count:
     - '13'
-image: /wp-content/uploads/2020/04/lg-velvetin-videosunu-paylasildi.jpg
+image: images/lg-velvetin-videosunu-paylasildi.jpg
 categories:
     - Mobil
 tags:

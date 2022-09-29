@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7928'
 permalink: /en-degerli-turk-girisimi-zynga-peak-gamesi-18-milyar-dolara-satin-aldi/
 post_views_count:
     - '101'
-image: /wp-content/uploads/2020/06/en-degerli-turk-girisimi-zynga-peak-games-i-1-8-milyar-dolara-satin-aldi.png
+image: images/en-degerli-turk-girisimi-zynga-peak-games-i-1-8-milyar-dolara-satin-aldi.png
 categories:
     - Girişim
     - Oyun
@@ -22,7 +22,7 @@ tags:
 
 Türk oyun şirketi Peak Games’in, **ABD’li** oyun devi Zynga’ya satılacağı iddiası, birkaç gündür basında yer buluyordu. **Zynga**, **Peak** **Games’in** satın alınmasına ilişkin haberleri doğruladı. Böylelikle 1,8 milyar dolarlık değeri ile Peak Games, **ilk** **Türk** **unicornu** oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/peak-games-zynga-ya-satildi.png)</figure>## 900 milyon dolar nakit, 900 milyon dolarlık hisse verilecek
+<figure class="wp-block-image size-large">![](images/peak-games-zynga-ya-satildi.png)</figure>## 900 milyon dolar nakit, 900 milyon dolarlık hisse verilecek
 
 Zynga’nın, **Peak** **Games** satışını doğrulaması ile birlikte anlaşmanın detayları da ortaya çıktı. Zynga, 1,8 milyar doların **900 milyon** dolarını **nakit** ödeyecek. 900 milyon dolarlık ise hisse devri yapacak. Bu satış rakamı ile, Peak yatırımcıları, yaptıkları yatırımın 18 katını elde etmiş olacak.
 
@@ -38,7 +38,7 @@ Satışın ardından, taraflardan da açıklamalar geldi. Zynga CEO’su Frank G
 
 ## Satıştan öne çıkan satır başlıkları
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/zynga-peak-games-i-satin-aldi-1600x1066.jpeg)</figure>- Şirketin tüm hisseleri, 900 milyon dolar nakit ve 900 milyon dolar Zynga hissesi karşılığında Zynga’ya ait oldu.
+<figure class="wp-block-image size-large">![](images/zynga-peak-games-i-satin-aldi-1600x1066.jpeg)</figure>- Şirketin tüm hisseleri, 900 milyon dolar nakit ve 900 milyon dolar Zynga hissesi karşılığında Zynga’ya ait oldu.
 - Peak Games, 2019 yılında 41 TV kanalında eş zamanlı yaptığı reklam ile gündeme gelmişti.
 - Peak, Türkiye’deki girişimler arasında en çok vergi ödeyen 3 girişimden biri.
 - Şirketin Nisan 2020 cirosu 36 milyon dolar.

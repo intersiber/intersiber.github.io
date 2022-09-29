@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9031'
 permalink: /ufc-4un-cikis-tarihi-belli-oldu/
 post_views_count:
     - '67'
-image: /wp-content/uploads/2020/07/E8881DE1-52F5-43BF-928E-80242D9E3B51-scaled.jpeg
+image: images/E8881DE1-52F5-43BF-928E-80242D9E3B51-scaled.jpeg
 categories:
     - Oyun
 tags:

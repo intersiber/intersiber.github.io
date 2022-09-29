@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '646'
-image: /wp-content/uploads/2019/04/samsung-galaxy-s10-parmak-izi-tarayicisi.jpg
+image: images/samsung-galaxy-s10-parmak-izi-tarayicisi.jpg
 categories:
     - Güvenlik
     - 'Ne Nasıl?'
@@ -39,8 +39,8 @@ Doğrudan ekrana gömülü parmak izi tarayıcısı bu yıl Samsung tarafından 
 
 Reddit kullanıcısı “darkshark9”, S10 ekranı üzerindeki parmak izi fotoğrafını kullanarak, parmak izinin bir kopyasını 3D yazıcı ile yazdırdı. Birkaç denemeden sonra başarıyla cihazın kilidini açmayı başardı.
 
-<figure class="wp-block-image is-resized">![](https://intersiber.com/wp-content/uploads/2019/04/samsung-galaxy-s10-parmak-izi.jpg)</figure>Nasıl yapıldığını anlattığı videoda ayrıca bu işlem için kullandığı görüntü düzenleme yazılımı ve 3D yazıcı yazılımı gibi detayları da gösterdi.
+<figure class="wp-block-image is-resized">![](images/samsung-galaxy-s10-parmak-izi.jpg)</figure>Nasıl yapıldığını anlattığı videoda ayrıca bu işlem için kullandığı görüntü düzenleme yazılımı ve 3D yazıcı yazılımı gibi detayları da gösterdi.
 
-<figure class="wp-block-image is-resized">![](https://intersiber.com/wp-content/uploads/2019/04/samsung-galaxy-s10-parmak-izi-3d-baski.jpg)</figure>Samsung ekrana gömülü parmak izi tarayıcılarında ultrasonik temelli bir teknoloji kullanıyor. Cihaz parmak izi tarayıcısı, parmak izinin gerçek bir insana ait olup olmadığını ise bu şekilde ayırt edemediğini gösterdi.
+<figure class="wp-block-image is-resized">![](images/samsung-galaxy-s10-parmak-izi-3d-baski.jpg)</figure>Samsung ekrana gömülü parmak izi tarayıcılarında ultrasonik temelli bir teknoloji kullanıyor. Cihaz parmak izi tarayıcısı, parmak izinin gerçek bir insana ait olup olmadığını ise bu şekilde ayırt edemediğini gösterdi.
 
 Daha önce de Apple Iphone X modelinde kullanılan Face ID 3D yazıcı ile yazdırılmış maske ile [aşılmıştı.](https://intersiber.com/apple-iphone-x-face-id-maske-kullanilarak-asildi/)

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5679'
 permalink: /amazon-calisanlarini-taramak-icin-bazi-depolarinda-termal-kamera-kullaniyor/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/04/amazon-calisanlarini-koronavirusten-taramak-icin-depolarinda-termal-kamera-kullaniyor.png
+image: images/amazon-calisanlarini-koronavirusten-taramak-icin-depolarinda-termal-kamera-kullaniyor.png
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Amazon sözcüsü Kristen Kish, yaptığı açıklamada, “Faaliyet alanlarım�
 
 ABD’de 50’den fazla deposu bulunan Amazon tesislerinde, 300’den fazla çalışanın koronavirüse yakalandığı aktarıldı. Birkaç depoda protesto düzenleyen işçiler, tesislerin kapatılmasını ve temizlenmesini talep etti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/abd-deki-amazon-depolarinda-koronavirus-vakasi-300-un-uzerinde.jpeg)</figure>Amazon ise, termal kamera gibi önlemlerin yanı sıra çalışanlarına maske dağıtımı yaptı ve tesisleri dezenfekte etti. Şirketin son planı ise, COVID-19’a karşı daha etkin bir önlem almak adına, kendi test laboratuvarını kurmak.
+<figure class="wp-block-image size-large">![](images/abd-deki-amazon-depolarinda-koronavirus-vakasi-300-un-uzerinde.jpeg)</figure>Amazon ise, termal kamera gibi önlemlerin yanı sıra çalışanlarına maske dağıtımı yaptı ve tesisleri dezenfekte etti. Şirketin son planı ise, COVID-19’a karşı daha etkin bir önlem almak adına, kendi test laboratuvarını kurmak.
 
 ## 10 binden fazla çalışanın olduğu Fransa’da operasyon durdu
 

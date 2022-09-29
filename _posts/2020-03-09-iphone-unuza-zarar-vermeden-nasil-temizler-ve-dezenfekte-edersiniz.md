@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/iphonetemizleme.jpg
+image: images/iphonetemizleme.jpg
 categories:
     - Apple
 tags:
@@ -27,7 +27,7 @@ Koronavirüs salgını dünya çapında ilerlemeye devam ederken, ülkemizde hen
 
 Apple, **iPhone**‘larda temizleme solüsyonları veya izopropil alkol kullanılmasını [önermiyor](https://support.apple.com/en-us/HT207123) , çünkü ekranınızdaki oleofobik parmak izine dayanıklı kaplamaya zarar verebilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/iphonetemizleme2.jpg)</figure>iPhone 11 serisi için [Apple,](https://support.apple.com/en-us/HT207123) biraz ılık su ve sabun kullanmanın uygun [olduğunu söylüyor](https://support.apple.com/en-us/HT207123) , ancak iPhone XS ve üstü için sadece yumuşak, hafifçe nemlendirilmiş bir bez kullanılmasını tavsiye ediyor. Tabii ki, riskli tarafta olmayı tercih edebilir ve yine de ekranınızda bir antibakteriyel mendil veya alkol kullanabilirsiniz, ancak Apple’ın resmi olarak önerdiği şey:
+<figure class="wp-block-image size-large">![](images/iphonetemizleme2.jpg)</figure>iPhone 11 serisi için [Apple,](https://support.apple.com/en-us/HT207123) biraz ılık su ve sabun kullanmanın uygun [olduğunu söylüyor](https://support.apple.com/en-us/HT207123) , ancak iPhone XS ve üstü için sadece yumuşak, hafifçe nemlendirilmiş bir bez kullanılmasını tavsiye ediyor. Tabii ki, riskli tarafta olmayı tercih edebilir ve yine de ekranınızda bir antibakteriyel mendil veya alkol kullanabilirsiniz, ancak Apple’ın resmi olarak önerdiği şey:
 
 - Tüm kabloları çıkarın ve iPhone’unuzu kapatın.
 - Yumuşak, hafif nemli, tüy bırakmayan bir bez kullanın – örneğin, bir lens bezi.

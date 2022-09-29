@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/mi-store-1.jpg
+image: images/mi-store-1.jpg
 categories:
     - Mobil
     - 'Ne Nasıl?'
@@ -30,7 +30,7 @@ Bu özellik, şu anda Xiaomi MIUI telefonlarında bulabileceğimiz en iyi hilele
 
 Xioami müzik uygulaması şu anda yalnızca MIUI 11 yüklü olan Xioami telefon modellerinde çalışıyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/unnamed.png)</figure><div class="wp-block-button aligncenter">[ Mi Music 4.10.08i İndirme Bağlantısı ](https://www.apkmirror.com/apk/xiaomi-miui/miui-music-player/miui-music-player-4-10-08i-release/mi-music-4-10-08i-android-apk-download/)</div>MIUI 11 yüklü Xioami telefonunuzda, müzik uygulamasını yüklediyseniz şu adımları takip etmeniz yeterli olacaktır.
+<figure class="wp-block-image size-full">![](images/unnamed.png)</figure><div class="wp-block-button aligncenter">[ Mi Music 4.10.08i İndirme Bağlantısı ](https://www.apkmirror.com/apk/xiaomi-miui/miui-music-player/miui-music-player-4-10-08i-release/mi-music-4-10-08i-android-apk-download/)</div>MIUI 11 yüklü Xioami telefonunuzda, müzik uygulamasını yüklediyseniz şu adımları takip etmeniz yeterli olacaktır.
 
 1. Xiaomi müzik uygulamasını açın.
 2. Ekranın altında, depolanan müzik dosyalarınıza erişmek için “Müziğim” seçeneğini ve YouTube’a erişmek için “İzle” seçeneğini seçin.

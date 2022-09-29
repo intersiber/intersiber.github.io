@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9372'
 permalink: /tesla-ve-porscheye-rakip-olacak-mercedes-elektrikli-spor-otomobil-uretecek/
 post_views_count:
     - '36'
-image: /wp-content/uploads/2020/10/tesla-ve-porsche-ye-rakip-olacak-mercedes-elektrikli-spor-otomobil-uretecek.png
+image: images/tesla-ve-porsche-ye-rakip-olacak-mercedes-elektrikli-spor-otomobil-uretecek.png
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -25,7 +25,7 @@ Karbon salınıma karşı, fosil yakıtlı araçların gitgide daha az tercih ed
 
 Mercedes-Benz’in bünyesinde yer aldığı Daimler’den, şimdilik bir açıklama gelmedi ancak şirketin elektrikli araç çalışmalarını sessiz sedasız yürüttüğünden söz ediliyor. Mercedes’in, tamamen elektrikli araçlardan oluşan EQS serisinin yanı sıra, S-Class araçlarında da elektriğe geçiş olacağı ifade ediliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/elektrikli-mercedes-amg-uretilecek.png)</figure>Mercedes’in projesi henüz geliştirilme aşamasında. Ancak Mercedes AMG’lerde de elektrikli seçeneklerin çıkacağı ifade ediliyor.
+<figure class="wp-block-image size-large">![](images/elektrikli-mercedes-amg-uretilecek.png)</figure>Mercedes’in projesi henüz geliştirilme aşamasında. Ancak Mercedes AMG’lerde de elektrikli seçeneklerin çıkacağı ifade ediliyor.
 
 ## Tesla ve Porsche hedefte
 

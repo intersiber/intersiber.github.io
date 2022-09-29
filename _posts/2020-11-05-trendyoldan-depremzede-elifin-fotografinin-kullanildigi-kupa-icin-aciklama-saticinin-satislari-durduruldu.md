@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9521'
 permalink: /trendyoldan-depremzede-elifin-fotografinin-kullanildigi-kupa-icin-aciklama-saticinin-satislari-durduruldu/
 post_views_count:
     - '65'
-image: /wp-content/uploads/2020/11/trendyol-dan-depremzede-elif-in-fotografinin-kullanildigi-kupa-icin-aciklama-satislar-durduruldu.png
+image: images/trendyol-dan-depremzede-elif-in-fotografinin-kullanildigi-kupa-icin-aciklama-satislar-durduruldu.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ tags:
 
 Türkiye’nin en popüler e-ticaret sitelerinden olan **Trendyol’da**, **Hediyehanem** isimli bir satıcı, İzmir depreminde enkazdan kurtarılan Elif Perinçek’in, itfaiye erinin elini sıktığı fotoğrafı bir kupaya basıp satışa çıkardı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/trendyol-dan-depremzede-elif-in-fotografinin-kullanildigi-kupa-icin-aciklama-saticinin-satislari-durduruldu-1.png)</figure>Kısa süre içinde milyonlarca kişiye erişen bu fotoğraf, depremin simgelerinden biri haline geldi. Trendyol’da, Hediyehanem adlı satıcının bu kareyi, “**umudunu** **asla** **kaybetme**” yazarak bir **kupa** olarak satışa çıkarması, sosyal medyada tepki çekti. Bu denli hassas bir konunun ticarileştirilmesi, mağazanın yanı sıra **Trendyol’a** da tepkiler gelmesine neden oldu.
+<figure class="wp-block-image size-large">![](images/trendyol-dan-depremzede-elif-in-fotografinin-kullanildigi-kupa-icin-aciklama-saticinin-satislari-durduruldu-1.png)</figure>Kısa süre içinde milyonlarca kişiye erişen bu fotoğraf, depremin simgelerinden biri haline geldi. Trendyol’da, Hediyehanem adlı satıcının bu kareyi, “**umudunu** **asla** **kaybetme**” yazarak bir **kupa** olarak satışa çıkarması, sosyal medyada tepki çekti. Bu denli hassas bir konunun ticarileştirilmesi, mağazanın yanı sıra **Trendyol’a** da tepkiler gelmesine neden oldu.
 
 Trendyol’a ve Hediyehanem adlı mağazaya gelen tepkiler şu şekildeydi:
 

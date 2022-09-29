@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/İnternet-Alışverişi-2.jpg
+image: images/internet-alisverisi-2.jpg
 categories:
     - Genel
 tags:
@@ -31,7 +31,7 @@ tags:
 
 ABD’de 20 Mart’ta Kaliforniya Başsavcısı Xavier Becerra, Amazon, Walmart, Facebook ve Craigslist dahil olmak üzere çevrimiçi pazar yerlerinden fiyatları arttırmaya karşı önlem almak üzere harekete geçmelerini istemişti.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/5e4d75d1a27fc523b96db203.jpg)</figure>Bu ayın başlarında eBay, haksız fiyatlandırmayı önlemek için ABD genelinde online pazarında yüz maskesi, el dezenfektanı ve dezenfektan ürünlerini listelerden kaldırdığını açıklamıştı. Aynı zamanda Amazon, haksız fiyatlandırmaya yer olmadığını, çalışanlarının 7/24 satıcıları izlediğini ve fiyat arttırma teşebbüsünde bulunan yüz binlerce teklifi siteden kaldırdığını belirtti.
+<figure class="wp-block-image size-full">![](images/5e4d75d1a27fc523b96db203.jpg)</figure>Bu ayın başlarında eBay, haksız fiyatlandırmayı önlemek için ABD genelinde online pazarında yüz maskesi, el dezenfektanı ve dezenfektan ürünlerini listelerden kaldırdığını açıklamıştı. Aynı zamanda Amazon, haksız fiyatlandırmaya yer olmadığını, çalışanlarının 7/24 satıcıları izlediğini ve fiyat arttırma teşebbüsünde bulunan yüz binlerce teklifi siteden kaldırdığını belirtti.
 
 Soruşturmanın yapıldığı sırada listelerden bazı ürünler kaldırıldı, ancak bu önlemler bile bazı tüketicilerin şişirilmiş fiyatlarla ürün satın almasını durduramadı. Bunun üzerine Birleşik Krallık Rekabet ve Piyasalar Otoritesi (CMA), yatırımcılara bu tür davranışların ciddi şekilde ele alınacağı konusunda uyardı.
 

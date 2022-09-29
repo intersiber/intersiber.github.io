@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9530'
 permalink: /astrazenecadan-koronavirus-asisi-aciklamasi-ne-zaman-cikacak-fiyati-ne-olacak/
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/11/astrazeneca-dan-koronavirus-asisi-aciklamasi-ne-zaman-cikacak-fiyati-ne-olacak.jpg
+image: images/astrazeneca-dan-koronavirus-asisi-aciklamasi-ne-zaman-cikacak-fiyati-ne-olacak.jpg
 categories:
     - Genel
 tags:

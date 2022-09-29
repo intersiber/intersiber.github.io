@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9526'
 permalink: /whatsapptan-7-gun-sonra-otomatik-silinen-mesaj-ozelligi-geliyor/
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/11/whatsapp-tan-7-gun-sonra-otomatik-silinen-mesajlar-geliyor.jpg
+image: images/whatsapp-tan-7-gun-sonra-otomatik-silinen-mesajlar-geliyor.jpg
 categories:
     - Mobil
 tags:
@@ -27,6 +27,6 @@ Instagram’ın hikaye özelliği ile de sonradan popüler hale gelen “belli s
 
 ## Kaybolan mesajlar özelliği nasıl görünecek?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/whatsapp-silinen-mesajlar.png)</figure>**WhatsApp** kullanıcıları, **kaybolan** **mesajlar** **özelliğini** etkinleştirmek için özelliği açabilecek. Mesajların ne kadar süre içinde silineceğine ilişkin özel bir ayar ise bulunmuyor.
+<figure class="wp-block-image size-large">![](images/whatsapp-silinen-mesajlar.png)</figure>**WhatsApp** kullanıcıları, **kaybolan** **mesajlar** **özelliğini** etkinleştirmek için özelliği açabilecek. Mesajların ne kadar süre içinde silineceğine ilişkin özel bir ayar ise bulunmuyor.
 
 Gelen bilgilere göre **WhatsApp** kaybolan mesajlar, Kasım ayı içinde kullanıma sunulacak. Kullanıcılar bu özellikten memnun kalırsa, WhatsApp bu özelliği sürekli olarak tutabilir, hatta çeşitli güncellemelerle geliştirebilir.

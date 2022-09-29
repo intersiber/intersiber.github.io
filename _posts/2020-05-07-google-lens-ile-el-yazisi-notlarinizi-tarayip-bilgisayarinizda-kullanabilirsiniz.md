@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6560'
 permalink: /google-lens-ile-el-yazisi-notlarinizi-tarayip-bilgisayarinizda-kullanabilirsiniz/
 post_views_count:
     - '136'
-image: /wp-content/uploads/2020/05/google-lens-el-yazisi-notlarinizi-tarayip-bilgisayarinizda-kullanabilirsiniz.png
+image: images/google-lens-el-yazisi-notlarinizi-tarayip-bilgisayarinizda-kullanabilirsiniz.png
 categories:
     - Mobil
 tags:
@@ -22,7 +22,7 @@ tags:
 
 ## Uygulama nasıl çalışıyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-lens-ile-el-yazisi-taramak.png)</figure>Telefonunuzda kurulu olan **Google** **Lens** uygulamasında, herhangi bir el yazısı metni ekranda gördükten sonra, kopyalamayı seçebilirsiniz. Bunun ardından Google Dökümanlar’a giriş yaptıktan sonra, Düzenle seçeneğine tıklayabilir ve ardından metni, dosyaya yapıştırabilirsiniz. Eğer el yazınız okunabilir bir formdaysa, uygulama başarılı bir şekilde el yazısı metni, bilgisayara aktarabilir.
+<figure class="wp-block-image size-large">![](images/google-lens-ile-el-yazisi-taramak.png)</figure>Telefonunuzda kurulu olan **Google** **Lens** uygulamasında, herhangi bir el yazısı metni ekranda gördükten sonra, kopyalamayı seçebilirsiniz. Bunun ardından Google Dökümanlar’a giriş yaptıktan sonra, Düzenle seçeneğine tıklayabilir ve ardından metni, dosyaya yapıştırabilirsiniz. Eğer el yazınız okunabilir bir formdaysa, uygulama başarılı bir şekilde el yazısı metni, bilgisayara aktarabilir.
 
 Yapılan testlerde, yazının yeterince iyi olmadığı durumlarda bazı yazım hatalarının görüldüğü tespit edildi. Ancak, özellikle birçok kişinin evden çalıştığı bugünlerde, düzgün bir yazı ile yapılacaklar listesi gibi notlarınızı, bilgisayara aktarmak isterseniz **Google** **Lens** kullanışlı bir özellik sunuyor.
 

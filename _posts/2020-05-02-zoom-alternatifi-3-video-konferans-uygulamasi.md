@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6310'
 permalink: /zoom-alternatifi-3-video-konferans-uygulamasi/
 post_views_count:
     - '89'
-image: /wp-content/uploads/2020/05/zoom-alternatifi-3-video-konferans-uygulamasi.jpeg
+image: images/zoom-alternatifi-3-video-konferans-uygulamasi.jpeg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## Skype Meet Now
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/zoom-benzeri-uygulamalar-skype.jpg)</figure>Skype, 2003 yılında piyasaya sürüldüğünde birebir iletişim alanında en çok tercih edilen platformlardan biri oldu. **Meet** **Now** özelliği ise, uygulamanın sol kısmında yer alan buton üzerinden erişilebilen bir video konferans servisi. Platform, cihazınıza bağlı olarak katılımcı sayısı konusunda esnek bir yapı sunuyor.
+<figure class="wp-block-image size-large">![](images/zoom-benzeri-uygulamalar-skype.jpg)</figure>Skype, 2003 yılında piyasaya sürüldüğünde birebir iletişim alanında en çok tercih edilen platformlardan biri oldu. **Meet** **Now** özelliği ise, uygulamanın sol kısmında yer alan buton üzerinden erişilebilen bir video konferans servisi. Platform, cihazınıza bağlı olarak katılımcı sayısı konusunda esnek bir yapı sunuyor.
 
 Bunun yanında, hizmet için kaydolmak zorunda kalmadan ücretsiz bir video konferans oluşturmaya olanak tanıyan bir sayfa da mevcut. Uygulamaya kayıt olarak daha fazla özellik keşfetme şansınız var ancak üye olmadan video konferans kullanmak istiyorsanız, bu seçenek sizin için iyi olabilir.
 
@@ -33,7 +33,7 @@ Bunun yanında, hizmet için kaydolmak zorunda kalmadan ücretsiz bir video konf
 
 ## CISCO WEBEX
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/cisco-webex-nedir.jpg)</figure>Webex, 90’lı yıllardan beri var olan bir video konferans uygulaması. 2007 yılında Cisco bünyesine geçen **Webex**, temel olarak bir iş uygulaması olarak kurumsal şirketlere hizmet verse de, incelemeye değer oldukça iyi bir ücretsiz sürüme de sahip. Mevcut durum için, freemium sürümü, katılımcı özelliklerini 50-100 arasına gelişletti ve toplantıları 40 dakikalık sınırlamadı.
+<figure class="wp-block-image size-large">![](images/cisco-webex-nedir.jpg)</figure>Webex, 90’lı yıllardan beri var olan bir video konferans uygulaması. 2007 yılında Cisco bünyesine geçen **Webex**, temel olarak bir iş uygulaması olarak kurumsal şirketlere hizmet verse de, incelemeye değer oldukça iyi bir ücretsiz sürüme de sahip. Mevcut durum için, freemium sürümü, katılımcı özelliklerini 50-100 arasına gelişletti ve toplantıları 40 dakikalık sınırlamadı.
 
 ### Dikkat çekici özellikler
 
@@ -43,7 +43,7 @@ Bunun yanında, hizmet için kaydolmak zorunda kalmadan ücretsiz bir video konf
 
 ## Google Meet
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-meet-nedir.jpg)</figure>Eski adıyla Hangouts Meet olarak hizmet veren Google Meet, Google’ın ücretli hizmeti G Suite’e abone olanlara sunuluyor. Google, Mayıs ayı itibariyle Meet’i, ücretsiz Google servisleri arasında sunacağını açıkladı. **Google Meet**, arkadaşlarınızla ve iş arkadaşlarınızla toplantı yapmanın basit bir yolu. Toplantı kısmına gidip, “Toplantıya Katıl veya Başlat” butonuna tıklayarak, hızlı bir şekilde video konferans başlatabilirsiniz. Toplantı planlarınızda ayrıca, Google Takvim’i kullanabilirsiniz. Google, girişi kabul etme ya da reddetme seçeneklerini de sunuyor.
+<figure class="wp-block-image size-large">![](images/google-meet-nedir.jpg)</figure>Eski adıyla Hangouts Meet olarak hizmet veren Google Meet, Google’ın ücretli hizmeti G Suite’e abone olanlara sunuluyor. Google, Mayıs ayı itibariyle Meet’i, ücretsiz Google servisleri arasında sunacağını açıkladı. **Google Meet**, arkadaşlarınızla ve iş arkadaşlarınızla toplantı yapmanın basit bir yolu. Toplantı kısmına gidip, “Toplantıya Katıl veya Başlat” butonuna tıklayarak, hızlı bir şekilde video konferans başlatabilirsiniz. Toplantı planlarınızda ayrıca, Google Takvim’i kullanabilirsiniz. Google, girişi kabul etme ya da reddetme seçeneklerini de sunuyor.
 
 ### Dikkat çekici özellikler
 

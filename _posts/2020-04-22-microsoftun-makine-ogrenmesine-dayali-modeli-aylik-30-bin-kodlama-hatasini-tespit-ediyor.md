@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5804'
 permalink: /microsoftun-makine-ogrenmesine-dayali-modeli-aylik-30-bin-kodlama-hatasini-tespit-ediyor/
 post_views_count:
     - '48'
-image: /wp-content/uploads/2020/04/microsoft-un-makine-ogrenmesine-dayali-modeli-aylik-30-bin-kodlama-hatasi-tespit-ediyor.jpeg
+image: images/microsoft-un-makine-ogrenmesine-dayali-modeli-aylik-30-bin-kodlama-hatasi-tespit-ediyor.jpeg
 categories:
     - Güvenlik
     - Windows
@@ -24,6 +24,6 @@ Christiansen, konuyla ilgili açıklamasında “Hedefimiz, hataları bir güven
 
 ## Yüzde 99 doğru tanımlama, yüzde 97 doğru etiketleme
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/makine-ogrenmesi-microsoft-kodlama-modeli-github.jpeg)</figure>Güvenlik uzmanları ve veri bilimciler ile, modeli geliştirme konusunda çalışan Microsoft, sonuçta ortaya güvenlik hatalarını çok yüksek düzeyde tanımlayabilen bir model geliştirmeyi başardı. Güvenlik hatalarının yüzde 99’unu doğru tanımlayan sistem, bu hataların yüzde 97’sine doğru bir şekilde etiketlendirme yapıyor.
+<figure class="wp-block-image size-large">![](images/makine-ogrenmesi-microsoft-kodlama-modeli-github.jpeg)</figure>Güvenlik uzmanları ve veri bilimciler ile, modeli geliştirme konusunda çalışan Microsoft, sonuçta ortaya güvenlik hatalarını çok yüksek düzeyde tanımlayabilen bir model geliştirmeyi başardı. Güvenlik hatalarının yüzde 99’unu doğru tanımlayan sistem, bu hataların yüzde 97’sine doğru bir şekilde etiketlendirme yapıyor.
 
 **Microsoft** ölçeğinde bir şirket için, geliştiricilerin her ay yaptığı binlerce yazılım hatasının tespiti ve güncelleme süreci, ciddi bir iş açışı. Modeli, **GitHub** üzerinden açık kaynak kodlu bir şekilde sunmayı düşünen Microsoft, diğer şirketlerin de benzeri bir model ile ilerlemesine olanak tanıyor. Şirket, konuyla ilgilenenler için ayrıntıların yer aldığı bir akademik makale de yayınladı.

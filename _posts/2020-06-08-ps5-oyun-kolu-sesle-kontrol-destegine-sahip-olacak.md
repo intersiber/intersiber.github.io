@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8230'
 permalink: /ps5-oyun-kolu-sesle-kontrol-destegine-sahip-olacak/
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/06/F8735609-88F2-426B-85E6-71C56C6D955E-scaled.jpeg
+image: images/F8735609-88F2-426B-85E6-71C56C6D955E-scaled.jpeg
 categories:
     - Konsol
 tags:
@@ -21,4 +21,4 @@ tags:
 
 İçerisinde birden fazla mikrofon bulunduran **DualSense** gürültü engelleme özelliği ile donatılmış. Mikrofonlar sayesinde sesli iletişimi destekleyen kolla kullanıcılar oyun içi iletişimi kol üzerinden gerçekleştirebilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/5E987D70-C11C-492B-AB3D-1943994AF73C.jpeg)</figure>Ayrıca birkaç ay önce Type-C şarj girişine sahip olan **DoalSense**’in **DualShock**’a göre daha yüksek seviyede titreşim seviyesine sahip olacağı, L2 ve R2 tuşlarına basma şiddetine göre oyunlarda farklı kombinasyonlar gerçekleştirileceği **Sony** tarafından paylaşılmıştı.
+<figure class="wp-block-image size-large">![](images/5E987D70-C11C-492B-AB3D-1943994AF73C.jpeg)</figure>Ayrıca birkaç ay önce Type-C şarj girişine sahip olan **DoalSense**’in **DualShock**’a göre daha yüksek seviyede titreşim seviyesine sahip olacağı, L2 ve R2 tuşlarına basma şiddetine göre oyunlarda farklı kombinasyonlar gerçekleştirileceği **Sony** tarafından paylaşılmıştı.

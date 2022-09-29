@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2019/04/facebook-whatsapp-instagram.png
+image: images/facebook-whatsapp-instagram.png
 categories:
     - Genel
     - 'Öne Çıkan'

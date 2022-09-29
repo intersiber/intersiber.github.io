@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '215'
-image: /wp-content/uploads/2019/04/facebook-data-app-540-million-user.jpg
+image: images/facebook-data-app-540-million-user.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'
@@ -35,7 +35,7 @@ UpGuard araştırmacıları tarafından [açığa çıkarılan](https://www.upgu
 
 Cultura Colectiva tarafından toplanan yaklaşık 146 GB veri, 540 milyondan fazla kullanıcı verisini içeriyor. Bu veriler içerisinde kullanıcıların yaptığı yorumlar, beğeniler, ifadeler, hesap adları, Facebook kullanıcı IDleri bulunuyor.
 
-<figure class="wp-block-image">![](https://intersiber.com/wp-content/uploads/2019/04/at_the_pool_screenshot-1200x681.png)<figcaption>Kaynak: https://www.upguard.com/breaches/facebook-user-data-leak</figcaption></figure>İkinci veri setinde ise, “At the pool” isimli üçüncü parti bir uygulama tarafından toplanan veriler bulunuyor. Bu veri setinde 22.000 kullanıcının; arkadaşları, beğenileri, check-in lokasyonları, isimleri ve düz metin olarak saklanan parolalarıyla birlikte e-mail adresleri yer alıyor.
+<figure class="wp-block-image">![](images/at_the_pool_screenshot-1200x681.png)<figcaption>Kaynak: https://www.upguard.com/breaches/facebook-user-data-leak</figcaption></figure>İkinci veri setinde ise, “At the pool” isimli üçüncü parti bir uygulama tarafından toplanan veriler bulunuyor. Bu veri setinde 22.000 kullanıcının; arkadaşları, beğenileri, check-in lokasyonları, isimleri ve düz metin olarak saklanan parolalarıyla birlikte e-mail adresleri yer alıyor.
 
 Düz metin olarak saklanan kullanıcı parolaları her ne kadar üçüncü parti uygulamaları tarafından kullanılan kullanıcı parolaları olsa da, kullanıcılar genellikle aynı parolayı birden fazla platformda kullanma eğilimi içerisinde. Dolayısıyla bu kullanıcı parolaları ile kullanıcıların Facebook hesaplarına erişim sağlanabilme ihtimali yüksek.
 

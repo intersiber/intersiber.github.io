@@ -23,7 +23,7 @@ Türkiye’nin koronavirüs aşısı konusunda tercih ettiği şirket olan Çinl
 
 Hacker grubu kendisini Türk siber ordusu olarak tanımlarken, Sinovac’ın sitesinde “Al bayraktan, Gök bayrağa selam olsun. Cuma namazını Çin Seddi’nde kılmayı nasip et yarabbi. Ruhum bedenim ve fikrim her şey Müslüman Türk milletine feda olsun. Ölümümden sonra ruhum sizlerle hep beraber. Bu cihanda bir araya gelemesek de Uygur güzeli elbet bir gün orağımız olur” ifadeleri ile, Doğu Türkistan bayrağı yer aldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/sinovac-hacklendi-1600x1387.jpeg)</figure>## Sabah saatlerinde yaşanan olayın ardından site normale döndü
+<figure class="wp-block-image size-large">![](images/sinovac-hacklendi-1600x1387.jpeg)</figure>## Sabah saatlerinde yaşanan olayın ardından site normale döndü
 
 Sabah saatlerinde yaşanan olayın ardından kısa bir süre sonra Sinovac’ın sitesinde yer alan bayraklar gitti ve site normale döndü. Bu olayın neden yaşandığına ilişkin yorumlar da gündemde yer aldı.
 

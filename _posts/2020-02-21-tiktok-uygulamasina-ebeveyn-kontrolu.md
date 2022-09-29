@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/tiktok-ebeveyn-kontrolu-geliyor.jpeg
+image: images/tiktok-ebeveyn-kontrolu-geliyor.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -27,7 +27,7 @@ Dünyaca ünlü sosyal ağ **TikTok**, kullanıcı kitlesinin yaş ortalamasın�
 
 Bunun önüne geçmek için TikTok yükleyen ebeveynler, telefonun ekranında çıkan QR kodu diğer telefona taratarak uygulamalarını çocuklarınınkiyle eşleştirdikten sonra bazı özellikleri kontrol etme imkanına kavuşacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/tiktok-logo.jpg)</figure>## Ebeveynler tarafından kullanım kısıtlanabilecek
+<figure class="wp-block-image size-large">![](images/tiktok-logo.jpg)</figure>## Ebeveynler tarafından kullanım kısıtlanabilecek
 
 Çocuklarının TikTok uygulamasındaki kontrolünü sağlamak isteyen ebeveynler için gelen özelliklerle çocuklar için daha “az zararlı” bir TikTok deneyimi amaçlanıyor.
 

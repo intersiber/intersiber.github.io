@@ -10,7 +10,7 @@ spay_email:
     - ''
 post_views_count:
     - '84'
-image: /wp-content/uploads/2020/11/ipad-de-el-yazisi-ile-yazilmis-metni-kopyalama-ve-yapistirma.jpg
+image: images/ipad-de-el-yazisi-ile-yazilmis-metni-kopyalama-ve-yapistirma.jpg
 categories:
     - Apple
 tags:
@@ -32,12 +32,12 @@ El yazısı notunuz yoksa, oldukça kolay bir şekilde başlayabilirsiniz. Yeni 
 - Artık, iPad’in ekranında yazmaya başlayabilirsiniz. Dilediğiniz metni oluşturabilir, parmağınızı kullanarak kaydırabilirsiniz.
 - Bir kelimeyi hızlı seçmek için ona iki kere dokunmanız yeterli.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/ipad-de-el-yazisi-nasil-kopyalanir.png)</figure>- EL yazısını vurgulayacak ve bir seçim noktası göreceksiniz, daha fazla metin seçmek için imleci sürüklemeniz yeterlidir.
+<figure class="wp-block-image size-large">![](images/ipad-de-el-yazisi-nasil-kopyalanir.png)</figure>- EL yazısını vurgulayacak ve bir seçim noktası göreceksiniz, daha fazla metin seçmek için imleci sürüklemeniz yeterlidir.
 - Alternatif olarak, notta sahip olduğunuz her şey el yazısı metniyse ve tamamını seçmek istiyorsanız, notun boş bir bölümüne basılı tutun ve “Tümünü Seç”e dokunun.
 - Seçenekleri ortaya çıkarmak için, seçtiğiniz metne bir kere daha dokunun.
 - Burada, “Metin olarak kopyala” seçeneğine gidin.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/ipad-de-apple-pencil-ile-yazilmis-metni-kopyalama.png)</figure>- iPad artık, el yazısı ile yazılmış metni yazılı metne dönüştürecek ve panoya ekleyecektir.
+<figure class="wp-block-image size-large">![](images/ipad-de-apple-pencil-ile-yazilmis-metni-kopyalama.png)</figure>- iPad artık, el yazısı ile yazılmış metni yazılı metne dönüştürecek ve panoya ekleyecektir.
 - Metni ilgili bir alana, herhangi bir uygulamaya yapıştırmak için ilgili alana gitmeniz yeterli. iPhone ya da iPad’de her zaman yaptığınız gibi, boş bir alana dokuduktan sonra, “Yapıştır” seçeneğini tercih edin.
 - El yazısı metniniz, otomatik olarak yapıştırılacaktır.
 

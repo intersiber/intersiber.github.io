@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6990'
 permalink: /microsoftun-yeni-yapay-zeka-modeli-e-postalardan-yapilacaklar-listesi-olusturuyor/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/05/microsoft-un-yapay-zeka-modeli-e-postalardan-yapilacaklar-listesi-olusturuyor-scaled.jpeg
+image: images/microsoft-un-yapay-zeka-modeli-e-postalardan-yapilacaklar-listesi-olusturuyor-scaled.jpeg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ tags:
 
 Örnek olarak, Pazartesi günü gerçekleşecek önemli bir toplantı için sunum hazırlayacağınızı yazdığınız bir maili tarayan yapay zeka, haftasonu içinde oluşturduğu yapılacaklar listesinde size, sunum hazırlığını bir madde olarak koyuyor ve son tarihi ile paylaşıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/microsoft-un-yapay-zeka-yapilacaklar-listesi-smart-to-do.png)</figure>Yakında yayınlanacak olan yapay zeka özelliği, bir araştırma makalesinde detaylandırıldı.
+<figure class="wp-block-image size-large">![](images/microsoft-un-yapay-zeka-yapilacaklar-listesi-smart-to-do.png)</figure>Yakında yayınlanacak olan yapay zeka özelliği, bir araştırma makalesinde detaylandırıldı.
 
 Makalede, “Bu çalışmada kullanıcıların vaat edilen eylemlerini takip etmelerine yardımcı olmak için e-posta bağlamından ve meta verilerden otomatik olarak yapılacak öğeleri oluşturma görevini sunuyoruz” ifadesi yer aldı.
 

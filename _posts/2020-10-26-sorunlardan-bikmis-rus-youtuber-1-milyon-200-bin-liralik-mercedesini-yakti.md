@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9401'
 permalink: /sorunlardan-bikmis-rus-youtuber-1-milyon-200-bin-liralik-mercedesini-yakti/
 post_views_count:
     - '143'
-image: /wp-content/uploads/2020/10/rus-youtuber-mercedes-otomobilini-yakti.png
+image: images/rus-youtuber-mercedes-otomobilini-yakti.png
 categories:
     - Video
 tags:
@@ -28,7 +28,7 @@ Sonucunda ise, araç Moskova’daki boş bir araziye çekti ve benzin dökerek a
 
 Instagram’da 11 milyon, Youtube’da ise 4 milyonun üzerinde takipçiye sahip fenomen ateşe verdikten sonra, lüks Mercedes’in son hali bu şekilde oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/rus-youtuber-mercedes-yakti.png)</figure>Youtube fenomeni, araç yandıktan sonra bir Lada’ya binip aracını terk etti.
+<figure class="wp-block-image size-large">![](images/rus-youtuber-mercedes-yakti.png)</figure>Youtube fenomeni, araç yandıktan sonra bir Lada’ya binip aracını terk etti.
 
 İlgili video, Youtube’da 10 milyona yakın izlenme elde etti. Aracın yandığı anlar böyle görüntülendi:
 

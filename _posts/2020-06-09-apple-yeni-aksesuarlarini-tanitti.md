@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8250'
 permalink: /apple-yeni-aksesuarlarini-tanitti/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/06/apple-accessories.jpg
+image: images/apple-accessories.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -21,6 +21,6 @@ tags:
 
 22 Haziran’da dijital olarak gerçekleştireceği **WWDC** etkinliğinden önce bu yaz piyasaya sürülecek olan ürünlerden **Watch Bands** modelleri için şirket 4 farklı renk, iPhone 11 kılıfları için ise 3 yeni renk tasarımını paylaştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-yeni-aksesuarlarini-tanitti-1600x1200.jpg)</figure>Şirket, **Apple Watch**‘ın yeni kayışlarını **Loş Mavi**, **Okyanus Köpüğü**, **Vitamin C** ve **Okyanus Grisi** olarak isimlendirerek yaz aylarını yansıtmak istemiş. Bu **Spor Kayışlar** Apple’ın web sitesinde **329 TL** karşılığında satışa sunuldu.
+<figure class="wp-block-image size-large">![](images/apple-yeni-aksesuarlarini-tanitti-1600x1200.jpg)</figure>Şirket, **Apple Watch**‘ın yeni kayışlarını **Loş Mavi**, **Okyanus Köpüğü**, **Vitamin C** ve **Okyanus Grisi** olarak isimlendirerek yaz aylarını yansıtmak istemiş. Bu **Spor Kayışlar** Apple’ın web sitesinde **329 TL** karşılığında satışa sunuldu.
 
 **iPhone 11** silikon kılıfları da aynı renklerde web sitesi üzerinden **299 TL** fiyat etiketiyle piyasaya sürüldü.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8359'
 permalink: /instagramin-acigini-bulan-iki-turk-genc-teklif-edilen-750-dolarlik-odulu-az-bulup-reddetti/
 post_views_count:
     - '90'
-image: /wp-content/uploads/2020/06/instagram-in-acigini-bulan-iki-turk-genc-teklif-edilen-750-dolarlik-odulu-az-bularak-reddetti.jpg
+image: images/instagram-in-acigini-bulan-iki-turk-genc-teklif-edilen-750-dolarlik-odulu-az-bularak-reddetti.jpg
 categories:
     - Güvenlik
     - 'Sosyal Medya'
@@ -23,7 +23,7 @@ Son yıllarda **Türkiye’de** birçok genç, akıllı telefonların ya da çe�
 
 ## Mavi tik alan hesapların bilgilerine eriştiler
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/instagram-in-acigini-bulan-turk-gencler.jpg)</figure>Olayın gelişimi, **Hüseyin** **Çoban’ın**, hesabına mavi tik almak için Instagram’a talep göndermesi ile başladı. Instagram bunu reddetti. Çoban ise, 17 yaşındaki yazılımcı bir arkadaşından yardım istedi. Arkadaşının **Instagram’ın** web sürümü üzerinde yaptığı araştırma sonucunda, gençler, mavi tik alan hesapların **TC** **kimlik** numaralarına erişilebilen bir yöntem buldu.
+<figure class="wp-block-image size-large">![](images/instagram-in-acigini-bulan-turk-gencler.jpg)</figure>Olayın gelişimi, **Hüseyin** **Çoban’ın**, hesabına mavi tik almak için Instagram’a talep göndermesi ile başladı. Instagram bunu reddetti. Çoban ise, 17 yaşındaki yazılımcı bir arkadaşından yardım istedi. Arkadaşının **Instagram’ın** web sürümü üzerinde yaptığı araştırma sonucunda, gençler, mavi tik alan hesapların **TC** **kimlik** numaralarına erişilebilen bir yöntem buldu.
 
 ## 750 dolar ödülü az buldular
 

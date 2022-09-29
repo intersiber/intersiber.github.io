@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6296'
 permalink: /guvenlik-arastirmacilari-xiaomi-gizli-modda-bile-veri-topluyor/
 post_views_count:
     - '90'
-image: /wp-content/uploads/2020/05/guvenlik-arastirmacilari-xiaomi-gizli-modda-bile-veri-topluyor.jpeg
+image: images/guvenlik-arastirmacilari-xiaomi-gizli-modda-bile-veri-topluyor.jpeg
 categories:
     - Güvenlik
 tags:
@@ -21,7 +21,7 @@ Gizlilik konusunda çok hassas biriyseniz, **Xiaomi’nin** web tarayıcıları 
 
 ## Veriler Çin bağlantılı sunuculara gönderiliyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/xiaomi-web-tarayicisi-veri-topluyor.png)</figure>Uzmanlar, verilerin kaydedilmesinin dışında, paketlenip Singapur ve Rusya’daki uzak sunuculara gönderildiğini keşfetti. Bu sunucuların web alanlarının ise Çin’in başkenti Pekin’de bulunduğu ve **Çinli** **Alibaba’dan** kiralanmış sunucular olduğu öğrenildi.
+<figure class="wp-block-image size-large">![](images/xiaomi-web-tarayicisi-veri-topluyor.png)</figure>Uzmanlar, verilerin kaydedilmesinin dışında, paketlenip Singapur ve Rusya’daki uzak sunuculara gönderildiğini keşfetti. Bu sunucuların web alanlarının ise Çin’in başkenti Pekin’de bulunduğu ve **Çinli** **Alibaba’dan** kiralanmış sunucular olduğu öğrenildi.
 
 Araştırmacı Gabi Cirlig, ilk olarak Redmi Note 8’deki sorunu keşfetti. **Xiaomi** MI 10, Redmi K20 ve Mi MIX 3 dahil, cihazların yazılımlarını inceleyerek, tüm telefonlarda aynı şüpheli kodları buldu.
 

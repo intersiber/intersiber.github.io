@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8472'
 permalink: /kripto-para-yatirimcilari-endiseli-hindistan-kripto-paralari-tekrar-yasaklamak-istiyor/
 post_views_count:
     - '23'
-image: /wp-content/uploads/2020/06/kripto-para-yatirimcilari-endiseli-hindistan-kripto-paralari-yasaklamak-istiyor.jpg
+image: images/kripto-para-yatirimcilari-endiseli-hindistan-kripto-paralari-yasaklamak-istiyor.jpg
 categories:
     - Genel
 tags:
@@ -35,4 +35,4 @@ Muhtemel yasak, kripto paraları kullananları hayal kırıklığına uğrattı 
 
 Gelen bu haberlerin ardından, **BTC** ve diğer para birimlerinde düşüş yaşandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/kripto-para-birimleri-dustu-1600x918.png)</figure>Değer kaybı Bitcoin’de yüzde 3 düzeyinde olurken, Ethereum’da yüzde 5’in üzerinde oldu.
+<figure class="wp-block-image size-large">![](images/kripto-para-birimleri-dustu-1600x918.png)</figure>Değer kaybı Bitcoin’de yüzde 3 düzeyinde olurken, Ethereum’da yüzde 5’in üzerinde oldu.

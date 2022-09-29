@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7328'
 permalink: /facebook-marketplacete-nasil-urun-listeleyebilir-ve-satabilirsiniz/
 post_views_count:
     - '85'
-image: /wp-content/uploads/2020/05/facebook-marketplace-te-nasil-urun-listeleyebilir-ve-satabilirsiniz.jpeg
+image: images/facebook-marketplace-te-nasil-urun-listeleyebilir-ve-satabilirsiniz.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -20,7 +20,7 @@ tags:
 
 ## Facebook Marketplace’te nasıl satış yapılır?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/facebook-ta-urun-satisi-nasil-yapilir.png)</figure>- Facebook’un yeni pazar yerinde satış yapmak için, ilk yapmanız gereken, Facebook’a giriş yaparak [facebook.com/marketplace](http://facebook.com/marketplace) adresine giriş yapmak. Sayfaya eriştiğinizde, halihazırda satılan ürünleri göreceksiniz.
+<figure class="wp-block-image size-large">![](images/facebook-ta-urun-satisi-nasil-yapilir.png)</figure>- Facebook’un yeni pazar yerinde satış yapmak için, ilk yapmanız gereken, Facebook’a giriş yaparak [facebook.com/marketplace](http://facebook.com/marketplace) adresine giriş yapmak. Sayfaya eriştiğinizde, halihazırda satılan ürünleri göreceksiniz.
 - Marketplace ekranında, sol taraftaki konum ikonunun üzerinde, “Bir şey sat” butonunu göreceksiniz. Butona tıkladığınızda, satmaya çalıştığınız ürünle ilgili detayları girebileceğiniz bir pencere açılacak. İkinci el bir eşya, otomobil ve hatta kiralık evi, burada listeleyebilirsiniz.
 - Yeni **ürün** **listeleme** sayfasında, **satış** başlığı, **fiyat**, **konum** ve kategori sizden istenen bilgiler. Bunun yanı sıra tekli ürün listeleyebileceğiniz gibi, stoklu ürün de listeleyebilirsiniz. Bir ürün satış sayfasında en fazla 10 fotoğraf yer alabilir.
 - Satış öğesi ile ilgili ayrıntıları girmenizin ardından, ekranın sağ alt köşesindeki “ileri” butonuna tıklayın ve ilanınızın, hangi gruplarda yayınlanmasını istediğinizi onaylayın.

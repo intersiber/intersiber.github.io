@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '87'
-image: /wp-content/uploads/2020/02/facebook-hobbi-app-pinterest.png
+image: images/facebook-hobbi-app-pinterest.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -27,6 +27,6 @@ Facebook, **Pinterest** benzeri bir uygulamayı sessiz sedasız yayına aldı. A
 
 Facebook’un yeni uygulamalar ve deneyimler yaratmakla görevli ekibi tarafından geliştirilen uygulama, Pinterest gibi beğendiğiniz görüntüleri kaydetmenize, koleksiyon ve albümler oluşturmanıza olanak sağlıyor. Yemek pişirme, kendin yap uğraşları, sanat, el sanatları gibi kategorilerin yanı sıra fitness ve ev dekoru gibi kategoriler de sunuyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/facebook-pinterest-hobbi-uygulamasi.png)</figure>Hobbi şimdilik yalnızca [App Store](https://apps.apple.com/us/app/hobbi-see-your-progress/id1482973345) üzerinden indirilmeye sunulmuş durumda. Uygulamanın Android versiyonunun ne zaman geleceği henüz belli değil.
+<figure class="wp-block-image size-large">![](images/facebook-pinterest-hobbi-uygulamasi.png)</figure>Hobbi şimdilik yalnızca [App Store](https://apps.apple.com/us/app/hobbi-see-your-progress/id1482973345) üzerinden indirilmeye sunulmuş durumda. Uygulamanın Android versiyonunun ne zaman geleceği henüz belli değil.
 
 Facebook’un **Yeni Ürün Deneyimi** (NPE) ekibi tarafından geliştirilen uygulamanın kaderinin ne olacağı uygulamayı kullanacak insan sayısına bağlı. Zira Facebook, NPE ekibinin geliştirdiği uygulamaların başarılı olamadığı durumlarda projelerin fişinin çekileceğinden tereddüt etmediğini açıklamıştı. Yeni Ürün Deneyimi (**NPE**) ekibini Vine’ın eski patronu **Jason Toff** yönetiyor.

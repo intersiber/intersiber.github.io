@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '255'
-image: /wp-content/uploads/2019/04/apache-http-web-server-sunucu.png
+image: images/apache-http-web-server-sunucu.png
 categories:
     - Güvenlik
     - 'Öne Çıkan'

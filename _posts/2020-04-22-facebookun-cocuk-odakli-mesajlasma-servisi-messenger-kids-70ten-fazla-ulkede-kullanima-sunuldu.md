@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5800'
 permalink: /facebookun-cocuk-odakli-mesajlasma-servisi-messenger-kids-70ten-fazla-ulkede-kullanima-sunuldu/
 post_views_count:
     - '21'
-image: /wp-content/uploads/2020/04/facebook-un-cocuk-odakli-mesajlasma-servisi-messenger-kids-70-ten-fazla-ulkede-yayina-alindi.png
+image: images/facebook-un-cocuk-odakli-mesajlasma-servisi-messenger-kids-70-ten-fazla-ulkede-yayina-alindi.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -23,7 +23,7 @@ Facebook, çocuklar için Messenger servisinin tanıtımını 2017 yılında yap
 
 ## Ebeveynler uygulamada kontrol sağlayabilecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/facebook-un-cocuklar-icin-mesajlasma-uygulamasi-messenger-kids-ozellikleri.jpg)</figure>Facebook, çocukların ve ebeveynlerin **Messenger Kids** uygulamasının kullanımına ilişkin de, nasıl bir kapsam belirlediğini paylaştı. Ebeveynler, çocukların kendi arkadaşlık isteklerini yönetmelerine izin verebilecekler. Buna karşın çocuklarının Messenger arkadaşlarıyla ilgili bildirim alabilecekler ve istedikleri bağlantıları geçersiz kılabilecekler.
+<figure class="wp-block-image size-large">![](images/facebook-un-cocuklar-icin-mesajlasma-uygulamasi-messenger-kids-ozellikleri.jpg)</figure>Facebook, çocukların ve ebeveynlerin **Messenger Kids** uygulamasının kullanımına ilişkin de, nasıl bir kapsam belirlediğini paylaştı. Ebeveynler, çocukların kendi arkadaşlık isteklerini yönetmelerine izin verebilecekler. Buna karşın çocuklarının Messenger arkadaşlarıyla ilgili bildirim alabilecekler ve istedikleri bağlantıları geçersiz kılabilecekler.
 
 Grup mesajlaşmalarında da, çocukların kullanımına uygun düzenlemeler söz konusu. Grup konuşmasına kurs hocası ya da öğretmen gibi bir yetişkinin katılmasını, ebeveynler onaylayabilecek. Ek olarak ebeveynler, çocuklarının isimlerini ve fotoğraflarını yalnızca arkadaşlarının görebileceği şekilde ayarlayabilecek.
 

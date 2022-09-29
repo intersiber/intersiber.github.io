@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Xiaomi-mask.jpg
+image: images/Xiaomi-mask.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -26,4 +26,4 @@ Bu ayın başlarında, dev elektronik şirketi Xiaomi’ye yeni maskesi için pa
 
 **Xiaomi** patentli özel maske ile ilgili dikkat çeken şey, kullanıcının yüzüne daha iyi uyan 3 boyutlu bir destek iskeletine sahip olması. Başka bir deyişle, kullanım açısından daha ergonomik ve teorik olarak kullanıcının yüzüne daha iyi oturan bir tasarıma sahip. Plastikten yapılan iskelet sistemi ayarlanabilir bir şekilde kullanılabiliyor. **Xioami maske** yüz hatlarına daha iyi oturabilecek esnek bir yapıya sahip.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/xiaomi-maske-2.png)</figure>Xiaomi’nin bu yeni yüz maskesinin potansiyel olarak sunabileceği diğer işlev daha iyi bir hava kısıtlaması. Başka bir deyişle Xiaomi maske, yüz etrafındaki hava sızdırmazlığını etkili bir şekilde artırıyor. Bu özelliği ile, hava yoluyla bulaşan hastalıkların bulaşma tehlikesinden daha iyi korunmaya yardımcı oluyor. Bu nedenle, **koronavirüs** salgınının gerçek bir tehdit olduğu günümüzde, bu yüz maskesi tehlikeyi ve enfeksiyon olasılığını azaltmaya yardımcı olabilir.
+<figure class="wp-block-image size-large">![](images/xiaomi-maske-2.png)</figure>Xiaomi’nin bu yeni yüz maskesinin potansiyel olarak sunabileceği diğer işlev daha iyi bir hava kısıtlaması. Başka bir deyişle Xiaomi maske, yüz etrafındaki hava sızdırmazlığını etkili bir şekilde artırıyor. Bu özelliği ile, hava yoluyla bulaşan hastalıkların bulaşma tehlikesinden daha iyi korunmaya yardımcı oluyor. Bu nedenle, **koronavirüs** salgınının gerçek bir tehdit olduğu günümüzde, bu yüz maskesi tehlikeyi ve enfeksiyon olasılığını azaltmaya yardımcı olabilir.

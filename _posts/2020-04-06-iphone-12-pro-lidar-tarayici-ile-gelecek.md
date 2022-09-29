@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/iPhone-12-Pro-.jpg
+image: images/iPhone-12-Pro-.jpg
 categories:
     - Mobil
 tags:
@@ -29,7 +29,7 @@ Apple 2020 yılında satışa sunulması öngörülen **iPhone 12 Pro** modeli i
 
 **LiDAR** tarayıcılar halihazırda yeni [iPad 2020](https://intersiber.com/yeni-ipad-pro-2020-tanitildi-iste-fiyati-ve-ozellikleri/) modellerinde kullanılıyor ve bu sensör sayesinde kullanıcılar sanal gerçeklik uygulamalarında 5 metreye kadar olan eşyaları ve odaları tarayabiliyor. Bu sayede özellikle mimarlar ve ev düzenlemesi yapan kişiler başta olmak üzere birçok kişi ev tasarımı yapmakta büyük bir kolaylık elde ediyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/iphone-12-pro-lidar-tarayici-sensor-1600x900.jpeg)<figcaption>2020 iPad Pro LiDAR tarayıcısından alınan örnek bir görüntü </figcaption></figure>Sanal gerçeklik deneyiminin 5 metre içerisinde olan tüm eşyaları ve cisimleri tarayacak olmasının yanısıra aynı zamanda 1 odanın tasarlanmasında, bir eşyanın bir odada veya zeminde nasıl duracağı gibi konularda uzaktan ve yakından görünüm desteği sağlaması bekleniyor.
+<figure class="wp-block-image size-large">![](images/iphone-12-pro-lidar-tarayici-sensor-1600x900.jpeg)<figcaption>2020 iPad Pro LiDAR tarayıcısından alınan örnek bir görüntü </figcaption></figure>Sanal gerçeklik deneyiminin 5 metre içerisinde olan tüm eşyaları ve cisimleri tarayacak olmasının yanısıra aynı zamanda 1 odanın tasarlanmasında, bir eşyanın bir odada veya zeminde nasıl duracağı gibi konularda uzaktan ve yakından görünüm desteği sağlaması bekleniyor.
 
 LiDAR tarayıcılar ile yalnızca sanal gerçeklik deneyimi artırılmayacak. LiDAR tarayıcılar ile bir ortamın 3 boyutlu nokta haritaları oluşturulabiliyor. LiDAR tarayıcı ile ortamın nokta bulutu oluşturulduktan sonra yapılabilecekler yazılım geliştiricilerin yetenekleri ve Apple’ın sunacağı **iOS SDK**‘sına bağlı.
 

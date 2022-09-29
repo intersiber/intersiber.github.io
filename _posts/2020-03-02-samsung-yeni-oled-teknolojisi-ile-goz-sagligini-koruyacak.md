@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/samsungoledekran.jpg
+image: images/samsungoledekran.jpg
 categories:
     - Mobil
 tags:
@@ -30,7 +30,7 @@ Yıllardır ekranlardan gelen mavi ışığın tehlikeleri konusunda uyarıldık
 
 Yeni OLED panel teknolojisi, son nesil modellerde yüzde 7,5’e karşılık sadece yüzde 6,5 mavi ışık yayar. Bu aynı zamanda, arka panel ışık teknolojilerinin bir sonucu olarak daha fazla mavi ışık yayan mevcut LCD panellerden yaklaşık yüzde 70 daha az. Samsung, panelin İsviçre’deki SGS’den “**Eye Care Display**” sertifikası aldığını söyledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/maviışık.jpg)</figure>## Yeni OLED teknolojisi 5G için optimize edildi
+<figure class="wp-block-image size-large">![](images/maviışık.jpg)</figure>## Yeni OLED teknolojisi 5G için optimize edildi
 
 **Samsung** ayrıca yeni ekranları hakkında “5G için optimize edildi” dedi. Muhtemelen **OLED’lerin** **5G** ile ilgisi olmadığını düşünüyorsunuz ve haklısınız.
 

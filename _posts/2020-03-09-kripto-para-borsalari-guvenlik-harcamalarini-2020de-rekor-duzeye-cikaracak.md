@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/kripto-para-borsalari.jpeg
+image: images/kripto-para-borsalari.jpeg
 categories:
     - Güvenlik
 tags:
@@ -27,6 +27,6 @@ Kripto para birimi borsalarının 2020 yılının sonuna kadar geçmiş 10 yıla
 
 Bugüne kadar binlerce kullanıcının canını yakan siber saldırılar sebebiyle başta Binance olmak üzere birçok kripto para birimi borsası itibar kaybı yaşadı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/bitcoin.jpg)</figure>## Borsalar İçin ‘Çerez’ Parası
+<figure class="wp-block-image size-large">![](images/bitcoin.jpg)</figure>## Borsalar İçin ‘Çerez’ Parası
 
 Kripto para birimi borsaları için güvenlik harcamaları 2020 yılında rekor düzeye çıkacak olsa da kazançlarının yanında güvenlik harcamalarının ‘çerez’ parası niyetinde olduğu belirtiliyor.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8015'
 permalink: /fiyati-5-bin-800-dolar-hublottan-wear-os-isletim-sistemli-akilli-saat/
 post_views_count:
     - '87'
-image: /wp-content/uploads/2020/06/fiyati-5-bin-800-dolar-hublot-tan-wear-os-isletim-sistemli-akilli-saat.png
+image: images/fiyati-5-bin-800-dolar-hublot-tan-wear-os-isletim-sistemli-akilli-saat.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -27,6 +27,6 @@ tags:
 
 **Hublot**, 2018 Dünya Kupası döneminde de, sponsor olduğu etkinliğe özel bir akıllı saat üretmişti. O saatin fiyat etiketi de 5 bin 200 dolardı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/hublot-dunya-kupasi-ozel-saati.jpg)<figcaption>Hublot’ın 2018 Dünya Kupası’na özel sunduğu saat.</figcaption></figure>Standart **Wear** **OS** içeren akıllı saatler, satın aldığınız marka ve modele göre değişmek üzere, ortalama olarak 1000 ile 1500 TL arasında bir fiyata sahip. Ancak Hublot’ın akıllı saat oldukça yüksek bir satış fiyatına sahip olmasının yanı sıra, **GPS** gibi standart özellikleri de sunmayarak, sınıfta kalıyor.
+<figure class="wp-block-image size-large">![](images/hublot-dunya-kupasi-ozel-saati.jpg)<figcaption>Hublot’ın 2018 Dünya Kupası’na özel sunduğu saat.</figcaption></figure>Standart **Wear** **OS** içeren akıllı saatler, satın aldığınız marka ve modele göre değişmek üzere, ortalama olarak 1000 ile 1500 TL arasında bir fiyata sahip. Ancak Hublot’ın akıllı saat oldukça yüksek bir satış fiyatına sahip olmasının yanı sıra, **GPS** gibi standart özellikleri de sunmayarak, sınıfta kalıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/hublot-big-bang-akilli-saat.png)</figure>Big Bang’in ne zaman piyasaya çıkacağı henüz belli değil ve ön sipariş şu an için alınmıyor. **Hublot’ın**, her ne kadar şık bir görünüme sahip olsa da, fiyatı ile düşündüren akıllı saati, giyilebilir teknoloji alanında nasıl bir performans gösterecek, göreceğiz.
+<figure class="wp-block-image size-large">![](images/hublot-big-bang-akilli-saat.png)</figure>Big Bang’in ne zaman piyasaya çıkacağı henüz belli değil ve ön sipariş şu an için alınmıyor. **Hublot’ın**, her ne kadar şık bir görünüme sahip olsa da, fiyatı ile düşündüren akıllı saati, giyilebilir teknoloji alanında nasıl bir performans gösterecek, göreceğiz.

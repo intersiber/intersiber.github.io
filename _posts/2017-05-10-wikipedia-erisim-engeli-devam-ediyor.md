@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=832'
 permalink: /wikipedia-erisim-engeli-devam-ediyor/
 post_views_count:
     - '622'
-image: /wp-content/uploads/2017/05/wikipedia.jpg
+image: images/wikipedia.jpg
 categories:
     - Genel
     - 'Öne Çıkan'

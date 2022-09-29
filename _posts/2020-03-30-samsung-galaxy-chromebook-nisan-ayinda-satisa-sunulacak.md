@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/samsung-galaxy-chromebook.jpg
+image: images/samsung-galaxy-chromebook.jpg
 categories:
     - 'Dizüstü Bilgisayar'
 tags:
@@ -28,6 +28,6 @@ Sadece ekstra ince olmakla kalmayıp, aynı zamanda yüksek çözünürlüklü b
 
 Samsung’un Pazartesi günü yaptığı açıklamaya göre Chromebook, sadece **9,9 mm** kalınlığıyla, şirketin şimdiye kadar tasarladığı en ince dizüstü bilgisayar olma özelliğinde. Ayrıca bilgisayar **4K UHD** çözünürlüğe sahip **13.3 inç AMOLED** ekranıyla Chrome OS dizüstü bilgisayarları için bir ilk.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/samsungs-new-galaxy-chromebook-color.jpg)</figure>Şirketin Galaxy adını taşıyan ilk resmi Chromebook’u 6 GB’a kadar **LPDDR3 RAM** ve 1 TB’a kadar depolama alanıyla 10. nesil Intel Core **i5** işlemciye sahip.
+<figure class="wp-block-image size-full">![](images/samsungs-new-galaxy-chromebook-color.jpg)</figure>Şirketin Galaxy adını taşıyan ilk resmi Chromebook’u 6 GB’a kadar **LPDDR3 RAM** ve 1 TB’a kadar depolama alanıyla 10. nesil Intel Core **i5** işlemciye sahip.
 
 Galaxy Chromebook 6 Nisan’da **999 dolar**a satışa sunulacak. Fiesta Red ve Mercury Grey renkleriyle gelecek olan ürün, Best Buy veya Samsung’un web sitesinden satın alınabilecek.

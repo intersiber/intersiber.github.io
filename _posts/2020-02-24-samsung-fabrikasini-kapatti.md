@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/samsung-fabrikasini-kapatti.jpg
+image: images/samsung-fabrikasini-kapatti.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Güney Koreli teknoloji devi Samsung’un, Gumi kentindeki fabrikasında coronav
 
 Dünya çapında binlerce insanın ölümüne neden olan coronavirus salgını Samsung’un fabrikalarından birinde 63 yaşındaki bir çalışanının da ölümüne neden oldu. Fabrika bu olaydan sonra üretimi durdurup fabrikayı 25 Şubat Salı gününe kadar kapatılacağını bildirdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/samsung-coronavirus-fabrika.jpg)</figure>## Çalışanlar karantinaya alındı
+<figure class="wp-block-image size-large">![](images/samsung-coronavirus-fabrika.jpg)</figure>## Çalışanlar karantinaya alındı
 
 Ayrıca şirketten yapılan açıklamada şu ifadelere yer verildi: “Enfeksiyon kapan çalışanla temas kuran tüm iş arkadaşları karantinaya alındı ve enfeksiyon kapıp kapmadıklarını test etmek için gerekli adımlar atılıyor.”
 

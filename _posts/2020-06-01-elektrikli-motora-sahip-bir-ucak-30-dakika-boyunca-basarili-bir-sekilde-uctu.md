@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7896'
 permalink: /elektrikli-motora-sahip-bir-ucak-30-dakika-boyunca-basarili-bir-sekilde-uctu/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/06/elektrikli-motora-sahip-bir-ucak-30-dakika-boyunca-basarili-bir-sekilde-uctu.png
+image: images/elektrikli-motora-sahip-bir-ucak-30-dakika-boyunca-basarili-bir-sekilde-uctu.png
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ Elektrikli uçağın bu denli önemli bir başarı göstermesinin ardından akı
 
 ## Jumbo jet motorlarının yerini alamayacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/elektrikli-motorlar-jumbo-jetleri-ucurabilir-mi.jpg)</figure>Peki elektrikli motorlar, neden bir **Boeing 747** gibi jumbo jeti uçuramaz? Konunun uzmanları, elektrikli motorların ticari jetleri uçurmak için uygun olmadığını söylüyor. Bunun nedeni, uzun mesafede elektrikli motorların çok ciddi bir pil gereksinimine neden olacağı. Bu da, uçağa önemli bir ağırlık katıyor. **AeroTEC’in** bu deneme uçuşunda dahi, uçağın içi tamamen pilden oluşuyordu.
+<figure class="wp-block-image size-large">![](images/elektrikli-motorlar-jumbo-jetleri-ucurabilir-mi.jpg)</figure>Peki elektrikli motorlar, neden bir **Boeing 747** gibi jumbo jeti uçuramaz? Konunun uzmanları, elektrikli motorların ticari jetleri uçurmak için uygun olmadığını söylüyor. Bunun nedeni, uzun mesafede elektrikli motorların çok ciddi bir pil gereksinimine neden olacağı. Bu da, uçağa önemli bir ağırlık katıyor. **AeroTEC’in** bu deneme uçuşunda dahi, uçağın içi tamamen pilden oluşuyordu.
 
 ## Uçaklar küresel karbon yayılımının yüzde ikisini teşkil ediyor
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/applestore1.jpeg
+image: images/applestore1.jpeg
 categories:
     - Apple
 tags:
@@ -30,6 +30,6 @@ Business Insider, Apple’ın mağazalarındaki deneme sürecini ortadan kaldır
 
 **Apple**, Çarşamba günü resmen **Dünya Sağlık Örgütü** tarafından bir pandemi olarak etiketlenen **koronavirüs** salgını karşısında bu hamlelerde bulunan en son teknoloji devi oldu. Apple’ın, perakende çalışanlar için, virüsün neden olduğu **COVID-19** ile ilişkili zatürre benzeri semptomlar yaşarlarsa sınırsız hastalık izni sunduğu bildirildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/applestore2.jpg)</figure>Bu önlemler, teknoloji şirketlerinin koronavirüs etkisini azaltma çabalarının en son örnekleri. Amazon , Facebook ve Microsoft gibi diğer şirketler de, uzaktan çalışamayan saatlik çalışanlarına ödeme yapmaya devam edeceklerini söylediler.
+<figure class="wp-block-image size-large">![](images/applestore2.jpg)</figure>Bu önlemler, teknoloji şirketlerinin koronavirüs etkisini azaltma çabalarının en son örnekleri. Amazon , Facebook ve Microsoft gibi diğer şirketler de, uzaktan çalışamayan saatlik çalışanlarına ödeme yapmaya devam edeceklerini söylediler.
 
 Bu arada, [Hastalık Kontrol ve Önleme Merkezleri](https://www.cdc.gov/coronavirus/2019-ncov/index.html) , insanların hasta oldukları takdirde işe gitmemesini önerdi. Bu durum, ABD’nin en büyük perakendecisi ve en büyük özel işvereni **Walmart**‘ı da etkiledi. 1.4 milyon çalışanı bulunan ABD’li perakende devi Walmart, çalışanlarına koronavirüs teşhisi konulması durumunda 2 haftadan 26 haftaya kadar ek ücret sunacak.

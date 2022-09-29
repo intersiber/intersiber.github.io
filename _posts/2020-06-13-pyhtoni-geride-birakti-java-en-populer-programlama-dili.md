@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8419'
 permalink: /pyhtoni-geride-birakti-java-en-populer-programlama-dili/
 post_views_count:
     - '104'
-image: /wp-content/uploads/2020/06/pyhton-i-geride-birakti-java-en-populer-programlama-dili.jpg
+image: images/pyhton-i-geride-birakti-java-en-populer-programlama-dili.jpg
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ Yakın dönemde 25. yılını geride bırakan Java, özellikle son yıllarda di�
 
 ## Pyhton makine öğrenme sistemleri ile öne çıkıyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/python-en-populer-programlama-dilleri-icinde.jpg)</figure>Pyhton, yapay zeka ve makine öğrenimi gibi konularda tercih sebebi olmasından dolayı, programlama dilleri içinde ciddi bir popülerlik yakaladı. Geçmişte yapılan bir ankette en popüler dil Pyhton seçilmişti. Ancak yapılan araştırma, Java’nın henüz liderliği kaptırmadığını gösteriyor.
+<figure class="wp-block-image size-large">![](images/python-en-populer-programlama-dilleri-icinde.jpg)</figure>Pyhton, yapay zeka ve makine öğrenimi gibi konularda tercih sebebi olmasından dolayı, programlama dilleri içinde ciddi bir popülerlik yakaladı. Geçmişte yapılan bir ankette en popüler dil Pyhton seçilmişti. Ancak yapılan araştırma, Java’nın henüz liderliği kaptırmadığını gösteriyor.
 
 ## Değişken ihtiyaçlara göre yeni programlama dilleri
 

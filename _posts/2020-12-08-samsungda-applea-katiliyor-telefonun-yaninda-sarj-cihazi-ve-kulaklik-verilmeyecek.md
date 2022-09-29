@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9965'
 permalink: /samsungda-applea-katiliyor-telefonun-yaninda-sarj-cihazi-ve-kulaklik-verilmeyecek/
 post_views_count:
     - '32'
-image: /wp-content/uploads/2020/12/samsung-da-apple-a-katiliyor-telefonun-yaninda-sarj-cihazi-ve-kulaklik-verilmeyecek.png
+image: images/samsung-da-apple-a-katiliyor-telefonun-yaninda-sarj-cihazi-ve-kulaklik-verilmeyecek.png
 categories:
     - Mobil
 tags:
@@ -24,7 +24,7 @@ Apple’ın iPhone 12 serisinde, kutu içeriğinde şarj cihazı ve kulaklığa 
 
 Samsung’un Galaxy S21 serisinde, kutuda şarj adaptörü ve kulaklıkları çıkarabileceği bir süredir konuşuluyordu ancak konuyla ilgili bir açıklama ya da kanıt yoktu. Brezilya’da iletişim sektöründe düzenleyici bir kurum olan ANATEL’e ait bir belgede, Samsung’un Galaxy S21 serisinde kutu içeriğinde şarj adaptörü ve kulaklığa yer vermeyeceği ortaya çıktı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/samsung-telefonlarda-kulaklik-ve-sarj-cihazi-vermeyecek.png)</figure>*Belgede, “Cep telefonu, bir güç kaynağı ile birlikte satılmayacaktır” ifadesi yer aldı.*
+<figure class="wp-block-image size-large">![](images/samsung-telefonlarda-kulaklik-ve-sarj-cihazi-vermeyecek.png)</figure>*Belgede, “Cep telefonu, bir güç kaynağı ile birlikte satılmayacaktır” ifadesi yer aldı.*
 
 Samsung’un bu kararı alması uzun süredir konuşuluyordu ve teknoloji dünyasında sürpriz olmadı. Ancak gelişmenin Brezilya’da yaşanması bir sürpriz. Bunun nedeni, ülkede iPhone’ların kutusundan şarj aleti çıkması zorunlu kılınmıştı.
 

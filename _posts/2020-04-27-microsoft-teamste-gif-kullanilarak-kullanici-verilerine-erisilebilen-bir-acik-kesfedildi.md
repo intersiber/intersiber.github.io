@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6055'
 permalink: /microsoft-teamste-gif-kullanilarak-kullanici-verilerine-erisilebilen-bir-acik-kesfedildi/
 post_views_count:
     - '79'
-image: /wp-content/uploads/2020/04/microsoft-teams-te-gif-kullanilarak-kullanici-verilerinin-ele-gecirildigi-acik-bulundu.jpg
+image: images/microsoft-teams-te-gif-kullanilarak-kullanici-verilerinin-ele-gecirildigi-acik-bulundu.jpg
 categories:
     - Güvenlik
 tags:
@@ -22,7 +22,7 @@ Koronavirüs salgını nedeniyle evden çalışan insanların yanı sıra, uzakt
 
 ## Kötü amaçlı GIF’ler bilgileri alabilir
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/microsoft-teams-acigi-gif.png)</figure>Güvenlik alanında çalışan bir şirket, Mart ayında **Microsoft Teams**’te, kötü amaçlı GIF dosyalarının kullanıcı verilerini çalmak için kullanılabileceğini öne sürdü. Güvenlik açığının kamuoyuna yansımasının ardından Microsoft, geçen hafta açığı kapattı.
+<figure class="wp-block-image size-large">![](images/microsoft-teams-acigi-gif.png)</figure>Güvenlik alanında çalışan bir şirket, Mart ayında **Microsoft Teams**’te, kötü amaçlı GIF dosyalarının kullanıcı verilerini çalmak için kullanılabileceğini öne sürdü. Güvenlik açığının kamuoyuna yansımasının ardından Microsoft, geçen hafta açığı kapattı.
 
 GIF açığının nasıl bilgileri ele geçirmek için kullanılabileceğini merak ediyorsanız, açık kimlik doğrulma sisteminin erişim belirteçlerini etkileyen bir yapıya sahip. Bu belirteçler, Microsoft Teams hesabına erişimi doğrulayan bir yapı olarak da düşünülebilir. Microsoft’un, [teams.microsoft.com](http://teams.microsoft.com) adresi üzerinde yer alan belirteçler, zaman zaman bu tip durumlarda bir açık olarak kullanılabiliyor.
 

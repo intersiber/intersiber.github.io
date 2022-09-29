@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9661'
 permalink: /macos-big-surda-kontrol-merkezi-nasil-ozellestirilir/
 post_views_count:
     - '68'
-image: /wp-content/uploads/2020/11/macos-big-sur-da-kontrol-merkezi-nasil-ozellestirilir.png
+image: images/macos-big-sur-da-kontrol-merkezi-nasil-ozellestirilir.png
 categories:
     - Apple
     - 'Dizüstü Bilgisayar'
@@ -23,7 +23,7 @@ tags:
 
 iPhone ya da iPad’deki kontrol merkezi birimleri gibi, Mac’te de değiştirilemeyen bölümler var. Ağ, ekran ve ses modülleri sabit olarak tasarlanmış durumda. Ancak Kontrol Merkezi’nin alt kısmına yeni modüller eklemek mümkün.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/mac-bilgisayarda-kontrol-merkezi-nasil-yonetilir.png)</figure>**Big** **Sur** ile gelen yeni Kontrol Merkezi’nin en iyi yanı, menü çubuğunda yer açmasıdır. Menü çubuğunda yer kaplayan wi-if-, Bluetooth ve ses kontrolleri için farklı simgelere ihtiyacınız yok.
+<figure class="wp-block-image size-large">![](images/mac-bilgisayarda-kontrol-merkezi-nasil-yonetilir.png)</figure>**Big** **Sur** ile gelen yeni Kontrol Merkezi’nin en iyi yanı, menü çubuğunda yer açmasıdır. Menü çubuğunda yer kaplayan wi-if-, Bluetooth ve ses kontrolleri için farklı simgelere ihtiyacınız yok.
 
 Kontrol Merkezi’nde eklenebilecek en kullanışlı modüller arasında aynı zamanda, **pil** **modülü** de yer alıyor. Mac’inizin pil yüzdesini gösteren bu modülü dilerseniz menü çubuğundan kaldırabiliyorsunuz.
 
@@ -33,11 +33,11 @@ Kontrol Merkezi’nin özelleştirilmesi, Sistem Tercihleri üzerinden yapılabi
 
 - Dock &amp; Menü bar seçeneğine tıklayın.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/mac-te-kontrol-merkezi-yonetimi.png)</figure>- Kenar çubuğunda “Kontrol Merkezi” bölümüne gidin. Burada listelenen her modülü kendi seçenekleriyle göreceksiniz. Üst kısımda Wi-fi, Ekran gibi modüller bulacaksınız.
+<figure class="wp-block-image size-large">![](images/mac-te-kontrol-merkezi-yonetimi.png)</figure>- Kenar çubuğunda “Kontrol Merkezi” bölümüne gidin. Burada listelenen her modülü kendi seçenekleriyle göreceksiniz. Üst kısımda Wi-fi, Ekran gibi modüller bulacaksınız.
 - Bu modüllerde sadece bir seçenek yer alır: Menü çubuğunda göster.
 - Bu seçenek, belli bir modülü doğrudan menü çubuğuna sabitleyecektir. Açılır menüdeki modül seçeneklerini genişletmek için simgeye tıklayabilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/mac-kontrol-merkezi-yonetimi-big-sur.png)</figure>- **Mac** **Kontrol** **Merkezi’ne** daha fazla özellik eklemek için, “Diğer modüller” bölümünü görene kadar aşağı kaydırın. Burada “Erişilebilirlik Kısayolları”, “Pil” ve “Hızlı Kullanıcı Değiştirme” modüllerini göreceksiniz.
+<figure class="wp-block-image size-large">![](images/mac-kontrol-merkezi-yonetimi-big-sur.png)</figure>- **Mac** **Kontrol** **Merkezi’ne** daha fazla özellik eklemek için, “Diğer modüller” bölümünü görene kadar aşağı kaydırın. Burada “Erişilebilirlik Kısayolları”, “Pil” ve “Hızlı Kullanıcı Değiştirme” modüllerini göreceksiniz.
 - “Pil gibi bir modülü seçin ve ardından modülü Kontrol Merkezi’nin altına eklemek için Mac “Kontrol Merkezi’nde göster” seçeneğini işaretleyin. Pil yüzdesini simgeyle birlikte göstermek için “Yüzdeyi Göster” seçeneğini de işaretleyebilirsiniz.
 - Bu modülleri sadece menü çubuğuna eklemek istiyorsanız “Menü çubuğunda göster” seçeneğini tercih edin. Etkinleştirme işlemini tamamladıktan sonra, modülleri Kontrol Merkezi’nin altında göreceksiniz.
 - Genişletmek ve tüm özellikleri görmek için bir modülü tıklayın. Hızlı Kullanıcı Değiştirme modülü, tüm kullanıcı hesaplarını gösterecek ve bir kullanıcı seçildiğinde anında ona geçecektir.

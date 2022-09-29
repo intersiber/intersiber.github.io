@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5757'
 permalink: /microsofttan-iyilesmis-covid-19-hastalarinin-antikor-bagisi-icin-proje-plazma-bot/
 post_views_count:
     - '37'
-image: /wp-content/uploads/2020/04/microsoft-tan-iyilesmis-covid-19-hastalarinin-antikor-bagisi-icin-proje-plazma-bot.png
+image: images/microsoft-tan-iyilesmis-covid-19-hastalarinin-antikor-bagisi-icin-proje-plazma-bot.png
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Antikor bağışının bu kadar önemli olduğunu ifade eden İttifak, “İyile
 
 **Plazma tedavisi** olarak da adlandırılan iyileşmiş hastalardan alınan kan bağışı,, yeni bir tedavi değil ve 1890’lu yıllarda difteri tedavisinde de kullanıldı. 1918 grip salgınında kullanılan plazma tedavisi aynı zamanda SARS, kızamık gibi hastalıkların tedavisinde de kullanıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/koronavirus-plazma-tedavisi-nedir-antikor-bagisi-nedir-1600x1065.jpeg)</figure>Covid-19 ile ilgili yapılan araştırmalar, plazma infüzyonlarının bazı hastaların iyileşme sürecinde yardımcı olduğunu gösterse de, tedavinin ne ölçüde etkili olduğuna ilişkin net veriler elimizde yok. ABD’de plazma tedavisiyle ilgili çalışmalar, kontrollü şekilde sürdürülüyor.
+<figure class="wp-block-image size-large">![](images/koronavirus-plazma-tedavisi-nedir-antikor-bagisi-nedir-1600x1065.jpeg)</figure>Covid-19 ile ilgili yapılan araştırmalar, plazma infüzyonlarının bazı hastaların iyileşme sürecinde yardımcı olduğunu gösterse de, tedavinin ne ölçüde etkili olduğuna ilişkin net veriler elimizde yok. ABD’de plazma tedavisiyle ilgili çalışmalar, kontrollü şekilde sürdürülüyor.
 
 Plazma İttifakı, diğer girişimlerden farklı olarak doğrudan enfekte hastalara plazma transfüzyonu vermekten ziyade, H-Ig adlı bir tedavi üzerine odaklı.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5808'
 permalink: /koronavirus-akilli-telefon-piyasasini-sarsti-gelir-gecen-yila-gore-yuzde-21-dusecek/
 post_views_count:
     - '9'
-image: /wp-content/uploads/2020/04/koronavirus-akilli-telefon-piyasasini-sarsti-gelir-gecen-yila-gore-yuzde-21-dusecek-scaled.jpg
+image: images/koronavirus-akilli-telefon-piyasasini-sarsti-gelir-gecen-yila-gore-yuzde-21-dusecek-scaled.jpg
 categories:
     - Genel
 tags:
@@ -25,4 +25,4 @@ Raporda, Çin’de başlayan ve dünyayı etkileyen salgının ardından, akıll
 
 ## Yıllık gelirde yüzde 21 düşüş
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/koronavirus-akilli-telefon-satislarini-dusurdu-1600x1067.jpeg)</figure>**Koronavirüs** yalnızca **telefon** sevkiyatlarının azalmasını değil, aynı zamanda satın alma alışkanlıklarını da etkiledi. Strategy Analytics raporunda, sektördeki yıllık gelirin 2019’a göre yüzde 21’lik bir düşüş gösterebileceği vurgulandı. Bununla birlikte, 5 yıllık dönemde ise gelirlerin yüzde 41 oranında artacağı aktarılırken, gelecek için umutlu bir senaryo çizildi.
+<figure class="wp-block-image size-large">![](images/koronavirus-akilli-telefon-satislarini-dusurdu-1600x1067.jpeg)</figure>**Koronavirüs** yalnızca **telefon** sevkiyatlarının azalmasını değil, aynı zamanda satın alma alışkanlıklarını da etkiledi. Strategy Analytics raporunda, sektördeki yıllık gelirin 2019’a göre yüzde 21’lik bir düşüş gösterebileceği vurgulandı. Bununla birlikte, 5 yıllık dönemde ise gelirlerin yüzde 41 oranında artacağı aktarılırken, gelecek için umutlu bir senaryo çizildi.

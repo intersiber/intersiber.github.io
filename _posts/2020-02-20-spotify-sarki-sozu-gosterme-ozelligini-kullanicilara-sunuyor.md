@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/spotify-logo.png
+image: images/spotify-logo.png
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Dünya çapında en büyük online müzik dinleme uygulamalarından biri olan **
 
 Spotify’ın yakında kullanıcılarına şarkı sözlerinin eş zamanlı olarak görüntülenmesini sağlayacak bir özellik sunması bekleniyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/spotify-music-for-everyone.png)</figure> **Behind the Lyrics’in Pabucu Dama Atılabilir**
+<figure class="wp-block-image size-large">![](images/spotify-music-for-everyone.png)</figure> **Behind the Lyrics’in Pabucu Dama Atılabilir**
 
 Bilindiği üzere Spotify’de Behind the Lyrics özelliği bulunuyor. Bu özellikle ile birlikte kullanıcılar dinledikleri parçanın bazı sözlerini görebilirken ayrıca bu parça ile ilgili de enteresan bilgilere ulaşabiliyordu. Spotify, eş zamanlı yeni şarkı sözü gösterme özelliği ile Behind the Lyrics özelliğinin aynı anda kullanılması beklenmiyor. Bu durum karşısında Behind the Lyrics özelliğinin tarihe karışması bekleniyor.
 

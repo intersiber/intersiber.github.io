@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Oppo-Watch.jpg
+image: images/Oppo-Watch.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -31,7 +31,7 @@ Marka, akıllı saat tanıtımını bir süre önce corona virüsü dolayısı i
 
 Apple Watch modellerine birebir benzeyen Oppo Watch modeli bu yönüyle Apple kullanıcılarının tepkisini çekerken, şirketin akıllı saatinin özellikleri Watch 5’e göre farklılık gösteriyor.
 
-<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/03/oppo-watch-ozellikleri-fiyati.png?fit=640%2C270&ssl=1)</figure>## Sadece Digital Crown Eksik
+<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.comimages/oppo-watch-ozellikleri-fiyati.png?fit=640%2C270&ssl=1)</figure>## Sadece Digital Crown Eksik
 
 Oppo Watch ve Apple Watch modelleri aynı masaya konulduğunda Watch 5 modelinde Digital Crown fazlalığı dışında görünür anlamda hiçbir fark görülmüyor.
 

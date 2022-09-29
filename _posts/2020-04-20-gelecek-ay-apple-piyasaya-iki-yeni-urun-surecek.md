@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5722'
 permalink: /gelecek-ay-apple-piyasaya-iki-yeni-urun-surecek/
 post_views_count:
     - '26'
-image: /wp-content/uploads/2020/04/gelecek-ay-apple-piyasaya-iki-yeni-urun-surecek.jpg
+image: images/gelecek-ay-apple-piyasaya-iki-yeni-urun-surecek.jpg
 categories:
     - Apple
 tags:
@@ -21,8 +21,8 @@ Dünyayı etkileyen koronavirüs pandemisi üretimi ciddi şekilde etkiledi. Bir
 
 Son basında çıkan haberlere göre, şirket önümüzdeki ay iki yeni ürün piyasaya sürecek. Bunlar 13 inç ekranlı **MacBook Pro** ve yeni bir **AirPod** olacak.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/apple-macbookpro-1600x926.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/apple-airpods-1600x1067.jpg)</figure>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](images/apple-macbookpro-1600x926.jpg)</figure>
+- <figure>![](images/apple-airpods-1600x1067.jpg)</figure>
 
 <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>**AirPod**‘ların tasarımları hakkında henüz bir bilgi bulunmuyor. Ancak, bu cihazın AirPods Pro’nun daha ucuz bir sürümü olabileceğine dair raporlar var. Yeni tasarımın daha kısa gövdeli olacağı söyleniyor. Ancak cihazlardan aktif gürültü azaltma işlevini kaldıracak.
 

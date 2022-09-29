@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/iosps4uzaktanoynatma.jpg
+image: images/iosps4uzaktanoynatma.jpg
 categories:
     - Mobil
 tags:
@@ -31,11 +31,11 @@ tags:
 
 Sony, son derece başarılı oyun konsolu için bir ürün yazılımı güncellemesi yoluyla iOS cihazları için **Uzaktan Oynatma** desteği ekledi ve ayrıca App Store’da eşlik eden bir uygulama yayınladı. Bu özellik bir süredir Mac, Windows ve Android cihazlarda Uzaktan Oynatmaya izin vererek kullanıcıların konsollarında görüntülenen içeriği internet üzerinden uzaktan yayınlamalarına izin veriyor. Ve bir süredir iPhone ve iPad için de mevcut.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/playstation-4-iphone-ipad-uzaktan-oynatma-nasil-yapilir.png)</figure>**Uzaktan Oynatma**, özellikle evde bir kişi TV’yi kullanırken veya sadece yatakta uzanırken oyun oynamak istiyorsanız kullanışlı olur. Ayrıca, iPhone veya iPad’iniz bir Wi-Fi ağına bağlı olduğu sürece evden uzaktayken konsolunuzu bile kontrol edebilirsiniz.
+<figure class="wp-block-image size-large">![](images/playstation-4-iphone-ipad-uzaktan-oynatma-nasil-yapilir.png)</figure>**Uzaktan Oynatma**, özellikle evde bir kişi TV’yi kullanırken veya sadece yatakta uzanırken oyun oynamak istiyorsanız kullanışlı olur. Ayrıca, iPhone veya iPad’iniz bir Wi-Fi ağına bağlı olduğu sürece evden uzaktayken konsolunuzu bile kontrol edebilirsiniz.
 
 Uzaktan Oynatma’yı kendiniz denemeye meraklıysanız, en az bir iPhone 7 veya altıncı nesil iPad veya daha yenisine ihtiyacınız olacaktır. Bu makalede, PS4’ünüzü **Uzaktan Oynatma’yı** kullanarak tüm favori oyunlarınızı iPhone ve iPad’inizde oynayacak şekilde nasıl ayarlayabileceğinizi tartışacağız.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ps4uzaktanoynama.jpeg)</figure>#### Uzaktan Oynatma Kullanarak iPhone ve iPad’de PS4 Oyunları Nasıl Oynanır?
+<figure class="wp-block-image size-large">![](images/ps4uzaktanoynama.jpeg)</figure>#### Uzaktan Oynatma Kullanarak iPhone ve iPad’de PS4 Oyunları Nasıl Oynanır?
 
 Prosedüre devam etmeden önce akılda tutulması gereken birkaç ön koşul vardır. İlk olarak, hem PS4 hem de iOS cihazınızın aynı Wi-Fi ağına bağlı olması gerekir. Sony’nin iPhone ve iPad’deki **Uzaktan Oynatma** işlevinden yararlanmak için PlayStation 4’ünüzün cihaz yazılımı 6.50 veya üstü çalışıyor olmalıdır. Ek olarak [PS4 Remote Play uygulamasını](https://apps.apple.com/tr/app/ps4-remote-play/id1436192460?l=tr) App Store’dan yüklemeniz gerekir .
 

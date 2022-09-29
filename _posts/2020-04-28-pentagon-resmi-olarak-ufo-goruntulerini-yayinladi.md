@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6130'
 permalink: /pentagon-resmi-olarak-ufo-goruntulerini-yayinladi/
 post_views_count:
     - '97'
-image: /wp-content/uploads/2020/04/pentagon-resmi-olarak-ufo-goruntulerini-yayinladi.jpg
+image: images/pentagon-resmi-olarak-ufo-goruntulerini-yayinladi.jpg
 categories:
     - Genel
 tags:

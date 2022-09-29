@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10104'
 permalink: /android-telefonun-ismi-nasil-degistirilir/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/12/android-telefonun-ismi-nasil-degistirilir.jpg
+image: images/android-telefonun-ismi-nasil-degistirilir.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ Android cihazların adını değiştirmek hızlı ve kolay bir işlemdir. İzlem
 - İsmi değiştirmek için düzenleme düğmesi arayın.
 - Son olarak, Android cihazınızın ya da tabletiniz için yeni bir isim girin.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/android-cihaz-ismi-degistirme.jpg)</figure>- İsim girdikten sonra “Tamam” ya da “Kaydet”e dokunun.
+<figure class="wp-block-image size-large">![](images/android-cihaz-ismi-degistirme.jpg)</figure>- İsim girdikten sonra “Tamam” ya da “Kaydet”e dokunun.
 
 İşlem bu kadar basit. Android cihaz adları birçok durumda karşınıza çıkmaz ancak yine de, PC ya da Bluetooth bağlantılı cihazlara, telefon ya da tabletinizi tanıtırken özel bir ad faydalı olabilir. Android cihaz ismini değiştirerek, karışıklığı giderebilirsiniz.
 

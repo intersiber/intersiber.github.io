@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7464'
 permalink: /ai-chatbot-covid-19-ile-ilgili-yanlis-bilgilendirmeyle-mucadele-ediyor/
 post_views_count:
     - '73'
-image: /wp-content/uploads/2020/05/ai-chatbot-covid-19-ile-ilgili-yanlis-bilgilendirmeyle-mucadele-ediyor.png
+image: images/ai-chatbot-covid-19-ile-ilgili-yanlis-bilgilendirmeyle-mucadele-ediyor.png
 categories:
     - Girişim
 tags:
@@ -21,7 +21,7 @@ tags:
 
 **Project** **COVID** adlı **chatbot**, **pandemi** ile ilgili gelen soruları, web site ve veritabanı sorgularına dönüştüren, doğal dil işleme adı verilen bir derin öğrenme sistemini kullanıyor. **Google** ve **Bing’in** çalışma sistemine benzer bir şekilde, sorgunuza istinaden **AI** **chatbot**, mümkün olan en alakalı bilgileri bulmaya çalışıyor. Avaamo’nun en önemli özelliği, sadece CDC, Dünya Sağlık Örgütü ve genel salgın verileri konusunda dünyanın takip ettiği John Hopkins Üniversitesi gibi saygın kaynaklardan faydalanıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/koronavirus-chatbot-projesi.png)</figure>En önemli yönlerinden biri de, chatbot işletmelere ücretsiz bir şekilde sunuluyor.
+<figure class="wp-block-image size-large">![](images/koronavirus-chatbot-projesi.png)</figure>En önemli yönlerinden biri de, chatbot işletmelere ücretsiz bir şekilde sunuluyor.
 
 **Project** **COVID**, koronavirüs salgını konusunda soruların yanı sıra destek çağrıları ve bilgi talepleri ile karşı karşıya kalan işletmelerin, sağlık kuruluşlarının ya da devlet kurumlarının sitesine gömülmesi için ücretsiz olarak sunuluyor. **Chatbot**, web sitelere hızlı ve kolay bir şekilde gömülmek üzere tasarlandı.
 

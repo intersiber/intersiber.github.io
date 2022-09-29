@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '75'
-image: /wp-content/uploads/2020/01/huawei-ceo-ren-zhengfei-harmonyos.jpg
+image: images/huawei-ceo-ren-zhengfei-harmonyos.jpg
 categories:
     - Mobil
     - 'Öne Çıkan'
@@ -31,6 +31,6 @@ Huawei CEO’su Ren Zhengfei, Dünya Ekonomik Forumunda verdiği röportajla Har
 
 ABD’nin uzun süredir sıkı ticaret yasağı uyguladığı Çin teknoloji devlerinden Huawei kendi işletim sistemini geliştirmeye başlamıştı. Daha önce yapılan açıklamalarda, HarmonyOS işletim sisteminin akıllı telefonlarda kullanılmayacağı, diğer tüketici elektroniği ve otomobil uygulamalarında kullanılacağı dile getirilmiş akıllı telefonlarında Android kullanmaya devam edileceği vurgulanmıştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/01/harmony-os.jpg)</figure>Ancak Huawei CEO’su Ren Zhengfei tarafından verilen son röportaja göre bu durum farklı bir hal aldı. Ren Zhengfei işletim sistemlerinin akıllı telefonlarda da kullanılacağını açıkladı. Ren Zhengfei yaptığı açıklamalarla işletim sistemlerinin Çin dışında da kullanılacağını belirtti.
+<figure class="wp-block-image size-large">![](images/harmony-os.jpg)</figure>Ancak Huawei CEO’su Ren Zhengfei tarafından verilen son röportaja göre bu durum farklı bir hal aldı. Ren Zhengfei işletim sistemlerinin akıllı telefonlarda da kullanılacağını açıkladı. Ren Zhengfei yaptığı açıklamalarla işletim sistemlerinin Çin dışında da kullanılacağını belirtti.
 
 Şirket tarafından yapılan açıklamalar ve Huawei CEO’su Ren Zhengfei tarafından verilen röportaj şirket içinde fikir ayrılıkları olduğunu gösteriyor.

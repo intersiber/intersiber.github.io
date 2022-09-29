@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/whatsapp.jpg
+image: images/whatsapp.jpg
 categories:
     - Mobil
 tags:
@@ -27,4 +27,4 @@ Küresel mesajlaşma devi **WhatsApp**, WABetaInfo’ya göre bir özellik üzer
 
 Bunun önüne geçmek ve daha çok sayıda insanın WhatsApp uygulamasını farklı cihazlarda kullanmasını sağlamak için, iddialar doğruysa şirket **farklı cihazlarda** çalışma özelliğini yakında sunmaya hazırlanıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/whatsapp-coklu-cihaz.png)</figure>WABetaInfo’nun yayınladığı görüntülerde WhatsApp uygulamasının farklı cihazlarda kullanılabildiği görülüyor. Bu özelliğin siber saldırganlara karşı nasıl bir güvenlik önlemi ile geleceği henüz bilinmiyor ancak kullanıcılar tarafından beklenen ve olması gereken bir özellik olduğu için, WhatsApp’ın bu özelliği ile birlikte kullanıcıları tarafından beğeni kazanacağı düşünülüyor.
+<figure class="wp-block-image size-large">![](images/whatsapp-coklu-cihaz.png)</figure>WABetaInfo’nun yayınladığı görüntülerde WhatsApp uygulamasının farklı cihazlarda kullanılabildiği görülüyor. Bu özelliğin siber saldırganlara karşı nasıl bir güvenlik önlemi ile geleceği henüz bilinmiyor ancak kullanıcılar tarafından beklenen ve olması gereken bir özellik olduğu için, WhatsApp’ın bu özelliği ile birlikte kullanıcıları tarafından beğeni kazanacağı düşünülüyor.

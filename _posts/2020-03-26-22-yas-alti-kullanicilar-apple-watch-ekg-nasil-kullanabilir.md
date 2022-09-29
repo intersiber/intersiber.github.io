@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Apple-Watch-EKG.jpg
+image: images/Apple-Watch-EKG.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -29,7 +29,7 @@ Ancak EKG özelliğinin kullanılabilmesinin bazı şartları var; Apple’ın m
 
 22 yaş altında kalp sağlığında herhangi bir problem olması durumunda mobil EKG’nin doğru olmayabileceğini ve kullanımının risklere gebe olduğunu belirten Apple, bu sebeple 22 yaş ve üzerinde olan Apple Watch kullanıcıları için EKG özelliğini sunuyor
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/watch-ekgwatch-ekg.jpg)</figure>## 1 Yaş Bile Fark Edebilir!
+<figure class="wp-block-image size-full">![](images/watch-ekgwatch-ekg.jpg)</figure>## 1 Yaş Bile Fark Edebilir!
 
 Kardiyoloji uzmanlarına göre EKG gibi kişiye özel kalp değerlerinin 1 yaş için bile fark edebileceğini, özellikle 18 ila 20 yaş arasında kalp değerlerinin 22 yaşa oranla daha farklı olabileceğini ifade ediyorlar.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9973'
 permalink: /turk-oyun-sirketi-bigger-games-66-milyon-dolar-yatirim-aldi/
 post_views_count:
     - '48'
-image: /wp-content/uploads/2020/12/turk-oyun-sirketi-bigger-games-6-6-milyon-dolar-yatirim-aldi.jpeg
+image: images/turk-oyun-sirketi-bigger-games-6-6-milyon-dolar-yatirim-aldi.jpeg
 categories:
     - Girişim
 tags:
@@ -21,7 +21,7 @@ Türkiye’de oyun sektörü, yatırımcıların dikkatini çekmeye devam ediyor
 
 ABD’li oyun devi Zynga tarafından satın alınan **Peak** **Games’in**, **Toy** **Blast** oyunu için çalışan ekipte yer alan Hakan Ulvan, Yağız İpek ve Erkan Gürel tarafından kurulan **Bigger** **Games** adlı oyun girişimi, kısa süre içinde 75 milyon indirme rakamına ulaşmayı başardı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/9f27441c53ae9a323fa2ec7d57a539bf4299030e.jpeg)</figure>Basit oyunlar geliştiren, bulmaca formatlı oyunlar sunan Bigger Games’in bu başarısı ABD merkezli **Index** **Ventures’ın** dikkatini çekti ve yatırım turunda 6,6 milyon dolar yatırım almayı başardı.
+<figure class="wp-block-image size-large">![](images/9f27441c53ae9a323fa2ec7d57a539bf4299030e.jpeg)</figure>Basit oyunlar geliştiren, bulmaca formatlı oyunlar sunan Bigger Games’in bu başarısı ABD merkezli **Index** **Ventures’ın** dikkatini çekti ve yatırım turunda 6,6 milyon dolar yatırım almayı başardı.
 
 ## Index Ventures daha önce Discord ve Roblox gibi girişimlere yatırım yaptı
 

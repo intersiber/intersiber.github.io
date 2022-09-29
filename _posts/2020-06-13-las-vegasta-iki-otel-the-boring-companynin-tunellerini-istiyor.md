@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8410'
 permalink: /las-vegasta-iki-otel-the-boring-companynin-tunellerini-istiyor/
 post_views_count:
     - '61'
-image: /wp-content/uploads/2020/06/las-vegas-ta-iki-otel-the-boring-company-nin-tunellerini-istiyor.jpg
+image: images/las-vegas-ta-iki-otel-the-boring-company-nin-tunellerini-istiyor.jpg
 categories:
     - Genel
 tags:
@@ -23,7 +23,7 @@ Geçtiğimiz hafta Clark County Komiseri Tick Segerblom, Las Vegas Kongre Merkez
 
 ## Kongre merkezindeki tüneller bir millik mesafeyi 2 dakikaya indiriyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/elon-musk-the-boring-company-nedir.jpg)</figure>**The** **Boring** **Company’nin** **LVCC’de**, kongre merkezi döngüsü olarak bilinen projesinde Tesla araçlar, insanları tünellerden taşıyacak ve bir millik mesafeyi iki dakikaya [indirecek](https://intersiber.com/the-boring-company-las-vegas-tunellerini-kazmayi-bitirdi/).
+<figure class="wp-block-image size-large">![](images/elon-musk-the-boring-company-nedir.jpg)</figure>**The** **Boring** **Company’nin** **LVCC’de**, kongre merkezi döngüsü olarak bilinen projesinde Tesla araçlar, insanları tünellerden taşıyacak ve bir millik mesafeyi iki dakikaya [indirecek](https://intersiber.com/the-boring-company-las-vegas-tunellerini-kazmayi-bitirdi/).
 
 Wynn Resorts ve The Boring Company, kongre merkezindeki bağlantıdan 0,6 millik bir tünel daha kazmak istiyor. Resort World ise, otel casinosundan LVCC’ye 0,4 millik bir tünel öneriyor.
 

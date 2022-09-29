@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/koronavirüs.jpg
+image: images/koronavirus.jpg
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ Filmler, müzik festivalleri, **teknoloji konferansları** ve spor ligleri düny
 
 Yeni tip **koronavirüs** COVID-19 salgını, **teknoloji** ve spordan sosyal yaşama ve siyasete kadar olan olaylar üzerindeki etkisiyle dünya çapında yıkımlar yapmaya devam ediyor. İnsanlara evde kalmaları tavsiye edildiğinden yapılması planlanan pek çok konser, maç, toplantı gibi etkinliklerin iptali ve ertelenmesi gerçekleşti.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/google-io-2019.jpg)</figure>Bunları şu şekilde listeleyebiliriz.
+<figure class="wp-block-image size-full">![](images/google-io-2019.jpg)</figure>Bunları şu şekilde listeleyebiliriz.
 
 - Disneyland kapandı.
 - [James Bond](https://intersiber.com/james-bond-no-time-to-die-icin-kotu-haber-vizyon-tarihi/), [Black Widow](https://intersiber.com/marvel-black-widow-filmi-koronavirus-nedeniyle-ertelendi/), [A Quiet Place Part II](https://intersiber.com/sessiz-bir-yer-2-koronavirus-nedeniyle-ertelendi/) ve Fast &amp; Furious 9, Disney; Mulan, The New Mutants ve Antlers gibi pek çok film ertelendi.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9617'
 permalink: /google-stadia-nedir-hangi-oyunlar-mevcut-nasil-oynanir/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/11/google-stadia-nedir-hangi-oyunlar-mevcut-nasil-oynanir.jpeg
+image: images/google-stadia-nedir-hangi-oyunlar-mevcut-nasil-oynanir.jpeg
 categories:
     - Oyun
 tags:
@@ -33,14 +33,14 @@ Google Stadia için ihtiyacınız olan tek şey bir Google Stadia hesabı! En az
 
 Tabii ki bir oyun koluna da ihtiyaç duyacaksınız. Stadia oyun kontrol cihazının fiyatı şu anda **Türkiye’de** 2200 TL civarında satılıyor. Desteklenen üçüncü taraf oyun kolları içinde de seçim yapabilirsiniz. Stadia, Xbox oyun kolu ya da Sony’nin DualShock PS4 oyun kolu ile de çalışıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/google-stadia-oyun-kolu.jpg)</figure>Apple’ın kısıtlamaları nedeniyle, **App** **Store’da** **Stadia** **uygulaması** sadece oyunların satın alınmasına izin veriyor. Oyunları doğrudan bir iPhone ya da iPad’de oynamak için Stadia’yı kullanamazsınız, uygulamayı sadece diğer cihazlarda yönetmek için kullanabilirsiniz.
+<figure class="wp-block-image size-large">![](images/google-stadia-oyun-kolu.jpg)</figure>Apple’ın kısıtlamaları nedeniyle, **App** **Store’da** **Stadia** **uygulaması** sadece oyunların satın alınmasına izin veriyor. Oyunları doğrudan bir iPhone ya da iPad’de oynamak için Stadia’yı kullanamazsınız, uygulamayı sadece diğer cihazlarda yönetmek için kullanabilirsiniz.
 
 ## Çevrimiçi oyun ve kütüphane
 
 Bir Google Stadia hesabıyla erişilebilen tüm mevcut oyunlar oyun kitaplığında bulunabilir. Bu oyunların tümü ayrıca satın alınabilen ya da Stadia Pro abonelerine ücretsiz sunulan içeriklerdir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/google-stadia-da-hangi-oyunlar-var.png)</figure>Oyun kütüphanesinde, Kasım 2020 itibariyle Assassin’s Creed: Odyssey, Borderlands 3, Red Dead Redemption 2 gibi popüler oyunlar mevcut.
+<figure class="wp-block-image size-large">![](images/google-stadia-da-hangi-oyunlar-var.png)</figure>Oyun kütüphanesinde, Kasım 2020 itibariyle Assassin’s Creed: Odyssey, Borderlands 3, Red Dead Redemption 2 gibi popüler oyunlar mevcut.
 
 Aylık 10 dolar abonelik ücreti sunan Stadia şu anda Türkiye’deki kullanıcılara sunulmadı. Stadia, 1 aylık ücretsiz deneme sunuyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/google-stadia-abonelik-fiyati-ne-kadar.png)</figure>Ancak Türk oyun severler, Stadia’yı ve sunduğu avantajları takip etmeyi sürdürüyor.
+<figure class="wp-block-image size-large">![](images/google-stadia-abonelik-fiyati-ne-kadar.png)</figure>Ancak Türk oyun severler, Stadia’yı ve sunduğu avantajları takip etmeyi sürdürüyor.

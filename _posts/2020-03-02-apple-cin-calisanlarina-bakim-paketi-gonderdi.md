@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/appleçin.jpeg
+image: images/apple-cin.jpeg
 categories:
     - Apple
 tags:
@@ -29,7 +29,7 @@ Apple, Çin’deki çalışanlarını **koronavirüs** nedeniyle izole etmeyi un
 
 Bakım paketleri bazı atıştırmalıklar, yüz maskeleri ve hatta yeni bir 10.2 inç **iPad** içeriyor. Ayrıca paket içindekilerle birlikte Apple’dan çalışana bir mektupla beraber geliyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/applebakımkiti.jpg)</figure>## Şirketten mektup var
+<figure class="wp-block-image size-full">![](images/applebakımkiti.jpg)</figure>## Şirketten mektup var
 
 Apple’ın bakım paketinde yer alan şirket mektubu şöyle;
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6512'
 permalink: /uber-koronavirus-nedeniyle-calisanlarinin-yuzde-14unu-isten-cikariyor/
 post_views_count:
     - '61'
-image: /wp-content/uploads/2020/05/uber-koronavirus-nedeniyle-calisanlarinin-yuzde-14-unu-isten-cikariyor.jpeg
+image: images/uber-koronavirus-nedeniyle-calisanlarinin-yuzde-14-unu-isten-cikariyor.jpeg
 categories:
     - Genel
     - Girişim
@@ -24,7 +24,7 @@ Uber’in ana hizmeti, salgın nedeniyle alınan sert tedbir kararlarından cidd
 
 Bir **Uber** sözcüsü, “İnsanların daha az ulaşım ihtiyacının olması bir gerçek. Bu da müşteri hizmetlerinde çalışan personelin birçoğu için yeterli iş olmamasına neden oldu” dedi ve, “Toparlanmanın ne kadar süreceğini bilmediğimizden, maliyetlerimizi işimizin boyutuna uygun hale getirmek için adımlar atıyoruz” diye ekledi. Sözcü, bunun zor bir karar olduğunu ancak şirketin uzun vadede sağlığını korumak adına doğru olduğunu söyledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/uber-kac-calisana-sahip.jpg)</figure>**Koronavirüsün** ekonomik etkiledi, ulaşım endüstrisi alanında çok ciddi şekilde hissediliyor. **Uber’in** en büyük rakibi **Lyft**, yakın zamanda 1000’e yakın çalışanını işten çıkaracağını duyurmuştu. Uber’in Orta Doğu yan kuruluşu **Careem** ise, çalışan sayısını yüzde 30’dan fazla azalttı.
+<figure class="wp-block-image size-large">![](images/uber-kac-calisana-sahip.jpg)</figure>**Koronavirüsün** ekonomik etkiledi, ulaşım endüstrisi alanında çok ciddi şekilde hissediliyor. **Uber’in** en büyük rakibi **Lyft**, yakın zamanda 1000’e yakın çalışanını işten çıkaracağını duyurmuştu. Uber’in Orta Doğu yan kuruluşu **Careem** ise, çalışan sayısını yüzde 30’dan fazla azalttı.
 
 Mart ayında düzenlediği bir toplantıda **Uber** **CEO’su**, seyahat hacminin yüzde 80 düşmesinin aşırı uç bir durum olduğunu söylemişti. Bu durumda, Uber’e yıllık 4 milyar dolarlık nakit ihtiyacı gerekecekti.
 

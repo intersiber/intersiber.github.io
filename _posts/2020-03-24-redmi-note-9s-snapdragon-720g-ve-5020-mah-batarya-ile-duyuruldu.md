@@ -16,7 +16,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/redminote9s-1.jpg
+image: images/redminote9s-1.jpg
 categories:
     - Mobil
 tags:
@@ -32,7 +32,7 @@ Xiaomi’nin **Redmi** markası daha önce planladığı gibi dün **Redmi Note 
 
 Cihazda Corning Gorilla Glass 5 Korumalı 6.67 inç Full HD + LCD ekran, Snapdragon 720G 8nm SoC, Samsung GM2 Sensörlü 48 megapiksel birincil arka kamera, 8 megapiksel 120 derecelik ultra geniş açılı lens, 5 megapiksel gibi benzer özelliklere sahip 2 cm makro sensör ve 2 megapiksel derinlik sensörü, ön tarafta 16 megapiksel kamera, yana monte parmak izi tarayıcı, Aurua Balance tasarımı ve Corning Gorilla Glass 5 korumalı cam sırt ve 18W hızlı şarj desteği ile 5020mAh pil gücü sağlayan **Redmi Note 9S** kendisinden epey söz ettirecek bir model gibi görünüyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/redmi9s-2.jpg)</figure>#### Redmi Note 9S Teknik Özellikleri
+<figure class="wp-block-image size-full">![](images/redmi9s-2.jpg)</figure>#### Redmi Note 9S Teknik Özellikleri
 
 - 2400 × 1080 piksel 6,67 inç (Corning Gorilla Glass 5 korumalı 20: 9 Full HD + LCD DotDisplay)
 - Sekiz Çekirdekli Snapdragon 720G 8nm Mobil Platform (Çift 2.3GHz Kryo 465 A76 + Hexa 1.8GHz Kryo 465 A55 CPU’lar) Adreno 618 GPU ile

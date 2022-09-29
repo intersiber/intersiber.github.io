@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5388'
 permalink: /iphone-9-cok-yakinda-piyasaya-surulecek/
 post_views_count:
     - '82'
-image: /wp-content/uploads/2020/04/iphone-9-cok-yakinda-piyasaya-surulecek-scaled.jpeg
+image: images/iphone-9-cok-yakinda-piyasaya-surulecek-scaled.jpeg
 categories:
     - Mobil
 tags:
@@ -23,6 +23,6 @@ Apple’ın popüler **4 inç iPhone SE** modeli Eylül 2018’de kullanımdan k
 
 Sızan bir iOS 14 özelliğine dayanarak, artık 2020 için iPhone 9 olarak adlandırıldığı söylenen yeni bir iPhone SE’nin yakın gelecekte piyasaya çıkacağını biliyoruz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/Iphone-9-Çok-Yakında-Piyasaya-Sürülecek.jpg)</figure>Alınan bilgilere göre 4.7 inç ekrana sahip olacak iPhone 9’un, Apple’ın yeni mobil işlemcisi A13 Bionic işlemci çipi, 3 GB RAM, 128 GB ve 256 GB seçenekleriyle 64 GB temel depolama alanı ile sunulması bekleniyor. Renk seçenekleri ise uzay grisi, gümüş ve kırmızı olmak üzere üç farklı şekilde olacak.
+<figure class="wp-block-image size-large">![](images/Iphone-9-Çok-Yakında-Piyasaya-Sürülecek.jpg)</figure>Alınan bilgilere göre 4.7 inç ekrana sahip olacak iPhone 9’un, Apple’ın yeni mobil işlemcisi A13 Bionic işlemci çipi, 3 GB RAM, 128 GB ve 256 GB seçenekleriyle 64 GB temel depolama alanı ile sunulması bekleniyor. Renk seçenekleri ise uzay grisi, gümüş ve kırmızı olmak üzere üç farklı şekilde olacak.
 
 Apple’ın yeni, düşük maliyetli telefonunun başlangıçta **iPad Pro 2020** veya yeni **MacBook Air** ile birlikte, Mart ayı sonunda piyasaya çıkması bekleniyordu. Ancak COVID-19 salgını ile ilgili gecikmelere nedeniyle, birden fazla kaynak **Nisan** ayında bir **iPhone SE 2** lansmanına işaret ediyor

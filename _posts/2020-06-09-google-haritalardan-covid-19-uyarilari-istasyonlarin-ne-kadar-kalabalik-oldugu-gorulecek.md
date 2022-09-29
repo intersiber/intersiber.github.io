@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8276'
 permalink: /google-haritalardan-covid-19-uyarilari-istasyonlarin-ne-kadar-kalabalik-oldugu-gorulecek/
 post_views_count:
     - '50'
-image: /wp-content/uploads/2020/06/google-haritalar-dan-covid-19-uyarilari-istasyonlarin-ne-kadar-kalabalik-oldugu-gorulecek.jpg
+image: images/google-haritalar-dan-covid-19-uyarilari-istasyonlarin-ne-kadar-kalabalik-oldugu-gorulecek.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## İstasyonların ne kadar kalabalık olduğunu öğrenin
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/google-haritalar-koronavirus-uyarilari.png)</figure>Google Haritalar, toplu taşımayı kullananlar için istasyonların genellikle ne kadar kalabalık olduğunu verilerle sunuyor. Google’ın Haritalar uygulamasının ürün direktörü Ramesh Nagarajan, paylaştığı blog içeriğinde **Google** **Haritalar’da** bir istasyon arandığında, anonimleştirilmiş bilgilerden yolan çıkan sistemin, **Google** hesaplarının konum geçmişini etkinleştiren kişiler üzerinden bir tahmin sunduğunu ifade etti.
+<figure class="wp-block-image size-large">![](images/google-haritalar-koronavirus-uyarilari.png)</figure>Google Haritalar, toplu taşımayı kullananlar için istasyonların genellikle ne kadar kalabalık olduğunu verilerle sunuyor. Google’ın Haritalar uygulamasının ürün direktörü Ramesh Nagarajan, paylaştığı blog içeriğinde **Google** **Haritalar’da** bir istasyon arandığında, anonimleştirilmiş bilgilerden yolan çıkan sistemin, **Google** hesaplarının konum geçmişini etkinleştiren kişiler üzerinden bir tahmin sunduğunu ifade etti.
 
 ## COVID-19 kontrol noktaları
 

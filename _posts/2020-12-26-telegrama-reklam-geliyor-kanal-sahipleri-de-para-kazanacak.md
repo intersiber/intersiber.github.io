@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10165'
 permalink: /telegrama-reklam-geliyor-kanal-sahipleri-de-para-kazanacak/
 post_views_count:
     - '14'
-image: /wp-content/uploads/2020/12/telegram-a-reklam-geliyor-kanal-sahipleri-de-para-kazanacak.jpg
+image: images/telegram-a-reklam-geliyor-kanal-sahipleri-de-para-kazanacak.jpg
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ Gizlilik odaklı konseptiyle birçok kişinin tercih ettiği mesajlaşma uygulam
 
 ## 500 milyon kullanıcıya sahip uygulamanın sunucu giderleri karşılanacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/telegram-reklamlari-ile-kanal-sahipleri-nasil-para-kazanacak.jpg)</figure>Durov tarafından yapılan açıklamada **Telegram’a** **reklam** alınacağı ifade edilirken, bu reklam gelirinin, neredeyse yarım milyar kullancıcıya sahip olan uygulamanın artan giderlerini karşılamak için kullanılacağını aktardı.
+<figure class="wp-block-image size-large">![](images/telegram-reklamlari-ile-kanal-sahipleri-nasil-para-kazanacak.jpg)</figure>Durov tarafından yapılan açıklamada **Telegram’a** **reklam** alınacağı ifade edilirken, bu reklam gelirinin, neredeyse yarım milyar kullancıcıya sahip olan uygulamanın artan giderlerini karşılamak için kullanılacağını aktardı.
 
 Durov’a göre şirket, bu giderleri bu zamana kadar cebinden ödedi ancak gitgide daha popüler olan Telegram’ın, artık daha etkili bir finansman desteğine sahip olmasının önemli olduğunu aktardı.
 

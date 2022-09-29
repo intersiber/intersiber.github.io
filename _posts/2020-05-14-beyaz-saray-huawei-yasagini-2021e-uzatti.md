@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6884'
 permalink: /beyaz-saray-huawei-yasagini-2021e-uzatti/
 post_views_count:
     - '22'
-image: /wp-content/uploads/2020/05/beyaz-saray-huawei-yasagini-mayis-2021-e-uzatti.png
+image: images/beyaz-saray-huawei-yasagini-mayis-2021-e-uzatti.png
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ Başkan **Donald Trump**, ABD şirketlerinin ülke adına ulusal güvenlik riski
 
 Yasak, açıkça ifade edilmese de ABD’de artık ürün satamayan ve Google gibi şirketlerle çalışamayan, **Huawei** ve **ZTE** gibi Çinli şirketlerin operasyonlarına darbe vurmak adına duyurulmuştu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/huawei-abd-yasagi-nedir-1600x1062.jpeg)</figure>Beyaz Saray, bir yıl önce duyurduğu bu düzenlemede, Çinli şirketlerin ağ altyapısı için ekipman tedarik etmesini, ulusal güvenlik adına bir tehdit olarak ifade etmişti. Bu yasak, özellikle ABD’de **5G** altyapısının sunulması sürecinde yaşandı.
+<figure class="wp-block-image size-large">![](images/huawei-abd-yasagi-nedir-1600x1062.jpeg)</figure>Beyaz Saray, bir yıl önce duyurduğu bu düzenlemede, Çinli şirketlerin ağ altyapısı için ekipman tedarik etmesini, ulusal güvenlik adına bir tehdit olarak ifade etmişti. Bu yasak, özellikle ABD’de **5G** altyapısının sunulması sürecinde yaşandı.
 
 2019’un Mayıs ayında açıklanan yasak, tam manasıyla yürürlüğe girmedi. Huawei, her ne kadar yeni ürettiği cihazlarda **Google** ile çalışamasa da, ABD’li kurumlardan mevcut donanımları yazılım güncellemeleri ile desteklemesine izin veren geçici lisanslar almayı başardı.
 

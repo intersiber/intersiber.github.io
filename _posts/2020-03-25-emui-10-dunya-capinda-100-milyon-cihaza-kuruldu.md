@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/emui10-1.jpg
+image: images/emui10-1.jpg
 categories:
     - Mobil
 tags:
@@ -27,4 +27,4 @@ tags:
 
 22 Ocak’ta **Huawei** , dünya çapında 50 milyon cihazın yeni EMUI 10’a geçtiğini açıklamıştı. Ve şimdi iki ay sonra bu rakamın 100 milyona, yani iki katına çıktığını açıkladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/emui10-2.jpg)</figure>**EMUI 10**, Android 10’a dayanıyor ve yeni bir arayüz, yeniden tasarlanmış uygulamalar ve sistem genelinde Karanlık Mod desteğiyle geliyor. **EMUI 10**‘un diğer özellikleri arasında GPU Turbo, gelişmiş güvenlik ayarları ve performans hatalarının genel düzeltmeleri yer alıyor.
+<figure class="wp-block-image size-large">![](images/emui10-2.jpg)</figure>**EMUI 10**, Android 10’a dayanıyor ve yeni bir arayüz, yeniden tasarlanmış uygulamalar ve sistem genelinde Karanlık Mod desteğiyle geliyor. **EMUI 10**‘un diğer özellikleri arasında GPU Turbo, gelişmiş güvenlik ayarları ve performans hatalarının genel düzeltmeleri yer alıyor.

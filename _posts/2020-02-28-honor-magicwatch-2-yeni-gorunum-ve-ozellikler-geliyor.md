@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '33'
-image: /wp-content/uploads/2020/02/honor-magic-watch-2-scaled.jpg
+image: images/honor-magic-watch-2-scaled.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -25,7 +25,7 @@ Huawei’nin alt markası **HONOR** akıllı saat modeli **MagicWatch 2** için 
 
 HONOR’un 14 güne varan pil ömrü ve 15 farklı spor takip modu gibi özellikleriyle öne çıkan akıllı saat modeli MagicWatch 2 yeni kayışlarını ve özelliklerini duyurmaya hazırlanıyor. **EasyFit** adı verilen yeni kayışlar HONOR MagicWatch 2’nin hem **42 mm** hem de **46 mm**‘lik modelleri için tüm dünyada satışa sunulacak.
 
-<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/02/honor-magic-watch-2-yeni-ozellikler-ve-kayislar.jpg?fit=640%2C360&ssl=1)</figure>Yeni kayışlar sekiz farklı renk seçeneğiyle gelecek. Alerji yapmayan floröelastomer ve İtalyan derisi gibi farklı malzemelerle üretilen kayışlar bahar aylarıyla birlikte kullanıcıların beğenisine sunulacak.
+<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.comimages/honor-magic-watch-2-yeni-ozellikler-ve-kayislar.jpg?fit=640%2C360&ssl=1)</figure>Yeni kayışlar sekiz farklı renk seçeneğiyle gelecek. Alerji yapmayan floröelastomer ve İtalyan derisi gibi farklı malzemelerle üretilen kayışlar bahar aylarıyla birlikte kullanıcıların beğenisine sunulacak.
 
 ## Yeni işlevsel özellikler de geliyor
 

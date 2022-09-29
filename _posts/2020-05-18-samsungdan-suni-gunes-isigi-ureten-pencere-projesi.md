@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7125'
 permalink: /samsungdan-suni-gunes-isigi-ureten-pencere-projesi/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/05/samsung-dan-suni-gunes-isigi-ureten-pencere-projesi.png
+image: images/samsung-dan-suni-gunes-isigi-ureten-pencere-projesi.png
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ tags:
 
 Işığın açısı gün boyunca değişebiliyor ve gündoğumu, şafak vakti ve gün batımı gibi durumlarda ortaya çıkan güneş ışığı hareketlerini taklit edebiliyor. **SunnyFive’ın** yanında kullanılabilen bir uygulama ile kullanıcılar, renklerin sıcaklığını ve parlaklığını değiştirebiliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/samsung-yapay-isik-ureten-pencere-projesi.png)</figure>Samsung’un paylaştığı bilgiye göre ürün, insanların ciltlerinin yaşlanması ya da güneş yanığı gibi konularda endişe etmemeleri adına, D vitamininin sentezlenmesine yardımcı oluyor. **SunnyFive** aynı zamanda, Samsung’un akıllı ev ekosistemi SmartThings ile de entegre bir şekilde çalışabilecek.
+<figure class="wp-block-image size-large">![](images/samsung-yapay-isik-ureten-pencere-projesi.png)</figure>Samsung’un paylaştığı bilgiye göre ürün, insanların ciltlerinin yaşlanması ya da güneş yanığı gibi konularda endişe etmemeleri adına, D vitamininin sentezlenmesine yardımcı oluyor. **SunnyFive** aynı zamanda, Samsung’un akıllı ev ekosistemi SmartThings ile de entegre bir şekilde çalışabilecek.
 
 Üretilen ilk yapay pencere olmamasına karşın SunnyFive, ilgi çekici özellikler sunuyor. Özellikle koronavirüs salgını nedeniyle birçok kişinin evine kapandığı bugünlerde, aydınlatması iyi olmayan dairelerde bir güneş ışığı takviyesi ile daha keyifli bir ortam yaratmanız mümkün.
 

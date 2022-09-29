@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=898'
 permalink: /ios-uygulamalari-kullanicisi-farketmeden-gizlice-fotograf-ve-video-cekebiliyor/
 post_views_count:
     - '624'
-image: /wp-content/uploads/2017/11/iphone-camera.jpg
+image: images/iphone-camera.jpg
 categories:
     - Apple
     - 'Ne Nasıl?'

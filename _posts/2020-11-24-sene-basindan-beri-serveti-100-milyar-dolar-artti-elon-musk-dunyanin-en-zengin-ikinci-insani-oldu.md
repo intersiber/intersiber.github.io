@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9782'
 permalink: /sene-basindan-beri-serveti-100-milyar-dolar-artti-elon-musk-dunyanin-en-zengin-ikinci-insani-oldu/
 post_views_count:
     - '32'
-image: /wp-content/uploads/2020/11/sene-basindan-beri-serveti-100-milyar-dolar-artti-elon-musk-dunyanin-en-zengin-ikinci-insani.png
+image: images/sene-basindan-beri-serveti-100-milyar-dolar-artti-elon-musk-dunyanin-en-zengin-ikinci-insani.png
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Elon Musk 2020 başından bu yana servetini en çok artıran isim oldu. Amazon C
 
 Tesla hisselerinin artışı ile şirketin piyasa değeri 500 milyar doları aşarken, Musk sadece dün 7 milyar dolar kazandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/tesla-hisseleri.png)</figure>## Bill Gates’in serveti vakıfa aktarılıyor
+<figure class="wp-block-image size-large">![](images/tesla-hisseleri.png)</figure>## Bill Gates’in serveti vakıfa aktarılıyor
 
 Dünyanın en zenginleri listesinde uzun bir süredir birinci olan Bill Gates 2017’de Amazon’un patronu Bezos’a geçildi.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9132'
 permalink: /lenovonun-bir-sonraki-oyun-telefonu-kamerasi-ile-dikkatleri-ustune-cekiyor/
 post_views_count:
     - '37'
-image: /wp-content/uploads/2020/07/8133E6A6-B968-4519-AC54-7BEEA89BFBED.png
+image: images/8133E6A6-B968-4519-AC54-7BEEA89BFBED.png
 categories:
     - Mobil
 tags:

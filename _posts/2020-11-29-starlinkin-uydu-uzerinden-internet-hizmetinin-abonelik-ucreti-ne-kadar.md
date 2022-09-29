@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9851'
 permalink: /starlinkin-uydu-uzerinden-internet-hizmetinin-abonelik-ucreti-ne-kadar/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/11/starlink-in-uydu-uzerinden-internet-hizmetinin-ucreti-ne-kadar.jpg
+image: images/starlink-in-uydu-uzerinden-internet-hizmetinin-ucreti-ne-kadar.jpg
 categories:
     - Genel
     - Uzay
@@ -28,7 +28,7 @@ Kanadalı yayın organı CBC’nin ulaştığı Gref Rekounas, bir IT şirketind
 
 ## Aylık 783 TL internet abonelik ücreti ödüyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/starlink-internet-hizi-ne-kadar.png)</figure>Rekounas, **Starlink’in** 150 Mbit indirme e 12 Mbit yükleme **internet hızı** içeren internet paketi için aylık 130 Kanada doları ödediğini belirtiyor, bu da aylık 780 TL civarı bir ödeme anlamına geliyor.
+<figure class="wp-block-image size-large">![](images/starlink-internet-hizi-ne-kadar.png)</figure>Rekounas, **Starlink’in** 150 Mbit indirme e 12 Mbit yükleme **internet hızı** içeren internet paketi için aylık 130 Kanada doları ödediğini belirtiyor, bu da aylık 780 TL civarı bir ödeme anlamına geliyor.
 
 Buna ek olarak Starlink kurulum ücreti de dudak uçuklatan cinsten. Rekounas, kurulum için 820 Kanada doları, yani yaklaşık 4950 TL ödeme yapmış. Bu paket içinde 30 metrelik bir kablo, modem ve güç kaynağı da yer alıyor.
 

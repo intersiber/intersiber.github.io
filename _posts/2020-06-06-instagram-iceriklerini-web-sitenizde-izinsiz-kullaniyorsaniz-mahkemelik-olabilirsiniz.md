@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8159'
 permalink: /instagram-iceriklerini-web-sitenizde-izinsiz-kullaniyorsaniz-mahkemelik-olabilirsiniz/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/06/instagram-iceriklerini-web-sitenizde-izinsiz-kullaniyorsaniz-mahkemelik-olabilirsiniz.jpeg
+image: images/instagram-iceriklerini-web-sitenizde-izinsiz-kullaniyorsaniz-mahkemelik-olabilirsiniz.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -25,7 +25,7 @@ Bu hafta başı yaşanan olayda, fotoğrafçı **Elliot** **McGucken**, Instagra
 
 ## Instagram: İçeriğin yerleştirilmesi için de gerekli izin alınmalı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/instagram-telif-hakki-davasi-1600x1068.jpg)</figure>**Instagram**, platformda yer alan içeriklerde alt lisansa izin veriyor ancak gömme **API’ında** izin vermiyor. Bu da fotoğrafı yerleştirmek için, sahibinden izin alınması anlamına geliyor. Şirketten yapılan açıklamada, insanların içeriği yerleştirmek için de gerekli hakları edinmeleri gerektiğini söyledi.
+<figure class="wp-block-image size-large">![](images/instagram-telif-hakki-davasi-1600x1068.jpg)</figure>**Instagram**, platformda yer alan içeriklerde alt lisansa izin veriyor ancak gömme **API’ında** izin vermiyor. Bu da fotoğrafı yerleştirmek için, sahibinden izin alınması anlamına geliyor. Şirketten yapılan açıklamada, insanların içeriği yerleştirmek için de gerekli hakları edinmeleri gerektiğini söyledi.
 
 **Instagram** her ne kadar, “Platform politikalarımıza uygun olarak, insanların içeriklerini paylaşmadan önce diğerlerinden gerekli tüm hakları edinmelerini istiyoruz” açıklaması yapsa da, bu durumun ardından birçok kişinin kafası karıştı.
 

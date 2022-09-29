@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6250'
 permalink: /2020-fortnite-dunya-kupasi-iptal-edildi/
 post_views_count:
     - '80'
-image: /wp-content/uploads/2020/05/2020-fortnite-dunya-kupasi-iptal-edildi.jpg
+image: images/2020-fortnite-dunya-kupasi-iptal-edildi.jpg
 categories:
     - Oyun
 tags:

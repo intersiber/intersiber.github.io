@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/huawei.jpg
+image: images/huawei.jpg
 categories:
     - Mobil
 tags:
@@ -28,6 +28,6 @@ Güney Kore merkezli teknoloji sitesi TheElec iddiasına göre Huawei, yeni amir
 
 Panellerin Samsung fabrikalarında üretildiği, bu üretilen ekranlardan kaç adet satın alındığının bilinmediği açıklandı. Teknoloji üreticisi Samsung’un özellikle ekran teknolojilerine Apple dahil birçok şirket yakından izliyor ve zaman zaman bu panelleri satın alıyorlar.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/04/huawei-2.jpg)</figure>LG’nin pazarda yerinin iyice daralması ve Samsung’un daha başarılı ekran-panel teknolojilerini mobil cihazlar için üretmesi Çinli teknoloji devi Huawei’nin bile Samsung’u tercih etmesi ile sonuçlanmışa benziyor.
+<figure class="wp-block-image size-full">![](images/huawei-2.jpg)</figure>LG’nin pazarda yerinin iyice daralması ve Samsung’un daha başarılı ekran-panel teknolojilerini mobil cihazlar için üretmesi Çinli teknoloji devi Huawei’nin bile Samsung’u tercih etmesi ile sonuçlanmışa benziyor.
 
 **ABD** yaptırımlarından dolayı **Huawei** ve Samsung arasında bu ticaretin herhangi bir soruna sebep olup olmayacağı ise bilinmiyor.

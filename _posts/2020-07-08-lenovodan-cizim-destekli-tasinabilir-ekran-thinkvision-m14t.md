@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8970'
 permalink: /lenovodan-cizim-destekli-tasinabilir-ekran-thinkvision-m14t/
 post_views_count:
     - '93'
-image: /wp-content/uploads/2020/07/lenovodan-cizim-destekli-tasinabilir-ekran-thinkvision-m14t.jpg
+image: images/lenovodan-cizim-destekli-tasinabilir-ekran-thinkvision-m14t.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 İnce ve hafif taşınabilir monitör **14 inç** Full-HD dokunmatik ekran olarak sadece **698** gram ağırlığında olacak. Monitör dokunmatik özelliği olmayan bilgisayarlara dokunma yeteneği ekleyerek ve dokunmatik özellikli dizüstü bilgisayarlarla işbirliği içinde dokunuşu genişleterek daha fazla esneklik ve kullanıcı etkileşimi sunmak için ekstra işlevsellik sunacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/07/ThinkVision-M14t-1600x900.png)</figure>**ThinkVision M14t** on noktalı dokunma işlevselliği ve 4096 basınç seviyesi etkin kalem desteği ilekullanıcıların tasarım, canlandırma, sunum ve açıklama ekleme özgürlüğünün tadını çıkararak yaratıcılıklarını açığa çıkarmalarını sağlayacak.
+<figure class="wp-block-image size-large">![](images/ThinkVision-M14t-1600x900.png)</figure>**ThinkVision M14t** on noktalı dokunma işlevselliği ve 4096 basınç seviyesi etkin kalem desteği ilekullanıcıların tasarım, canlandırma, sunum ve açıklama ekleme özgürlüğünün tadını çıkararak yaratıcılıklarını açığa çıkarmalarını sağlayacak.
 
 Cihaz basit bir kablo çözümü sunan L şekilli dongle ve tam esneklik için iki tam işlevli USB Type-C bağlantı noktası ile dikey ve yatay formatlar için pivot desteği içeriyor. **M14t**, birlikte verilen etkin kalemi ve özel kılıfı ile gerçek bir mobil çalışma alanı için **USB-C** özellikli **ThinkPad** dizüstü bilgisayarlara veya diğer uyumlu USB-C aygıtlarına eklenebiliyor.
 

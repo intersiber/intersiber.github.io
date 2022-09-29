@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7604'
 permalink: /chrome-google-arama-icin-karanlik-modu-test-ediyor/
 post_views_count:
     - '52'
-image: /wp-content/uploads/2020/05/chrome-google-arama-icin-karanlik-modu-test-ediyor.jpg
+image: images/chrome-google-arama-icin-karanlik-modu-test-ediyor.jpg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ Karanlık mod, artık birçok cihazda ve platformda sunulan bir seçenek. Chrome
 
 ## Google karanlık mod nasıl kullanılır?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-arama-karanlik-mod-nasil-kullanilir.png)</figure>İnternette, karanlık mod eşliğinde arama yapmak istiyorsanız, aşağıdaki yöntemleri kullanabilirsiniz:
+<figure class="wp-block-image size-large">![](images/google-arama-karanlik-mod-nasil-kullanilir.png)</figure>İnternette, karanlık mod eşliğinde arama yapmak istiyorsanız, aşağıdaki yöntemleri kullanabilirsiniz:
 
 - Play Store’dan, Chrome Canary ya da Chrome Dev uygulamasını indirin.
 - Chrome’da, “Android’de karanlık mod arama sayfalarını göster” ifadesi ile arama yaparak, seçeneği etkinleştirin.

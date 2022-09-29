@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/samsung-galaxy-s20-plus.png
+image: images/samsung-galaxy-s20-plus.png
 categories:
     - Mobil
 tags:
@@ -26,6 +26,6 @@ Güney Kore merkezli teknoloji üreticisi Samsung, yeni akıllı telefon modelle
 
 **Galaxy S20 Plus** olarak adlandırılan yeni bir modelin kısa süre içerisinde farklı ülkelerde satışa sunulabileceği, yeni cihazın teknik açıdan **çift SIM** kart desteği gibi özelliklere sahip olduğu düşünülüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Galaxy-S20-Plus.jpg)</figure>Satışa sunulan Galaxy S20 Plus modelinin şimdilik Türkiye’den satın alınamadığı, kısa bir süre sonra cihazın dünyanın birçok ülkesinde satışa sunulabileceği iddia edildi.
+<figure class="wp-block-image size-large">![](images/Galaxy-S20-Plus.jpg)</figure>Satışa sunulan Galaxy S20 Plus modelinin şimdilik Türkiye’den satın alınamadığı, kısa bir süre sonra cihazın dünyanın birçok ülkesinde satışa sunulabileceği iddia edildi.
 
 **eBay** üzerinden 799 dolar fiyatla satışa sunulan Galaxy S20 Plus modelinin şu anda Türkiye’ye gönderilmediğini de ekleyelim.

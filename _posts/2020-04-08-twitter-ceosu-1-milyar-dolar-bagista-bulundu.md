@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5191'
 permalink: /twitter-ceosu-1-milyar-dolar-bagista-bulundu/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/04/twitter-ceosu-jack-dorseyden-1-milyar-dolar-bagis.jpeg
+image: images/twitter-ceosu-jack-dorseyden-1-milyar-dolar-bagis.jpeg
 categories:
     - Genel
 tags:

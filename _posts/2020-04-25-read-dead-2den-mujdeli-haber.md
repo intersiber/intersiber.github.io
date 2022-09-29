@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5974'
 permalink: /read-dead-2den-mujdeli-haber/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/04/read-dead-2den-mujdeli-haber-1.jpg
+image: images/read-dead-2den-mujdeli-haber-1.jpg
 categories:
     - Oyun
 tags:
@@ -21,7 +21,7 @@ tags:
 
 PC ve Playstation gibi birçok platformda yer alan vahşi temalı açık dünya oyunu **Xbox Game Pass** kullanıcıları için çevrimiçi modu olan **Read Dead Online** ile birlikte **7 Mayıs** tarihinde oynanabilir hâle gelecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/red-dead-redemption-2-1600x816.jpg)</figure>**Read** **Dead Redemption 2**, 19. yüzyılın sonlarında geçiyor ve Van der Linde çetesi üzerine kurulu. İlk bölümünde Blackwater kasabasındaki başarısız soygun girişimini işleyen oyunun ikinci bölümünde işler gittikçe kötüleşiyor. Van der Linde çetesinin bir üyesi olan Arthur Morgan isimli kanun kaçağının macera dolu hayatta kalma serüveni olan mükemmel bir oyun.
+<figure class="wp-block-image size-large">![](images/red-dead-redemption-2-1600x816.jpg)</figure>**Read** **Dead Redemption 2**, 19. yüzyılın sonlarında geçiyor ve Van der Linde çetesi üzerine kurulu. İlk bölümünde Blackwater kasabasındaki başarısız soygun girişimini işleyen oyunun ikinci bölümünde işler gittikçe kötüleşiyor. Van der Linde çetesinin bir üyesi olan Arthur Morgan isimli kanun kaçağının macera dolu hayatta kalma serüveni olan mükemmel bir oyun.
 
 **Red Dead Redemption 2** platforma geldiği gün sevilen oyun **Grand Theft Auto V**, Xbox Game Pass servisinden kaldırılacak. Kaldırılmadan önce **%20** indirimle sunulacak olan oyunu kullanıcılar kütüphanelerine ekleyebilecek.
 

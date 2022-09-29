@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8558'
 permalink: /rusya-telegram-yasagini-iki-yil-sonra-kaldirdi/
 post_views_count:
     - '49'
-image: /wp-content/uploads/2020/06/rusya-telegram-yasagini-iki-yil-sonra-kaldirdi.jpg
+image: images/rusya-telegram-yasagini-iki-yil-sonra-kaldirdi.jpg
 categories:
     - Genel
 tags:
@@ -22,6 +22,6 @@ Rusya’nın mesajlaşma uygulaması **Telegram’ın** yasağını kaldırdığ
 
 ## Aşırılık yanlısı içerikler silinecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/telegram-nedir.jpg)</figure>Milyonlarca Rus kullanıcı, **Telegram’ı** iki yıl boyunca VPN gibi sistemlerle kullandı. Telegram CEO’su **Durov**, yakın zamanda yaptığı açıklamada Rus kullanıcıların hizmete daha rahat erişebilmesi adına yasağın kaldırılmasını istedi. Durov, platformda aşırılık yanlısı içeriğin tespit edileceğini ve silineceğini de aktardı.
+<figure class="wp-block-image size-large">![](images/telegram-nedir.jpg)</figure>Milyonlarca Rus kullanıcı, **Telegram’ı** iki yıl boyunca VPN gibi sistemlerle kullandı. Telegram CEO’su **Durov**, yakın zamanda yaptığı açıklamada Rus kullanıcıların hizmete daha rahat erişebilmesi adına yasağın kaldırılmasını istedi. Durov, platformda aşırılık yanlısı içeriğin tespit edileceğini ve silineceğini de aktardı.
 
 Nisan ayında 400 milyon kullanıcıya ulaşan **Telegram**, son 2 yılda kullanıcı sayısını iki katına çıkarmayı başardı.

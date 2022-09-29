@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/xiaomi-router-aiot-ax-3600.jpg
+image: images/xiaomi-router-aiot-ax-3600.jpg
 categories:
     - Genel
 tags:
@@ -26,4 +26,4 @@ Xiaomi yakın zaman içerisinde WiFi 6 protokolünü kullanan wireless router ç
 
 Şirket yeni routerın tam marka modelinin “**Xiaomi AIoT Router AX3600**” olacağını ve Mi 10 serisinde de yer alacak **WiFi 6** protokolüne sahip olacağını açıkladı. Yeni WiFi standartı daha düşük gecikme ile daha yüksek hızlar vaat ediyor. Detaylara göre, cihazın teorik hızının **2976Mbps** olduğu paylaşıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/0_big.jpg)</figure>Xiaomi AIoT Router’ın kullandığı WiFi 6 teknolojisi hakkında detaylı özellikler paylaşıldı. Daha geniş kapsama kuvveti ile daha düşük enerji tüketimine sahip olacağı paylaşılan bilgiler arasında. Kapsama kuvvetinin yüksek olması sayesinde aynı anda daha fazla kullanıcıya daha güçlü bir bağlantı sunacak olan teknoloji daha düşük gecikme süresi ve daha yüksek aktarım süresi vaat ediyor.
+<figure class="wp-block-image size-large">![](images/0_big.jpg)</figure>Xiaomi AIoT Router’ın kullandığı WiFi 6 teknolojisi hakkında detaylı özellikler paylaşıldı. Daha geniş kapsama kuvveti ile daha düşük enerji tüketimine sahip olacağı paylaşılan bilgiler arasında. Kapsama kuvvetinin yüksek olması sayesinde aynı anda daha fazla kullanıcıya daha güçlü bir bağlantı sunacak olan teknoloji daha düşük gecikme süresi ve daha yüksek aktarım süresi vaat ediyor.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8309'
 permalink: /twitter-hikayeleri-fleets-hindistanda-kullanimda/
 post_views_count:
     - '45'
-image: /wp-content/uploads/2020/06/twitter-hikayeleri-fleets-hindistan-da-kullanimda.png
+image: images/twitter-hikayeleri-fleets-hindistan-da-kullanimda.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -23,6 +23,6 @@ tags:
 
 Twitter Hindistan Genel Müdürü Manish Maheshwari, ülkesinin dünya çapında en büyük ve en hızlı büyüyen pazarlardan biri olduğunu ve Twitter için önem arz ettiğini söyledi. Maheshwari, “**Fleets** özelliğini Hindistan’a getirmekten ve bu yeni ürünü deneyimleyen dünyanın ilk üç ülkesinden biri olmaktan heyecan duyuyoruz” dedi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/twitter-hikayeler-fleets-nasil-kullanilir.png)</figure>Twitter, test sürecinde Hintlilerin **Twitter’a** katılma sürecini, fleets’in nasıl değiştirdiğini öğrenmeye çalışacak. Şirket, bu özelliğin farklı bir içerik türü ile, insanların paylaşım oranını nasıl etkileyeceğini test etmeyi amaçlıyor.
+<figure class="wp-block-image size-large">![](images/twitter-hikayeler-fleets-nasil-kullanilir.png)</figure>Twitter, test sürecinde Hintlilerin **Twitter’a** katılma sürecini, fleets’in nasıl değiştirdiğini öğrenmeye çalışacak. Şirket, bu özelliğin farklı bir içerik türü ile, insanların paylaşım oranını nasıl etkileyeceğini test etmeyi amaçlıyor.
 
 Şirket, hikayeler özelliği fleetsi ne zaman dünya çapında yayınlayacağını henüz açıklamıyor. **Hikayeler** daha önce Youtube, Skype ve Whatsapp gibi farklı uygulamalarda denendi. Twitter, dünya çapında kabul gören ve çok fazla kullanılan hikayeler özelliğini benimseme konusunda biraz yavaş olarak değerlendirildi.

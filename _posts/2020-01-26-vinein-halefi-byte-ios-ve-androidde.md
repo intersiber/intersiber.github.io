@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '65'
-image: /wp-content/uploads/2020/01/byte-vine-uygulamasi-6-saniyelik-videolar.png
+image: images/byte-vine-uygulamasi-6-saniyelik-videolar.png
 categories:
     - Mobil
     - 'Öne Çıkan'

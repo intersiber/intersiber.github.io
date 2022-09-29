@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '121'
-image: /wp-content/uploads/2020/02/spacex-starlink-4-uydu-gorevi.png
+image: images/spacex-starlink-4-uydu-gorevi.png
 categories:
     - Uzay
 tags:
@@ -26,7 +26,7 @@ tags:
 
 Dünya’ya internet sağlamak amacıyla yürütülen Starlink projesi yeni görevini kısmen başarıyla tamamladı. Kısmen diyoruz çünkü bu sefer uyduları taşıyan **Falcon 9** roketi başarıyla geri iniş yapamadı. Yerel saat ile 10:05’te Florida’daki Cape Canaveral Hava Kuvvetleri Üssünde görev başladı. Gerçekleştirilen Starlink 4 görevi kapsamında uzaya 60 uydu daha gönderildi. İki hafta önce [Starlink 3](https://intersiber.com/spacex-60-starlink-uydusunu-daha-uzaya-gonderdi/) görevi ile 60 uydu daha başarıyla yörüngeye gönderilmişti. Bu sayede yörüngedeki Starlink uydu sayısı 300 oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/spacex-starlink-4-gorevi.png)</figure>## Falcon 9 bu sefer platforma inemedi
+<figure class="wp-block-image size-large">![](images/spacex-starlink-4-gorevi.png)</figure>## Falcon 9 bu sefer platforma inemedi
 
 Uyduları taşıyan Falcon 9 roketi dönüş yolunda drone gemisine iniş yapamadı. Uzun zaman sonra ilk kez bir Falcon 9 roketi başarısız oldu. Konuyla ilgili konuşan SpaceX mühendisi Jessie Anderson, Falcon 9 roketinin yeryüzüne dönmeyi başardığını ancak okyanustaki platform yerine suya yumuşak bir iniş gerçekleştirdiğini ve şu an muhtemelen okyanusta tek parça halinde beklediğini belirtti. SpaceX ekibi tek parça halde bekleyen roketi kurtarmak için operasyona başladı.
 

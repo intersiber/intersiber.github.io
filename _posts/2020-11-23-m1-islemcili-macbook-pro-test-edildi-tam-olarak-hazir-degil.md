@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9765'
 permalink: /m1-islemcili-macbook-pro-test-edildi-tam-olarak-hazir-degil/
 post_views_count:
     - '55'
-image: /wp-content/uploads/2020/11/m1-islemcili-macbook-pro-test-edildi-tam-olarak-hazir-degil-scaled.jpg
+image: images/m1-islemcili-macbook-pro-test-edildi-tam-olarak-hazir-degil-scaled.jpg
 categories:
     - Apple
     - 'Dizüstü Bilgisayar'

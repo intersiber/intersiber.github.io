@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '77'
-image: /wp-content/uploads/2020/02/youtube-2019-reklam-geliri.png
+image: images/youtube-2019-reklam-geliri.png
 categories:
     - 'Öne Çıkan'
     - 'Sosyal Medya'

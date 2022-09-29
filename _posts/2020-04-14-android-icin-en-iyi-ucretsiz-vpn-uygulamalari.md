@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5461'
 permalink: /android-icin-en-iyi-ucretsiz-vpn-uygulamalari/
 post_views_count:
     - '105'
-image: /wp-content/uploads/2020/04/android-icin-en-iyi-ucretsiz-vpn-uygulamalari.png
+image: images/android-icin-en-iyi-ucretsiz-vpn-uygulamalari.png
 categories:
     - Mobil
 tags:
@@ -28,7 +28,7 @@ tags:
 
 ## ExpressVPN
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/express-vpn-android-vpn-uygulamasi.png)</figure>Dünyanın en çok tercih edilen ve en çok güvenilen VPN servislerinden biri olan ExpressVPN, yüksek hız sunan uygulamalardan. SSL güvenliğinin yanı sıra, 256 bit şifreleme ve sınırsız bant genişliği özellikleri sunan ExpressVPN, Android için en çok önerilen VPN uygulamalarından.
+<figure class="wp-block-image size-large">![](images/express-vpn-android-vpn-uygulamasi.png)</figure>Dünyanın en çok tercih edilen ve en çok güvenilen VPN servislerinden biri olan ExpressVPN, yüksek hız sunan uygulamalardan. SSL güvenliğinin yanı sıra, 256 bit şifreleme ve sınırsız bant genişliği özellikleri sunan ExpressVPN, Android için en çok önerilen VPN uygulamalarından.
 
 ## Free VPN – Betternet
 
@@ -36,7 +36,7 @@ Bir diğer **ücretsiz** Android **VPN** **uygulaması**, Free VPN – Betternet
 
 ## TunnelBear VPN
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/android-vpn-uygulama-onerisi-tunnelbear.png)</figure>TunnelBear VPN, Android akıllı telefonunuza indirebileceğiniz kaliteli VPN uygulamalarından. Ücretsiz üye olarak kurabileceğiniz uygulama, size ilk etapta bir kota tanıyor. Kotanızı tamamladığınızda ise ücretli modele geçmeniz isteniyor. TunnelBear VPN tarifelerinden birini satın alarak, VPN’i kullanmaya devam edebilirsiniz.
+<figure class="wp-block-image size-large">![](images/android-vpn-uygulama-onerisi-tunnelbear.png)</figure>TunnelBear VPN, Android akıllı telefonunuza indirebileceğiniz kaliteli VPN uygulamalarından. Ücretsiz üye olarak kurabileceğiniz uygulama, size ilk etapta bir kota tanıyor. Kotanızı tamamladığınızda ise ücretli modele geçmeniz isteniyor. TunnelBear VPN tarifelerinden birini satın alarak, VPN’i kullanmaya devam edebilirsiniz.
 
 ## VPN Master
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Apple-4.jpg
+image: images/Apple-4.jpg
 categories:
     - Apple
 tags:
@@ -28,7 +28,7 @@ tags:
 
 ABD’de ise bir süredir süren COVID-19 sorununun Apple’ın satışlarını düşürdüğü ve önümüzdeki dönemde daha fazla düşüş olmasının mümkün olabileceği belirtiliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Apple-3.jpg)</figure>## Satışlar %18 Düşecek
+<figure class="wp-block-image size-large">![](images/Apple-3.jpg)</figure>## Satışlar %18 Düşecek
 
 Bazı çalışmalar Apple’ın satışlarının %18 oranında düşeceğini gösteriyor. Bu duruma özellikle teknoloji üreticisinin Avrupa’dan daha az talep almasının sebep olacağı düşünülüyor.
 

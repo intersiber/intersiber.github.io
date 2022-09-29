@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=4693'
 permalink: /cin-koronavirusun-bulastigi-ilk-insan-tespit-edildi/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/03/çin.jpg
+image: images/cin.jpg
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ The Paper isimli haber kaynağına göre Çin’de devlet yetkilileri ülkede ko
 
 Pekin yönetimine yakın olduğu iddia edilen kaynaklar ise corona virüsün ilk olarak Wei Guixian isimli 57 yaşındaki Wuhan, Huanan hayvan pazarında çalışan kadına bulaştığını açıkladılar.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Wei-Guixian.jpg)</figure>10 Aralık 2019 tarihinde semptomlar göstererek hastaneye başvurduğu açıklanan kadının, basit bir soğuk algınlığı veya benzer hastalıklar sınıfında değerlendirildiği, bu sebeple ilaç yazılarak evine gönderildiği açıklandı.
+<figure class="wp-block-image size-large">![](images/Wei-Guixian.jpg)</figure>10 Aralık 2019 tarihinde semptomlar göstererek hastaneye başvurduğu açıklanan kadının, basit bir soğuk algınlığı veya benzer hastalıklar sınıfında değerlendirildiği, bu sebeple ilaç yazılarak evine gönderildiği açıklandı.
 
 Kadının daha sonrasında yeniden pazara geri dönerek çalışmaya devam ettiği, 7-8 gün sonra bayılarak hastaneye kaldırıldığı ve “çaresi bilinmeyen bir hastalık” olarak tanımlanan kayıt açıldığı açıklandı.
 

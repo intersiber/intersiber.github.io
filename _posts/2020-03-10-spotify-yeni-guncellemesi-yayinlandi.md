@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/spotify-yeni-guncellemesi-yayinlandi-3-scaled.jpg
+image: images/spotify-yeni-guncellemesi-yayinlandi-3-scaled.jpg
 categories:
     - Mobil
 tags:
@@ -25,6 +25,6 @@ Dünyanın en fazla aktif olarak kullanılan müzik uygulamalarından olan Spoti
 
 Kullanıcılar Spotify uygulamasına girdiklerinde ülkelerinde saatin kaç olduğuna bağlı olarak ”günaydın, iyi akşamlar, iyi geceler” gibi farklı selamlama ifadelerini görebilecekler.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/spotify-yeni-guncellemesi-yayinlandi-2.jpeg)</figure>Uygulama güncellemesi ile beraber sadece tasarımsal değişim değil, aynı zamanda listelere ve müziklere daha kolay ve kısa süre içerisinde erişim gibi konularda da uygulama için iyileştirmeler yapılmış olacak.
+<figure class="wp-block-image size-large">![](images/spotify-yeni-guncellemesi-yayinlandi-2.jpeg)</figure>Uygulama güncellemesi ile beraber sadece tasarımsal değişim değil, aynı zamanda listelere ve müziklere daha kolay ve kısa süre içerisinde erişim gibi konularda da uygulama için iyileştirmeler yapılmış olacak.
 
 \*Güncelleme Android ve iOS cihazlar için aktif iken, 30 günlük müzik geçmişi olmayanlar güncellemeden tam anlamıyla yararlanamayacaklar.

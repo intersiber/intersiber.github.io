@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '249'
-image: /wp-content/uploads/2018/04/facebook-mark-zuckerberg.jpg
+image: images/facebook-mark-zuckerberg.jpg
 categories:
     - Genel
     - 'Öne Çıkan'
@@ -43,7 +43,7 @@ Facebook yaptığı açıklamada şu ifadelere yer verdi:
 
 “Kötü niyetli kişiler güvenlik açığı olmadığında dahi Facebook kullanıcı verilerini kötü amaçlı olarak toplayabilir ve kötüye kullanabilir. Bu program bu tarz kötüye kullanıma karşı koruma sağlamaya yöneliktir.”
 
-![](https://intersiber.com/wp-content/uploads/2018/04/facebook-new-bug-bounty-program.jpeg)
+![](images/facebook-new-bug-bounty-program.jpeg)
 
 Facebook’un yeni ödül programı ile oluşturulan raporların toplam etkisi ödülü belirleyecek. Yeni ödül programı dahilinde bildirilen raporlar ile büyük keşifler için 40.000 USD ödül kazanabileceği düşünülüyor.
 

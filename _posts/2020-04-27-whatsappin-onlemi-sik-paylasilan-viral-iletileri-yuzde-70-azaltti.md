@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6044'
 permalink: /whatsappin-onlemi-sik-paylasilan-viral-iletileri-yuzde-70-azaltti/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/04/whatsapp-in-onlemi-sik-paylasilan-iletilerin-yuzde-70-azalmasini-sagladi.jpeg
+image: images/whatsapp-in-onlemi-sik-paylasilan-iletilerin-yuzde-70-azalmasini-sagladi.jpeg
 categories:
     - Genel
     - Mobil
@@ -24,7 +24,7 @@ Facebook bünyesindeki şirket, bugün yaptığı açıklamada “çok yönlendi
 
 2 milyar kullanıcıya sahip mesajlaşma uygulaması, bu ayın başında kullanıcıların, sık iletilen mesajlar kapsamında yer alan, toplu iletilen mesajları iletmesine kısıtlama getirmişti ve yalnızca bir kişiye ya da gruba, bu mesajların iletilmesine olanak tanımıştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/whatsapp-sik-paylasilan-iletileri-kisitladi-toplu-mesaj.png)</figure>**Whatsapp** sözcüsü, yaptığı açıklamada konuyla ilgili “Kısa bir süre önce, ‘**çok fazla yönlendirilen**’ iletileri yalnızca bir sohbetle paylaşma sınırlaması getirdik. Bu kısıtlama getirildiğinden beri, çok iletilen mesajların sayısında yüzde 70’lik bir azalma oldu” ifadesini kullandı.
+<figure class="wp-block-image size-large">![](images/whatsapp-sik-paylasilan-iletileri-kisitladi-toplu-mesaj.png)</figure>**Whatsapp** sözcüsü, yaptığı açıklamada konuyla ilgili “Kısa bir süre önce, ‘**çok fazla yönlendirilen**’ iletileri yalnızca bir sohbetle paylaşma sınırlaması getirdik. Bu kısıtlama getirildiğinden beri, çok iletilen mesajların sayısında yüzde 70’lik bir azalma oldu” ifadesini kullandı.
 
 Whatsapp, çok iletilen mesajların toplumda dezenformasyona yol açtığı şikayetlerinden ötürü, 2018 yılında bu mesajların, aynı anda beşten fazla kişi ya da gruba gönderilmesini kısıtlamıştı. Son kısıtlama öncesinde Whatsapp, çok yönlendirilen mesajların en fazla 5 kişiye gönderilmesi kararının ardından, bu mesajların dünya çapında yüzde 25 oranında azaldığını söyledi.
 

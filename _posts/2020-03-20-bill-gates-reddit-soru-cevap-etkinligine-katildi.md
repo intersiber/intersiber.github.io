@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Bill-Gates.jpg
+image: images/Bill-Gates.jpg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ Microsoft’un kurucu ortaklarından olan Bill Gates, ABD’nin ve tüm dünyan�
 
 100 milyon dolar değerinde bir bağış yapması ile corona virüsü salgınını yakından izlediği bilinen milyarder isim, aşı ile ilgili çok olumlu açıklama yapmazken izolasyon konusunda ise hükümetleri uyardı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Bill-Gates-2.jpg)</figure>“Hükümetler 4-6 hafta kadar izolasyon uygulaması durumunda yeniden canlılık olabilir. Virüsün etkisi son derece azalabilir. Corona virüsü aşısı için tahminen 18 ay sonraya kadar beklemek gerekiyor ama aşı çıkacak.” dedi.
+<figure class="wp-block-image size-full">![](images/Bill-Gates-2.jpg)</figure>“Hükümetler 4-6 hafta kadar izolasyon uygulaması durumunda yeniden canlılık olabilir. Virüsün etkisi son derece azalabilir. Corona virüsü aşısı için tahminen 18 ay sonraya kadar beklemek gerekiyor ama aşı çıkacak.” dedi.
 
 Gates’e sorular soran çok sayıda Reddit kullanıcısı ise Gates’in CEO’luk görevinden neden istifa ettiği, Microsoft’un bu kadar gelişmesinin arkasındaki sırrı ve Gates’in başarısının sırrını sordular.

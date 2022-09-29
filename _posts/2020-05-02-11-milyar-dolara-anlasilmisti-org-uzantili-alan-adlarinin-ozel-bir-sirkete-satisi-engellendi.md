@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6300'
 permalink: /11-milyar-dolara-anlasilmisti-org-uzantili-alan-adlarinin-ozel-bir-sirkete-satisi-engellendi/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/05/1-1-milyar-dolara-satilmisti-org-uzantili-alan-adlarinin-satisi-durduruldu.jpg
+image: images/1-1-milyar-dolara-satilmisti-org-uzantili-alan-adlarinin-satisi-durduruldu.jpg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ Kasım ayında, .org uzantılı alan adlarının **Ethos** **Capital** adlı yat
 
 ## ICANN anlaşmanın reddedildiğini duyurdu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/icann-nedir-alan-adi-satisi.jpg)</figure>İnternet topluluğu tarafından, org uzantısını da dahil olmak üzere yetkili kurum olan **ICANN**, Perşembe günü anlaşmayı iptal ettiğini duyurdu.
+<figure class="wp-block-image size-large">![](images/icann-nedir-alan-adi-satisi.jpg)</figure>İnternet topluluğu tarafından, org uzantısını da dahil olmak üzere yetkili kurum olan **ICANN**, Perşembe günü anlaşmayı iptal ettiğini duyurdu.
 
 Anlaşma, basında “kabul edilemez bir belirsizlik yarattı” ifadesi ile özetlenmişti. **ICANN** kurulu, gelen baskıların ardından kamu yararını gözeterek büyük anlaşmayı durdurdu.
 

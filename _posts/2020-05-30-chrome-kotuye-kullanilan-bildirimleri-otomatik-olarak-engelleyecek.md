@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7805'
 permalink: /chrome-kotuye-kullanilan-bildirimleri-otomatik-olarak-engelleyecek/
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/05/chrome-kotuye-kullanilan-bildirimleri-otomatik-olarak-engelleyecek.jpeg
+image: images/chrome-kotuye-kullanilan-bildirimleri-otomatik-olarak-engelleyecek.jpeg
 categories:
     - Genel
 tags:
@@ -24,6 +24,6 @@ Google, Chrome 84’ten başlayarak, 14 Temmuz’a kadar giden süreçte bildiri
 
 ## Bildirim filtresi, onaylamadığınız sitelerden gelen izinleri etkileyecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-chrome-bildirimleri-nasil-kapatilir-1461x1600.png)</figure>**Google**, özelliği yayına almasının ardından, yeni bildirimler konusunda henüz onay verilmemiş sitelerden gelen izin isteklerini filtreleyecek. Ancak filtre, ileride izin verilmiş sitelerden gelen rahatsız edici bildirimler için de kullanabilir.
+<figure class="wp-block-image size-large">![](images/google-chrome-bildirimleri-nasil-kapatilir-1461x1600.png)</figure>**Google**, özelliği yayına almasının ardından, yeni bildirimler konusunda henüz onay verilmemiş sitelerden gelen izin isteklerini filtreleyecek. Ancak filtre, ileride izin verilmiş sitelerden gelen rahatsız edici bildirimler için de kullanabilir.
 
 Web sitenize, ziyaretçiler tarafından ‘kötüye kullanım’ şikayeti geldiği takdirde, Google Arama Konsolu’nda bunu takip edebilirsiniz. Yaptırımla karşılaşmadan 30 gün önce, konuyla ilgili bir e-posta da alacaksınız. Google, kullanıcılara daha iyi bir bildirim deneyimi için, kötü niyetli uygulamalardan kaçınmak adına bir rehber de hazırladı.

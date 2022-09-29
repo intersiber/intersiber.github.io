@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8493'
 permalink: /uye-olanlara-para-vaat-ediyordu-tiktok-klonu-zynn-app-storedan-da-kaldirildi/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/06/uye-olanlara-para-vaat-ediyordu-tiktok-klonu-zynn-app-store-dan-da-kaldirildi.png
+image: images/uye-olanlara-para-vaat-ediyordu-tiktok-klonu-zynn-app-store-dan-da-kaldirildi.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -34,4 +34,4 @@ Kullanıcılar tarafından yüklenen içeriklere gelen şikayetlerin bu duruma n
 
 Mayıs ayının başında **iOS** ve **Android’de** yayınlanan **Zynn**, kısa süre içinde en çok indirilen uygulamalar listesinde zirveye çıktı. Kullanıcılara para ödeme vaadi ile ilgili eleştirilere, reklam bütçelerini kullanıcılara harcadıkları şeklinde yanıt veren Zynn, bazı analistler tarafından piramit şeması sistemi sunmasıyla eleştirildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/tiktok-klonu-zynn-nedir.jpg)</figure>Çinli Zynn, TikTok’un ana şirketi **ByteDance** ile rakip bir şirket olan Kuaishou’ya ait. Kısa sürede hızlı bir yükseliş yaşayan Zynn, her iki uygulama mağazasında aldığı ciddi yara ile, uzun vadede daha zorlu bir yolda.
+<figure class="wp-block-image size-large">![](images/tiktok-klonu-zynn-nedir.jpg)</figure>Çinli Zynn, TikTok’un ana şirketi **ByteDance** ile rakip bir şirket olan Kuaishou’ya ait. Kısa sürede hızlı bir yükseliş yaşayan Zynn, her iki uygulama mağazasında aldığı ciddi yara ile, uzun vadede daha zorlu bir yolda.

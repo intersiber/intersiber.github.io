@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6324'
 permalink: /koronavirus-salgini-abdli-zenginlerin-servetine-283-milyar-dolar-katti/
 post_views_count:
     - '76'
-image: /wp-content/uploads/2020/05/koronavirus-salgini-abd-nin-en-zenginlerinin-servetine-283-milyar-dolar-katti.jpeg
+image: images/koronavirus-salgini-abd-nin-en-zenginlerinin-servetine-283-milyar-dolar-katti.jpeg
 categories:
     - Genel
 tags:
@@ -26,6 +26,6 @@ Araştırmayı yayınlayan Institute for Policy Studies, ABD’li milyarderlerin
 
 ## Dünyanın en zengini Bezos 25 milyar dolar kazandı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/jeff-bezos-serveti-ne-kadar.jpg)</figure>İnternet devi Amazon’un kurucusu Jeff Bezos, dünyanın en zenginleri listesindeki yerini korudu. Bezos, Şubat ayının başından beri Amazon’da 4 milyar dolarlık hisse satışı yaptı. Bezos, hisse satışını diğer bir girişimi olan Blue Origin’in giderleri için yaptığını söyledi.
+<figure class="wp-block-image size-large">![](images/jeff-bezos-serveti-ne-kadar.jpg)</figure>İnternet devi Amazon’un kurucusu Jeff Bezos, dünyanın en zenginleri listesindeki yerini korudu. Bezos, Şubat ayının başından beri Amazon’da 4 milyar dolarlık hisse satışı yaptı. Bezos, hisse satışını diğer bir girişimi olan Blue Origin’in giderleri için yaptığını söyledi.
 
 Bezos’un 1 Ocak ile Nisan’ın 15’i arasında elde ettiği servetin net tutarı ise tam 25 milyar dolar. **Bezos**’un **toplam** **serveti** bu süreçte, 140 milyar dolara yaklaşmıştı. Bezos’ın ardından dünyanın en zengin ikinci ismi ise Bill Gates.

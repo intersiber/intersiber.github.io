@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=822'
 permalink: /google-dokumanlar-uzerinden-yapilan-saldiri-engellendi/
 post_views_count:
     - '401'
-image: /wp-content/uploads/2017/05/google-docs-phishing.jpg
+image: images/google-docs-phishing.jpg
 categories:
     - Genel
     - Güvenlik

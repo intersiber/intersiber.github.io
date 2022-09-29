@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7689'
 permalink: /2020nin-ilk-ceyreginde-en-cok-satan-akilli-telefon-iphone-11-oldu/
 post_views_count:
     - '67'
-image: /wp-content/uploads/2020/05/2020-nin-ilk-ceyreginde-en-cok-satan-akilli-telefon-iphone11-oldu-scaled.jpg
+image: images/2020-nin-ilk-ceyreginde-en-cok-satan-akilli-telefon-iphone11-oldu-scaled.jpg
 categories:
     - Genel
     - Mobil
@@ -28,10 +28,10 @@ Rapora göre **iPhone 11**, geçen yılın en çok satan akıllı telefonu olan 
 
 Yılın ilk çeyreğinde satış başarısı gösteren akıllı telefonlar arasında, iPhone 11’i, 6,8 milyon satış adedi ile Samsung Galaxy A51 ve 6,6 milyon satış rakamı ile Redmi Note 8 takip ediyor. 4. sırada Xiaomi Redmi Note 8 Pro yer alırken, 5. sırada da iPhone XR var.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/en-cok-satan-akilli-telefon-modelleri-2020.jpg)</figure>## İlk 10’da Huawei yok
+<figure class="wp-block-image size-large">![](images/en-cok-satan-akilli-telefon-modelleri-2020.jpg)</figure>## İlk 10’da Huawei yok
 
 Samsung, 5G’li akıllı telefonlar pazarına bakıldığında, S20 serisinde ilk çeyrekte **Huawei’yi** geride bıraktı. **En çok satan 5G’li akıllı telefon**, 3,5 milyon satış adedi ile **Samsung S20+** oldu.
 
 Küresel satış listesinde Huawei yer almıyor, ancak şirket en çok satan 5G’li telefonlar listesinde 2. ve 3. sırada.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/en-cok-satan-5g-li-akilli-telefonlar-2020.jpg)</figure>Huawei, en çok satan akıllı telefonlar listesinde yer almadı. Çinli teknoloji devi, ABD tarafından kara listeye alınmış ve ABD’li şirketlerden hizmet alması engellenmişti. **Huawei’nin** yeni çıkardığı modellerde, **Google** uygulama ve hizmetleri bulunmuyor.
+<figure class="wp-block-image size-large">![](images/en-cok-satan-5g-li-akilli-telefonlar-2020.jpg)</figure>Huawei, en çok satan akıllı telefonlar listesinde yer almadı. Çinli teknoloji devi, ABD tarafından kara listeye alınmış ve ABD’li şirketlerden hizmet alması engellenmişti. **Huawei’nin** yeni çıkardığı modellerde, **Google** uygulama ve hizmetleri bulunmuyor.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5573'
 permalink: /facebook-oculus-connect-ve-diger-buyuk-etkinlikleri-2021e-kadar-iptal-etti/
 post_views_count:
     - '25'
-image: /wp-content/uploads/2020/04/facebook-oculus-connect-ve-diger-etkinlikleri-2021-e-kadar-iptal-etti.jpeg
+image: images/facebook-oculus-connect-ve-diger-etkinlikleri-2021-e-kadar-iptal-etti.jpeg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ Zuckerberg, konuyla ilgili “Hem ofiste olması gereken, kritik işler yapan ç
 
 ## F8 konferansı da iptal edildi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/facebook-f8-konferansi-iptal-edildi.png)</figure>Zuckerberg, açıklamasında sağlık uzmanlarının, büyük toplantıların ne zaman risk oluşturmayacağına ilişkin henüz bir tavsiyede bulunmadığını, bu nedenle Facebook’un önümüzdeki yıla kadar tüm etkinliklerini iptal ettiğini duyurdu. Bu kapsamda sadece Oculus Connect değil, aynı zamanda Facebook’un ilkbaharda düzenlediği ana etkinliği olan F8 konferansını da iptal edilecek. **Facebook, Oculus Connec**t 7’nin yarattığı gelir kaybını telafi etmek adına, San Jose şehrine 500 bin dolar bağışta bulunacak.
+<figure class="wp-block-image size-large">![](images/facebook-f8-konferansi-iptal-edildi.png)</figure>Zuckerberg, açıklamasında sağlık uzmanlarının, büyük toplantıların ne zaman risk oluşturmayacağına ilişkin henüz bir tavsiyede bulunmadığını, bu nedenle Facebook’un önümüzdeki yıla kadar tüm etkinliklerini iptal ettiğini duyurdu. Bu kapsamda sadece Oculus Connect değil, aynı zamanda Facebook’un ilkbaharda düzenlediği ana etkinliği olan F8 konferansını da iptal edilecek. **Facebook, Oculus Connec**t 7’nin yarattığı gelir kaybını telafi etmek adına, San Jose şehrine 500 bin dolar bağışta bulunacak.
 
 Oculus Connect etkinliklerinin önemli bir kısmı çevrimiçi olarak yayınlanıyordu. Etkinliğin çevrimiçi düzenlenmesi, yine de birçok geliştiricinin yeni oyun ve uygulamalarını sunması için bir şans niteliğinde.
 

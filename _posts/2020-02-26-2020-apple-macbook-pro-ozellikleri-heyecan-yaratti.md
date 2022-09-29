@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/yeni-macbook-pro-ozellikleri-nasil-olacak-technopat-1.jpeg
+image: images/yeni-macbook-pro-ozellikleri-nasil-olacak-technopat-1.jpeg
 categories:
     - Apple
 tags:
@@ -27,7 +27,7 @@ Apple’ın son gözdesi olarak piyasaya çıkması beklenen **MacBook Pro**’n
 
 Apple MacBook Pro’nun Benchmark sonuçları, tanıtım organizasyonundan önce internete sızdırıldı. Buna göre MacBook Pro’da 10. nesil Intel Ice Lake işlemci kullanıldığı net bir şekilde görülüyor. Ayrıca ekran boyutunun ise **13 inç** olması, kullanıcıların uzun bir zamandır istediği özelliklerden biriydi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/asdas.jpg)</figure>## **Apple MacBook Pro Teknik Özellikleri**
+<figure class="wp-block-image size-large">![](images/asdas.jpg)</figure>## **Apple MacBook Pro Teknik Özellikleri**
 
 Yine Benchmark raporundan gördüğümüz diğer özelliklerde ise Wi-Fi 6 desteğininde geldiğini görebiliyoruz. 4 çekirdek işlemciyle gelecek olan **MacBook Pro**’da, 10 nm’lik Intel Core i7 – 1068NG7 işlemcisinin kullanılacak ve bununla birlikte işlemci hızı 2,3 GHz’den, 4,1 GHz’ye kadar çıkabilecek.
 

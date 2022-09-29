@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/htc-wildfire-r70-tanitildi.png
+image: images/htc-wildfire-r70-tanitildi.png
 categories:
     - Mobil
 tags:
@@ -28,7 +28,7 @@ Tayvan menşeili şirket, geçmiş yıllarda çıkardığı akıllı telefonlar 
 
 2020 yılında yeni amiral gemisini piyasaya sürmek için hazırlıklarını sürdüren HTC, büyük bir sürpriz yaparak Wildfire R70 modelinin tanıtımını yaptı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/htc-wildfire-r70-tanitildi-2.jpg)</figure>## **HTC Wildfire R70 Özellikleri**
+<figure class="wp-block-image size-large">![](images/htc-wildfire-r70-tanitildi-2.jpg)</figure>## **HTC Wildfire R70 Özellikleri**
 
 Giriş seviyesi özelliklerini taşıyan **Wildfire R70** modeli, 6,5 inç büyüklüğe sahip. 32 GB’lık bir dahili depolama alanı olan R70, 256 GB’a kadar genişletilebilir. Telefonun batarya kapasitesi 4.000 mAh gücünde. HTC Wildfire R70 modelinde son olarak ise MediaTek Helio P23 işlemcisinin kullanıldığını görüyoruz.
 

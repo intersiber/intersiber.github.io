@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6912'
 permalink: /spotifydan-ilk-kez-premium-uyelik-alacaklara-3-ay-ucretsiz-deneme/
 post_views_count:
     - '143'
-image: /wp-content/uploads/2020/05/spotify-dan-ilk-kez-premium-uyelik-alacaklara-uc-ay-ucretsiz-deneme.jpeg
+image: images/spotify-dan-ilk-kez-premium-uyelik-alacaklara-uc-ay-ucretsiz-deneme.jpeg
 categories:
     - Genel
 tags:
@@ -23,7 +23,7 @@ Spotify, ilk kez premium abonelik alacak kullanıcılarına, 30 Haziran’a kada
 
 ## Premium aboneliğini durduran her 6 kişiden biri COVID-19’u sebep gösterdi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/spotify-premium-abonelik-indirim-firsatlari.jpeg)</figure>Spotify, son çeyrekteki finansal performans raporunda, premium üyeliklerini iptal eden kullanıcıların sayısının çok fazla olmadığını ifade etti. Ancak araştırmalara göre, **ABD’de** **Spotify** premium üyeliğini iptal eden her 6 kişiden biri, sebep olarak **koronavirüs** salgınını gösterdi. İnsanlar, ekonomik durumları daha iyi bir noktaya gelince premium üyeliği yeniden alacaklarını belirtirken, işsizlik oranı arttıkça ve gelir düzeyi düştükçe bu durum gitgide zorlaşacak gibi görünüyor. Sadece ABD’de, son birkaç ayda işsizlik maaşına başvuranların sayısı 30 milyonu geçmişti.
+<figure class="wp-block-image size-large">![](images/spotify-premium-abonelik-indirim-firsatlari.jpeg)</figure>Spotify, son çeyrekteki finansal performans raporunda, premium üyeliklerini iptal eden kullanıcıların sayısının çok fazla olmadığını ifade etti. Ancak araştırmalara göre, **ABD’de** **Spotify** premium üyeliğini iptal eden her 6 kişiden biri, sebep olarak **koronavirüs** salgınını gösterdi. İnsanlar, ekonomik durumları daha iyi bir noktaya gelince premium üyeliği yeniden alacaklarını belirtirken, işsizlik oranı arttıkça ve gelir düzeyi düştükçe bu durum gitgide zorlaşacak gibi görünüyor. Sadece ABD’de, son birkaç ayda işsizlik maaşına başvuranların sayısı 30 milyonu geçmişti.
 
 **Spotify’ın** üç ay ücretsiz **premium** **üyelik** **deneme** süreci, insanların bu modele biraz daha fazla ilgi göstermesini sağlayabilir.
 

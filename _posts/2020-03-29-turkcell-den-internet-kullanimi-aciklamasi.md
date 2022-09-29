@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/turkcell-2.jpg
+image: images/turkcell-2.jpg
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ tags:
 
 Bir süredir **COVID-19** corona virüsü salgını dolayısı ile kendisini eve kapatan milyonlarca Türk vatandaşı, bu dönemde evde internet kullanımına yüklendi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/turkcell.png)</figure>Turkcell’den yapılan açıklamada GSM devine ait olan **TV+** servisine %10 daha fazla talep gelirken, diğer yandan **SuperBox** isimli altyapı ihtiyacı olmadan internet kullanımına izin veren çözümlerine %100 oranında artışla 1 hafta içerisinde talep patlaması yaşandığı açıklandı.
+<figure class="wp-block-image size-full">![](images/turkcell.png)</figure>Turkcell’den yapılan açıklamada GSM devine ait olan **TV+** servisine %10 daha fazla talep gelirken, diğer yandan **SuperBox** isimli altyapı ihtiyacı olmadan internet kullanımına izin veren çözümlerine %100 oranında artışla 1 hafta içerisinde talep patlaması yaşandığı açıklandı.
 
 Özata şunları kaydetti:
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9434'
 permalink: /apple-one-kullanima-sunuldu-fiyati-icerdigi-hizmetler-ve-bilmeniz-gerekenler/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/10/apple-one-kullanima-sunuldu-fiyati-icerdigi-hizmetler-ve-bilmeniz-gerekenler.png
+image: images/apple-one-kullanima-sunuldu-fiyati-icerdigi-hizmetler-ve-bilmeniz-gerekenler.png
 categories:
     - Apple
 tags:
@@ -24,7 +24,7 @@ Apple One aboneliğine, iOS’ta App Store üzerinden ulaşabilir ve abone olabi
 
 Apple Music, Apple Arcade, Apple TV+, Fitness+, News+ ve iCloud hizmetleri, Apple One çatısı altında bir araya geliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/apple-one-nedir.jpg)</figure>## Apple One abonelik ücreti
+<figure class="wp-block-image size-large">![](images/apple-one-nedir.jpg)</figure>## Apple One abonelik ücreti
 
 Apple, **Apple** **One** **abonelik** modelini tanıttığı etkinlikte, paketlerin 14,95 dolar, yani yaklaşık 125 TL’den başlayacağını duyurmuştu. Bireysel modelin dışında, en yüksek paket olan Premier planın **ücreti** 29,95, yani yaklaşık 250 TL olacak. Bireysel plan ile, Apple Music, Apple TV+, Apple Arcade ve 50 GB iCloud saklama alanına sahip olabilirsiniz. Artırılmış aile planında ise, saklama alanı 200 GB’a çıkarılıp ve Apple Music’e aile aboneliği ekleniyor. Aile planının abonelik ücreti 19,95 dolar, yani yaklaşık 166 TL.
 

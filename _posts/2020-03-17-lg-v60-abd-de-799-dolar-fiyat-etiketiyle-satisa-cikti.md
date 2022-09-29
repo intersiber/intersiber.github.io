@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/lgv60.jpg
+image: images/lgv60.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ LG geçtiğimiz ay, 2020 için ilk amiral gemisi telefonu olan LG **V60**‘ı t
 
 **V60**‘ın 1000 doların altında satılacağı tahminlerinden sonra, artık tam olarak fiyatı belli oldu. 16 Mart’ta ABD fiyatlandırması nihayet açıklandı. ABD fiyatı 799 dolar açıklanan **V60** modelinin ülkemiz için tam olarak fiyatı belli olmasa da fiyatının çok yüksek olması bekleniyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/lgv60thin.jpg)</figure>## LG V60 Teknik Özellikleri
+<figure class="wp-block-image size-full">![](images/lgv60thin.jpg)</figure>## LG V60 Teknik Özellikleri
 
 - **Ekran Boyutu** 6.8 İnç
 - **Ekran Teknolojisi** P-OLED

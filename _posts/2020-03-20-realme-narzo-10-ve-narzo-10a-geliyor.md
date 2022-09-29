@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/realme-Narzo-10-2-scaled.jpg
+image: images/realme-Narzo-10-2-scaled.jpg
 categories:
     - Mobil
 tags:
@@ -31,6 +31,6 @@ realme **Narzo 10A** modelinin de gelecek hafta yapılacak lansman kapsamında t
 
 Her iki cihazın da 6.5 inçlik bir ekrana sahip olması bekleniyor. Narzo serisi 5.000 mAH kapasiteli bataryayla gelecek. Yeni Narzo serisinin tüm teknik özellikleri henüz belli değil. Tanıtımla birlikte akıllı telefonlara ait tüm teknik özellikler netleşecek.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/realme-Narzo-10.jpg)</figure>Apple, Samsung, Xiaomi ve Huawei gibi çok sayıda teknoloji üreticisi dev yakın zamanda verdikleri kararlar ile etkinlikleri erteleme, düzenlememe ve iptal etme konusunda karar vermişlerdi.
+<figure class="wp-block-image size-full">![](images/realme-Narzo-10.jpg)</figure>Apple, Samsung, Xiaomi ve Huawei gibi çok sayıda teknoloji üreticisi dev yakın zamanda verdikleri kararlar ile etkinlikleri erteleme, düzenlememe ve iptal etme konusunda karar vermişlerdi.
 
 Narzo serisinin özellikleri merak edilirken şirketin yeni cihazlarının Türkiye pazarında nasıl karşılanacağı merak konusu iken diğer pazarlarda Türkiye pazarına nazaran daha fazla ilgi görmesi bekleniyor.

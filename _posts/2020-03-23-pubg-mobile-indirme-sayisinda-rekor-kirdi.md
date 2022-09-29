@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/PUBG-Mobile-2.jpg
+image: images/PUBG-Mobile-2.jpg
 categories:
     - Oyun
 tags:
@@ -26,7 +26,7 @@ Tüm dünyada son derece fazla ilgi çeken ve milyonlarca oyuncunun her gün oyn
 
 Bugün dünyada 1 milyarın üzerinde iOS kullanıcısı bulunurken, iOS kullanıcılarının en az %20’sinin PUBG Mobile’ı indirmiş oldukları tahmin ediliyor. Aynı zamanda oyunun bilgisayar versiyonundan çok mobil versiyonunun ilgi görmesinin dikkat çektiğinden söz edilmekte.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/PUBG-Mobile.jpg)</figure>## Kısa Vadede Daha Fazla Artacak
+<figure class="wp-block-image size-full">![](images/PUBG-Mobile.jpg)</figure>## Kısa Vadede Daha Fazla Artacak
 
 Mobil oyunlara ilginin kısa vadede daha fazla artması bekleniyor. Bunun sebeplerinden bir tanesinin corona virüsü etkisinden dolayı olduğu belirtilirken, bir diğer sebebin ise mobilde en çok oynanan oyunlar ve önerilen listelerinde PUBG Mobile’ın ilk 3 arasında yer alıyor olması.
 

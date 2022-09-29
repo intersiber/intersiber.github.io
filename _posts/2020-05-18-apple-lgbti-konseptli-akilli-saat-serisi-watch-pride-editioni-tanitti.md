@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7134'
 permalink: /apple-lgbti-konseptli-akilli-saat-serisi-watch-pride-editioni-tanitti/
 post_views_count:
     - '99'
-image: /wp-content/uploads/2020/05/apple-lgbti-konseptli-akilli-saat-serisi-watch-pride-edition-i-tanitti.png
+image: images/apple-lgbti-konseptli-akilli-saat-serisi-watch-pride-edition-i-tanitti.png
 categories:
     - Apple
     - 'Giyilebilir Teknoloji'
@@ -26,6 +26,6 @@ tags:
 
 **LGBTİ** temalı **Apple** **Watch** kordonları, Apple web sitesinin yanı sıra açık Apple mağazalarında da satış sunuldu. Kordonlar Türkiye’de 329 TL fiyatla müşterilere sunulacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-watch-lgbti-kordon.png)</figure>İçerdiği özel malzeme ile ve spor temasına uygun tasarımla, delikler üzerinden bileklerin daha fazla hava almasını sağlayan spor kordon, Nike ve Apple işbirliği ile uzun yıllardır sunuluyor. Rahat bir kullanım hissi veren ve hayatında spora ciddi bir yer veren kişiler tarafından tercih edilen spor temalı kordon, şimdi LGBTİ teması seçeneği ile sunuluyor.
+<figure class="wp-block-image size-large">![](images/apple-watch-lgbti-kordon.png)</figure>İçerdiği özel malzeme ile ve spor temasına uygun tasarımla, delikler üzerinden bileklerin daha fazla hava almasını sağlayan spor kordon, Nike ve Apple işbirliği ile uzun yıllardır sunuluyor. Rahat bir kullanım hissi veren ve hayatında spora ciddi bir yer veren kişiler tarafından tercih edilen spor temalı kordon, şimdi LGBTİ teması seçeneği ile sunuluyor.
 
 **Pride** **Edition** kordon, etkileyici tasarımının yanı sıra, tokasında yer alan pim düzeneği ile bilekte daha kolay bir oturum sağlıyor. **Apple**, ürünle ilgili yaptığı açıklamada dünyada cinsiyet eşitliğini savunan 150’nin üzerinde organizasyonu desteklemekten ötürü gururlu olduğunu ifade etti.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9741'
 permalink: /iphone-12-turkiye-fiyatlari-belli-oldu-en-ust-model-20-bin-tl/
 post_views_count:
     - '32'
-image: /wp-content/uploads/2020/11/iphone-12-turkiye-fiyatlari-belli-oldu-en-ust-model-20-bin-tl.jpeg
+image: images/iphone-12-turkiye-fiyatlari-belli-oldu-en-ust-model-20-bin-tl.jpeg
 categories:
     - Mobil
 tags:
@@ -25,7 +25,7 @@ ABD’li teknoloji devi Apple, son nesil iPhone 12 modellerini tanıtmış, anca
 
 ## En uygun fiyatlı model iPhone 12 mini 9.999 TL
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/iphone-12-mini-ozellikleri.jpg)</figure>Serinin en uygun fiyatlı akıllı telefonu olan iPhone mini, 9.999 TL fiyatla sunuldu. iPhone 12 mini özelliklerinden bazıları şu şekilde:
+<figure class="wp-block-image size-large">![](images/iphone-12-mini-ozellikleri.jpg)</figure>Serinin en uygun fiyatlı akıllı telefonu olan iPhone mini, 9.999 TL fiyatla sunuldu. iPhone 12 mini özelliklerinden bazıları şu şekilde:
 
 - 5,4 inç ekran
 - Apple A14 işlemci
@@ -74,7 +74,7 @@ Serinin yüksek özellikler içeren modellerinden olan iPhone 12 Pro fiyatı, 14
 
 ## iPhone 12 Pro Max
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/iphone-12-pro-max-512-gb-fiyati-20000-tl.png)</figure>iPhone 12 Pro Max, serinin en üst düzey modeli. Fiyatı ise en üst model olan 512 GB’lık seçenekte, 19.999 TL. Telefonun özellikleri şu şekilde:
+<figure class="wp-block-image size-large">![](images/iphone-12-pro-max-512-gb-fiyati-20000-tl.png)</figure>iPhone 12 Pro Max, serinin en üst düzey modeli. Fiyatı ise en üst model olan 512 GB’lık seçenekte, 19.999 TL. Telefonun özellikleri şu şekilde:
 
 - 6,7 inç Super Retina OLED ekran
 - Apple A14 işlemci

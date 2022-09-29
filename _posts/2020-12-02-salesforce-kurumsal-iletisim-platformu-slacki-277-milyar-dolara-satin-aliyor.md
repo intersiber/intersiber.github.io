@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9887'
 permalink: /salesforce-kurumsal-iletisim-platformu-slacki-277-milyar-dolara-satin-aliyor/
 post_views_count:
     - '17'
-image: /wp-content/uploads/2020/12/salesforce-kurumsal-iletisim-platformu-slack-i-27-7-milyar-dolara-satin-aliyor.png
+image: images/salesforce-kurumsal-iletisim-platformu-slack-i-27-7-milyar-dolara-satin-aliyor.png
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ Microsoft 365 ile olan rekabeti ile zaman zaman gündeme gelen Slack, en popüle
 
 ## Salesforce 60’tan fazla şirket satın aldı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/slack-salesforce-a-satiliyor.jpg)</figure>1999 yılında kurulan **Salesforce**, **Slack’i** satın alacağını açıkladı. Satın alımın ardından kurumsal uygulama çözümleri alanında yeni denklemler kurulabilir.
+<figure class="wp-block-image size-large">![](images/slack-salesforce-a-satiliyor.jpg)</figure>1999 yılında kurulan **Salesforce**, **Slack’i** satın alacağını açıkladı. Satın alımın ardından kurumsal uygulama çözümleri alanında yeni denklemler kurulabilir.
 
 60’ın üzerinde şirket satın alarak büyümesini sürdüren Salesforce, 2020’de piyasa değerini yüzde 40 artırmayı başardı. 220 milyar dolar piyasa değerine sahip Salesforce, Slack’i satın almasının ardından daha da büyüyecek.
 

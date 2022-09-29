@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Galaxy-M31-2.jpg
+image: images/Galaxy-M31-2.jpg
 categories:
     - Mobil
 tags:
@@ -25,7 +25,7 @@ Samsung orta seviye akıllı telefon kullanıcılarının tercih edebileceği ye
 
 2.799 TL fiyatla satışa sunulan Galaxy M31 modeli için 3 farklı renk seçeneği bulunuyor. Vişne Pembesi, Okyanus Mavisi ve Uzay Siyahı renklerine sahip olan akıllı telefon 64 MP arka kameraya sahip.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Galaxy-M31.jpg)</figure>## Fiyatıyla ilgi çekecek
+<figure class="wp-block-image size-full">![](images/Galaxy-M31.jpg)</figure>## Fiyatıyla ilgi çekecek
 
 Kutudan Android 10 işletim sistemi güncellemesi yüklenmiş olarak çıkan Galaxy M31, 6.000 mAh gücünde bataryadan güç alıyor.
 

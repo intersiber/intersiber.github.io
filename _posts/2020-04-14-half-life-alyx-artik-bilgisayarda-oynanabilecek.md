@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5430'
 permalink: /half-life-alyx-artik-bilgisayarda-oynanabilecek/
 post_views_count:
     - '89'
-image: /wp-content/uploads/2020/04/half-life-alyx-artik-bilgisayarda-oynanabilecek.jpeg
+image: images/half-life-alyx-artik-bilgisayarda-oynanabilecek.jpeg
 categories:
     - Oyun
 tags:

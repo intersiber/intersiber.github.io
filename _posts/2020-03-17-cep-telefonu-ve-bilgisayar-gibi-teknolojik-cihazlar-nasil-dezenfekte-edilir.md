@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/cep-telefonu-nasil-dezenfekte-edilir.jpg
+image: images/cep-telefonu-nasil-dezenfekte-edilir.jpg
 categories:
     - Genel
 tags:
@@ -30,7 +30,7 @@ Son haftalarda corona virüsü nedeniyle **bilgisayar**, **cep telefonu**, kulak
 
 Cep telefonları gibi ürünler normal şartlara dayanıklı, ancak kimyasal olarak kullanılacak ürünlerin birçoğuna dayanıklı olmayan ürünlerdir. Örneğin bir cep telefonunun çamaşır suyu ile silinmesi durumunda cihaz devrelerinde sorunlar olabilir, bataryaya ulaşacak olan en ufak sıvı bile cihazın kimyasal reaksiyona girmesine sebep olarak şiddetli patlamalara sebep olabilir.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/telefon-nasil-dezenfekte-edilir.jpg)</figure>## Su Geçirmez Cihazlar İçin Öneriler
+<figure class="wp-block-image size-full">![](images/telefon-nasil-dezenfekte-edilir.jpg)</figure>## Su Geçirmez Cihazlar İçin Öneriler
 
 Eğer cihazınız IP67 veya daha yüksek bir su/toz geçirmezlik sertifikasına sahipse Apple’ın önerdiği gibi alkol bazlı el dezenfektanları ile cihazınızı silebilirsiniz. Cihazınızı asla alkol bazlı el dezenfektanı içerisinde veya başka herhangi bir sıvı içerisinde bekletmeyin. Sadece %70 alkol bazlı el-cilt dezenfektanları ile cihazlarınızı silebilir veya kısa süreli olarak cihazın üzerine bu sıvılardan dökebilirsiniz. Ancak cihazın üzerine dökecek olduğunuz sıvı miktarının az olduğundan, şiddetinin çok az olduğundan emin olmalısınız. Aksi durumda su ve toza karşı dayanıklı olan cihazlarınızın içerisine bu sıvılar kaçabilir ve cihazınız bozulabilir.
 
@@ -45,7 +45,7 @@ Bunun yanısıra cihazlarınızı dezenfektan ıslak mendiller ile silmek en do�
 
 Eğer cihazınızın IP sertifikası yok ve suya karşı dayanıklı değilse cihazınızı asla tek bir damla bile suya sokmayın, üzerine dezenfektan ve benzer ürünler püskürtmeyin. Bu tür cihazlar en ufak su teması durumunda çalışmayı durdurabilir, patlamaya sebep olarak ciddi yanık ve hasarlar yaratabilirler.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/cep-telefonu-nasil-dezenfekt-edilir.jpg)</figure>Su geçirmez özelliği bulunmayan cihazlarınızı antibakteriyel dezenfektan ıslak mendiller ile silmeniz durumunda cihazınız hem temiz olacaktır, hem mikroplardan arınacaktır.
+<figure class="wp-block-image size-full">![](images/cep-telefonu-nasil-dezenfekt-edilir.jpg)</figure>Su geçirmez özelliği bulunmayan cihazlarınızı antibakteriyel dezenfektan ıslak mendiller ile silmeniz durumunda cihazınız hem temiz olacaktır, hem mikroplardan arınacaktır.
 
 Bunun dışında yine ellerinizi önce dezenfekte edip sonrasında cihazınızda kılıf kullanıyorsanız bu kılıfı dezenfektan mendille çıkardıktan sonra yıkayabilir ve daha sonrasında cihazınıza geri takabilirsiniz.
 
@@ -57,7 +57,7 @@ Bugün birçok bilgisayar suya veya toza dayanıklı değildir. Lütfen bilgisay
 
 Sadece corona virüsü için değil, her zaman için silikon klavye kılıfı çok daha temiz olması açısından güvenle kullanım için uygun olacaktır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/bilgisayar-nasil-dezenfekte-edilir-1600x829.png)</figure>Bilgisayarların diğer bölümlerini temizlerken özellikle içerisine sıvı kaçmaması için ıslak mendilin aşırı ıslak olmadığından emin olun. Klavyeye kaçacak 1 damla su cihazın düzgün çalışmamasına sebep olabilir.
+<figure class="wp-block-image size-large">![](images/bilgisayar-nasil-dezenfekte-edilir-1600x829.png)</figure>Bilgisayarların diğer bölümlerini temizlerken özellikle içerisine sıvı kaçmaması için ıslak mendilin aşırı ıslak olmadığından emin olun. Klavyeye kaçacak 1 damla su cihazın düzgün çalışmamasına sebep olabilir.
 
 Buharlı temizlik ürünleri bilgisayar üzerinde asla kullanılmamalıdır. Oksitlenmeye bağlı olarak cihazın bozulmasına sebep olabilir. Sıcak veya soğuk buhar kullanımı hiçbir cihaz için güvenli bir yöntem değildir.
 

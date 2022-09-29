@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '63'
-image: /wp-content/uploads/2020/01/motorola-razr-katlanabilir-foldable.jpg
+image: images/motorola-razr-katlanabilir-foldable.jpg
 categories:
     - Mobil
     - 'Öne Çıkan'
@@ -30,6 +30,6 @@ Motorola yeni Razr modeli için 26 Ocak’ta ön sipariş almaya başlayacak. Ka
 
 Motorola ilk olarak, Android destekli katlanabilir modelini geçen yıl Kasım ayında duyurmuştu. Yeni Razr modeli, tablet benzeri bir formda açılıp kapanabilen Galaxy Fold tasarımından farklı olarak geleneksel kapaklı telefonlar gibi açılıp kapanabilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/01/motorola-razr-foldable-katlanabilir.jpg)</figure>Yeni Razr modelinin 26 Aralık’ta satışa çıkması bekleniyordu ancak Motorola lansmanı geciktirdi. Şirket tedarik problemlerini giderdi ve sipariş almaya hazır durumda.
+<figure class="wp-block-image size-large">![](images/motorola-razr-foldable-katlanabilir.jpg)</figure>Yeni Razr modelinin 26 Aralık’ta satışa çıkması bekleniyordu ancak Motorola lansmanı geciktirdi. Şirket tedarik problemlerini giderdi ve sipariş almaya hazır durumda.
 
 Bu hafta sonu Amerika’da Verizon, Walmart ve Motorola.com üzerinden ön siparişe çıkacak olan telefonun fiyatı 1.500$ olacak ve 6 Şubat’ta mağazalarda görücüye çıkması bekleniyor.

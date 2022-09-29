@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10127'
 permalink: /chromeda-netflix-introlari-nasil-otomatik-olarak-atlanir/
 post_views_count:
     - '48'
-image: /wp-content/uploads/2020/12/netflix-intro-lari-otomatik-olarak-nasil-atlanir.jpg
+image: images/netflix-intro-lari-otomatik-olarak-nasil-atlanir.jpg
 categories:
     - Genel
     - 'Ne Nasıl?'

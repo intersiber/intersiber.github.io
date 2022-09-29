@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8302'
 permalink: /lg-velvet-4g-modelinin-fotograflari-ve-ozellikleri-ortaya-cikti/
 post_views_count:
     - '68'
-image: /wp-content/uploads/2020/06/lg-velvet-4g-modelinin-fotograflari-ve-ozellikleri-ortaya-cikti.png
+image: images/lg-velvet-4g-modelinin-fotograflari-ve-ozellikleri-ortaya-cikti.png
 categories:
     - Mobil
 tags:
@@ -25,7 +25,7 @@ Fotoğrafları sızdırılan LG Velvet 4G, tasarım olaraka 5G’li model ile ay
 
 ## Telefonun diğer özellikleri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/lg-velvet-4g-ozellikleri.png)</figure>LG Velvet 4G modeline ait olduğu iddia edilen bazı fotoğraflar, internette paylaşıldı. Paylaşılan bilgilere göre, telefonun Snapdragon 845 çipin yanı sıra 6GB Ram ve 128GB hafızaya sahip olacağı aktarıldı.
+<figure class="wp-block-image size-large">![](images/lg-velvet-4g-ozellikleri.png)</figure>LG Velvet 4G modeline ait olduğu iddia edilen bazı fotoğraflar, internette paylaşıldı. Paylaşılan bilgilere göre, telefonun Snapdragon 845 çipin yanı sıra 6GB Ram ve 128GB hafızaya sahip olacağı aktarıldı.
 
 Kamera özelliklerine geldiğimizde, **LG Velvet 4G**, 5G ile aynı kapasiteye sahip. 48MP arka kameranın yanı sıra 8MP geniş açılı bir kameraya sahip olacak olan LG Velvet 4G, 16MP selfie kamerası da bulunduruyor.
 

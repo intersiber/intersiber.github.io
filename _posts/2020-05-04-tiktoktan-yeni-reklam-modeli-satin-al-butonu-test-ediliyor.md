@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6369'
 permalink: /tiktoktan-yeni-reklam-modeli-satin-al-butonu-test-ediliyor/
 post_views_count:
     - '68'
-image: /wp-content/uploads/2020/05/tiktok-tan-yeni-reklam-modeli-satin-al-butonu-test-ediliyor.jpg
+image: images/tiktok-tan-yeni-reklam-modeli-satin-al-butonu-test-ediliyor.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -24,7 +24,7 @@ Kullanıcılara çektikleri videolara arka plan müzikleri ekleme ve yaratıcı 
 
 ## Call to Action modeli
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tiktok-influencer-marketing.jpeg)</figure>**TikTok**, gelen bilgilere göre küçük bir grupla, **CTA** modelini test ediyor. Yeni model, deneysel bütçelerle test edilirken kullanıcıların call to action, yani harekete geçirici modele olan ilgisi yüksek. Henüz test aşamasında olan yeni model, sınırlı sayıda marka ve kullanıcıya sunuluyor ve tüm markaların kullanımına açılıp açılmayacağı belli değil.
+<figure class="wp-block-image size-large">![](images/tiktok-influencer-marketing.jpeg)</figure>**TikTok**, gelen bilgilere göre küçük bir grupla, **CTA** modelini test ediyor. Yeni model, deneysel bütçelerle test edilirken kullanıcıların call to action, yani harekete geçirici modele olan ilgisi yüksek. Henüz test aşamasında olan yeni model, sınırlı sayıda marka ve kullanıcıya sunuluyor ve tüm markaların kullanımına açılıp açılmayacağı belli değil.
 
 ## Şirket gelirini influencerlar ile paylaşacak
 

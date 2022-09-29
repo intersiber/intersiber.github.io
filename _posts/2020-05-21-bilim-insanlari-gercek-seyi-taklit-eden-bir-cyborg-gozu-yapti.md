@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7285'
 permalink: /bilim-insanlari-gercek-seyi-taklit-eden-bir-cyborg-gozu-yapti/
 post_views_count:
     - '48'
-image: /wp-content/uploads/2020/05/Scientists-create-a-cyborg-eye-that-mimics-the-real-thing-scaled.jpg
+image: images/Scientists-create-a-cyborg-eye-that-mimics-the-real-thing-scaled.jpg
 categories:
     - Genel
 tags:
@@ -20,7 +20,7 @@ Yıllardır **yapay gözler** üzerinde çalışan bilim insanları için gerçe
 
 **Cyborg gözünde** hemisferik bir alüminyum oksit zar içinde oluşturulan bir **nanotelli fotosensör** dizisi retina görevi görürken, sıvı bir metalden (ötektik galyum-indiyum alaşımı) oluşan teller bu sensörlerden harici işleme sinyalleri göndererek sinirleri çoğaltıyor. Buna ek olarak gözün düzgün çalışması için kullanılan malzemelerden **indiyum katman** elektrik temasını geliştirmeye yardımcı olurken, **silikon polimer** soket sensörleri ve kabloları gözü hizalı tutuyor.
 
-<figure class="wp-block-gallery columns-1 is-cropped">- <figure>![](https://intersiber.com/wp-content/uploads/2020/05/Bilim-İnsanları-Gerçek-Şeyi-Taklit-Eden-Bir-Cyborg-Gözü-Yaptı-1600x1131.jpg)</figure>
+<figure class="wp-block-gallery columns-1 is-cropped">- <figure>![](images/Bilim-İnsanları-Gerçek-Şeyi-Taklit-Eden-Bir-Cyborg-Gözü-Yaptı-1600x1131.jpg)</figure>
 
 </figure>Bu **cyborg göz** bazı yönlerden gerçek bir göze yakın ve hatta gerçek gözden üstün olarak geliştirilmiş. Tepki ve iyileşme süreleri gerçek gözden daha hızlı olurken **cyborg gözün** tepkisi görünür ışık spektrumunda neredeyse aynı. Ayrıca **cyborg gözde** nanoteller gerçek bir gözdeki fotoreseptörlerden daha yoğun.
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/youtube-4.jpg
+image: images/youtube-4.jpg
 categories:
     - 'Sosyal Medya'
     - Video
@@ -34,4 +34,4 @@ Popüler LaurDIY kanalından Lauren Riihimaki, sosyal izolasyon sırasında evin
 
 Bu platformdaki en uzun süreli çalışan, YouTube içerik oluşturucusu Hank Green, 22 Mart’ta attığı tweet’te geçen hafta tüm kanallardaki görüntülenmenin yaklaşık olarak yüzde 5 artmasına rağmen reklam gelirlerinin yüzde 30 düşüş olduğunu söyledi. Diğer içerik oluşturucuları kendi reklam gelirlerinin de düşeceğinden endişeleniyor, ancak hayranlarını eğlendirmeye devam etmek için başka video türleri de arıyorlar.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/youtube-mobile.jpg)</figure>“With me” videoları ilk kez 2007’de YouTube’ta yayınlanmaya başladı, ancak 2010 yılına kadar kendi başına bir tür haline gelmedi. Bu içerikte okula veya işe hazırlanan kişiler, giyecek kıyafetlerini seçmek veya kahvaltı yapmak da dahil olmak üzere günlük rutinlerini yükleyeceklerdi. Amaç evdeki insanların favori YouTuber’larını izlerken kendi sabah rutinlerini yapabilmeleriydi. 2014 yılında, “study with me” ve “journal with me ” gibi üretkenliğe odaklanan “with me” videoları ortaya çıkmaya başladı. Geçen yıl, “paint with me” formatın en popüler yaratıcı odaklı versiyonu olmuştu.
+<figure class="wp-block-image size-full">![](images/youtube-mobile.jpg)</figure>“With me” videoları ilk kez 2007’de YouTube’ta yayınlanmaya başladı, ancak 2010 yılına kadar kendi başına bir tür haline gelmedi. Bu içerikte okula veya işe hazırlanan kişiler, giyecek kıyafetlerini seçmek veya kahvaltı yapmak da dahil olmak üzere günlük rutinlerini yükleyeceklerdi. Amaç evdeki insanların favori YouTuber’larını izlerken kendi sabah rutinlerini yapabilmeleriydi. 2014 yılında, “study with me” ve “journal with me ” gibi üretkenliğe odaklanan “with me” videoları ortaya çıkmaya başladı. Geçen yıl, “paint with me” formatın en popüler yaratıcı odaklı versiyonu olmuştu.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7251'
 permalink: /hyundai-elektrikli-araclarinda-samsung-pilleri-tercih-edecek/
 post_views_count:
     - '51'
-image: /wp-content/uploads/2020/05/hyundai-elektrikli-araclarinda-samsung-pilleri-tercih-edecek.png
+image: images/hyundai-elektrikli-araclarinda-samsung-pilleri-tercih-edecek.png
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -22,7 +22,7 @@ Samsung kaynakları, Hyundai için akü testlerinin tamamlandığını aktardı.
 
 ## Genesis G80’de Samsung pilleri olacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/samsung-sdi-elektrikli-otomobil-bataryalari-1600x788.png)</figure>Hyundai ile Samsung arasındaki anlaşma kapsamında, pilleri Genesis’in tam elektrikli modeli olan G80’de ve **Kia’nın** **hibrid** aracında kullanacak. Gelen bilgilere göre otomobiller için sunulan piller, tam şarj ile 500 kilometre yol kat edebilme şansı sunacak. 2021’de piyasaya çıkması beklenen **Hyundai Genesis G80**’in elektrikli versiyonunda, Samsung pillerin yanı sıra iki şirket tarafından ortak geliştirilen 3. seviye otonom sürüş teknolojisi de yer alacak.
+<figure class="wp-block-image size-large">![](images/samsung-sdi-elektrikli-otomobil-bataryalari-1600x788.png)</figure>Hyundai ile Samsung arasındaki anlaşma kapsamında, pilleri Genesis’in tam elektrikli modeli olan G80’de ve **Kia’nın** **hibrid** aracında kullanacak. Gelen bilgilere göre otomobiller için sunulan piller, tam şarj ile 500 kilometre yol kat edebilme şansı sunacak. 2021’de piyasaya çıkması beklenen **Hyundai Genesis G80**’in elektrikli versiyonunda, Samsung pillerin yanı sıra iki şirket tarafından ortak geliştirilen 3. seviye otonom sürüş teknolojisi de yer alacak.
 
 Samsung’un geliştirdiği lityum kare pilin, iki ya da üç yıl içinde Hyundai’nin ticari araçlarında da kullanılması bekleniyor. Şu anda **Hyundai**, otomobil ve otobüs segmentindeki elektrikli araçlarında **LG** **Chem** ve **SK** **Innovation** bataryaları kullanıyor.
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/final-fantasy-7-remake-simdi-ucretsiz.jpg
+image: images/final-fantasy-7-remake-simdi-ucretsiz.jpg
 categories:
     - Oyun
 tags:
@@ -28,7 +28,7 @@ Pazartesi sabahı Square Enix’in en büyük projelerinden biri olan Final Fant
 
 Eğer **PS4**‘ünüzde **Final Fantasy VII Remake** oynamak için sabırsızlanıyorsanız, bugün bunun tam zamanı. Square Enix, günün ilk saatlerinde PlayStation Network’te sevilen RPG klasiğinin 2020 güncellemesinin bir demosunu yayınladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/final-fantasy-vii-remake-delayed.jpg)</figure>Demo, oyunun açılış görevini içeriyor ve Midgar’da geçiyor. Güzel saçlı kahraman Cloud Strife, gezegene zarar veren mega şirket Shinra tarafından işletilen bir reaktörün patlaması için eko-terör grubu olan Avalanche’a katılıyor. Oyunun diğer kısımları ilerleyen bölümlerde yer alacak. Ancak demoda kat edilen başarı tam sürüme taşınamayacak.
+<figure class="wp-block-image size-large">![](images/final-fantasy-vii-remake-delayed.jpg)</figure>Demo, oyunun açılış görevini içeriyor ve Midgar’da geçiyor. Güzel saçlı kahraman Cloud Strife, gezegene zarar veren mega şirket Shinra tarafından işletilen bir reaktörün patlaması için eko-terör grubu olan Avalanche’a katılıyor. Oyunun diğer kısımları ilerleyen bölümlerde yer alacak. Ancak demoda kat edilen başarı tam sürüme taşınamayacak.
 
 ## Oyun Ne Zaman Çıkacak
 

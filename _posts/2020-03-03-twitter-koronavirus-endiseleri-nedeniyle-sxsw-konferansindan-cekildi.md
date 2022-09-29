@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/twitter1.jpg
+image: images/twitter1.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -28,7 +28,7 @@ Twitter sözcüsü Pazartesi günü yaptığı açıklamada, Twitter’ın koron
 
 Pazar günü **Twitter’da** yayınlanan bir blog yazısı, şirketin seyahat politikasını değiştirdiğini duyurdu. Blog yazısında, “Ttüm kritik olmayan iş seyahati ve etkinlikleri askıya aldığımızı bildirmeye başladık” ifadeleri yer aldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/twitterr-1600x1067.jpg)</figure>Twitter’ın katılımı, CEO Jack Dorsey’den bir açılış konuşmasının yanı sıra şirket tarafından organize edilen başka etkinlikler de içerecekti. Geçmiş yıllarda Twitter, **SXSW** sırasında “**Twitter House**” adı altında konuşmacılara ve etkinliklere ev sahipliği yaptı.
+<figure class="wp-block-image size-large">![](images/twitterr-1600x1067.jpg)</figure>Twitter’ın katılımı, CEO Jack Dorsey’den bir açılış konuşmasının yanı sıra şirket tarafından organize edilen başka etkinlikler de içerecekti. Geçmiş yıllarda Twitter, **SXSW** sırasında “**Twitter House**” adı altında konuşmacılara ve etkinliklere ev sahipliği yaptı.
 
 Austin, Teksas’ta müzik, teknoloji, film, kültür ve komedi etkinliklerini içeren yıllık bir etkinlik olan SXSW, 2019 raporlarına göre 105 ülkeden 400.000’den fazla katılımcıyı ağırladı.
 

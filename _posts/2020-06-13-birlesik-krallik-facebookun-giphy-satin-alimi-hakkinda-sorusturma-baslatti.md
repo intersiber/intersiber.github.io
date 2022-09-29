@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8406'
 permalink: /birlesik-krallik-facebookun-giphy-satin-alimi-hakkinda-sorusturma-baslatti/
 post_views_count:
     - '58'
-image: /wp-content/uploads/2020/06/birlesik-krallik-facebook-un-giphy-satin-alimi-hakkinda-sorusturma-baslatti.jpg
+image: images/birlesik-krallik-facebook-un-giphy-satin-alimi-hakkinda-sorusturma-baslatti.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -26,7 +26,7 @@ Apple iMessage, Twitter, TikTok ve Snapchat gibi rakiplerinin faydalandığı bi
 
 ## Soruşturma bitene kadar şirketler birleşmeyecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/facebook-giphy-satin-almasi-rekabet-kurulu.jpg)</figure>Facebook’a bu hafta içinde bir emir gönderen rekabet kurumu, yürütülen rekabet soruşturması bitene kadar Facebook ile Giphy’nin birleşmesini durdurduğunu açıkladı.
+<figure class="wp-block-image size-large">![](images/facebook-giphy-satin-almasi-rekabet-kurulu.jpg)</figure>Facebook’a bu hafta içinde bir emir gönderen rekabet kurumu, yürütülen rekabet soruşturması bitene kadar Facebook ile Giphy’nin birleşmesini durdurduğunu açıkladı.
 
 CMA, soruşturmada, satın almanın ‘rekabeti önemli bir ölçüde azaltıp azaltmayacağını’ araştıracaklarını ve bu anlaşmanın, diğer ortaklarla olan anlaşmaları etkilemeyeceğini ifade etti.
 

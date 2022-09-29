@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '200'
-image: /wp-content/uploads/2019/03/facebook-parola-acik.jpg
+image: images/facebook-parola-acik.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

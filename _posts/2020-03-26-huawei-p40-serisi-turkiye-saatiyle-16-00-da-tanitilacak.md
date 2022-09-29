@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Huawei-P40-2-2.jpg
+image: images/Huawei-P40-2-2.jpg
 categories:
     - Mobil
 tags:
@@ -23,6 +23,6 @@ tags:
 
 Huawei P serisini yeniden güncelleyerek amiral gemisi modellerinin en üst modelini tanıtacak. Bugün 2 veya 3 farklı P serisi modeli tanıtması beklenen Çinli mobil üreticinin özellikle yeni cihazlarının özellikleri merak konusu olmuş durumda.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Huawei-P40.jpg)</figure>Bugüne kadar neredeyse tüm etkinliklerini bir salonda düzenleyen ve yüzlerce katılımcının olduğu tanıtımlar ile gündeme gelen Huawei, bugün ise dünyayı teslim alan corona virüsünün salgın hale gelmesinden dolayı etkinliği katılımcı olmadan, sadece şirket yöneticilerinin bulunduğu bir salonda düzenleyecek.
+<figure class="wp-block-image size-full">![](images/Huawei-P40.jpg)</figure>Bugüne kadar neredeyse tüm etkinliklerini bir salonda düzenleyen ve yüzlerce katılımcının olduğu tanıtımlar ile gündeme gelen Huawei, bugün ise dünyayı teslim alan corona virüsünün salgın hale gelmesinden dolayı etkinliği katılımcı olmadan, sadece şirket yöneticilerinin bulunduğu bir salonda düzenleyecek.
 
 Çinli teknoloji üreticinin Türkiye saati ile 16.00’da cihazlarını tanıtmaya başlaması beklenirken, cihazlar tanıtıldığında intersiber.com olarak bizlerde cihazın teknik detayları ve diğer tüm fiyat ve benzer bilgilerini sizlerle paylaşacağız.

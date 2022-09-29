@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7080'
 permalink: /cocuklarla-sohbet-ederek-ogrenmelerine-yardimci-oluyor-robot-moxie-ile-tanisin/
 post_views_count:
     - '69'
-image: /wp-content/uploads/2020/05/cocuklarla-sohbet-ederek-ogrenmelerine-yardimci-oluyor-robot-moxie-ile-tanisin.png
+image: images/cocuklarla-sohbet-ederek-ogrenmelerine-yardimci-oluyor-robot-moxie-ile-tanisin.png
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Moxie, normal bir şekilde çocuklarla temas kurabilmesi adına geliştirildi. D
 
 Çocukların duygusal ve bilişsel gelişim süreçlerine yardımcı olan Moxie, bir çocuğa eşlik etmek üzere tasarlandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/cocuk-robotu-moxie-ozellikleri-neler.png)</figure>Moxie’nin, arkadaşlık ya da empati kurma gibi farklı temaları mevcut. Robot, bu temasına göre çocuklara pratik yapmaları için görevler verebiliyor. Bu görevler arasında **çizim** **yapmak**, **meditasyon** yapmak, **anne baba ile konuşma** gibi aktiviteler bulunuyor.
+<figure class="wp-block-image size-large">![](images/cocuk-robotu-moxie-ozellikleri-neler.png)</figure>Moxie’nin, arkadaşlık ya da empati kurma gibi farklı temaları mevcut. Robot, bu temasına göre çocuklara pratik yapmaları için görevler verebiliyor. Bu görevler arasında **çizim** **yapmak**, **meditasyon** yapmak, **anne baba ile konuşma** gibi aktiviteler bulunuyor.
 
 İnsanları ve bulunduğu yeri tanıyabilen robot, zamanla eşlik ettiği çocuk için hedeflerini ve sunduğu içeriği kişiselleştirebiliyor. Bunun yanı sıra, kitapları, çizimleri de tanıyabiliyor.
 
@@ -38,4 +38,4 @@ Moxie, normal bir şekilde çocuklarla temas kurabilmesi adına geliştirildi. D
 
 Abonelik, yeni görevler ve Moxie tarafından bulutta depolanan verilerin giderlerinin yanı sıra, ebeveynlerin kullandığı uygulamayı da kapsıyor. Uygulama üzerinden ebeveynler ayarları yönetebiliyor ve farklı alanlardaki gelişmeleri izleyebiliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/moxie-anne-baba-kontrol-uygulamasi.png)</figure>Seri üretime geçen **Moxie** robotlarının, sonbaharda satışa sunulması bekleniyor.
+<figure class="wp-block-image size-large">![](images/moxie-anne-baba-kontrol-uygulamasi.png)</figure>Seri üretime geçen **Moxie** robotlarının, sonbaharda satışa sunulması bekleniyor.

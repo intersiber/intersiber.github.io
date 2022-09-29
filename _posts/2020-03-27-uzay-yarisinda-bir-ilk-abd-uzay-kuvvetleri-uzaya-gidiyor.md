@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/atlas-v.jpg
+image: images/atlas-v.jpg
 categories:
     - Uzay
 tags:
@@ -32,7 +32,7 @@ Amerikan ordusuna bağlı altıncı birim olan **Space Force**, ABD Başkanı Do
 
 United Launch Alliance, ABD Uzay Kuvvetleri Uzay ve Füze Sistemleri Merkezi için Lockheed Martin tarafından geliştirilen Gelişmiş Son Derece Yüksek Frekans (AEHF) serisinde altıncı ve son uzay aracını fırlatmak için bir **Atlas V 551** roketi kullanacak.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Space_Force-1.jpg)</figure>United Launch Alliance ‘ın dediğine göre “AEHF uyduları, kara, deniz ve hava platformlarında çalışan stratejik komuta ve taktik savaşçıları için küresel olan, hayatta kalabilen, korunabilen iletişim kapasitesi sağlıyor.”
+<figure class="wp-block-image size-full">![](images/Space_Force-1.jpg)</figure>United Launch Alliance ‘ın dediğine göre “AEHF uyduları, kara, deniz ve hava platformlarında çalışan stratejik komuta ve taktik savaşçıları için küresel olan, hayatta kalabilen, korunabilen iletişim kapasitesi sağlıyor.”
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" src="https://www.youtube.com/embed/YBkB1BbblN0?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" width="640"></iframe></span></div></figure>Uzay operasyonları şefi General Jay Raymond, Twitter’da yaptığı paylaşımda “COVID-19’a rağmen fırlatmaya hazırız,” diyerek bu görevi Uzay Kuvvetleri için ilk ulusal güvenlik alanı lansmanı olarak nitelendirdi.
 

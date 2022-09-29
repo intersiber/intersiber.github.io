@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6984'
 permalink: /ghost-of-tsushima-siyah-beyaz-samuray-sinema-moduna-sahip-olacak/
 post_views_count:
     - '90'
-image: /wp-content/uploads/2020/05/ghost-of-tsushima-siyah-beyaz-samuray-sinema-moduna-sahip-olacak.jpg
+image: images/ghost-of-tsushima-siyah-beyaz-samuray-sinema-moduna-sahip-olacak.jpg
 categories:
     - Oyun
 tags:

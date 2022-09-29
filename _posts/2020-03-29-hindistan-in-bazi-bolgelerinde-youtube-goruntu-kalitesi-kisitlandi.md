@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/YouTube-1.jpg
+image: images/YouTube-1.jpg
 categories:
     - Genel
 tags:
@@ -29,6 +29,6 @@ tags:
 
 Google’ın çatısı altında bulunan YouTube, Android işletim sistemli cihazlar için bugünden itibaren **Hindistan**‘ın bazı bölgelerinde, 4K videolar ve diğer kalitedeki tüm videoların çözünürlüğünü en fazla 480p olarak kısıtladı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/YouTube-3.jpg)</figure>İçerik devi Google’ın bu kararının Hindistan’ın sadece belirli bölgelerinde geçerli olduğu, Mumbai, Yeni Delhi’de de bu kısıtlamaların aktif olarak uygulandığı bildiriliyor.
+<figure class="wp-block-image size-full">![](images/YouTube-3.jpg)</figure>İçerik devi Google’ın bu kararının Hindistan’ın sadece belirli bölgelerinde geçerli olduğu, Mumbai, Yeni Delhi’de de bu kısıtlamaların aktif olarak uygulandığı bildiriliyor.
 
 Hindistan’da ayrıca [WhatsApp](https://intersiber.com/whatsapp-durumlarina-covid-19-sebebiyle-kisitlama/) tarafından durum güncellemeleri için 30 saniye olan video süresi 15 saniye olarak kısıtlanmıştı. Bu adımlar koronavirüs salgını sebebiyle yoğunluk yaşayan internet altyapısını rahatlatmak amacıyla atılıyor.

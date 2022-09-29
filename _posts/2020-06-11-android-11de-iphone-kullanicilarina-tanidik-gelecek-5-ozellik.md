@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8344'
 permalink: /android-11de-iphone-kullanicilarina-tanidik-gelecek-5-ozellik/
 post_views_count:
     - '95'
-image: /wp-content/uploads/2020/06/android-11-de-iphone-kullancilarina-tanidik-gelecek-5-ozellik.jpg
+image: images/android-11-de-iphone-kullancilarina-tanidik-gelecek-5-ozellik.jpg
 categories:
     - 'İşletim Sistemleri'
 tags:
@@ -25,7 +25,7 @@ Akıllı ev teknolojisine yönelik kontroller içeren uygulama, Android’de dah
 
 ## Bir kerelik izin 
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/android-11-beta-da-hangi-ozellikler-var.jpg)</figure>Apple’ın iOS 13’te tanıttığı, konum ya da kamera erişimi gibi izinlere, duruma göre bir kerelik izin verme özelliği Android 11’de de yer alacak. Android 11’de, uzun vadeli izinler yerine bir kerelik erişim sunan izinler ile, daha iyi bir deneyim yaşayabilirsiniz. **Google**, iOS’un bu özelliğini daha da farklı bir noktaya taşıyıp, uzatılmış izinler verilen uygulamalar bir süre kullanılmadığında, **Android 11** tüm izinleri sıfırlıyor.
+<figure class="wp-block-image size-large">![](images/android-11-beta-da-hangi-ozellikler-var.jpg)</figure>Apple’ın iOS 13’te tanıttığı, konum ya da kamera erişimi gibi izinlere, duruma göre bir kerelik izin verme özelliği Android 11’de de yer alacak. Android 11’de, uzun vadeli izinler yerine bir kerelik erişim sunan izinler ile, daha iyi bir deneyim yaşayabilirsiniz. **Google**, iOS’un bu özelliğini daha da farklı bir noktaya taşıyıp, uzatılmış izinler verilen uygulamalar bir süre kullanılmadığında, **Android 11** tüm izinleri sıfırlıyor.
 
 ## Medya kontrollerinde kolaylık
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9738'
 permalink: /twitterin-begenmedim-ozelligi-uzerinde-calistigi-ortaya-cikti/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/11/twitter-in-begenmedim-ozelligi-uzerinde-calistigi-ortaya-cikti.png
+image: images/twitter-in-begenmedim-ozelligi-uzerinde-calistigi-ortaya-cikti.png
 categories:
     - 'Sosyal Medya'
 tags:

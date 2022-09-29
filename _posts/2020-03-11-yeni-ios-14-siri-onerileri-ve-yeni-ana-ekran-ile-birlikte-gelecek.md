@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/ios14.jpeg
+image: images/ios14.jpeg
 categories:
     - Apple
 tags:
@@ -28,6 +28,6 @@ Apple, iOS 14’te iOS ana ekranı için yeni bir arayüz geliştiriyor. Elde ed
 
 Ayrıca, liste görünümünde birkaç farklı sıralama seçeneği ve diğer ayrıntılar bulunabilir. Örneğin, şu anda okunmamış bildirimleri olan tüm uygulamaları görecek şekilde uygulamaları filtreleyebilirsiniz. Ayrıca, en son kullandığınız uygulamalara filtre uygulama desteği de sunacak ve en çok ve en az kullandığınız uygulamalar hakkında size daha fazla farkındalık sağlayacaktır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ios14-4.jpg)</figure>Son olarak, bu yeni liste görünümü, günün saatine ve konuma göre hangi uygulamaları arayabileceğinizi önermek için Siri tarafından desteklenen akıllı öneriler içerecektir. Örneğin, liste görünümü, spor salonuna geldiğinizde Müzik uygulamasını açmanızı önerebilir.
+<figure class="wp-block-image size-large">![](images/ios14-4.jpg)</figure>Son olarak, bu yeni liste görünümü, günün saatine ve konuma göre hangi uygulamaları arayabileceğinizi önermek için Siri tarafından desteklenen akıllı öneriler içerecektir. Örneğin, liste görünümü, spor salonuna geldiğinizde Müzik uygulamasını açmanızı önerebilir.
 
 Bu değişiklikler, kullanıcıların ana ekranlarında yanlış yerleştirebilecekleri uygulamaları bulmalarını kolaylaştırmak için tasarlanmıştır ve aynı zamanda **watchOS**‘ta bulunan Liste Görünümü seçeneğine benziyor.

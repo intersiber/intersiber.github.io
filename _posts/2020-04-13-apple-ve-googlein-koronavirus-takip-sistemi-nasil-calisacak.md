@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5389'
 permalink: /apple-ve-googlein-koronavirus-takip-sistemi-nasil-calisacak/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/04/apple-ve-google-in-koronavirus-takip-sistemi-nasil-calisacak.png
+image: images/apple-ve-google-in-koronavirus-takip-sistemi-nasil-calisacak.png
 categories:
     - 'Ne Nasıl?'
 tags:
@@ -25,7 +25,7 @@ Apple ve Google, bir uygulama üzerinde çalışmıyor. Gizlilik ve güvenliğin
 
 Protokolle ilgili yayınlanan teknik belgelere göre bu sistem, telefonunuzun yakındaki diğer telefonları kaydedecek. Anonim bir kod oluşturarak, belli menzil içindeki diğer telefonların kodlarını günlüğe kaydederken, ne zaman etkileşime geçildiğini de not alacak. Sistemi kullanan kişilerden biri, pozitif teşhis aldığında ise telefonların veritabanları kontrol edilerek, bu kişinin diğer kullanıcılarla temas kurup kurmadığı tespit edilecek. Yerel bir tarama ile yapılacak bu kontrolde, eğer pozitif bir vaka ile temasınız varsa, uyarı almanız söz konusu olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/apple-ve-google-koronavirus-takip-programi-nasil-calisacak.jpg)</figure>Sistem, kesin konum verisi toplamadan, veritabanına yalnızca asgari düzeyde bilgiyi alacak ve temas noktalarının takibine odaklanacak.
+<figure class="wp-block-image size-large">![](images/apple-ve-google-koronavirus-takip-programi-nasil-calisacak.jpg)</figure>Sistem, kesin konum verisi toplamadan, veritabanına yalnızca asgari düzeyde bilgiyi alacak ve temas noktalarının takibine odaklanacak.
 
 ## Enfekte olduğunuz bilgisini nasıl vereceksiniz?
 

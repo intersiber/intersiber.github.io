@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/youtube-2-ayda-5-8-milyon-videoyu-sildi-2.jpg
+image: images/youtube-2-ayda-5-8-milyon-videoyu-sildi-2.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ tags:
 
 Birçok veri açıklayan Youtube bu tür konularda paylaşım yapanların kanallarını da kapatmaya hazırlandığını belirtiyor. Youtube yetkilileri platforma üye olan herkesin topluluk kurallarını kabul ettiğini bildirerek bu tür videoların artışının önüne geçilmesi konusunda da çalışma yaptıklarını vurguladı. Kaldırılan videoların çoğunluğu topluluğa zarar verecek ( Ateşli silah, Irkçı Paylaşımlar, Saldırı ve savaş videoları ) olduğu belirtiliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/youtube-2-ayda-5-8-milyon-videoyu-sildi-1600x1161.jpeg)</figure>## Kaldırılan Videoların %22’si Tekrar Yayınlanıyor 
+<figure class="wp-block-image size-large">![](images/youtube-2-ayda-5-8-milyon-videoyu-sildi-1600x1161.jpeg)</figure>## Kaldırılan Videoların %22’si Tekrar Yayınlanıyor 
 
 Youtube, tüm zamanlar ele alındığında kanal sahiplerinin kaldırılan videolarla ilgili itiraz yaptığı süreçlerde sadece **%22**’sinin tekrardan yayına alındığını belirtti. Tekrardan yayına alınan videoların kaldırılma nedenleri de spam olarak görülüyor. Youtube botlarının spamlara verdiği karşılıklar bazen yanlış olabiliyor. Bunun sonucunda da manuel olarak Youtube yetkilileri sorunu gideriyor.
 

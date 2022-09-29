@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/huawei-p40-pro-5g.png
+image: images/huawei-p40-pro-5g.png
 categories:
     - Mobil
 tags:
@@ -26,7 +26,7 @@ tags:
 
 ABD tarafının lisans konusunda yaptırımları bir süreliğine [bekletmesinden](https://intersiber.com/abd-ticaret-bakanligi-huawei-icin-lisans-yasagi-tarihi-uzatildi/) yararlanan şirket, bugün için lisans sorunları yaşamıyor olsa da kısa süre sonra yeni yaptırımlar ile lisans konularında sıkıntıların başlaması bekleniyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Huawei-P40-Pro.jpg)</figure>Huawei P40 Pro yeni amiral gemisi olarak sahneye çıkacak olan teknoloji üreticisinin yeni cihazında tek çekirdek skoru 776 puan, toplam çekirdek skoru ise 3182 puan olarak ölçüldü.
+<figure class="wp-block-image size-large">![](images/Huawei-P40-Pro.jpg)</figure>Huawei P40 Pro yeni amiral gemisi olarak sahneye çıkacak olan teknoloji üreticisinin yeni cihazında tek çekirdek skoru 776 puan, toplam çekirdek skoru ise 3182 puan olarak ölçüldü.
 
 Huawei P40 Pro, **Geekbench** raporuna göre **8 çekirdekli** bir işlemciye sahip yonga seti ve **8 GB RAM** özellikleriyle gelecek. Telefonun RAM’inin 16 GB’a kadar artırılabilmesi bekleniyor.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9942'
 permalink: /spotifya-yeni-ozellik-telefondaki-diger-muzikler-de-uygulamada-dinlenebilecek/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/12/spotify-a-yeni-ozellik-telefona-indirilen-diger-muzikler-de-uygulamada-dinlenebilecek.jpeg
+image: images/spotify-a-yeni-ozellik-telefona-indirilen-diger-muzikler-de-uygulamada-dinlenebilecek.jpeg
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Wong, Spotify’ın yeni özelliği ile ilgili olarak, artık kullanıcıların 
 
 ## Spotify’ın telefondaki müzikleri çalma özelliği nasıl görünecek?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/spotify-telefondaki-tum-muzikleri-dinleme-ozelligi.png)</figure>Spotify’ın, telefondaki dahili müzikleri çalma özelliğine Ayarlar menüsüne eklenecek yeni bir buton üzerinden erişilebileceği görülüyor. Bu seçeneğe gidilerek, telefona farklı kaynaklardan indirilmiş müzik dosyaları rahatlıkla dinlenebilecek.
+<figure class="wp-block-image size-large">![](images/spotify-telefondaki-tum-muzikleri-dinleme-ozelligi.png)</figure>Spotify’ın, telefondaki dahili müzikleri çalma özelliğine Ayarlar menüsüne eklenecek yeni bir buton üzerinden erişilebileceği görülüyor. Bu seçeneğe gidilerek, telefona farklı kaynaklardan indirilmiş müzik dosyaları rahatlıkla dinlenebilecek.
 
 Spotify’ın, telefondaki müzikleri çalma özelliğinin herkese mi yoksa sadece Spotify premium abonelerine mi sunulacağı henüz bilinmiyor.
 

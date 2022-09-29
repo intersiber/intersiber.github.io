@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/googlelgbt.png
+image: images/googlelgbt.png
 categories:
     - Genel
 tags:
@@ -32,7 +32,7 @@ Apple, Microsoft, Amazon, IBM, PayPal, Uber ve Google gibi büyük teknoloji dev
 
 **İnsan Hakları Kampanyası Vakfı** (HRC) ve **Tüm Amerikalılara Özgürlük Eğitim Fonu** ile ortaklaşa yayınlanan mektupta, LBGTQ bireyleri hedefleyen dışlayıcı ve ayrımcı muamele sebebiyle duyulan endişelere işaret edildi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/googlelgbti.jpeg)</figure>Mektupta ayrıca böyle bir yasaya sahip eyaletlerde çalışanların işe alınmasının zor olduğu açıklandı .
+<figure class="wp-block-image size-full">![](images/googlelgbti.jpeg)</figure>Mektupta ayrıca böyle bir yasaya sahip eyaletlerde çalışanların işe alınmasının zor olduğu açıklandı .
 
 Mektupta, “Bu önlemler, halihazırda bu eyaletlerde ikamet eden çalışanlarımızın ailelerine önemli yükler getirebilir. Ayrımcılığı teşvik eden mevzuat, işyerinde olsun ya da olmasın işimizi doğrudan etkiler.” ifadeleri yer aldı.
 

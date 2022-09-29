@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7515'
 permalink: /unlu-youtube-kanali-iron-manin-lazer-eldivenini-yapti/
 post_views_count:
     - '85'
-image: /wp-content/uploads/2020/05/IronMan.jpg
+image: images/IronMan.jpg
 categories:
     - Genel
 tags:

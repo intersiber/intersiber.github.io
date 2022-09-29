@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/dark-sky-uygulama.png
+image: images/dark-sky-uygulama.png
 categories:
     - Apple
     - Mobil
@@ -29,6 +29,6 @@ Android ve IOS kullanıcılarının severek kullandığı konum destekli hava du
 
 Apple’dan yapılan açıklamada Dark Sky’ın satın alındığı doğrulanırken, şirketin bu konuda gerekli adımları attığı ve bundan sonrası için uygulamanın Android cihazlarda maalesef yer alamayacağı açıklandı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/04/dark-sky-apple-app-hava-durumu.png)</figure>Dark Sky uygulamasının Apple hava durumu ve diğer uygulamalara entegre edilebileceği, bu sayede hava durumu uygulamalarının özellikle Apple Watch gibi giyilebilir cihazlarda çok daha hassas çalışabileği düşünülüyor.
+<figure class="wp-block-image size-full">![](images/dark-sky-apple-app-hava-durumu.png)</figure>Dark Sky uygulamasının Apple hava durumu ve diğer uygulamalara entegre edilebileceği, bu sayede hava durumu uygulamalarının özellikle Apple Watch gibi giyilebilir cihazlarda çok daha hassas çalışabileği düşünülüyor.
 
 Android kullanıcılarının uygulamayı kullanamayacak olması kullanıcıların tepkisine sebep olsa da, Apple’ın geri adım atması beklenmiyor. Apple’ın uygulamayı satın alması sonrasında, uygulamanın resmi internet sitesinden Google Play Store bağlantısı da kaldırıldı. Dark Sky uygulaması şu an için Türkiye’de kullanılabilir durumda değil.

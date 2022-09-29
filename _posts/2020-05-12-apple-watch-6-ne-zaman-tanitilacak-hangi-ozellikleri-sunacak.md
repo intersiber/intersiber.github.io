@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6801'
 permalink: /apple-watch-6-ne-zaman-tanitilacak-hangi-ozellikleri-sunacak/
 post_views_count:
     - '100'
-image: /wp-content/uploads/2020/05/apple-watch-6-ne-zaman-tanitilacak-hangi-ozellikleri-sunacak.jpeg
+image: images/apple-watch-6-ne-zaman-tanitilacak-hangi-ozellikleri-sunacak.jpeg
 categories:
     - Apple
     - 'Giyilebilir Teknoloji'
@@ -24,7 +24,7 @@ Mevcut model olan **Apple Watch 5**, beğeni toplayan bir cihaz olmasına karş�
 
 **Apple Watch 6** için en önemli beklenti, zihinsel sağlık alanında özellikler sunması. Kalp atış hızının yanı sıra kandaki oksijen seviyesinin tespiti ve bu iki veriyi bir araya getirerek, kullanıcılarda panik atakların takibini yapması beklenen 6. nesil Apple Watch, kullanıcıların hiperventilasyon (aşırı nefes alma) sendromunu da önceden anlayabilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-watch-6-ozellikleri-ve-fiyati.png)</figure>## Apple Watch 6’nın çıkış tarihi ve fiyatı ne olacak?
+<figure class="wp-block-image size-large">![](images/apple-watch-6-ozellikleri-ve-fiyati.png)</figure>## Apple Watch 6’nın çıkış tarihi ve fiyatı ne olacak?
 
 **Apple’ın** 6. nesil **akıllı saat**lerinin **tanıtımı** her yıl Eylül ayında yapıldı. Bu nedenle, Apple Watch 6 ile de muhtemelen Eylül içinde tanışacağız. Apple’ın eylüldeki tanıtım geleneği dışında, tanıtım tarihi ile ilgili bir bilgi yok.
 
@@ -34,7 +34,7 @@ Bunun da ötesinde, Apple’ın yeni ürün lansmanlarında tercih ettiği günl
 
 ## Apple Watch 6’nın özellikleri ne olacak?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-watch-6-ne-zaman-cikacak.jpeg)</figure>Apple’ın yeni akıllı saatinin sunacağı özelliklerde, önceki cihazlardan farklı olarak yeni bir ekran türüne geçiş olabileceğine dair söylentiler öne çıkıyor. Apple Watch 5, OLED ekran kullanıyor. Watch 6’nın ise **microLED ekran** kullanabileceği söylentiler arasında.
+<figure class="wp-block-image size-large">![](images/apple-watch-6-ne-zaman-cikacak.jpeg)</figure>Apple’ın yeni akıllı saatinin sunacağı özelliklerde, önceki cihazlardan farklı olarak yeni bir ekran türüne geçiş olabileceğine dair söylentiler öne çıkıyor. Apple Watch 5, OLED ekran kullanıyor. Watch 6’nın ise **microLED ekran** kullanabileceği söylentiler arasında.
 
 MicroLED ekranın en büyük avantajı, daha güçlü ve verimli bir kullanım sunması. Bu da, saatin pil ömrünün önceki modellere göre daha uzun olacağını gösteriyor.
 

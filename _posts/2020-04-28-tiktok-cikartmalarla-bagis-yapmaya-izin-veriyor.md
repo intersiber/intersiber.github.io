@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6114'
 permalink: /tiktok-cikartmalarla-bagis-yapmaya-izin-veriyor/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/04/tiktok-cikartmalarla-bagis-yapmaya-izin-veriyor.png
+image: images/tiktok-cikartmalarla-bagis-yapmaya-izin-veriyor.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -25,6 +25,6 @@ TikTok üzerinden bağış yapılabilecek kurumlar arasında İngiliz Kızılha�
 
 ## Bağış çıkartmaları ekleyen ilk sosyal ağ TikTok değil
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/tiktok-ile-bagis-nasil-yapilir.jpeg)</figure>Bağış çıkartmaları, sosyal ağlar tarafından farklı dönemlerde faaliyete geçmiş bir uygulama. Geçtiğimiz yıl Facebook ve Instagram da, hikaye özelliklerine benzeri bir özellik eklemişti. Bunun yanı sıra Instagram, kar amacı gütmeyen kurumların sayfalarına, kalıcı bir seçenek olarak bağış butonu ekleme seçeneğini de sunmuştu.
+<figure class="wp-block-image size-large">![](images/tiktok-ile-bagis-nasil-yapilir.jpeg)</figure>Bağış çıkartmaları, sosyal ağlar tarafından farklı dönemlerde faaliyete geçmiş bir uygulama. Geçtiğimiz yıl Facebook ve Instagram da, hikaye özelliklerine benzeri bir özellik eklemişti. Bunun yanı sıra Instagram, kar amacı gütmeyen kurumların sayfalarına, kalıcı bir seçenek olarak bağış butonu ekleme seçeneğini de sunmuştu.
 
 **TikTok** videonuza **bağış** çıkartması eklemek istiyorsanız, düzenleme sayfasında yer alan **COVID-19 Bağış** etiketine dokunarak bunu yapabilirsiniz. Videonuza çıkartma eklemeden önce, bir kuruluş seçmeniz gerekiyor. TikTok, bağış seçeneğinin eklendiği tüm içeriklere #doubleyourimpact etiketini otomatik olarak ekleyeceğini ifade etti. Kullanıcıların bağış yapabilmesi için, 18 yaşın üzerinde olması gerekiyor.

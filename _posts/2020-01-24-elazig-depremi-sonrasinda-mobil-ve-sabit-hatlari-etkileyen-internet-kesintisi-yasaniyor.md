@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '86'
-image: /wp-content/uploads/2020/01/elazig-deprem-sivrice-mobil-internet-telefon-kesinti.jpg
+image: images/elazig-deprem-sivrice-mobil-internet-telefon-kesinti.jpg
 categories:
     - Genel
     - 'Öne Çıkan'

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8451'
 permalink: /iphone-12-kamerasinda-olmasi-istenen-7-heyecan-verici-ozellik/
 post_views_count:
     - '65'
-image: /wp-content/uploads/2020/06/iphone-12-kamerasinda-olmasi-beklenen-7-heyecan-verici-ozellik.jpg
+image: images/iphone-12-kamerasinda-olmasi-beklenen-7-heyecan-verici-ozellik.jpg
 categories:
     - Apple
     - Mobil
@@ -28,7 +28,7 @@ Apple iPhone 12 kamerasında beklenen, -ya da istenen- 7 özelliği sıraladık.
 
 ## Ultra geniş kamera için daha parlak bir lens
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/iphone-12-kamera-ozellikleri.jpeg)</figure>iPhone 11, Apple’ın akıllı telefonlarında ilk kez ultra geniş bir kamera getirdi. Ancak nispeten yavaş bir f/2.4 **lens**, **kamera** içinde biraz zayıf kaldı. Düşük ışık durumunda çok iyi bir performans sunamayan ultra geniş kamera, Huawei P40 Pro’da ultra geniş modda yer alan f/1.8 lens ile, daha parlak bir diyafram konsepti ile gelebilir.
+<figure class="wp-block-image size-large">![](images/iphone-12-kamera-ozellikleri.jpeg)</figure>iPhone 11, Apple’ın akıllı telefonlarında ilk kez ultra geniş bir kamera getirdi. Ancak nispeten yavaş bir f/2.4 **lens**, **kamera** içinde biraz zayıf kaldı. Düşük ışık durumunda çok iyi bir performans sunamayan ultra geniş kamera, Huawei P40 Pro’da ultra geniş modda yer alan f/1.8 lens ile, daha parlak bir diyafram konsepti ile gelebilir.
 
 ## Geliştirilmiş hibrit zoom
 
@@ -50,7 +50,7 @@ iPhone 12, **LIDAR** sensörü ile geldiği takdirde bu konuda elini güçlendir
 
 ## Çok yönlü bir gece modu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-kamerasi-gece-modu.png)</figure>**iPhone 11** serisinde yer alan gece modu iddialı bir kamera özelliğiydi. Ancak iyileştirilecek yönleri bulunuyor.
+<figure class="wp-block-image size-large">![](images/apple-kamerasi-gece-modu.png)</figure>**iPhone 11** serisinde yer alan gece modu iddialı bir kamera özelliğiydi. Ancak iyileştirilecek yönleri bulunuyor.
 
 iPhone 12’nin her üç modelinde de, lenslerde **gece** **modunun** olması beklenen bir özellik. Modun otomatik olarak seçilmesi yerine manuel olarak kullanılması da iyi bir kamera özelliği olabilir.
 

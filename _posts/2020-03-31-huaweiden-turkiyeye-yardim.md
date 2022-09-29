@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Huawei-logo.jpg
+image: images/Huawei-logo.jpg
 categories:
     - Genel
 tags:
@@ -29,8 +29,8 @@ tags:
 
 Dünya çapında kısa sürede yayılan ve pek çok kişinin ölümüne neden olan **koronavirüs**, Türkiye’de de hızlıca yayılmakta. Ülkemize pek çok şirket tarafından tıbbi malzeme desteği sağlanıyor. Vaka sayısı her geçen gün artarken bu sefer de destek teknoloji firmasından geldi.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/china-2.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/huaweipaket-2-1519x1600.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/huaweiyardim-2.jpg)</figure>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](images/china-2.jpg)</figure>
+- <figure>![](images/huaweipaket-2-1519x1600.jpg)</figure>
+- <figure>![](images/huaweiyardim-2.jpg)</figure>
 
 <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>Şirketin gönderdiği kolilerin üzerindeki “Aynı dili konuşmasak da, aynı duyguları paylaşıyoruz” notu oldukça dikkat çekti. Önümüzdeki günlerde ülkemize gelmesi beklenen koliler için sosyal medya üzerinden pek çok kişi teşekkürlerini belirtti.

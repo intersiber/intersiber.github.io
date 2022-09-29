@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '156'
-image: /wp-content/uploads/2020/02/windows-10-s-nedir-ozellikleri.png
+image: images/windows-10-s-nedir-ozellikleri.png
 categories:
     - Windows
 tags:
@@ -28,7 +28,7 @@ Microsoft’un en yeni işletim sistemleri **Windows 10** ve **Windows 10 S**, �
 
 Son zamanlarda Microsoft Windows 10 işletim sistemi hakkında çok fazla şey yazılıp çizilmeye başlandı. Microsoft, büyük bir kullanım oranına sahip Windows 7 işletim sistemi serisine desteğini sonlandırdıktan sonra kullanıcılarını Windows 10’a yönlendirmeye başladı. Hali hazırda yaygın bir şekilde kullanılan Windows 7 için her ne kadar büyük şirketler ve hükümetler [Microsoft’a ek güncellemeler için ödeme](https://intersiber.com/almanya-windows-7-icin-senelik-800-000-euro-odeyecek/) yapmayı kabul etmiş olsalar da, şirket Windows 10 S ile okullar ve küçük işletmeleri hedefliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/windows-10-s-ozellikleri-farklar.jpg)</figure>Microsoft’un en son sürümü olan Windows 10, tek sürüm değil. Şirket Windows 10’un yanında ayrıca öğrenciler ve küçük işletmelere yönelik basitleştirilmiş bir sürüm olan Windows 10 S’i de sunuyor. Her iki işletim sistemi de aynı temele dayanmasına rağmen Windows 10 ve Windows 10 S işletim sistemleri arasında bazı önemli farklar var.
+<figure class="wp-block-image size-large">![](images/windows-10-s-ozellikleri-farklar.jpg)</figure>Microsoft’un en son sürümü olan Windows 10, tek sürüm değil. Şirket Windows 10’un yanında ayrıca öğrenciler ve küçük işletmelere yönelik basitleştirilmiş bir sürüm olan Windows 10 S’i de sunuyor. Her iki işletim sistemi de aynı temele dayanmasına rağmen Windows 10 ve Windows 10 S işletim sistemleri arasında bazı önemli farklar var.
 
 ## Windows 10 Nedir?
 

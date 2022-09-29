@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Airbnb-2.jpg
+image: images/Airbnb-2.jpg
 categories:
     - Genel
 tags:
@@ -27,4 +27,4 @@ App Store ve Google Play Store’un en gözde uygulamalarından biri olan Airbnb
 
 Yapılan [açıklamada](https://www.airbnb.com.tr/help/article/2701/hafifletici-nedenler-politikas%C4%B1-ve-koronavir%C3%BCs-covid19) **Airbnb** kullanıcılarının bu süre içerisinde iptal yapabilecekleri, iptal sürecinde herhangi bir sorunla karşılaşmayacakları ve cezai bedel ödemeyecekleri açıklandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/airbnb-1600x1067.jpg)</figure>Bir süredir devam eden **corona virüs** salgını özellikle teknoloji şirketlerini ve teknoloji hisselerini çok yakından etkiledi. Özellikle havayolu şirketleri bu salgın sebebiyle ciddi kayıplar yaşarken, bazı ülkelerde şirketleri destekleyici vergi önlemleri alınmaya başladı.
+<figure class="wp-block-image size-large">![](images/airbnb-1600x1067.jpg)</figure>Bir süredir devam eden **corona virüs** salgını özellikle teknoloji şirketlerini ve teknoloji hisselerini çok yakından etkiledi. Özellikle havayolu şirketleri bu salgın sebebiyle ciddi kayıplar yaşarken, bazı ülkelerde şirketleri destekleyici vergi önlemleri alınmaya başladı.

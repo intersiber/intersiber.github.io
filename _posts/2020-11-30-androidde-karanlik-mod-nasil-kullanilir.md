@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9864'
 permalink: /androidde-karanlik-mod-nasil-kullanilir/
 post_views_count:
     - '32'
-image: /wp-content/uploads/2020/11/android-de-karanlik-mod-nasil-kullanilir.jpg
+image: images/android-de-karanlik-mod-nasil-kullanilir.jpg
 categories:
     - Mobil
     - 'Ne Nasıl?'
@@ -24,15 +24,15 @@ Android 10’dan bu yana, işletim sistemi karanlık modu resmi olarak destekliy
 
 ## Android’de karanlık modu ayarlama adımları
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/android-gece-modu-ayarlama.png)</figure>Öncelikle ekranın üstünden aşağı kaydırın, cihazın üreticisi markaya göre bu değişebilir. Ayarlar menüsünü açmak için dişli simgesine dokunun.
+<figure class="wp-block-image size-large">![](images/android-gece-modu-ayarlama.png)</figure>Öncelikle ekranın üstünden aşağı kaydırın, cihazın üreticisi markaya göre bu değişebilir. Ayarlar menüsünü açmak için dişli simgesine dokunun.
 
 - Sonrasında “Ekran” ayarlarına gitmeniz gerekiyor.
 - Telefon ya da tablet üreticisine bağlı olarak işler burada biraz farklılaşıyor. Zira **Android** kullanan bazı markalar “**Karanlık** **Mod**” ya da “Karanlık Tema” derken, bazıları ise “**Gece** **Modu**” diyor.
 - Google Pixel gibi telefonlarda ise “Koyu Tema” seçeneği karşımıza çıkıyor. Samsung Galaxy serisinde “Karanlık mod ayarları” yer alıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/android-dark-mod-nedir.png)</figure>- Koyu mod seçenekleri gördüğünüz gibi, üreticiye bağlı olarak farklı adlandırılabiliyor. Birçok telefon modelinde, karanlık modu gün batımında otomatik olarak açmanıza ve gün doğumunda otomatik kapatmanıza olanak tanınıyor, dilerseniz bunun için özel bir program da kullanabilirsiniz.
+<figure class="wp-block-image size-large">![](images/android-dark-mod-nedir.png)</figure>- Koyu mod seçenekleri gördüğünüz gibi, üreticiye bağlı olarak farklı adlandırılabiliyor. Birçok telefon modelinde, karanlık modu gün batımında otomatik olarak açmanıza ve gün doğumunda otomatik kapatmanıza olanak tanınıyor, dilerseniz bunun için özel bir program da kullanabilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/android-de-otomatik-gece-modu-ayarlama.png)</figure>- Google Pixel’de görüldüğü gibi, tercih ettiğiniz karanlık mod otomasyonunu seçebilirsiniz.
+<figure class="wp-block-image size-large">![](images/android-de-otomatik-gece-modu-ayarlama.png)</figure>- Google Pixel’de görüldüğü gibi, tercih ettiğiniz karanlık mod otomasyonunu seçebilirsiniz.
 
 İşte hepsi bu kadar. Uygulamaların koyu mod ayarına uymasını itiyorsanız, uygulama içinde tema ayarını seçebilirsiniz. Sistem genelinde karanlık mod destekleniyorsa, uygulama temasının sistemi takip etmesi için bir seçenek de göreceksiniz.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9503'
 permalink: /apple-watch-ile-kandaki-oksijen-seviyesi-nasil-olculur/
 post_views_count:
     - '50'
-image: /wp-content/uploads/2020/11/apple-watch-ile-kan-oksijen-seviyesi-nasil-olculur.png
+image: images/apple-watch-ile-kan-oksijen-seviyesi-nasil-olculur.png
 categories:
     - Apple
     - 'Giyilebilir Teknoloji'
@@ -26,7 +26,7 @@ Apple’ın bu uyarıyı paylaşmasının bir nedeni var. **Apple Watch’taki k
 
 Sensörün çalışma mantığına gelirsek, Apple Watch bileğinizden kanınızdaki oksijen seviyesini ölçerken, cihazın arkasındaki dört LED ve fotodiyot ışıktan faydalanıyor. Bu ışıklar, damarlarda yeşil, kırmızı ve kızılötesi LED’ler yakar. Fotodiyotlar ise geri yansıyan ışık miktarını ölçer.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-watch-blood-oxygen-nedir.jpg)</figure>Apple, renge göre kandaki oksijen miktarını ölçen özel bir algoritma motoruna sahip. Apple Watch, kandaki oksijen seviyesini, yüzde 70 ile 100 arasında ölçebiliyor. 95 ile 100 aralığı normal kabul edilir, 90’ın altında düşük değeri sürekli görüyorsanız, doktora görünebilirsiniz.
+<figure class="wp-block-image size-large">![](images/apple-watch-blood-oxygen-nedir.jpg)</figure>Apple, renge göre kandaki oksijen miktarını ölçen özel bir algoritma motoruna sahip. Apple Watch, kandaki oksijen seviyesini, yüzde 70 ile 100 arasında ölçebiliyor. 95 ile 100 aralığı normal kabul edilir, 90’ın altında düşük değeri sürekli görüyorsanız, doktora görünebilirsiniz.
 
 ## Apple Watch’ta kan oksijen ölçümü nasıl etkinleştirilir?
 
@@ -47,7 +47,7 @@ Uygulamada, Apple Watch’un sağ kısmında yer alan tuşa basın. Burada kan o
 
 Ölçüme başlamak için “Başlat”a dokunun.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-watch-kandaki-oksijen-olcumu.png)</figure>İşlem yaklaşık 15 saniye sürer. Okumayı kaydetmek için “Bitti”ye dokunun. Ölçüm esnasında elinizi masa ya da başka bir düz zemin koymanız, daha doğru sonuç almanıza yardımcı olacaktır.
+<figure class="wp-block-image size-large">![](images/apple-watch-kandaki-oksijen-olcumu.png)</figure>İşlem yaklaşık 15 saniye sürer. Okumayı kaydetmek için “Bitti”ye dokunun. Ölçüm esnasında elinizi masa ya da başka bir düz zemin koymanız, daha doğru sonuç almanıza yardımcı olacaktır.
 
 Apple Watch’ta, kandaki oksijen ölçümünün daha tutarlı olması için aşağıdaki konulara dikkat edebilirsiniz:
 

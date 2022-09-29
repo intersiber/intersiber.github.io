@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6292'
 permalink: /elon-musk-tesla-hisse-fiyati-cok-yuksek-dedi-hisse-fiyati-dustu/
 post_views_count:
     - '130'
-image: /wp-content/uploads/2020/05/elon-musk-tesla-hisse-fiyati-yuksek-dedi-hisse-fiyati-dustu.jpeg
+image: images/elon-musk-tesla-hisse-fiyati-yuksek-dedi-hisse-fiyati-dustu.jpeg
 categories:
     - Genel
 tags:
@@ -29,6 +29,6 @@ Musk geçtiğimiz yıl, Menkul Kıymetler ve Borsa Komisyonu (**SEC**) ile bir a
 
 Musk’ın paylaşımının ardından, **Tesla** **hisseleri** yüzde 10,3 düşüşle, 701 dolara geriledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-hisseleri-nasdaq-borsasi.png)</figure>Geçtiğimiz yılın Şubat ayında **Elon** **Musk**, Tesla’nın 2019’da 500 bin Model 3’ü üreteceğini paylaştı, ancak bu paylaşım, şirketin planları ile örtüşmüyordu. SEC, bunun ardından Musk’a tweetlerinin gözden geçirilmesi emrine uyulup uyulmadığını sordu. Elon Musk’ın, şirketin verileri ile örtüşmeyen birtakım ciddi açıklamalar yapması, Tesla hissedarları arasında huzursuzluğa neden oluyor.
+<figure class="wp-block-image size-large">![](images/tesla-hisseleri-nasdaq-borsasi.png)</figure>Geçtiğimiz yılın Şubat ayında **Elon** **Musk**, Tesla’nın 2019’da 500 bin Model 3’ü üreteceğini paylaştı, ancak bu paylaşım, şirketin planları ile örtüşmüyordu. SEC, bunun ardından Musk’a tweetlerinin gözden geçirilmesi emrine uyulup uyulmadığını sordu. Elon Musk’ın, şirketin verileri ile örtüşmeyen birtakım ciddi açıklamalar yapması, Tesla hissedarları arasında huzursuzluğa neden oluyor.
 
 Musk, geçtiğimiz günlerde koronavirüs kısıtlamalarını eleştirerek, “Özgür Amerika, derhal!” paylaşımı [yapmış](https://intersiber.com/elon-musk-abddeki-koronavirus-onlemlerini-elestirdi/), birçok kişi tarafından eleştirilmişti.

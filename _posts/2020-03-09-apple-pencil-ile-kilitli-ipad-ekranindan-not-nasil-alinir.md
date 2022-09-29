@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/applepencill.jpg
+image: images/applepencill.jpg
 categories:
     - Apple
 tags:
@@ -31,9 +31,9 @@ Bu, cihazınızı bir eskiz defteri gibi kullanabilmenizi sağladığı için h�
 
 1\. iPad’in kilitli ekranında, Apple Pencil ile ekranda herhangi bir yere dokunun.
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/03/ipadkilitekranı.png?fit=640%2C360&ssl=1)</figure>2\. Notlar uygulaması hemen yeni bir nota başlayacak, notları not almak veya Apple Pencil ile çizmek için Notlar uygulamasını her zamanki gibi kullanın.
+<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.comimages/ipadkilitekranı.png?fit=640%2C360&ssl=1)</figure>2\. Notlar uygulaması hemen yeni bir nota başlayacak, notları not almak veya Apple Pencil ile çizmek için Notlar uygulamasını her zamanki gibi kullanın.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ipadpencil-1.jpg)</figure>Aslında tek gereken bu; bir **Apple Pencil** ile kilitli iPad ekranına dokunmak yeni bir not oluşturmak için hemen Notlar uygulamasına geçecektir. Notlar uygulamasında **Apple Pencil** ile notlar yazabilir ve karalayabilirsiniz.
+<figure class="wp-block-image size-large">![](images/ipadpencil-1.jpg)</figure>Aslında tek gereken bu; bir **Apple Pencil** ile kilitli iPad ekranına dokunmak yeni bir not oluşturmak için hemen Notlar uygulamasına geçecektir. Notlar uygulamasında **Apple Pencil** ile notlar yazabilir ve karalayabilirsiniz.
 
 Bu hızlı Notlar özelliğinin kullanılabilmesi için Apple Pencil ve uyumlu bir iPad veya iPad Pro kullanmalı ve Apple Pencil’ı kullanmak için iPadOS işletim sistemine sahip olmalısınız. Ve elbette Apple Pencil pili , kullanılabilir olması için yeterince şarj edilmelidir.
 

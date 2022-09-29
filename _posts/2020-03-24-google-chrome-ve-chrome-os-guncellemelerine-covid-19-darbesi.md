@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/google-chrome.png
+image: images/google-chrome.png
 categories:
     - Genel
 tags:
@@ -30,7 +30,7 @@ tags:
 
 Google’ın yeni sürüm güncellemelerine tam olarak **6 hafta** boyunca ara verdiği belirtilirken, aynı zamanda Google Chrome OS güncellemelerinin de duraklatılan güncellemeler arasında olduğu açıklandı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/chrome-os.jpg)</figure>## Yeni Güncellemeler Riskli
+<figure class="wp-block-image size-full">![](images/chrome-os.jpg)</figure>## Yeni Güncellemeler Riskli
 
 Yeni güncellemelerin büyük riskleri beraberinde getirdiği, olası çökme ve performans sorunları yaşanmasına neden olması durumunda bu dönemde şirketler için çok büyük yüklü maliyetler ve problemler yaratabileceğinden endişe ediliyor.
 

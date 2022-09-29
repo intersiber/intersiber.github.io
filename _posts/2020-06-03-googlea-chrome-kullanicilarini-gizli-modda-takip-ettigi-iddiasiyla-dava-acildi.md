@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8037'
 permalink: /googlea-chrome-kullanicilarini-gizli-modda-takip-ettigi-iddiasiyla-dava-acildi/
 post_views_count:
     - '62'
-image: /wp-content/uploads/2020/06/google-a-chrome-kullanicilarini-gizli-modda-takip-ettigi-iddiasiyla-dava-acildi.jpeg
+image: images/google-a-chrome-kullanicilarini-gizli-modda-takip-ettigi-iddiasiyla-dava-acildi.jpeg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ Google, bir dava ile daha gündemde. Salı günü Kaliforniya’da açılan bir 
 
 Google Chrome’da bir gizli sekme açıldığında, böyle görünüyor:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/google-chrome-gizli-mod-nedir.png)</figure>## 5 milyar dolarlık tazminat talebi
+<figure class="wp-block-image size-large">![](images/google-chrome-gizli-mod-nedir.png)</figure>## 5 milyar dolarlık tazminat talebi
 
 Hukuk firması Boies Schiller &amp; Flexner tarafından açılan davada, **Google’ın** gizli mod özelliğinde tüketicileri kasıtlı olarak aldatması gerekçesi gösterildi ve 5 milyar dolarlık tazminat ödemesi istendi.
 

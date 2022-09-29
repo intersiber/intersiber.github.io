@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6195'
 permalink: /guvenlik-uzmanlari-ingiliz-hukumetinin-koronavirus-takip-uygulamasi-salgindan-sonra-da-kullanilabilir/
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/04/guvenlik-uzmanlari-uyardi-ingiliz-hukumetinin-koronavirus-takip-uygulamasi-salgindan-sonra-da-kullanilabilir.jpg
+image: images/guvenlik-uzmanlari-uyardi-ingiliz-hukumetinin-koronavirus-takip-uygulamasi-salgindan-sonra-da-kullanilabilir.jpg
 categories:
     - Genel
     - Güvenlik
@@ -30,7 +30,7 @@ Benzeri bir uygulama, **Apple** ve **Google** işbirliği ile de geliştiriliyor
 
 ## Güvenlik uzmanları ne diyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/koronavirus-takip-uygulamasi-1600x900.jpg)</figure>İmzalanan ortak mektupta, “NHSX’in enfekte olmuş bir kişinin anonimleştirilmemiş kimliğini ve temas ettiği herkesin kimliğini, merkezi olarak kaydeden bir yaklaşımın tartışıldığı” ifade edildi. Uzmanlara göre hükümet, salgının ardından COVID-19 dışındaki nedenlerden ötürü bu verileri kullanabilir.
+<figure class="wp-block-image size-large">![](images/koronavirus-takip-uygulamasi-1600x900.jpg)</figure>İmzalanan ortak mektupta, “NHSX’in enfekte olmuş bir kişinin anonimleştirilmemiş kimliğini ve temas ettiği herkesin kimliğini, merkezi olarak kaydeden bir yaklaşımın tartışıldığı” ifade edildi. Uzmanlara göre hükümet, salgının ardından COVID-19 dışındaki nedenlerden ötürü bu verileri kullanabilir.
 
 Mektupta, “Mevcut krizden çıktığımızda, nüfus için ya da toplumun hedeflenen kesimlerinde gözetim için veri toplanmasını sağlayan bir araç yaratmamış olmamız çok önemli” ifadesine yer verildi. Mektubun devamında, “Bu tür ‘istilacı’ bilgiler, bir süre boyunca birisinin fiziksel olarak sosyal grafiğini oluşturabilir. Sosyal grafiğe erişim ile kötü bir aktör, vatandaşların gerçek dünyasını gözleyebilir.” ifadesiyle, grup endişesini açıkça özetledi.
 

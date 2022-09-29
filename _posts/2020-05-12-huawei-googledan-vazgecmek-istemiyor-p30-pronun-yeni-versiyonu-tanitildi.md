@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6810'
 permalink: /huawei-googledan-vazgecmek-istemiyor-p30-pronun-yeni-versiyonu-tanitildi/
 post_views_count:
     - '89'
-image: /wp-content/uploads/2020/05/huawei-google-dan-vazgecmek-istemiyor-p30-pro-nun-yeni-versiyonu-yayinlandi.jpg
+image: images/huawei-google-dan-vazgecmek-istemiyor-p30-pro-nun-yeni-versiyonu-yayinlandi.jpg
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ Huawei’nin Almanya web sitesinde paylaşılan bir telefon görselinde ‘her z
 
 Şirket, Android işletim sistemli **Mate 30 ve P40 Pro** gibi telefonları, 2019’un Ekim ayında ve 2020’nin Nisan ayında yayınladı. Ancak **Google** servislerinden kopamayan kullanıcılar için P30 Pro, bir kere daha yayınlandı. 2019’un Eylül ayında duyurulan Huawei P30 Pro’nun yeni versiyonu, orijinal P30 ile aynı özellikleri içermesine karşın, yeni renk seçeneği ile sunuluyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/huawei-p30-pro-new-edition-fiyat-ozellikleri-1600x863.jpg)</figure>## Huawei’nin Çin dışı satışları yüzde 35 düştü
+<figure class="wp-block-image size-large">![](images/huawei-p30-pro-new-edition-fiyat-ozellikleri-1600x863.jpg)</figure>## Huawei’nin Çin dışı satışları yüzde 35 düştü
 
 Huawei’nin, satışları korumak adına yaptığı bu hamle, kullanıcıların Google servislerinin olmadığı bir Android telefon satın almak istemediklerini gösteriyor. Wall Street Journal, geçtiğimiz günlerde şirketin Çin dışındaki akıllı telefon satışlarının yılın ilk çeyreğinde **yüzde 35** oranında düştüğünü bildirmişti. Her ne kadar koronavirüs salgını bu konuda etkili olsa da, şirketin satışları **Apple’a** göre dört kat, **Samsung’a** göre iki kat düştü. Yani genel düşüşten ziyade, Huawei’ye uygulanan teknolojik ambargonun etkileri görüldü.
 

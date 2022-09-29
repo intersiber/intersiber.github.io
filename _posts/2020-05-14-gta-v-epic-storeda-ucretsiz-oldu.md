@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6940'
 permalink: /gta-v-epic-storeda-ucretsiz-oldu/
 post_views_count:
     - '58'
-image: /wp-content/uploads/2020/05/gta-v-epic-storeda-ucretsiz-oldu.jpg
+image: images/gta-v-epic-storeda-ucretsiz-oldu.jpg
 categories:
     - Oyun
 tags:

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/whatsapp-ios-iphone-ipad-karanlik-mod-nasil-acilir.png
+image: images/whatsapp-ios-iphone-ipad-karanlik-mod-nasil-acilir.png
 categories:
     - Mobil
 tags:
@@ -37,4 +37,4 @@ WhatsApp Karanlık Modu iOS sistem ayarlarına bağlıdır, yani Karanlık Mod t
 2. **Ekran parlaklık kaydırıcısını** basılı tutun veya sıkıca bastırın.
 3. Özelliği açmak ve kapatmak için **Karanlık Mod’a** dokunun.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/whatsapp-ios-iphone-ipad-karanlik-mod-nasil-acilir-2.jpg)</figure>Hepsi bu kadar! Bu işlemden sonra iOS’ta **Karanlık Mod** açık olduğu sürece, WhatsApp da karanlık modda olacak.
+<figure class="wp-block-image size-large">![](images/whatsapp-ios-iphone-ipad-karanlik-mod-nasil-acilir-2.jpg)</figure>Hepsi bu kadar! Bu işlemden sonra iOS’ta **Karanlık Mod** açık olduğu sürece, WhatsApp da karanlık modda olacak.

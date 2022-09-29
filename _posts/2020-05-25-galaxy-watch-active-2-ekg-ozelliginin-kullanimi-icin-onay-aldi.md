@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7541'
 permalink: /galaxy-watch-active-2-ekg-ozelliginin-kullanimi-icin-onay-aldi/
 post_views_count:
     - '80'
-image: /wp-content/uploads/2020/05/galaxy-watch-active-2-ekg-ozelliginin-kullanimi-icin-onay-aldi-.jpg
+image: images/galaxy-watch-active-2-ekg-ozelliginin-kullanimi-icin-onay-aldi-.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -22,6 +22,6 @@ tags:
 
 Özelliği kullanmak için **Samsung Health Monitor** uygulamasını başlatmanız ve tek uçlu bir **EKG** okuması elde etmek için parmağınızı düğmenin üzerine uzun süre koymanız yeterli olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/samsung-health-monitor-app-1600x900.jpg)</figure>**Samsung** ayrıca geçtiğimiz günlerde bir basın açıklamasında **Samsung Health Monitor** uygulamasının Güney Kore Gıda ve İlaç Güvenliği Bakanlığı tarafından **Tıbbi Cihaz Olarak Yazılım** (SaMD) altında temizlendiğini ve **Samsung Galaxy Watch Active 2** akıllı saati ile eşleştirildiğinde Güney Kore’deki kullanıcılarının kan basıncı izleme ve takibini mümkün kılacağını da söyledi.
+<figure class="wp-block-image size-large">![](images/samsung-health-monitor-app-1600x900.jpg)</figure>**Samsung** ayrıca geçtiğimiz günlerde bir basın açıklamasında **Samsung Health Monitor** uygulamasının Güney Kore Gıda ve İlaç Güvenliği Bakanlığı tarafından **Tıbbi Cihaz Olarak Yazılım** (SaMD) altında temizlendiğini ve **Samsung Galaxy Watch Active 2** akıllı saati ile eşleştirildiğinde Güney Kore’deki kullanıcılarının kan basıncı izleme ve takibini mümkün kılacağını da söyledi.
 
 Samsung, **Health Monitor** uygulamasını yılın üçüncü çeyreğinde **Active 2** için piyasaya sürmeyi planlıyor. Gelecek **Galaxy** Saatleri de uygulamaya sahip olacak. Ancak ilgili devlet kurumlarından onay alana kadar **EKG** özelliğini başka ülkelerde de kullanılamayacak.

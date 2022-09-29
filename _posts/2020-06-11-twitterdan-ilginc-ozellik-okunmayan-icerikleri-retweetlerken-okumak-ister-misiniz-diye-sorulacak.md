@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8348'
 permalink: /twitterdan-ilginc-ozellik-okunmayan-icerikleri-retweetlerken-okumak-ister-misiniz-diye-sorulacak/
 post_views_count:
     - '54'
-image: /wp-content/uploads/2020/06/twitter-dan-ilginc-ozellik-okunmayan-makaleleri-retweetlerken-okumak-ister-misiniz-diye-sorulacak.jpg
+image: images/twitter-dan-ilginc-ozellik-okunmayan-makaleleri-retweetlerken-okumak-ister-misiniz-diye-sorulacak.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -28,6 +28,6 @@ Bir süredir ara verilen mavi tik, doğrulanmış hesap uygulaması da, Twitter�
 
 ## Sosyal ağın ‘yanlış bilgi’ ile mücadelesi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/twitter-retweet-ozelligi.jpg)</figure>**Twitter**, özellikle bir süredir ABD Başkanı **Donald** **Trump’ın** ya da koronavirüs salgınının merkezde olduğu tartışmalarda, doğru bilgiyi savunma mücadelesi ile öne çıkıyor. Facebook CEO’su **Zuckerberg’in** ‘sosyal ağlar gerçeğin yargıcı olmamalı’ ifadesi ile eleştirdiği bu durum, Twitter için önemli bir mevzi.
+<figure class="wp-block-image size-large">![](images/twitter-retweet-ozelligi.jpg)</figure>**Twitter**, özellikle bir süredir ABD Başkanı **Donald** **Trump’ın** ya da koronavirüs salgınının merkezde olduğu tartışmalarda, doğru bilgiyi savunma mücadelesi ile öne çıkıyor. Facebook CEO’su **Zuckerberg’in** ‘sosyal ağlar gerçeğin yargıcı olmamalı’ ifadesi ile eleştirdiği bu durum, Twitter için önemli bir mevzi.
 
 İnsanların okumadıkları makaleleri retweetlemesi konusunda da Twitter, yanlış bilgi içeren içeriklerin kontrolsüz bir şekilde yayılmasına engel olmak adına bu özellik üzerinde çalışıyor.

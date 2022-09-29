@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5796'
 permalink: /koronavirus-etkisi-nintendo-artan-talep-sonrasinda-switch-uretimini-artiracak/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/04/nintendo-artan-talep-sonrasinda-switch-uretimini-artiracak.jpeg
+image: images/nintendo-artan-talep-sonrasinda-switch-uretimini-artiracak.jpeg
 categories:
     - Konsol
     - Oyun
@@ -24,4 +24,4 @@ Ciddi talebin yaşandığı bugünlerde, **Nintendo Switch**’in bazı ülkeler
 
 ## Oyuna ayrılan zaman yüzde 50’ye yakın arttı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/koronavirus-krizi-sonrasinda-oyun-oynama-orani-artti.jpeg)</figure>**Koronavirüs** krizi, yüz milyonlarca insanın evde zaman geçirmesine neden oldu. Ülkelerin izolasyon ve karantina önlemlerinin ardından, Nielsen raporu ABD’deki oyuncuların oyunlara yüzde 45, Fransa’daki oyuncuların ise yüzde 38 oranında daha çok zaman ayırdığını gösterdi. **Oyun konsolu** satışlarını takip eden diğer bir araştırma şirketi, Mart ayındaki Switch satışının, 2019’un aynı dönemine göre iki kat daha fazla olduğunu ifade etti.
+<figure class="wp-block-image size-large">![](images/koronavirus-krizi-sonrasinda-oyun-oynama-orani-artti.jpeg)</figure>**Koronavirüs** krizi, yüz milyonlarca insanın evde zaman geçirmesine neden oldu. Ülkelerin izolasyon ve karantina önlemlerinin ardından, Nielsen raporu ABD’deki oyuncuların oyunlara yüzde 45, Fransa’daki oyuncuların ise yüzde 38 oranında daha çok zaman ayırdığını gösterdi. **Oyun konsolu** satışlarını takip eden diğer bir araştırma şirketi, Mart ayındaki Switch satışının, 2019’un aynı dönemine göre iki kat daha fazla olduğunu ifade etti.

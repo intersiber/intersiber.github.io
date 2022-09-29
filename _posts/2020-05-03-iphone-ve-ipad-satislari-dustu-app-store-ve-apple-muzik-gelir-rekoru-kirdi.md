@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6328'
 permalink: /iphone-ve-ipad-satislari-dustu-app-store-ve-apple-muzik-gelir-rekoru-kirdi/
 post_views_count:
     - '39'
-image: /wp-content/uploads/2020/05/iphone-ve-ipad-satislari-dustu-app-store-ve-apple-muzik-gelirleri-rekor-kirdi.jpg
+image: images/iphone-ve-ipad-satislari-dustu-app-store-ve-apple-muzik-gelirleri-rekor-kirdi.jpg
 categories:
     - Analiz
 tags:
@@ -26,6 +26,6 @@ Bunlara ek olarak Apple TV+, Apple Arcade, Apple News+ ve Apple Card gibi hizmet
 
 Dünya çapında sosyal mesafe, izolasyon ve ülke çapında karantina önlemlerinin ışığında birçok kişi evde zaman geçirirken, doğal olarak akıllı telefonlarına yöneldi. Bu kapsamda FaceTime ve mesajlar özelliğine olan ilgi de günlük hacim bazında rakor kırdı. Henüz bu önlemlerin ne kadar süreceğinin bilinmemesine rağmen Apple, Haziran ayı boyunca da bu hacmin sürmesini bekliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-gelirleri-2020-yilinda-ne-oldu.jpg)</figure>Hizmet kategorisindeki gelirler şirketin büyüme konusundaki tek odağı değil. Apple, **iPad** ve **Mac** satışlarının da sonraki çeyrekte artacağına inanıyor. Bu tahmin, uzaktan çalışma ve bağlantıda kalma, hatta uzaktan eğitim sistemine dahil olma gibi şu anda, geçmişe göre daha fazla önem kazanan düşüncelere dayanıyor.
+<figure class="wp-block-image size-large">![](images/apple-gelirleri-2020-yilinda-ne-oldu.jpg)</figure>Hizmet kategorisindeki gelirler şirketin büyüme konusundaki tek odağı değil. Apple, **iPad** ve **Mac** satışlarının da sonraki çeyrekte artacağına inanıyor. Bu tahmin, uzaktan çalışma ve bağlantıda kalma, hatta uzaktan eğitim sistemine dahil olma gibi şu anda, geçmişe göre daha fazla önem kazanan düşüncelere dayanıyor.
 
 Koronavirüs salgını henüz dünya çapında kontrol altına alınamamış olsa bile, Apple bu süreçte yeni ürünler çıkarmak için beklemiyor. Son birkaç ay içinde şirket tarafından tanıtılan ürünler arasında MacBook Air ve iPad Pro’nun yeni sürümlerinin yanı sıra, **Magic** **Keyboard** ve **iPhone** **SE** de yer aldı.

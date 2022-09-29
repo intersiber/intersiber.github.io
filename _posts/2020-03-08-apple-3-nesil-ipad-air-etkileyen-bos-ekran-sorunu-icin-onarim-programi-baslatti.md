@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/ipadair3.jpg
+image: images/ipadair3.jpg
 categories:
     - Apple
 tags:
@@ -30,7 +30,7 @@ Apple bugün, üçüncü nesil iPad Air’in belirli modellerinde tespit ettiği
 
 Apple, etkilenen cihazların listesini 2019 Mart ve Ekim ayları arasında üretilen modellere kadar daralttığını belirtiyor. Etkilenen cihazlardan birine sahipseniz, **Apple** iPad cihazınızı ücretsiz olarak onaracak veya değiştirecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ipadair33.jpg)</figure>Apple tarafından yayınlanan “Boş Ekran Sorunu için iPad Air (3. nesil) Hizmet Programı” başlıklı duyuru şöyle:
+<figure class="wp-block-image size-large">![](images/ipadair33.jpg)</figure>Apple tarafından yayınlanan “Boş Ekran Sorunu için iPad Air (3. nesil) Hizmet Programı” başlıklı duyuru şöyle:
 
 *“Apple, belirli koşullar altında, sınırlı sayıda **iPad Air (3. nesil)** cihazdaki ekranın kalıcı olarak kararabileceğini belirledi. Ekran kararmadan önce kısa bir titreme veya flaş görünebilir. Etkilenen aygıtlar Mart 2019 ile Ekim 2019 arasında üretilen modeller. Apple veya Apple Yetkili Servis Sağlayıcısı, uygun cihazlara ücretsiz olarak hizmet verecek.”*
 

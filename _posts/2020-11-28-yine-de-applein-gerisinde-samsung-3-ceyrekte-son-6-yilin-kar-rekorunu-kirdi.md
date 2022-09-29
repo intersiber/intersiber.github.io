@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9833'
 permalink: /yine-de-applein-gerisinde-samsung-3-ceyrekte-son-6-yilin-kar-rekorunu-kirdi/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/11/yine-de-apple-in-gerisinde-samsung-3-ceyrekte-son-6-yilin-kar-rekorunu-kirdi.png
+image: images/yine-de-apple-in-gerisinde-samsung-3-ceyrekte-son-6-yilin-kar-rekorunu-kirdi.png
 categories:
     - Genel
 tags:

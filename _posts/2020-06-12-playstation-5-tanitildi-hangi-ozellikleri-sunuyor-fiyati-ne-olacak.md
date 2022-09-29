@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8381'
 permalink: /playstation-5-tanitildi-hangi-ozellikleri-sunuyor-fiyati-ne-olacak/
 post_views_count:
     - '50'
-image: /wp-content/uploads/2020/06/play-station-5-tanitildi-hangi-ozellikleri-sunuyor-fiyati-ne-olacak.png
+image: images/play-station-5-tanitildi-hangi-ozellikleri-sunuyor-fiyati-ne-olacak.png
 categories:
     - Oyun
 tags:
@@ -20,7 +20,7 @@ Sony, merakla beklenen PlayStation 5’in tanıtımını yaptı. Oyun konsolunun
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" src="https://www.youtube.com/embed/RuLci-lSeCo?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" width="640"></iframe></span></div></figure>## PlayStation 5 iki versiyonla geliyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/sony-ps5-ozellikleri.png)</figure>**PlayStation 5**‘in iki versiyonu mevcut. İlk versiyonda eskisi gibi oyun CD’leri takılacak, **Digital** **Edition’da** ise oyunlar doğrudan internete bağlı olarak oynanacak.
+<figure class="wp-block-image size-large">![](images/sony-ps5-ozellikleri.png)</figure>**PlayStation 5**‘in iki versiyonu mevcut. İlk versiyonda eskisi gibi oyun CD’leri takılacak, **Digital** **Edition’da** ise oyunlar doğrudan internete bağlı olarak oynanacak.
 
 Bunun dışında, PS5’in özellikleri net olarak duyurulmasa da, beklenen özelliklerden bazıları şu şekilde:
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/hacker.jpeg
+image: images/hacker.jpeg
 categories:
     - Güvenlik
 tags:
@@ -30,7 +30,7 @@ Bir süredir sosyal medya ve internette çok sayıda COVID-19 dolandırıcılı�
 
 Kullanıcıların COVID-19 tanı ve test kitleri başta olmak üzere çok sayıda ürün ile dolandırıcılık kurbanı olabildikleri iddia edilirken, aynı zamanda devlet tarafından para ödemesi yapıldığı iddiası ile kişisel bilgilerin elde edilmesi ve bu bilgilerin banka bilgileri ile ele geçirilmeye çalışıldığı belirtildi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/corona-virüs-1.jpg)</figure>Hükümetler tarafından duyurulan salgın destekleri ile ilgili çok sayıda **oltalama** maili olduğuna dikkat çeken yetkililer, tüm internet kullanıcılarının özellikle bu tarz saldırılara karşı dikkatli olmalarını öneriyor.
+<figure class="wp-block-image size-full">![](images/corona-virüs-1.jpg)</figure>Hükümetler tarafından duyurulan salgın destekleri ile ilgili çok sayıda **oltalama** maili olduğuna dikkat çeken yetkililer, tüm internet kullanıcılarının özellikle bu tarz saldırılara karşı dikkatli olmalarını öneriyor.
 
 ## Durdurulamıyorlar!
 

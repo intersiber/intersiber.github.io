@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7211'
 permalink: /google-fotograflar-artik-album-paylasimi-uzerinde-daha-fazla-kontrol-sunuyor/
 post_views_count:
     - '80'
-image: /wp-content/uploads/2020/05/google-photos-hero.png
+image: images/google-photos-hero.png
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 Yeni güncellemede birine davetiye gönderdikten sonra **Google**, kişiye bir e-posta ve uygulama içi bildirim yoluyla bilgi verecek. Bu kişiler uygulamanın ana arayüzünün altındaki “**Paylaşım**” sekmesini kullanarak gönderdiğiniz albümü görebilecekler. Daha sonra albümü birbirinizle konuşabileceğiniz bir yer olarak da kullanabileceksiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google.gif)</figure>Fotoğraflarınızı **Google** hesabı olmayan kişilere göndermek istediğinizde ise bir **bağlantı** kullanarak onlarla albüm paylaşma seçeneğiniz olacak. Bağlantı paylaşımını dilediğiniz gibi etkinleştirebilecek veya devre dışı bırakabileceksiniz. Ayrıca **Google**, size albümünüze başkalarının içerik ekleyip katkıda bulunup bulunamayacağına karar verme seçeneği de sunacak. Fakat birini bir albümden kaldırdığınızda, ekledikleri fotoğraf ve videolar da kaybolacak.
+<figure class="wp-block-image size-large">![](images/google.gif)</figure>Fotoğraflarınızı **Google** hesabı olmayan kişilere göndermek istediğinizde ise bir **bağlantı** kullanarak onlarla albüm paylaşma seçeneğiniz olacak. Bağlantı paylaşımını dilediğiniz gibi etkinleştirebilecek veya devre dışı bırakabileceksiniz. Ayrıca **Google**, size albümünüze başkalarının içerik ekleyip katkıda bulunup bulunamayacağına karar verme seçeneği de sunacak. Fakat birini bir albümden kaldırdığınızda, ekledikleri fotoğraf ve videolar da kaybolacak.
 
 Bu işlevsellik, insanların arkadaşlarına ve ailelerine **fotoğraflar** veya **videolar** göndermelerine ve onların bu resimler hakkında **sohbet** edecekleri bir yere sahip olmalarına imkan tanıyor. Ayrıca bu değişiklik sayesinde albümlerinizi kimlerin gördüğü üzerinde daha **açık bir kontrole** sahip olacaksınız.
 

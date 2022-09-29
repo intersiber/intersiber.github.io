@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/telefon-suya-düştü-4.jpg
+image: images/telefon-suya-dustu-4.jpg
 categories:
     - Mobil
     - 'Ne Nasıl?'
@@ -31,7 +31,7 @@ Kazalar insanlar içindir. Son birkaç yıldır suya ve toza dayanıklı akıll�
 
 Peki akıllı **cep telefonu** suya düşerse ne yapmalı? Eğer IP67 ve üzeri sertifikaya sahip su ve toza dayanıklı bir cep telefonu kullanıyorsanız zaten cihazınız büyük ihtimalle en ufak bir hasar almayacaktır ve herhangi bir şekilde bozulma durumu yaşamayacaktır.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/telefon-suya-düştü.jpg)</figure>## Telefon Suya Düşerse Ne Olur?
+<figure class="wp-block-image size-full">![](images/telefon-suya-düştü.jpg)</figure>## Telefon Suya Düşerse Ne Olur?
 
 Öncesinde cep telefonu suya düşerse ne olur? Bu sorunun cevabını arayalım. Eğer su dolu bir kap içerisine cep telefonu düşerse 1 saniye içerisinde bile cihaz suyun içerisinden çıkarılsa dahi, cihazın içerisine mutlaka su kaçmıştır diyebiliriz. Bu tür durumda cihazda çok yüksek ihtimalle hatalar meydana gelebilir ve cihazın çalışmasında bozulmalar olabilir.
 
@@ -47,7 +47,7 @@ Cep telefonunuz eğer ki su dolu bir kap içerisine düşmediyse veya üzerine b
 
 Ancak cihazınızın üzerine fazla miktarda su döküldüyse bu durumda yapılması gereken, eğer bataryası çıkarılabilen bir cihaz ise önce bataryasını çıkarmak olmalıdır. Su sebebiyle cihazın iletken parçaları oksitlenebilecek olduğundan, cihazın çalışmasında problemler oluşabilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/telefon-suya-düştü-2.jpg)</figure>Cihazınızı asla sıcak buhar veya benzer yöntemler ile kurulamaya çalışmayın. Buhar cihazın daha fazla zarar görmesine sebep olacağı gibi sıcak hava cihazın iletken parçaları başta olmak üzere ekranı dahil birçok parçasına zarar verebilir.
+<figure class="wp-block-image size-large">![](images/telefon-suya-düştü-2.jpg)</figure>Cihazınızı asla sıcak buhar veya benzer yöntemler ile kurulamaya çalışmayın. Buhar cihazın daha fazla zarar görmesine sebep olacağı gibi sıcak hava cihazın iletken parçaları başta olmak üzere ekranı dahil birçok parçasına zarar verebilir.
 
 Eğer bataryası çıkarılamayan bir cep telefonuna sahipseniz bu durumda cihazınız kapanmadıysa hemen kapatmalı, eğer cihaz kapalı görünüyorsa açmadan kurumaya bırakmalısınız.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5628'
 permalink: /hayat-eve-sigar-uygulamasi-yayinda-riskli-bolgede-olup-olmadiginizi-gorebilirsiniz/
 post_views_count:
     - '105'
-image: /wp-content/uploads/2020/04/hayat-eve-sigar-uygulamasi-yayinda-bulundugunuz-yer-koronavirus-riski-tasiyor-mu.png
+image: images/hayat-eve-sigar-uygulamasi-yayinda-bulundugunuz-yer-koronavirus-riski-tasiyor-mu.png
 categories:
     - Genel
     - Mobil
@@ -21,13 +21,13 @@ Sağlık Bakanı Fahrettin Koca, geçtiğimiz haftalarda koronavirüse karşı m
 
 ## Riskli bölgede misiniz?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/hayat-eve-sigar-uygulamasi-koronavirus-riski.png)<figcaption>Uygulama, konum verilerinize göre risk durumunu belirtiyor.</figcaption></figure>Uygulama, konum verilerinize dayanarak bulunduğunuz yerin risk durumunu söylüyor. Evde izolasyon ve enfekte oranlarına bakarak bulunduğunuz yerin ne ölçüde riskli olduğunu, Hayat Eve Sığar uygulaması ile öğrenebilirsiniz.
+<figure class="wp-block-image size-large">![](images/hayat-eve-sigar-uygulamasi-koronavirus-riski.png)<figcaption>Uygulama, konum verilerinize göre risk durumunu belirtiyor.</figcaption></figure>Uygulama, konum verilerinize dayanarak bulunduğunuz yerin risk durumunu söylüyor. Evde izolasyon ve enfekte oranlarına bakarak bulunduğunuz yerin ne ölçüde riskli olduğunu, Hayat Eve Sığar uygulaması ile öğrenebilirsiniz.
 
 ## Online covid-19 testi yapın
 
 **Hayat Eve Sığar uygulaması**nın diğer bir özelliği, online koronavirüs testi yapması. Ateş dereceniz, varsa kronik hastalıklarınız ya da son dönemde bir sağlık çalışanı ile temasınızın olup olmamasına dayanarak uygulama, koronavirüs riskinizi söylüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/saglik-bakanligi-online-covid-19-testi.png)</figure>Olası bir koronavirüs şüphesinde ise en yakın sağlık kuruluşları, harita üzerinde gösteriliyor.
+<figure class="wp-block-image size-large">![](images/saglik-bakanligi-online-covid-19-testi.png)</figure>Olası bir koronavirüs şüphesinde ise en yakın sağlık kuruluşları, harita üzerinde gösteriliyor.
 
 ## Aile bireylerini takip edin
 

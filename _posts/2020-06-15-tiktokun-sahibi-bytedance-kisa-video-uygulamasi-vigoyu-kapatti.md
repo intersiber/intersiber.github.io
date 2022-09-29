@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8468'
 permalink: /tiktokun-sahibi-bytedance-kisa-video-uygulamasi-vigoyu-kapatti/
 post_views_count:
     - '79'
-image: /wp-content/uploads/2020/06/tiktok-un-sahibi-bytedance-kisa-video-uygulamasi-vigo-yu-kapatti.jpg
+image: images/tiktok-un-sahibi-bytedance-kisa-video-uygulamasi-vigo-yu-kapatti.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -25,7 +25,7 @@ ByteDance, Vigo uygulamasının kullanıcılarına bir mektup yazarak, 31 Ekim�
 
 ## 120 milyondan fazla kullanıcısı vardı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/tiktok-un-sahibi-bytedance-sirketi.jpg)</figure>Ocak ayında yayınlanan bir rapora göre **Vigo** uygulamaları, dünya çapında 120 milyondan fazla aktif kullanıcıya sahipti. Ancak TechCrunch’ın aktardığı bilgiye göre uygulama, geçen ay sadece 4 milyon aktif kullanıcıya hizmet verdi.
+<figure class="wp-block-image size-large">![](images/tiktok-un-sahibi-bytedance-sirketi.jpg)</figure>Ocak ayında yayınlanan bir rapora göre **Vigo** uygulamaları, dünya çapında 120 milyondan fazla aktif kullanıcıya sahipti. Ancak TechCrunch’ın aktardığı bilgiye göre uygulama, geçen ay sadece 4 milyon aktif kullanıcıya hizmet verdi.
 
 **ByteDance**, Vigo uygulamasını neden kapattığına ilişkin bir açıklama yapmadı ancak TikTok’un dünya çapında bu kadar ses getirdiği bir dönemde, farklı bir kısa video projesine odaklanmak istememesi, olası sebep olarak görülüyor.
 

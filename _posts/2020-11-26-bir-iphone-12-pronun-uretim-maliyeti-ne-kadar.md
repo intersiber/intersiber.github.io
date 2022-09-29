@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9807'
 permalink: /bir-iphone-12-pronun-uretim-maliyeti-ne-kadar/
 post_views_count:
     - '79'
-image: /wp-content/uploads/2020/11/bir-iphone-12-pro-nun-uretim-maliyeti-ne-kadar.png
+image: images/bir-iphone-12-pro-nun-uretim-maliyeti-ne-kadar.png
 categories:
     - Apple
 tags:
@@ -31,7 +31,7 @@ Raporda, iPhone 12 Pro’nun parçalarının toplam maliyeti 406 dolar, yani **3
 
 ## iPhone 12 parçalarının fiyatı ne kadar?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/iphone-parcalari-uretim-maliyeti.jpg)</figure>- Raporda, iPhone 12’lerin en pahalı parçası **Qualcomm x55 5G modem** olarak görülüyor ve ortalama 90 dolara mal oluyor.
+<figure class="wp-block-image size-large">![](images/iphone-parcalari-uretim-maliyeti.jpg)</figure>- Raporda, iPhone 12’lerin en pahalı parçası **Qualcomm x55 5G modem** olarak görülüyor ve ortalama 90 dolara mal oluyor.
 - Modemin ardından, Samsung ve LG tarafından tedarik edilen **OLED ekranlar** 70 dolarlık maliyeti ile ikinci sırada.
 - Apple’ın kendi üretimi çip seti **A14 işlemci** 40 dolar, RAM ise 12,8 dolara mal oluyor. Sony üretimi kamera sensörü ortalama 7,5 dolar olarak hesaplanmış. Telefonun depolama alanı için, iPhone başına birim maliyet ise 19,2 dolar.
 

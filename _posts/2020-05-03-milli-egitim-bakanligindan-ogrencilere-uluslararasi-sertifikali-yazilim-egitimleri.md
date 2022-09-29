@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6343'
 permalink: /milli-egitim-bakanligindan-ogrencilere-uluslararasi-sertifikali-yazilim-egitimleri/
 post_views_count:
     - '58'
-image: /wp-content/uploads/2020/05/milli-egitim-bakanligindan-ogrencilere-sertifikali-uluslararasi-yazilim-egitimleri.png
+image: images/milli-egitim-bakanligindan-ogrencilere-sertifikali-uluslararasi-yazilim-egitimleri.png
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ Bakan **Ziya** **Selçuk**, programın **Google** ve **Cisco** işbirliği ile g
 
 Selçuk’un Twitter paylaşımı şu şekilde:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/milli-egitim-bakanligi-yazilim-egitimleri-android-python.png)</figure>## Hangi yazılım eğitimleri verilecek?
+<figure class="wp-block-image size-large">![](images/milli-egitim-bakanligi-yazilim-egitimleri-android-python.png)</figure>## Hangi yazılım eğitimleri verilecek?
 
 Ziya Selçuk, paylaşımında “Yazılım programlarına ilgi duyan liseliler burada mı?” ifadesini kullandı. Program kapsamında sunulacak eğitimler ise şu şekilde:
 

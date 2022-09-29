@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10143'
 permalink: /ubere-erisim-engeli-kalkti-sirket-turkiyede-yeniden-hizmet-verecek/
 post_views_count:
     - '23'
-image: /wp-content/uploads/2020/12/uber-e-erisim-engeli-kalkti-sirket-turkiye-de-yeniden-hizmet-verebilecek.jpg
+image: images/uber-e-erisim-engeli-kalkti-sirket-turkiye-de-yeniden-hizmet-verebilecek.jpg
 categories:
     - Genel
 tags:

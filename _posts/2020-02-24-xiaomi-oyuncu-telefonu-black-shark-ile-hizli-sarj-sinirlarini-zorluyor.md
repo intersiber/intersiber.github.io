@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/xiaomi-black-shark-3-5g-oyuncu-telefonu.jpg
+image: images/xiaomi-black-shark-3-5g-oyuncu-telefonu.jpg
 categories:
     - Mobil
 tags:
@@ -27,6 +27,6 @@ Mi 10 ve Mi 10 Pro modelleriyle oldukça beğeni toplayan ve **Xiaomi Black Shar
 
 Weibo’da Black Shark yöneticilerinden biri tarafından kullanıcılara “şarj – kapasite – pil döngüsü” kombinasyonlarından hangisinin daha iyi olduğu soruldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/xiaomi-blackshark-3-5g-hizli-sarj-1.jpg)</figure>Gelen cevap arasında yer alan seçeneklerden birisi de **Black Shark 3 5G**. Oyuncu telefonu Black Shark 3 5G’de **65W** hızlı şarj adaptörü sayesinde 38 dakika içerisinde tam şarj olabilecek. Black Shark 3 5G **800 döngü** boyunca kapasitesini koruyabiliyor ve **5000 mAh** bataryaya sahip. Diğer seçeneklerde de piyasadaki telefonlarda bulunan özellikler yer alıyor.
+<figure class="wp-block-image size-large">![](images/xiaomi-blackshark-3-5g-hizli-sarj-1.jpg)</figure>Gelen cevap arasında yer alan seçeneklerden birisi de **Black Shark 3 5G**. Oyuncu telefonu Black Shark 3 5G’de **65W** hızlı şarj adaptörü sayesinde 38 dakika içerisinde tam şarj olabilecek. Black Shark 3 5G **800 döngü** boyunca kapasitesini koruyabiliyor ve **5000 mAh** bataryaya sahip. Diğer seçeneklerde de piyasadaki telefonlarda bulunan özellikler yer alıyor.
 
 Tüm cihazlarda 600 tam şarj sonrasında bataryanın kapasite kaybı yaşamaya başladığı görülüyor. Ancak, Black Shark 3’ün 800 şarja kadar dayanabilmesi oldukça dikkat çekiyor.

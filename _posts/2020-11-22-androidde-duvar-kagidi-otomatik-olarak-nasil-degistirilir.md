@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9755'
 permalink: /androidde-duvar-kagidi-otomatik-olarak-nasil-degistirilir/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/11/android-de-duvar-kagidi-otomatik-olarak-nasil-degistirilir.png
+image: images/android-de-duvar-kagidi-otomatik-olarak-nasil-degistirilir.png
 categories:
     - Mobil
 tags:
@@ -35,11 +35,11 @@ Google Play Store’da, günün saatine hatta hava durumu koşullarına göre du
 
 ### **YoWindows**
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/android-duvar-kagidi-degistirme-uygulamasi-yowindow.jpg)</figure>Bu uygulama, hava durumu konseptli canlı duvar kağıdı özelliği sunuyor. Hareket içeren çeşitli manzaralar arasında seçim yapabilirsiniz. Hava durumu, konum verilerinize göre alınır.
+<figure class="wp-block-image size-large">![](images/android-duvar-kagidi-degistirme-uygulamasi-yowindow.jpg)</figure>Bu uygulama, hava durumu konseptli canlı duvar kağıdı özelliği sunuyor. Hareket içeren çeşitli manzaralar arasında seçim yapabilirsiniz. Hava durumu, konum verilerinize göre alınır.
 
 ### **Forest Live Wallpaper**
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/android-duvar-kagidi-degistirme-uygulamasi-forest-live-wallpaper.jpg)</figure>Bu uygulama arka planda dağlar ve gerçek zamanlı hava durumu ile, minimalist bir orman sunuyor.
+<figure class="wp-block-image size-large">![](images/android-duvar-kagidi-degistirme-uygulamasi-forest-live-wallpaper.jpg)</figure>Bu uygulama arka planda dağlar ve gerçek zamanlı hava durumu ile, minimalist bir orman sunuyor.
 
 Mevsime uygun bir dizi farklı tema arasından seçim yapabilirsiniz.
 

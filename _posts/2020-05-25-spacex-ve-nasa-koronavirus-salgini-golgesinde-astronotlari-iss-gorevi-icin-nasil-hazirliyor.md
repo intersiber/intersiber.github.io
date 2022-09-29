@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7577'
 permalink: /spacex-ve-nasa-koronavirus-salgini-golgesinde-astronotlari-iss-gorevi-icin-nasil-hazirliyor/
 post_views_count:
     - '73'
-image: /wp-content/uploads/2020/05/spacex-ve-nasa-koronavirus-salgini-golgesinde-astronotlari-iss-gorevi-icin-nasil-hazirliyor-scaled.jpg
+image: images/spacex-ve-nasa-koronavirus-salgini-golgesinde-astronotlari-iss-gorevi-icin-nasil-hazirliyor-scaled.jpg
 categories:
     - Uzay
 tags:
@@ -23,13 +23,13 @@ Kennedy Uzak Merkezi’nde, **SpaceX’in** **Crew** **Dragon** uzay aracı ile,
 
 ## Astronotlar karantina altında
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/nasa-astronotlari-bob-behnken-ve-doug-hurley-kimdir.jpg)</figure>Elbette ki görevin en önemli parçası olan astronotlar **Bob** **Behnken** ve **Doug** **Hurley**, 13 Mayıs’tan beri karantina altındalar. Bu durumun genel bir prosedür. Zira uzaya giden ekipler, herhangi bir bulaşıcı hastalığı uzaya taşıma riskline karşın fırlatmadan kısa bir süre önce karantinaya alınıyorlar. Ek bir önlem olarak, Behnken ve Hurley, ISS’e gitmeden önce iki kere daha koronavirüs testi olacaklar. Ayrıca kalkış öncesi astronotlarla etkileşime giren herkes, maske ve eldiven giymenin yanı sıra, düzenli sıcaklık kontrolünden geçecek.
+<figure class="wp-block-image size-large">![](images/nasa-astronotlari-bob-behnken-ve-doug-hurley-kimdir.jpg)</figure>Elbette ki görevin en önemli parçası olan astronotlar **Bob** **Behnken** ve **Doug** **Hurley**, 13 Mayıs’tan beri karantina altındalar. Bu durumun genel bir prosedür. Zira uzaya giden ekipler, herhangi bir bulaşıcı hastalığı uzaya taşıma riskline karşın fırlatmadan kısa bir süre önce karantinaya alınıyorlar. Ek bir önlem olarak, Behnken ve Hurley, ISS’e gitmeden önce iki kere daha koronavirüs testi olacaklar. Ayrıca kalkış öncesi astronotlarla etkileşime giren herkes, maske ve eldiven giymenin yanı sıra, düzenli sıcaklık kontrolünden geçecek.
 
 ## 2011 yılındaki görevi 1 milyon kişi izledi
 
 **NASA’nın** en çok dikkat ettiği konuların başında ziyaretçiler de geliyor. Kalkış için uzay üssüne gelecek protokol ekibi çok kısıtlı tutuldu. Ancak üs dışında, yakın bölgelerde de kalkışın tanığı olmak için birçok kişi toplanıyor. 2011 yılında **ABD** topraklarından uzaya en son astronot gönderildiğinde, **1 milyon kişi** Florida’daki çeşitli noktalarda toplanmıştı. Köprüler ve plajlar kalabalık yığınlarla dolup taşmıştı. **NASA**, bu defa böyle bir kalabalığın toplanmasını istemiyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/crew-dragon-uzay-kapsulu.jpg)</figure>## Üssün bulunduğu Florida’da 50 bin COVID-19 vakası var
+<figure class="wp-block-image size-large">![](images/crew-dragon-uzay-kapsulu.jpg)</figure>## Üssün bulunduğu Florida’da 50 bin COVID-19 vakası var
 
 Kalkış öncesinde, üssün bulunduğu Florida eyaletinde yaklaşık 50 bin **koronavirüs** vakası var. Bununla birlikte normalleşme kapsamında bazı işletmeler ve restoranlar da açılıyor. Sağlık uzmanları, salgının en ciddi şekilde görüldüğü ülkelerden **ABD’de**, haklı olarak insanlara kalabalık alanlardan kaçınmalarını öneriyor.
 

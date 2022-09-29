@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5457'
 permalink: /sosyal-mesafe-guncellemesi-bumble-artik-ulke-capinda-herkesle-eslesmeye-izin-veriyor/
 post_views_count:
     - '141'
-image: /wp-content/uploads/2020/04/bumble-artik-ulke-capinda-herkesle-eslesmeye-izin-veriyor.png
+image: images/bumble-artik-ulke-capinda-herkesle-eslesmeye-izin-veriyor.png
 categories:
     - Mobil
 tags:
@@ -26,6 +26,6 @@ Koronavirüs salgının başlamasından bu yana, tüm ülkelerde virüsün yayı
 
 ## Tinder’ın eski kurucuları tarafından kuruldu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/bumble-tinder-in-eski-kuruculari-tarafindan-kuruldu-1600x915.png)</figure>Uygulama, Tinder’ın ilk çalışanlarından oluşan bir ekip tarafından geliştirildi. **Tinder**’a doğrudan rakip olan uygulamanın kurucuları, daha güvenli ve saygın bir imaj vaat etti. **Bumble** ayrıca, kullanıcılarına ‘istenmeyen’ mesajlar almayacaklarını da ifade ediyor. Profillerde çalışılan pozisyon, mezun olunan üniversite ve yılının da görüldüğü uygulama, platformu sadece fiziksel görünüşe önem veren bir konsepte sahip olmaktan çıkarmayı amaçlıyor.
+<figure class="wp-block-image size-large">![](images/bumble-tinder-in-eski-kuruculari-tarafindan-kuruldu-1600x915.png)</figure>Uygulama, Tinder’ın ilk çalışanlarından oluşan bir ekip tarafından geliştirildi. **Tinder**’a doğrudan rakip olan uygulamanın kurucuları, daha güvenli ve saygın bir imaj vaat etti. **Bumble** ayrıca, kullanıcılarına ‘istenmeyen’ mesajlar almayacaklarını da ifade ediyor. Profillerde çalışılan pozisyon, mezun olunan üniversite ve yılının da görüldüğü uygulama, platformu sadece fiziksel görünüşe önem veren bir konsepte sahip olmaktan çıkarmayı amaçlıyor.
 
 Bumble’ın şu anda sadece iOS versiyonu mevcut. Android sürümü ile ilgili henüz bir plan bulunmuyor.

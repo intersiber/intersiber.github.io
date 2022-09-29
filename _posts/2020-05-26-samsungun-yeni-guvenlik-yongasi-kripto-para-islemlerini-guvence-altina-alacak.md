@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7594'
 permalink: /samsungun-yeni-guvenlik-yongasi-kripto-para-islemlerini-guvence-altina-alacak/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/05/samsung-un-yeni-guvenlik-yongasi-kripto-para-cuzdanlarini-guvence-altina-alacak.png
+image: images/samsung-un-yeni-guvenlik-yongasi-kripto-para-cuzdanlarini-guvence-altina-alacak.png
 categories:
     - Güvenlik
 tags:
@@ -22,4 +22,4 @@ Koreli teknoloji devi, **Secure** **Enclave** konseptine sahip yonga setini Şub
 
 ## Yeni yonga seti, kripto para işlemlerini koruyabilecek düzeyde
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/samsung-guvenlik-yongasi-kripto-para-ozelligi.jpg)</figure>Yeni yonga, **Common Criteria (CC) EAL 6+** güvenlik standardına sahip. Bu güvenlik düzeyi, yongayı en güvenli mobil çözümlerden biri haline getiriyor. Bu güvenlik standardı, e-pasaportların yanı sıra, **kripto para cüzdanları** gibi önemli verileri korumak için kullanılıyor.
+<figure class="wp-block-image size-large">![](images/samsung-guvenlik-yongasi-kripto-para-ozelligi.jpg)</figure>Yeni yonga, **Common Criteria (CC) EAL 6+** güvenlik standardına sahip. Bu güvenlik düzeyi, yongayı en güvenli mobil çözümlerden biri haline getiriyor. Bu güvenlik standardı, e-pasaportların yanı sıra, **kripto para cüzdanları** gibi önemli verileri korumak için kullanılıyor.

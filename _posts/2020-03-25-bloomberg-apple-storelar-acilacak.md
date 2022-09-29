@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Apple-Store-3.jpg
+image: images/Apple-Store-3.jpg
 categories:
     - Apple
 tags:
@@ -26,6 +26,6 @@ tags:
 
 Bloomberg haber kaynağı, Apple’ın bir süre önce kapatmış olduğu **Apple Store** mağazalarını yeniden kısa süre içerisinde açabilecek olduğunu iddia etti. **Corona virü**sün etkilerinin azaldığı yerlerde mağazaların yeniden açılabileceği, bu kararın Apple’ın Apple Park yönetim merkezinde belirlenecek olduğu iddia edildi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Apple-Store.jpg)</figure>Apple yönetimi bir süredir çalışan sayısını azaltmış olması, bir süredir evden çalışma sistemine geçmesi gibi durumlar sebebiyle bir süredir mağazalarını kapalı tutuyordu.
+<figure class="wp-block-image size-full">![](images/Apple-Store.jpg)</figure>Apple yönetimi bir süredir çalışan sayısını azaltmış olması, bir süredir evden çalışma sistemine geçmesi gibi durumlar sebebiyle bir süredir mağazalarını kapalı tutuyordu.
 
 Ancak teknoloji üreticisi Apple’ın mağazalarının başta ABD olmak üzere Çin’de bazı bölgelerde açılabilecek olduğu iddia ediliyor. Diğer ülkelerde özellikle İtalya ve İspanya’da ise mağazaların kapalı kalması öngörülüyor.

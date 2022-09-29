@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7138'
 permalink: /lenovonun-akilli-cercevesi-google-fotograflar-entegrasyonu-ve-indirimli-indiegogo-lansmani-sunuyor/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/05/lenovonun-akilli-cercevesi-google-fotograflar-entegrasyonu-ve-indirimli-indiegogo-lansmani-sunuyor.jpeg
+image: images/lenovonun-akilli-cercevesi-google-fotograflar-entegrasyonu-ve-indirimli-indiegogo-lansmani-sunuyor.jpeg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ CES 2020’de **Lenovo**, şirketin **399$**‘lık zarif bir dijital görüntü
 
 Şirket, **Indiegogo** kampanyasının üründeki gecikmelerden kaynaklanmadığını söylüyor. Yani Akıllı Çerçeve **Ağustos** ayında piyasaya sürülecek. Bunun yerine, şirket yaklaşan ürünle özellikle ilgilenen ve yeni fikirler ve özellikler hakkında geri bildirim sağlayabilen bir **kullanıcı topluluğu** oluşturma çabasının bir parçası olarak çerçeveyi erken ön siparişe açtığını belirtti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/Lenovo-Smart-Frame-1600x984.jpg)</figure>CES 2020’de duyurulan **21.5** inç **1080p** IPS ekranlı **Akıllı Çerçeve**, ekranı ortam aydınlatma koşullarına uyacak şekilde otomatik olarak ayarlamak için kullanılabilecek bir sensöre sahip.
+<figure class="wp-block-image size-large">![](images/Lenovo-Smart-Frame-1600x984.jpg)</figure>CES 2020’de duyurulan **21.5** inç **1080p** IPS ekranlı **Akıllı Çerçeve**, ekranı ortam aydınlatma koşullarına uyacak şekilde otomatik olarak ayarlamak için kullanılabilecek bir sensöre sahip.
 
 **Indiegogo** kampanyasına ek olarak **Lenovo**, Akıllı Çerçeve için önemli bir yeni özellik de duyurdu. Çerçeve Lenovo’nun kendi uygulamasına ek olarak otomatik olarak kitaplığınızdan yeni resimler çekmek için **Google Fotoğraflar** ile entegre edilebiliyor.
 

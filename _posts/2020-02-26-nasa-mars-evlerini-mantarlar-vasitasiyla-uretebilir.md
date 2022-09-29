@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/nasa-mars-evlerini-mantarlardan-faydalanarak-uretebilir.png
+image: images/nasa-mars-evlerini-mantarlardan-faydalanarak-uretebilir.png
 categories:
     - Uzay
 tags:
@@ -26,7 +26,7 @@ tags:
 
 NASA Yenilikçi Gelişmiş Kavramlar (NIAC) programı, mantarları Ay ve Mars’ta habitat oluşturmak için kullanabilecek miko-mimari süreçlerin uygulanabilirliği üzerine araştırmalara fon sağladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/nasa-dan-ay-ve-mars-icin-sira-disi-proje-amerikan-havacilik-ve-uzay-dairesi-nasa-ay-ve-mars-icin-cok-konusulacak-bir-calismanin-hazirligi.jpg)</figure>Çalışma konsepti mantarların miselyum kısımlarına odaklanmış durumda. Mantarların toprak altında üretilen kısımları olan miselyum, bir nevi yapı malzemesi görevi görüyor. NASA tarafından yapılan açıklamada “Bu küçük iplikler, büyük yapıların içine ağ oluşturarak, hassasiyetle karmaşık yapılar inşa edebiliyor.” ifadeleri kullanıldı.
+<figure class="wp-block-image size-large">![](images/nasa-dan-ay-ve-mars-icin-sira-disi-proje-amerikan-havacilik-ve-uzay-dairesi-nasa-ay-ve-mars-icin-cok-konusulacak-bir-calismanin-hazirligi.jpg)</figure>Çalışma konsepti mantarların miselyum kısımlarına odaklanmış durumda. Mantarların toprak altında üretilen kısımları olan miselyum, bir nevi yapı malzemesi görevi görüyor. NASA tarafından yapılan açıklamada “Bu küçük iplikler, büyük yapıların içine ağ oluşturarak, hassasiyetle karmaşık yapılar inşa edebiliyor.” ifadeleri kullanıldı.
 
 NASA habitat fikrini ve bazı konsept çalışmaları gösteren bir video da yayınladı.
 

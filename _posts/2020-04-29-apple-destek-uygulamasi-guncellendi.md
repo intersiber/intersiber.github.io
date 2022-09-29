@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6172'
 permalink: /apple-destek-uygulamasi-guncellendi/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/04/apple-1.jpg
+image: images/apple-1.jpg
 categories:
     - Apple
 tags:
@@ -22,9 +22,9 @@ tags:
 
 Güncellenen uygulamada gezinmek oldukça kolay ve karanlık mod oldukça iyi görünüyor. Karanlık mod açıkken yeni arayüzün nasıl göründüğüne dair bazı ekran görüntüleri:
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/1-1-739x1600.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/2-739x1600.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/3-739x1600.jpg)</figure>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](images/1-1-739x1600.jpg)</figure>
+- <figure>![](images/2-739x1600.jpg)</figure>
+- <figure>![](images/3-739x1600.jpg)</figure>
 
 <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>Apple’dan 4.0 sürümü için notlar:
 

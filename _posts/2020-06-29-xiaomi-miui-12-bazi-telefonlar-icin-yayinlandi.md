@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8750'
 permalink: /xiaomi-miui-12-bazi-telefonlar-icin-yayinlandi/
 post_views_count:
     - '101'
-image: /wp-content/uploads/2020/06/xiaomi-miui-12-bazi-telefonlar-icin-yayinlandi.jpg
+image: images/xiaomi-miui-12-bazi-telefonlar-icin-yayinlandi.jpg
 categories:
     - Mobil
 tags:
@@ -21,11 +21,11 @@ tags:
 
 Aylık **310** milyon aktif kullanıcıya sahip olan **Xiaomi**‘nin yeni arayüzü sayesinde mesajlara hızlı cevap vermek için kayan pencereler bulunuyor. Gizlilik açısından pek çok yenileme bulunduran bu güncelleme ile kullanıcıların konum bilgilerinin yalnızca uygulama ön planda açıkken kullanılabilmesi gibi çeşitli özelleştirmeler yer alıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/MIUI-12-1600x796.jpg)</figure>Çeşitli yenilemelerin yanında **Ultra Pil Tasarrufu Modu** içeren güncelleme ile batarya seviyesi yüzde **5**’e düştüğünde otomatik olarak devreye girerek bazı özellikleri devre dışı bırakıyor ve kullanıcıya minimal bir kullanım sunuyor.
+<figure class="wp-block-image size-large">![](images/MIUI-12-1600x796.jpg)</figure>Çeşitli yenilemelerin yanında **Ultra Pil Tasarrufu Modu** içeren güncelleme ile batarya seviyesi yüzde **5**’e düştüğünde otomatik olarak devreye girerek bazı özellikleri devre dışı bırakıyor ve kullanıcıya minimal bir kullanım sunuyor.
 
 Ayrıca **MIUI 12**, şimdilik yalnızca **Çin ROM**‘una sahip cihazlarla sınırlı olan ancak çok yakında dünya genelindeki diğer kullanıcılar için de yayınlanması beklenen **Ses Asistanı** özelliği ile kullanıcıların telefondaki her uygulama için ayrı ayrı ses seviyesi belirlemesine imkan sağlıyor. Özelliği etkinleştirmek için önce telefonunuzdan **Ayarlar**‘ı açıp **Ses ve Titreşim**‘e girmeniz ardından **Ses Asistanı**‘na dokunup her iki seçeneği de etkinleştirmeniz gerekiyor. Ardından **ses açma/kapama** düğmesine basarak ekranda beliren yuvarlak **müzik simgesine** dokunarak ses seviyesini ayarlayabileceksiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/miui-12-ses-asistanı.png)</figure>## MIUI 12 Sürümünü Alan Telefonlar
+<figure class="wp-block-image size-large">![](images/miui-12-ses-asistanı.png)</figure>## MIUI 12 Sürümünü Alan Telefonlar
 
 - Redmi K30 5G
 - Redmi K30 Pro Zoom

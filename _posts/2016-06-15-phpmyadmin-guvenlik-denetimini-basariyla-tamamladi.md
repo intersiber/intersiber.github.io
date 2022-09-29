@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=41'
 permalink: /phpmyadmin-guvenlik-denetimini-basariyla-tamamladi/
 post_views_count:
     - '638'
-image: /wp-content/uploads/2016/06/logo-og.png
+image: images/logo-og.png
 categories:
     - Güvenlik
     - Linux

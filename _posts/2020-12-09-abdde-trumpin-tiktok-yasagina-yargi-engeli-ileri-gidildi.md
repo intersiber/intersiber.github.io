@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9970'
 permalink: /abdde-trumpin-tiktok-yasagina-yargi-engeli-ileri-gidildi/
 post_views_count:
     - '18'
-image: /wp-content/uploads/2020/12/abd-de-trump-in-tiktok-yasagina-yargi-engeli-ileri-gidildi.jpg
+image: images/abd-de-trump-in-tiktok-yasagina-yargi-engeli-ileri-gidildi.jpg
 categories:
     - 'Sosyal Medya'
 tags:

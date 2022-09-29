@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9899'
 permalink: /sirketin-ceosu-duyurdu-netflix-turkiyede-ofis-acacak/
 post_views_count:
     - '35'
-image: /wp-content/uploads/2020/12/sirketin-ceo-su-duyurdu-netflix-turkiye-de-ofis-acacak.jpeg
+image: images/sirketin-ceo-su-duyurdu-netflix-turkiye-de-ofis-acacak.jpeg
 categories:
     - Genel
 tags:
@@ -18,7 +18,7 @@ tags:
 
 **Netflix** kurucusu ve CEO’su Reed Hastings, şirketin **Türkiye’de** bir **ofis** açacağını açıkladı. 2021’in ikinci yarısında açılması planlanan **Netflix** **ofisi** İstanbul’da olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/netflix-amerika-ofisi-1600x900.jpg)</figure>Dünyanın en büyük çevrimi yayın platformu Netflix, Türkiye’de bir ofis açacak. Şirketin Türkiye ekibini ağırlayacak ofisin haberini, Netflix kurucusu ve CEO’su Reed Hastings verdi. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’dan da, Netflix Türkiye ofisi ile ilgili yorum geldi.
+<figure class="wp-block-image size-large">![](images/netflix-amerika-ofisi-1600x900.jpg)</figure>Dünyanın en büyük çevrimi yayın platformu Netflix, Türkiye’de bir ofis açacak. Şirketin Türkiye ekibini ağırlayacak ofisin haberini, Netflix kurucusu ve CEO’su Reed Hastings verdi. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy’dan da, Netflix Türkiye ofisi ile ilgili yorum geldi.
 
 ## Netflix CEO’su Hastings: Türkiye’deki 3 milyonu aşkın üyemize teşekkür ederiz
 

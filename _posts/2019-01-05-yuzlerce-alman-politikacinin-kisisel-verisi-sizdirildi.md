@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '327'
-image: /wp-content/uploads/2019/01/German-flag.jpg
+image: images/German-flag.jpg
 categories:
     - 'Öne Çıkan'
     - 'Veri Sızıntıları'

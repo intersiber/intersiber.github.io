@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8183'
 permalink: /lidar-bir-kilometre-uzunlugunda-maya-yapisinin-kesfine-yardimci-oldu/
 post_views_count:
     - '81'
-image: /wp-content/uploads/2020/06/lidar-bir-kilometre-uzunlugunda-maya-yapisinin-kesfine-yardimci-oldu.png
+image: images/lidar-bir-kilometre-uzunlugunda-maya-yapisinin-kesfine-yardimci-oldu.png
 categories:
     - Genel
 tags:
@@ -27,4 +27,4 @@ Ortaya çıkarılan Maya yapısının havadan görünümü şu şekilde:
 
 **LIDAR**, lazer ışığını nesnelere ve yüzeylere göndererek mesafeyi algılıyor. Güçlü hesaplama teknikleri kullanılarak, zemin seviyesi bulunabilir ve ayrıntılı bir yükseklik haritası oluşturulabilir. Alanın tespiti ile, düşük çözünürlüklü bir **LIDAR** taraması sonucunda aşağıdaki görüntüler elde edildi:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/lidar-sensoru-ile-arkeoojik-kesif-yapildi-1600x893.jpg)</figure>10 metre yükseklik ve 1,4 kilometre uzunluğa sahip yapının, Aguada Fenix adı verilen ve güneşin hareketlerini izlemek ve çeşitli ayinler yapmak için kullanıldığı düşünülen bir merkez olduğu düşünülüyor. M.Ö. 1000 ile 800 yılları arasında inşa edildiği düşünülen merkez, **Maya** **uygarlığına** dair bilinmeyen birçok detayı aydınlatabilir.
+<figure class="wp-block-image size-large">![](images/lidar-sensoru-ile-arkeoojik-kesif-yapildi-1600x893.jpg)</figure>10 metre yükseklik ve 1,4 kilometre uzunluğa sahip yapının, Aguada Fenix adı verilen ve güneşin hareketlerini izlemek ve çeşitli ayinler yapmak için kullanıldığı düşünülen bir merkez olduğu düşünülüyor. M.Ö. 1000 ile 800 yılları arasında inşa edildiği düşünülen merkez, **Maya** **uygarlığına** dair bilinmeyen birçok detayı aydınlatabilir.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9473'
 permalink: /iphoneun-gizli-ozelligi-arkaya-dokunarak-ses-nasil-kapatilir/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/11/iphone-un-gizli-ozelligi-arkaya-dokunarak-ses-nasil-kapatilir.jpg
+image: images/iphone-un-gizli-ozelligi-arkaya-dokunarak-ses-nasil-kapatilir.jpg
 categories:
     - Apple
 tags:
@@ -43,7 +43,7 @@ Ayarlar’da, “güvenilmeyen kestirmeleri” etkinleştirin. Bu işlem, Apple 
 
 Aksi takdirde kısayol, telefonun sesinin kapalı olduğunu varsayar ve seviyeyi yüzde 50’ye getirir. Özelliğin çalışma algoritması şu şekilde:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/iphone-sessize-alma-kisayolu-mute-toggle.jpg)</figure>Kısayolu aldıktan sonra, sesi kapattığınızda iPhone’unuzun ayarlanacağı sesi özelleştirebilirsiniz. Standart olarak yüzde 50 olan ayar, değiştirilebilir.
+<figure class="wp-block-image size-large">![](images/iphone-sessize-alma-kisayolu-mute-toggle.jpg)</figure>Kısayolu aldıktan sonra, sesi kapattığınızda iPhone’unuzun ayarlanacağı sesi özelleştirebilirsiniz. Standart olarak yüzde 50 olan ayar, değiştirilebilir.
 
 Sesi ayarladıktan sonra sağ üstteki “Bitti”ye hafifçe dokunmanız yeterli.
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/amaxon-flex.png
+image: images/amaxon-flex.png
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ ABD’li e-ticaret şirketi Amazon’dan bugün yapılan ve tepki çeken açıkl
 
 **Amazon**, **Flex** çalışanlarının koronavirüse yakalanması durumunda evden çıkmamaları ve sağlık hattına haber vermesi gerektiğini belirtirken, Uber’den yapılan açıklamada ise sürücülerin 14 gün boyunca ücretlerinin ödenmeye devam edecek olduğu, sürücülerin hasta olmaları durumunda asla trafiğe çıkmamaları uyarısı yapıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/amazon-.jpg)</figure>Senatör Mark Warner geçtiğimiz hafta büyük ABD’li şirketlere mektup göndermiş ve çalışanların hasta olması durumunda mali sıkıntıya düşmemek için önlemler almalarını, çalışanlarının hastalık süresince ödemelerinin aksamadan yapılması konusunda beklentileri olduğunu açıklamıştı.
+<figure class="wp-block-image size-large">![](images/amazon-.jpg)</figure>Senatör Mark Warner geçtiğimiz hafta büyük ABD’li şirketlere mektup göndermiş ve çalışanların hasta olması durumunda mali sıkıntıya düşmemek için önlemler almalarını, çalışanlarının hastalık süresince ödemelerinin aksamadan yapılması konusunda beklentileri olduğunu açıklamıştı.
 
 Washington, D.C. yönetimi ise kısa süre önce ülkede ekonomiyi etkileyecek herhangi bir salgın durumundan söz edilmediğini, ancak olası tüm sorunlara hazır olduklarını açıklamıştı.

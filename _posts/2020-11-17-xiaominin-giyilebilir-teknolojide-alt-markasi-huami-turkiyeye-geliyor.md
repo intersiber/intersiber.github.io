@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9693'
 permalink: /xiaominin-giyilebilir-teknolojide-alt-markasi-huami-turkiyeye-geliyor/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/11/xiaomi-nin-giyilebilir-teknolojide-alt-markasi-huami-turkiye-ye-geliyor.png
+image: images/xiaomi-nin-giyilebilir-teknolojide-alt-markasi-huami-turkiye-ye-geliyor.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -26,6 +26,6 @@ Huami’nin akıllı saat ve bileklik ürünleri, Türkiye’de halihazırda sat
 
 ## Bir ‘fiyat/performans’ markası
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/huami-amazfit-serisi-akilli-saat-ve-bileklik.png)</figure>Huami, başta İspanya, İtalya ve Hindistan olmak üzere, 2020’de birçok ülkede en iyi akıllı saat markaları arasında yer almayı başardı. Uygun fiyatlı ve çok yönlü özellikler içeren ürünleri ile Huami, bir fiyat performans markası olarak anılıyor.
+<figure class="wp-block-image size-large">![](images/huami-amazfit-serisi-akilli-saat-ve-bileklik.png)</figure>Huami, başta İspanya, İtalya ve Hindistan olmak üzere, 2020’de birçok ülkede en iyi akıllı saat markaları arasında yer almayı başardı. Uygun fiyatlı ve çok yönlü özellikler içeren ürünleri ile Huami, bir fiyat performans markası olarak anılıyor.
 
 Gelen bilgiler, Huami Türkiye ülke müdürünün daha önce Çinli akıllı telefon markası Meizu’nun Türkiye müdürü olan Murat Sungur Özkan’ın olacağı yönünde. Türkiye’de gün geçtikçe büyüyen akıllı telefon ve bileklik pazarında, Xiaomi, Huami markası ile nasıl bir yer edinecek, göreceğiz.

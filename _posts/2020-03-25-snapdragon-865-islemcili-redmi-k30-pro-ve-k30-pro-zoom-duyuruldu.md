@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/redmi-k30-pro-2.png
+image: images/redmi-k30-pro-2.png
 categories:
     - Mobil
 tags:
@@ -33,7 +33,7 @@ tags:
 
 Cihaz **Normal** ve **Zoom Edition** sürümü ile birlikte gelecek ve zoom sürümündeki tek fark, zoom sürümünde 30x’e kadar zoom telefoto lensin olması. Normal sürümde ise portre ve makro için 50mm telefoto lens bulunuyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/redmi-k30-pro.png)</figure>#### **Redmi K30 Pro / K30 Pro Zoom Edition Teknik Özellikleri**
+<figure class="wp-block-image size-full">![](images/redmi-k30-pro.png)</figure>#### **Redmi K30 Pro / K30 Pro Zoom Edition Teknik Özellikleri**
 
 - 6,67 inç (2400 × 1080 piksel) Full HD + E3 AMOLED en boy oranı 1200nit (HBM) / 800nit (Tip) parlaklığa sahip HDR10 + ekran, 5000000: 1 (Min) kontrast oranı,% 100 DCI-P3 Geniş Renk Gamı, Corning Gorilla Cam 5 koruması
 - Sekiz Çekirdekli (1 x 2.84GHz + 3 x 2.42GHz + 4 x 1.8GHz Hexa) Snapdragon 865 7nm Adreno 650 GPU ile Mobil Platform

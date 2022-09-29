@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5411'
 permalink: /koronavirus-turkiye-e-ticaret-pazarini-nasil-etkiledi/
 post_views_count:
     - '76'
-image: /wp-content/uploads/2020/04/koronavirus-turkiye-e-ticaret-pazarini-nasil-etkiledi.png
+image: images/koronavirus-turkiye-e-ticaret-pazarini-nasil-etkiledi.png
 categories:
     - Genel
 tags:
@@ -29,6 +29,6 @@ Salgın, milyonlarca kişinin satın alım alışkanlıklarında değişimlerin 
 
 Gelen yoğun talep, fiyatlarda da etkisini gösterdi. Maske fiyatları Mart ayında, Ocak ayına göre yüzde 500’den fazla artarken ateş ölçer fiyatları ise yüzde 139 arttı. Ayrıca internetten satın alınan maske, kolonya, eldiven ve ıslam mendil gibi ürünlerin sayısının da, 6,5 kat arttığı ifade edildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/turkiye-de-covid-19-un-e-ticarete-etkisi-985x1600.png)</figure>## Anlık satış takibi: Şu anda ne alınıyor?
+<figure class="wp-block-image size-large">![](images/turkiye-de-covid-19-un-e-ticarete-etkisi-985x1600.png)</figure>## Anlık satış takibi: Şu anda ne alınıyor?
 
 IdeaSoft, anlık olarak satın alınan ürünlerin takip edilebilmesi adına bir site açtı ve sitede, hangi şehirden o anda hangi ürünün satın alındığı görülebiliyor. Bunun dışında anlık satış takibi sitesinde, 8 binin üzerindeki siteden elde edilen verilerle, 2020 yılında şu ana kadar satılan toplam ürün sayısı da yer alıyor. An itibariyle, IdeaSoft’un bu yıl satıldığını paylaştığı ürün sayısı 10 milyon 899 bin.

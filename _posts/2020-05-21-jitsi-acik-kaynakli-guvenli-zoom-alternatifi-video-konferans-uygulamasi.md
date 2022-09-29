@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7322'
 permalink: /jitsi-acik-kaynakli-guvenli-zoom-alternatifi-video-konferans-uygulamasi/
 post_views_count:
     - '208'
-image: /wp-content/uploads/2020/05/jitsi-acik-kaynakli-guvenli-zoom-alternatifi-video-konferans-uygulamasi.jpg
+image: images/jitsi-acik-kaynakli-guvenli-zoom-alternatifi-video-konferans-uygulamasi.jpg
 categories:
     - Girişim
 tags:
@@ -20,7 +20,7 @@ tags:
 
 Zoom’un son birkaç aydaki popülerliği, Facebook’un rakip bir ürün geliştirmesine, Google’ınsa kurumsal konferans ürününü herkes için ücretsiz yapmasına neden oldu… Bu noktada **Jitsi**, açık kaynaklı bir ürün olarak, veri güvenliği camiasında birçok kişinin onayını almış, iddialı bir Zoom alternatifi. Gizlilik odaklı web tarayıcısı **Tor** dahi, Jitsi ile ilgili bir paylaşım yaptı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tor-gizlilik-icin-video-konferanslarda-jitsi-onerdi.png)<figcaption>“Zoom için bir alternatif arıyorsanız, Jitsi Meet’i deneyebilirsiniz. Şifreli, açık kaynak kodlu ve hesap açmanızı gerektirmeyen bir model.”</figcaption></figure>ABD Ulusal Güvenlik Ajansı NSA’in bilgilerini sızdırması ile gündeme gelen, ve şu anda Rusya’da kaçak olarak yaşayan **Edward** **Snowden**, bir güvenlik konferansında Jitsi’yi kullanmıştı. Aradan geçen yılların ardından, koronavirüs salgını sonrasında tekrar popüler oldu.
+<figure class="wp-block-image size-large">![](images/tor-gizlilik-icin-video-konferanslarda-jitsi-onerdi.png)<figcaption>“Zoom için bir alternatif arıyorsanız, Jitsi Meet’i deneyebilirsiniz. Şifreli, açık kaynak kodlu ve hesap açmanızı gerektirmeyen bir model.”</figcaption></figure>ABD Ulusal Güvenlik Ajansı NSA’in bilgilerini sızdırması ile gündeme gelen, ve şu anda Rusya’da kaçak olarak yaşayan **Edward** **Snowden**, bir güvenlik konferansında Jitsi’yi kullanmıştı. Aradan geçen yılların ardından, koronavirüs salgını sonrasında tekrar popüler oldu.
 
 ## Üniversite projesi olarak doğdu
 
@@ -32,7 +32,7 @@ Jitsi ücretsiz bir video konferans uygulaması ancak transkripsiyon ve toplant�
 
 Jitsi kurucusu, salgının ardından uygulamanın ücretli sürümünün 20 milyon aboneye ulaştığını ve yaşananların, şirketi 10 yıl ileriye götürdüğünü söyledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/jitsi-nedir-nasil-kullanilir.jpeg)</figure>Jitsi’nin bu kadar tercih edilmesinin nedenlerinden biri, açık kaynaklı yapının sıra, ileri düzeyde güvenlik de sunması. Farklı ihtiyaçlar için farklı güvenlik seviyeleri yer alan Jitsi’de, uçtan uca şifreleme modelinden ziyade, özel bir güvenlik yaklaşımı var. Birden fazla kullanıcının yer aldığı bir görüşmeyi uçtan uca şifrelemenin zahmetli olduğunu belirten ekip, ek şifreleme katmanına olanak tanıyan, **Chromium** ekibi tarafından geliştirilmiş Insertable Streams özelliğini kullanacak. Bu model, bağlantılardan ziyade, akışları şifreliyor.
+<figure class="wp-block-image size-large">![](images/jitsi-nedir-nasil-kullanilir.jpeg)</figure>Jitsi’nin bu kadar tercih edilmesinin nedenlerinden biri, açık kaynaklı yapının sıra, ileri düzeyde güvenlik de sunması. Farklı ihtiyaçlar için farklı güvenlik seviyeleri yer alan Jitsi’de, uçtan uca şifreleme modelinden ziyade, özel bir güvenlik yaklaşımı var. Birden fazla kullanıcının yer aldığı bir görüşmeyi uçtan uca şifrelemenin zahmetli olduğunu belirten ekip, ek şifreleme katmanına olanak tanıyan, **Chromium** ekibi tarafından geliştirilmiş Insertable Streams özelliğini kullanacak. Bu model, bağlantılardan ziyade, akışları şifreliyor.
 
 Açık kaynaklı sistemin, insanların sistemin hatalarını bulmasına ve geliştirmesine yardımcı olduğunu söyleyen Ivov, bu nedenle uygulamada büyük bir güvenlik açığının görülmediğini ifade ediyor. Buna ek olarak, kendi özelliklerinizi Jitsi üzerine uygulamak isteyenler için de açık kaynak önemli bir yaklaşım.
 

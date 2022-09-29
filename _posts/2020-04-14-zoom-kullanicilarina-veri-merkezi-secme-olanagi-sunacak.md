@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5420'
 permalink: /zoom-kullanicilarina-veri-merkezi-secme-olanagi-sunacak/
 post_views_count:
     - '9'
-image: /wp-content/uploads/2020/04/zoom-kullanicilarina-veri-merkezi-secme-olanagi-sunacak.png
+image: images/zoom-kullanicilarina-veri-merkezi-secme-olanagi-sunacak.png
 categories:
     - Girişim
 tags:
@@ -27,7 +27,7 @@ Zoom, ücretli müşterilerine belli bir veri merkezi bölgesini seçebilecekler
 
 ## Zoom CEO’su Yuan itiraf etmişti
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/zoom-ceo-su-yuan-dunyanin-en-zenginleri-listesinde.jpg)</figure>Zoom’un CEO’su Eric Yuan, koronavirüs salgını esnasında gitgide daha da artan sunucu kapasitesi ekleme telaşı ile, “her zamanki sistemimizi tam olarak uygulayamadık” itirafında bulunmuştu. Yuan, 1 Nisan’da yayınladığı blog yazısında Zoom’un gizlilik ve güvenlik konusundaki sorunları gidermek için 90 günlük bir özellik dondurma modeline geçeceğini söylemişti.
+<figure class="wp-block-image size-large">![](images/zoom-ceo-su-yuan-dunyanin-en-zenginleri-listesinde.jpg)</figure>Zoom’un CEO’su Eric Yuan, koronavirüs salgını esnasında gitgide daha da artan sunucu kapasitesi ekleme telaşı ile, “her zamanki sistemimizi tam olarak uygulayamadık” itirafında bulunmuştu. Yuan, 1 Nisan’da yayınladığı blog yazısında Zoom’un gizlilik ve güvenlik konusundaki sorunları gidermek için 90 günlük bir özellik dondurma modeline geçeceğini söylemişti.
 
 ## Aktif kullanıcı sayısı 10 milyondan 200 milyona ulaştı
 

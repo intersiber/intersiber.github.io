@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7376'
 permalink: /volkswagen-id-elektrikli-arabalarini-sadece-cevrim-ici-satacak/
 post_views_count:
     - '48'
-image: /wp-content/uploads/2020/05/Volkswagen-ID-Concept-images-2.jpg
+image: images/Volkswagen-ID-Concept-images-2.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -21,7 +21,7 @@ tags:
 
 **Volkswagen** resmi açıklamada “**Ajans modeli**, çevrimiçi iş ve showroom tabanlı işlerin entegrasyonu için sözleşme temelini oluşturur.” dedi.
 
-<figure class="wp-block-gallery columns-1 is-cropped">- <figure>![](https://intersiber.com/wp-content/uploads/2020/05/tamamen-elektrikli-volkswagen-id-3-tanitildi-iste-detaylari-ve-fiyati-7-660x371-3.jpg)</figure>
+<figure class="wp-block-gallery columns-1 is-cropped">- <figure>![](images/tamamen-elektrikli-volkswagen-id-3-tanitildi-iste-detaylari-ve-fiyati-7-660x371-3.jpg)</figure>
 
 <figcaption class="blocks-gallery-caption">VolksWagen ID.3</figcaption></figure>Bu yeni süreçte Almanya’da bir **VW EV** alışverişinde müşteriler ister çevrimiçi ister çevrimdışı olarak doğrudan **Volkswagen**‘e sipariş verirken tercih ettikleri herhangi bir bayiyi seçebilecekler. Bu noktada, satıcı bir **acentenin** rolünü üstlenecek. Otomobil satıcısının aracı satmaktan test sürüşlerini organize etmeye, işlem işleme ve aracın tatmin edici bir şekilde teslim edildiğinden emin olmaya kadar pek çok görevi olacak.
 

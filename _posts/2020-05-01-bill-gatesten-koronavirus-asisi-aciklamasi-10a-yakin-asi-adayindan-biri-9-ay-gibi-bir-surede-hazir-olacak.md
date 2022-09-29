@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6273'
 permalink: /bill-gatesten-koronavirus-asisi-aciklamasi-10a-yakin-asi-adayindan-biri-9-ay-gibi-bir-surede-hazir-olacak/
 post_views_count:
     - '69'
-image: /wp-content/uploads/2020/05/bill-gates-ten-koronavirus-asisi-aciklamasi-10-asidan-biri-9-aya-hazir-olacak.jpeg
+image: images/bill-gates-ten-koronavirus-asisi-aciklamasi-10-asidan-biri-9-aya-hazir-olacak.jpeg
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ Gates çifti, vakıf üzerinden aşı geliştirme çalışması yapan kurumlar y
 
 ## 9 ay ile 2 yıl arasında sürecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/koronavirus-asisi-ne-zaman-hazir-olacak.jpg)</figure>Bill Gates, Perşembe günü aşı geliştirme ve dağıtım süreçleri ile ilgili yazdığı bir blog içeriğinde, bir aşının geliştirme sürecinin ortalama 18 ay olduğunun bilinmesine rağmen, “9 ay gibi kısa bir sürede de olabilir, 2 yıla kadar da çıkabilir” ifadesini kullandı.
+<figure class="wp-block-image size-large">![](images/koronavirus-asisi-ne-zaman-hazir-olacak.jpg)</figure>Bill Gates, Perşembe günü aşı geliştirme ve dağıtım süreçleri ile ilgili yazdığı bir blog içeriğinde, bir aşının geliştirme sürecinin ortalama 18 ay olduğunun bilinmesine rağmen, “9 ay gibi kısa bir sürede de olabilir, 2 yıla kadar da çıkabilir” ifadesini kullandı.
 
 ## “115 aşı adayı var”
 

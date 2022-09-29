@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5683'
 permalink: /pubg-turnuvalari-iptal-edildi/
 post_views_count:
     - '52'
-image: /wp-content/uploads/2020/04/pubg-turnuvalari-iptal-edildi-.png
+image: images/pubg-turnuvalari-iptal-edildi-.png
 categories:
     - Oyun
 tags:
@@ -21,7 +21,7 @@ Son yılların en popüler oyunlarından biri olan **PUBG,** resmi sitesinden ya
 
 Şirket yaptığı açıklamada PGS 2020, PGS Berlin’in ilk bölümünü süresiz olarak erteleme kararının alındığı Şubat 2020’den bu yana, dünyanın dört bir yanındaki hayranlar, personel ve oyuncular için sağlıklı ve güvenli bir çözüm bulmaya çalıştıklarını belirtti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/pubg-turnuvalari-iptal-edildi-1-1600x900.jpg)</figure>**Mayıs** ayında başlayacak ve dünya çapında Ağustos ayına kadar devam edecek PUBG Corporation tarafından düzenlenen **çevrimiçi** bir bölgesel turnuva yapısı olan **PUBG Continental Series** turnuvaları dört bölgede düzenlenecek. Dört bölge şu şekilde:
+<figure class="wp-block-image size-large">![](images/pubg-turnuvalari-iptal-edildi-1-1600x900.jpg)</figure>**Mayıs** ayında başlayacak ve dünya çapında Ağustos ayına kadar devam edecek PUBG Corporation tarafından düzenlenen **çevrimiçi** bir bölgesel turnuva yapısı olan **PUBG Continental Series** turnuvaları dört bölgede düzenlenecek. Dört bölge şu şekilde:
 
 - Asya (Kore, Japonya, Çin ve Çin Taipei)
 - Güneydoğu Asya (Güneydoğu Asya ve Okyanusya)

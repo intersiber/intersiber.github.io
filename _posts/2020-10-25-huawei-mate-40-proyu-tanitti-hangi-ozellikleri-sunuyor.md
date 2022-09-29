@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9383'
 permalink: /huawei-mate-40-proyu-tanitti-hangi-ozellikleri-sunuyor/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/10/huawei-mate-40-pro-yu-tanitti-hangi-ozellikleri-sunuyor.png
+image: images/huawei-mate-40-pro-yu-tanitti-hangi-ozellikleri-sunuyor.png
 categories:
     - Mobil
 tags:

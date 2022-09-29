@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7014'
 permalink: /fitbit-covid-19-hastalari-icin-solunum-cihazi-gelistirmeyi-planliyor/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/05/fitbit-koronavirus-hastalari-icin-solunum-cihazi-gelistirmeyi-planliyor.png
+image: images/fitbit-koronavirus-hastalari-icin-solunum-cihazi-gelistirmeyi-planliyor.png
 categories:
     - Genel
 tags:
@@ -29,6 +29,6 @@ Park, yaptığı açıklamada “daha düşük maliyetli” ve “en gelişmiş�
 
 ## ABD’de birçok şirket solunum cihazı üretmek için adım attı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/ford-ge-solunum-cihazi-uretimi-1600x1200.jpeg)</figure>Özellikle, başkan **Donald Trump**’ın ardından, koronavirüs salgının en ciddi görüldüğü ülkelerden biri olan ABD’de, birçok şirket solunum cihazı üretmek için, üretim hatlarında değişikliğe gitti. **GM** ve **Ford**, ventilatör şirketlerine üretimlerini artırmaları için üretim alanı sunarken, **NASA** **COVID-19** hastaları için özel tasarlanmış bir solunum cihazı geliştirdi.
+<figure class="wp-block-image size-large">![](images/ford-ge-solunum-cihazi-uretimi-1600x1200.jpeg)</figure>Özellikle, başkan **Donald Trump**’ın ardından, koronavirüs salgının en ciddi görüldüğü ülkelerden biri olan ABD’de, birçok şirket solunum cihazı üretmek için, üretim hatlarında değişikliğe gitti. **GM** ve **Ford**, ventilatör şirketlerine üretimlerini artırmaları için üretim alanı sunarken, **NASA** **COVID-19** hastaları için özel tasarlanmış bir solunum cihazı geliştirdi.
 
 Telefon üreticisi **Belkin**, acil durum kullanım yetkisine sahip tek kullanımlık acil durum solunum cihazı geliştirirken, **Tesla** da arabalarda kullanılan parçalardan ventilatör geliştiriyor.

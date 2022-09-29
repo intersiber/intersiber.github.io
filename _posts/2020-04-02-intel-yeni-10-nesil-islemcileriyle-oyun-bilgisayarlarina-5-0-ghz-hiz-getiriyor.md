@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=4871'
 permalink: /intel-yeni-10-nesil-islemcileriyle-oyun-bilgisayarlarina-5-0-ghz-hiz-getiriyor/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/04/10.-nesil-Intel-işlemcileri.jpg
+image: images/10-nesil-intel-islemcileri.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Intel, **Core** işlemcilerinin bir sonraki dalgasını duyurdu. Şirket, nihaye
 
 Bu işlemciler **Intel**‘in en güçlü işlemcileri ve en fazla güce ihtiyaç duyan kullanıcılar için üst düzey oyun dizüstü bilgisayarlarında ve yaratıcı makinelerde çalışmak üzere tasarlandı. Yeni yongaların **45W**‘lık bir TDP’si var. Böylece saatlik hızları Intel’in işlemcileri için bir ilk olan **5.0GHz**‘i geçebiliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/İntel-Yeni-10.-Nesil-İşlemcileriyle-Oyun-Bilgisayarlarına-5.0-GHz-Hız-Getiriyor-1600x1200.jpg)</figure>Şovun yıldızı ise sekiz çekirdekli ve 2.3GHz temel saat hızıyla 5.3GHz’e kadar çıkabilen yeni Core i9 modeli olan **Core i9-10980K** oldu. Ancak Intel, i9 ve i7 serileri arasında maksimum 5.0GHz veya daha fazla yükseltme hızına erişebilen birden fazla işlemci sunacak.
+<figure class="wp-block-image size-large">![](images/İntel-Yeni-10.-Nesil-İşlemcileriyle-Oyun-Bilgisayarlarına-5.0-GHz-Hız-Getiriyor-1600x1200.jpg)</figure>Şovun yıldızı ise sekiz çekirdekli ve 2.3GHz temel saat hızıyla 5.3GHz’e kadar çıkabilen yeni Core i9 modeli olan **Core i9-10980K** oldu. Ancak Intel, i9 ve i7 serileri arasında maksimum 5.0GHz veya daha fazla yükseltme hızına erişebilen birden fazla işlemci sunacak.
 
 **INTEL 10TH GEN H-SERIES**
 

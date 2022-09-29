@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/microlino-2-0-elektrikli-arac.jpg
+image: images/microlino-2-0-elektrikli-arac.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -25,17 +25,17 @@ tags:
 
 Her yaş grubundan bireyler için şehir içi ulaşımı kolaylaştırmayı amaçlayan, scooter modelleri ile oldukça beğeni toplayan Micro (Micro Mobility Systems), bu sefer de elektrikli mini otomobili Microlino’yu duyurdu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/microlino-on-kapi-tasarimi.png)</figure>Türkiye’nin sosyoekonomik yapısına pek uymadığı için çok tercih edilmeyen mini otomobiller, trafik ve park sorunları gibi nedenlerden dolayı Avrupa ülkelerinde oldukça ilgi görüyor. 2025 ile 2040 yılları arasında fosil yakıt ile çalışan araçları yasaklayacağını [duyuran](https://intersiber.com/ingiltere-hukumetinden-araclara-yasak-geliyor/) Avrupa ülkeleri için tek çare elektrikli otomobiller gibi görünüyor.
+<figure class="wp-block-image size-large">![](images/microlino-on-kapi-tasarimi.png)</figure>Türkiye’nin sosyoekonomik yapısına pek uymadığı için çok tercih edilmeyen mini otomobiller, trafik ve park sorunları gibi nedenlerden dolayı Avrupa ülkelerinde oldukça ilgi görüyor. 2025 ile 2040 yılları arasında fosil yakıt ile çalışan araçları yasaklayacağını [duyuran](https://intersiber.com/ingiltere-hukumetinden-araclara-yasak-geliyor/) Avrupa ülkeleri için tek çare elektrikli otomobiller gibi görünüyor.
 
 **Microlino** hem boyutu hem de tasarımı ile ön plana çıkarken, BMW’nin 1953 ile 1955 yılları arasında ürettiği otomobilleri anımsatıyor. Bu tür araçlara “bubble car” deniyor. 2 kişilik kapasiteye sahip olan araçta, tıpkı **BMW Isetta** gibi önden açılan bir kapı mevcut. Ayrıca Microlino ufak bir bagaja ve açılır tavana sahip. Aracın içerisinde direksiyon ve pedallar haricinde neredeyse hiçbir parça bulunmuyor. Kabininde ise birleşik olan bir koltukta hem sürücü hem de yolcu oturabiliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/microlino-kabin-tasarimi.png)</figure>## Otomobilin Sürati Nasıl?
+<figure class="wp-block-image size-large">![](images/microlino-kabin-tasarimi.png)</figure>## Otomobilin Sürati Nasıl?
 
 Araç 8 kWh ve 14.4 kWh olmak üzere iki farklı bataryaya sahip. 8 kWh’lik batarya ile 125 km gidebilen araç 14.4 kWh’lik batarya ile **200 km** yol gidebiliyor. Aracın motoru **20 beygir** güç (15 kW) ve 110 Nm tork üretebilirken, maksimum hızı **90 km/s** ile sınırlandırılmış. Araç, 0’dan 50 km/s hıza ise 5 saniyede ulaşabiliyor.
 
 Aracın renkleri de şehir isimleri ile adlandırılıyor. İsimler genellikle şehirlerin özelliklerini yansıtıyor. Hava durumundan dolayı Londra grisi ve milli renkleri olduğu için Amsterdam turuncusu gibi renk isimleri bulunuyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/microlino-amsterdam-orange-renk-secenegi.jpg)</figure>## Microlino Fiyatı Ne Kadar?
+<figure class="wp-block-image size-large">![](images/microlino-amsterdam-orange-renk-secenegi.jpg)</figure>## Microlino Fiyatı Ne Kadar?
 
 Türkiye dahil olmak üzere pek çok ülkeden sipariş alan şirket, şimdiden 6.500 adet sipariş almayı başardı. Vergiler haricinde Türkiye satış fiyatı **12.000 £** olan otomobilin diğer elektrikli araçlara göre fiyatının daha uygun olduğu görülüyor.
 

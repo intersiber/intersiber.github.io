@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7959'
 permalink: /spotify-apple-muzik-youtube-ve-amazon-blackouttuesday-hareketi-icin-birlesti/
 post_views_count:
     - '86'
-image: /wp-content/uploads/2020/06/spotify-apple-muzik-youtube-ve-amazon-blackouttuesday-hareketi-icin-birlesti.jpg
+image: images/spotify-apple-muzik-youtube-ve-amazon-blackouttuesday-hareketi-icin-birlesti.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -25,7 +25,7 @@ Bugün birçok platform, **ABD’de** **George** **Floyd** adlı siyahi vatanda�
 
 ## Spotify, 8 dakika 46 saniye sessizliğe gömülüyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/spotify-dan-george-floyd-tepkisi.jpeg)</figure>Spotify, çalma listeleri ve podcastlerinde, 8 dakika 46 saniyelik bir sessizlik sunacak. Bunun nedeni, Minneapolis polis memuru Derek Chauvin’in, Floyd’un boynunu diziyle tuttuğu sürenin de 8 dakika 46 saniye olması. Floyd, ‘nefes alamıyorum’ sözleri ile akıllara kazınmıştı.
+<figure class="wp-block-image size-large">![](images/spotify-dan-george-floyd-tepkisi.jpeg)</figure>Spotify, çalma listeleri ve podcastlerinde, 8 dakika 46 saniyelik bir sessizlik sunacak. Bunun nedeni, Minneapolis polis memuru Derek Chauvin’in, Floyd’un boynunu diziyle tuttuğu sürenin de 8 dakika 46 saniye olması. Floyd, ‘nefes alamıyorum’ sözleri ile akıllara kazınmıştı.
 
 ## Amazon sosyal medya paylaşımlarını durdurdu
 

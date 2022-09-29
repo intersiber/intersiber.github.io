@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/android-2.png
+image: images/android-2.png
 categories:
     - Mobil
 tags:
@@ -29,6 +29,6 @@ OLED ekranlı cihazlarda çok aktif olarak kullanılan karanlık mod, özellikle
 
 ## %81’i Karanlık Mod Tercih Etti
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/android.jpg)</figure>Oylamada 2500’den fazla kişinin katıldığı ve bunlardan %81’inin karanlık mod sevdiği/tercih ettiği paylaşıldı.
+<figure class="wp-block-image size-large">![](images/android.jpg)</figure>Oylamada 2500’den fazla kişinin katıldığı ve bunlardan %81’inin karanlık mod sevdiği/tercih ettiği paylaşıldı.
 
 Apple cihazlarda da aktif olarak kullanılan karanlık mod özelliği, özellikle Apple’ın yeni iOS işletim sistemi güncellemesini tanıttığı geçmiş dönemde çok fazla sayıda insan tarafından merakla beklenen bir özellik olmuştu.

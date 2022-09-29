@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9554'
 permalink: /250-dolardan-satisa-cikan-tesla-tekila-24-saat-icinde-tukendi/
 post_views_count:
     - '71'
-image: /wp-content/uploads/2020/11/250-dolardan-satisa-cikan-tesla-tekila-24-saat-icinde-tukendi.png
+image: images/250-dolardan-satisa-cikan-tesla-tekila-24-saat-icinde-tukendi.png
 categories:
     - Genel
 tags:
@@ -25,6 +25,6 @@ Tesla, ilginç fikirleriyle gündeme gelen Elon Musk’ın yeni bir hamlesiyle g
 
 **Nosotros** **Tequila** tarafından üretilen **Tesla** **Tequila**, şirketin alışveriş sitesinde 750 ml’lik şişelerle sunuldu. Ürünler kişi başı 2 şişeyle sınırlı tutuldu ve sadece ABD içinde satıldı. Buna rağmen tekilalar, 24 saat içinde tamamen satıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/tesla-tekila-cikardi-1600x749.png)</figure>**Elon** **Musk**, bundan 2 sene önce Tesla markası ile bir tekil satışa çıkacağını duyurmuştu. Musk, üretilecek tekilaya **Teslaquila** ismini vermek istese de, marka tescil başvurusu reddedildi. Ancak görünen o ki, Tesla markalı tekila isteğinden Musk vazgeçmedi.
+<figure class="wp-block-image size-large">![](images/tesla-tekila-cikardi-1600x749.png)</figure>**Elon** **Musk**, bundan 2 sene önce Tesla markası ile bir tekil satışa çıkacağını duyurmuştu. Musk, üretilecek tekilaya **Teslaquila** ismini vermek istese de, marka tescil başvurusu reddedildi. Ancak görünen o ki, Tesla markalı tekila isteğinden Musk vazgeçmedi.
 
 Bu yaz döneminde de şort satışıyla gündeme gelen Tesla, bu hamlesiyle hem şirkete alternatif, ek bir “ilginç” gelir modeli yaratmış oldu, hem de markasını yine gündeme taşımayı başardı.

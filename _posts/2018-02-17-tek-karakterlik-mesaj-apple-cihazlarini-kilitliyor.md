@@ -10,7 +10,7 @@ amp_status:
     - enabled
 post_views_count:
     - '156'
-image: /wp-content/uploads/2018/02/cybersecurity.jpg
+image: images/cybersecurity.jpg
 categories:
     - Apple
     - Güvenlik
@@ -21,7 +21,7 @@ Tek karakterlik bir mesajla tüm Apple cihazlarını kilitleyen ve mesaj uygulam
 
 İlk olarak Mobile World isimli İtalyan blog gönderisinde duyurulan açık yalnızca iPhone cihazları etkilemiyor. Açık vasıtasıyla tüm iPhone, iPad, Mac ve Apple Watch cihazların kilitlenmesi söz konusu. Alıcıya gönderilen tek karakterlik mesaj, alıcı tarafından açıldığı anda uygulamanın kililtlenmesine yol açıyor ve daha sonrasında Apple mesajlaşma uygulamasına erişimi engelliyor.
 
-<figure aria-describedby="caption-attachment-945" class="wp-caption aligncenter" id="attachment_945" style="width: 810px">![](https://www.intersiber.com/wp-content/uploads/2018/02/telugu-karakteri.png)<figcaption class="wp-caption-text" id="caption-attachment-945">Apple cihazları etkileyen telugu karakteri</figcaption></figure>
+<figure aria-describedby="caption-attachment-945" class="wp-caption aligncenter" id="attachment_945" style="width: 810px">![](https://www.intersiber.comimages/telugu-karakteri.png)<figcaption class="wp-caption-text" id="caption-attachment-945">Apple cihazları etkileyen telugu karakteri</figcaption></figure>
 
 Konunun gündeme gelmesinden sonra, popüler mesajlaşma ve mail uygulamalarından iMessage, Slack, Facebook Messenger, WhatsApp, Gmail, Outlook bu tek karakterin gönderilmesini engelledi.
 

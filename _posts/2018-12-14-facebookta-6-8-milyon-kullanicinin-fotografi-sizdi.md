@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2018/12/facebook-2.jpg
+image: images/facebook-2.jpg
 categories:
     - Genel
     - 'Öne Çıkan'
@@ -37,7 +37,7 @@ Açık sebebiyle, Facebook üzerinde daha önce paylaşılan ve sonrasında payl
 
 Kullanıcıların herkese açık halde yayınlanmayan fotoğraflarının, bu şekilde sızmasının 12 günlük bir süre içerisinde gerçekleştiğini belirten Facebook sözcüsü, yaşanan durumdan dolayı üzgün olduklarını dile getirdi. Hata’nın kaynağının anlaşılabilmesi için bu durum farkedildikten sonra 12 gün kadar inceleme için beklenmiş.
 
-![](https://intersiber.com/wp-content/uploads/2018/12/48789954_586266551832240_8195718961447305216_n.jpg)
+![](images/48789954_586266551832240_8195718961447305216_n.jpg)
 
 876 farklı geliştirici tarafından toplamda 1.500 uygulamanın bu açıktan faydalandığını açıklayan Facebook, bu durumdan etkilenen kullanıcılarının uyarıldığını belirtti. Eğer bu durumla ilgili ne yapacağınızı bilmiyorsanız Facebook’un [yardım sayfasını](https://www.facebook.com/help/200632800873098?ref=photonotice) ziyaret edebilirsiniz.
 

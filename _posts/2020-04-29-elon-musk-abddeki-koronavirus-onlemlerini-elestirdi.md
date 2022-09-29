@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6183'
 permalink: /elon-musk-abddeki-koronavirus-onlemlerini-elestirdi/
 post_views_count:
     - '57'
-image: /wp-content/uploads/2020/04/elon-musk-abd-deki-koronavirus-onlemlerini-elestirdi.jpeg
+image: images/elon-musk-abd-deki-koronavirus-onlemlerini-elestirdi.jpeg
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ Koronavirüs salgınının en çok yayıldığı ülke olan ABD’de vaka sayıs
 
 **Koronavirüs** kısıtlamaları ile ilgili eleştiride bulunanlar içinde, Tesla ve SpaceX CEO’su **Elon Musk** da yer aldı. Musk, Twitter hesabında yaptığı paylaşımda “Özgür Amerika, hemen!” yazdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/elon-musk-koronavirus-onlemlerini-elestirdi.png)</figure>Musk bu tweetinin yanı sıra, Teksas eyaletinin kısıtlamaları kaldıran uygulamalarından övgüyle söz etti ve bazı yayın kuruluşlarının, önlemlerin yetersiz olması nedeniyle yaptığı eleştirilere de “Halkın özgürlüğünü geri verin” şeklinde yorumladı.
+<figure class="wp-block-image size-large">![](images/elon-musk-koronavirus-onlemlerini-elestirdi.png)</figure>Musk bu tweetinin yanı sıra, Teksas eyaletinin kısıtlamaları kaldıran uygulamalarından övgüyle söz etti ve bazı yayın kuruluşlarının, önlemlerin yetersiz olması nedeniyle yaptığı eleştirilere de “Halkın özgürlüğünü geri verin” şeklinde yorumladı.
 
 Musk’ın bu paylaşımı bazı takipçileri tarafından desteklenirken, bazı kullanıcılarsa bu yorumu sorumsuzluk olarak nitelendirdi.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10124'
 permalink: /apple-mac-satislari-yilin-3-ceyreginde-yuzde-50-artti/
 post_views_count:
     - '19'
-image: /wp-content/uploads/2020/12/apple-mac-satislari-yilin-3-ceyreginde-yuzde-50-artti.jpg
+image: images/apple-mac-satislari-yilin-3-ceyreginde-yuzde-50-artti.jpg
 categories:
     - Apple
     - 'Dizüstü Bilgisayar'

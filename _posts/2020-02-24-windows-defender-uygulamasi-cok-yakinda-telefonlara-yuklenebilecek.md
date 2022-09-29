@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/microsoft-windows-defender-cok-yakinda-telefonlara-yuklenebilecek.png
+image: images/microsoft-windows-defender-cok-yakinda-telefonlara-yuklenebilecek.png
 categories:
     - Güvenlik
 tags:
@@ -27,4 +27,4 @@ Teknoloji devi Microsoft’un ücretsiz güvenlik uygulaması olan **Windows Def
 
 Mobil güvenlik pazarı büyümeye devam ediyor. Siber saldırganların hedefi konumunda olan mobil cihazlar için geliştirilen güvenlik uygulamalarına **Microsoft** tarafından bir yenisi daha ekleniyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/5e4f7202c03c0f2b185a720c.jpg)</figure>Hayatımızda büyük yer kaplayan telefonların güvenliği artık hayati bir önem taşıyor. Bilgisayarlarda olduğu gibi telefonlarda da siber saldırılar oldukça artmış durumda. Bu nedenle pek çok güvenlik yazılımı telefonları korumak için sıraya girdi. Bunlardan biri de Windows Defender. Bu uygulama ile kullanıcıların telefonlarına zarar verebilecek olan internet sitelerine giriş engellenecek ve telefonlar yemleme saldırılarından korunmuş olacak.
+<figure class="wp-block-image size-large">![](images/5e4f7202c03c0f2b185a720c.jpg)</figure>Hayatımızda büyük yer kaplayan telefonların güvenliği artık hayati bir önem taşıyor. Bilgisayarlarda olduğu gibi telefonlarda da siber saldırılar oldukça artmış durumda. Bu nedenle pek çok güvenlik yazılımı telefonları korumak için sıraya girdi. Bunlardan biri de Windows Defender. Bu uygulama ile kullanıcıların telefonlarına zarar verebilecek olan internet sitelerine giriş engellenecek ve telefonlar yemleme saldırılarından korunmuş olacak.

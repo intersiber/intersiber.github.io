@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10146'
 permalink: /turkiyede-ucuncu-ceyregin-lideri-olmustu-xiaominin-piyasa-degeri-100-milyar-dolari-asti/
 post_views_count:
     - '14'
-image: /wp-content/uploads/2020/12/turkiye-de-ucuncu-ceyregin-lideri-olmustu-xiaomi-piyasa-degeri-100-milyar-dolari-asti.jpeg
+image: images/turkiye-de-ucuncu-ceyregin-lideri-olmustu-xiaomi-piyasa-degeri-100-milyar-dolari-asti.jpeg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Akıllı telefon pazarında, 2020 yılının 3. çeyreğinde Türkiye’de en ç
 
 ## Xiaomi hisseleri yüzde 9’un üzerinde arttı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/xiaomi-hisseleri-rekor-kirdi.png)</figure>2018 yılında koyduğu 100 milyar dolar piyasa değerini 2020’de gerçekleştirmeyi başaran Çinli teknoloji devinin Hong Kong borsasında işlem gören hisseleri yüzde 9,1 oranında yükselerek rekor kırdı. Şirketin değeri gün sonunda 103 milyar dolara ulaştı.
+<figure class="wp-block-image size-large">![](images/xiaomi-hisseleri-rekor-kirdi.png)</figure>2018 yılında koyduğu 100 milyar dolar piyasa değerini 2020’de gerçekleştirmeyi başaran Çinli teknoloji devinin Hong Kong borsasında işlem gören hisseleri yüzde 9,1 oranında yükselerek rekor kırdı. Şirketin değeri gün sonunda 103 milyar dolara ulaştı.
 
 ## 3. çeyreğin en çok satış yapan markası
 

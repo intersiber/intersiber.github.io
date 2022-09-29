@@ -8,7 +8,7 @@ guid: 'http://82.196.14.87/?p=21'
 permalink: /mark-zuckerbergun-hesaplari-hacklendi/
 post_views_count:
     - '609'
-image: /wp-content/uploads/2016/06/070620160151231076160_2.jpg
+image: images/070620160151231076160_2.jpg
 categories:
     - Genel
     - 'Ne Nasıl?'

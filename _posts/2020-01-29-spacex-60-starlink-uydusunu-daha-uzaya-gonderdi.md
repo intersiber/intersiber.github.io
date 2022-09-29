@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '102'
-image: /wp-content/uploads/2020/01/spacex-starlink-29-ocak-firlatma-kalkis.png
+image: images/spacex-starlink-29-ocak-firlatma-kalkis.png
 categories:
     - Girişim
     - 'Öne Çıkan'
@@ -30,7 +30,7 @@ SpaceX Dünya’ya internet sağlamak amacıyla yürütülen Starlink projesi ka
 
 Bugün Türkiye saati ile 17:06’da, daha önce iki kez başarılı bir şekilde kullanılmış olan Falcon 9 roketleri ile Florida’daki Cape Canaveral Hava Kuvvetleri Üssünde görev başladı. Starlink uydularını taşıyan Falcon 9, Atlantik Okyanusundaki iniş gemisine başarılı bir şekilde geri iniş yaptı.
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/01/spacex-starlink-29-ocak-deploy.png?fit=640%2C360&ssl=1)</figure>Starlink, internet erişimi olmayan yerlere internet bağlantısı sağlayabilecek ve şirketin hedefinde uzun yol gemileri ile uçaklara da internet erişimi sunabilmek var.
+<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.comimages/spacex-starlink-29-ocak-deploy.png?fit=640%2C360&ssl=1)</figure>Starlink, internet erişimi olmayan yerlere internet bağlantısı sağlayabilecek ve şirketin hedefinde uzun yol gemileri ile uçaklara da internet erişimi sunabilmek var.
 
 Starlink projesi kapsamında gerçekleştirilen üçüncü fırlatma ile birlikte, yörüngede toplamda 240 uydusu bulunan SpaceX şimdiden en fazla sayıda uyduya sahip durumda. Bundan sonra artık kendisiyle yarışacak gibi görünüyor.
 

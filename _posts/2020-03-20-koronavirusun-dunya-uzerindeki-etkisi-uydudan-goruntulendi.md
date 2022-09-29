@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/koronavirus-dunya.jpg
+image: images/koronavirus-dunya.jpg
 categories:
     - Video
 tags:

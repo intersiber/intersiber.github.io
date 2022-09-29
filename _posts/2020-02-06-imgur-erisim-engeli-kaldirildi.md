@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '65'
-image: /wp-content/uploads/2020/02/imgur-logo.jpeg
+image: images/imgur-logo.jpeg
 categories:
     - Genel
 tags:
@@ -24,6 +24,6 @@ tags:
 
 Dünya’nın en çok kullanılan görüntü paylaşım platformu **Imgur** erişim engeli kaldırıldı. Türkiye’de uzun zamandır **yasaklı** olan siteye artık erişilebiliyor.
 
-<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/02/imgur-erisim-engeli-kaldirildi.png?fit=640%2C270&ssl=1)</figure>2015 yılında erişim engeli getirilen Imgur, **5 Şubat** itibariyle tekrar erişilebilir durumda. Özellikle yabancı kaynakları takip eden internet kullancıları için erişim engeli büyük sorun olmuştu. Reddit, StackOverflow gibi siteleri takip eden internet kullanıcıları 2015 yılından bu yana Imgur görsellerini görüntüleyebilmek için **VPN** kullanmak zorunda kalıyordu. Engelin kaldırılmasıyla birlikte bu sorun uzun bir aradan sonra ortadan kalktı.
+<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.comimages/imgur-erisim-engeli-kaldirildi.png?fit=640%2C270&ssl=1)</figure>2015 yılında erişim engeli getirilen Imgur, **5 Şubat** itibariyle tekrar erişilebilir durumda. Özellikle yabancı kaynakları takip eden internet kullancıları için erişim engeli büyük sorun olmuştu. Reddit, StackOverflow gibi siteleri takip eden internet kullanıcıları 2015 yılından bu yana Imgur görsellerini görüntüleyebilmek için **VPN** kullanmak zorunda kalıyordu. Engelin kaldırılmasıyla birlikte bu sorun uzun bir aradan sonra ortadan kalktı.
 
 Wikipedia’nın ardından Imgur erişim engelinin kaldırılması sosyal medyada sevinçle karşılandı.

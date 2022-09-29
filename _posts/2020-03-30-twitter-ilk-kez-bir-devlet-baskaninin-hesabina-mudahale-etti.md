@@ -15,7 +15,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/twitter-binasi.jpeg
+image: images/twitter-binasi.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -30,6 +30,6 @@ tags:
 
 Sadece resmi işler ve hesap doğrulama gibi durumlarla ilgili hesaplara müdahale eden Twitter, bugün ise farklı bir adım atarak ilk kez bir devlet başkanı hesabına direkt müdahale etti.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Jair-Bolsonaro.jpg)</figure>**Brezilya** Devlet Başkanı **Jair Bolsonaro** tarafından yayınlanan corona virüsü ile ilgili 2 videonun kaldırılması yönünde işlem yapan sosyal medya devi Twiter, bu adımı ile ilk kez bir devlet başkanının hesabından 2 videoyu aynı anda istek olmadan kaldırmış oldu.
+<figure class="wp-block-image size-full">![](images/Jair-Bolsonaro.jpg)</figure>**Brezilya** Devlet Başkanı **Jair Bolsonaro** tarafından yayınlanan corona virüsü ile ilgili 2 videonun kaldırılması yönünde işlem yapan sosyal medya devi Twiter, bu adımı ile ilk kez bir devlet başkanının hesabından 2 videoyu aynı anda istek olmadan kaldırmış oldu.
 
 Bolsonaro, 2 videoda da **COVID-19** corona virüsü nedeniyle Brezilya’da halkın korkmamasını, Venezuela olmayacakları ve parasız kalmayacaklarını söylüyor ve 65 yaşın altındakilerin çalışmaya devam edebileceği gibi ifadeler kullanıyordu.

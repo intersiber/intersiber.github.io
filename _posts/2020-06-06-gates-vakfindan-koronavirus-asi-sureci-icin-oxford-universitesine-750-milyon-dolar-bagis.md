@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8154'
 permalink: /gates-vakfindan-koronavirus-asi-sureci-icin-oxford-universitesine-750-milyon-dolar-bagis/
 post_views_count:
     - '65'
-image: /wp-content/uploads/2020/06/gates-vakfi-ndan-koronavirus-asi-sureci-icin-oxford-universitesi-ne-750-milyon-dolar-bagis.jpg
+image: images/gates-vakfi-ndan-koronavirus-asi-sureci-icin-oxford-universitesi-ne-750-milyon-dolar-bagis.jpg
 categories:
     - Genel
 tags:
@@ -26,6 +26,6 @@ Gates’in bağışı, **AZD1222** olarak bilinen ve 300 milyon dozluk üretilme
 
 AstraZeneca, pandemi sürecinde kar elde etmeden iki milyar AZD1222 üretebileceğini belirtti ve ABD ile İngiltere’nin, 300 milyon ve 100 milyon doz almasının planlandığını aktardı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/koronavirus-asisi-gelistiren-sirketler.jpg)</figure>**Koronavirüs** sürecine karşı yaptığı açıklamalarla sıkça gündeme gelen Gates, **aşı** **geliştirme** sürecinde birçok şirkete yaptığı bağışlar ile dikkat çekti. Yüzlerce farklı **aşı** projesi içinde, eş zamanlı olarak geliştirilen yedi aşı için milyarlarca dolar ayıran **Gates**, zaman zaman komplo teorisyenleri tarafından ‘koronavirüsün arkasındaki gizli güç’ olarak da gösterildi. AZD1222 adlı aşının başarılı olacağının elbette ki garantisi yok. Bu konuda ilk gösterge Ağustos ayındaki test süreci olacak.
+<figure class="wp-block-image size-large">![](images/koronavirus-asisi-gelistiren-sirketler.jpg)</figure>**Koronavirüs** sürecine karşı yaptığı açıklamalarla sıkça gündeme gelen Gates, **aşı** **geliştirme** sürecinde birçok şirkete yaptığı bağışlar ile dikkat çekti. Yüzlerce farklı **aşı** projesi içinde, eş zamanlı olarak geliştirilen yedi aşı için milyarlarca dolar ayıran **Gates**, zaman zaman komplo teorisyenleri tarafından ‘koronavirüsün arkasındaki gizli güç’ olarak da gösterildi. AZD1222 adlı aşının başarılı olacağının elbette ki garantisi yok. Bu konuda ilk gösterge Ağustos ayındaki test süreci olacak.
 
 **Oxford** **Üniversitesi**, aşının işe yarayıp yaramayacağı belli olmamasına karşın 10 bin gönüllü yetişkinle, AZD1222 aşısının 2. ve 3. faz çalışmalarına başlıyor. Şirket, aşının başarılı olup olmayacağı belli olmasa dahi klinik programı hızla ilerletip, üretimi büyütmeye kararlı olduğunu aktardı.

@@ -30,7 +30,7 @@ Samsung’un 300 milyon satışın altında kalması, 9 yıldan sonra bir ilk ol
 
 ## 2021 hedefi 307 milyon satış
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/samsung-z-flip-galaxy-fold.jpg)</figure>Samsung’un önümüzdeki yıl içindeki satış hedefi 307 milyon olarak belirlendi. Şirket, orta ve giriş segmentindeki telefonların yanı sıra, katlanabilir ekranlı telefon modelleri ile ürün skalasını genişletiyor ve 287 milyon akıllı telefon, 20 milyon ise normal tuşlu telefon satışı yapmayı planlıyor.
+<figure class="wp-block-image size-large">![](images/samsung-z-flip-galaxy-fold.jpg)</figure>Samsung’un önümüzdeki yıl içindeki satış hedefi 307 milyon olarak belirlendi. Şirket, orta ve giriş segmentindeki telefonların yanı sıra, katlanabilir ekranlı telefon modelleri ile ürün skalasını genişletiyor ve 287 milyon akıllı telefon, 20 milyon ise normal tuşlu telefon satışı yapmayı planlıyor.
 
 287 milyon telefon satış hedefinde 50 milyonu ise, amiral gemisi modeller olan Galaxy S serisi ve Note serisi oluşturacak.
 

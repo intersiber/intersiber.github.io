@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9701'
 permalink: /twitter-fleets-geliyor-hikaye-formatli-icerikler-24-saat-icinde-kaybolacak/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/11/twitter-fleets-geliyor-hikaye-formatli-icerikler-24-saat-icinde-kaybolacak.png
+image: images/twitter-fleets-geliyor-hikaye-formatli-icerikler-24-saat-icinde-kaybolacak.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -30,6 +30,6 @@ Twitter’dan yapılan açıklamada, yarından itibaren tüm kullanıcılara sun
 
 ## Twitter Hikayeler nasıl görünecek?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/twitter-fleets-nasil-gorunuyor.png)</figure>Twitter tarafından paylaşılan görselde, **Twitter** **Fleets** paylaşımlarının Instagram hikayeleri ile çok benzer olduğu görülüyor. Tweet paylaşımlarının altına, özelleştirilmiş metinlerle mesajlar yazılabiliyor.
+<figure class="wp-block-image size-large">![](images/twitter-fleets-nasil-gorunuyor.png)</figure>Twitter tarafından paylaşılan görselde, **Twitter** **Fleets** paylaşımlarının Instagram hikayeleri ile çok benzer olduğu görülüyor. Tweet paylaşımlarının altına, özelleştirilmiş metinlerle mesajlar yazılabiliyor.
 
 Sosyal medyada, “son kale düştü” yorumlarını beraberinde getiren bu özellik için Twitter kullanıcıları nasıl bir tepki verecek göreceğiz.

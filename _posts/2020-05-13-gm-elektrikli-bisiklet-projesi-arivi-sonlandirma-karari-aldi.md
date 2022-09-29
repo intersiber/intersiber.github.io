@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6879'
 permalink: /gm-elektrikli-bisiklet-projesi-arivi-sonlandirma-karari-aldi/
 post_views_count:
     - '97'
-image: /wp-content/uploads/2020/05/gm-elektrikli-bisiklet-projesi-ariv-i-sonlandirma-karari-aldi.png
+image: images/gm-elektrikli-bisiklet-projesi-ariv-i-sonlandirma-karari-aldi.png
 categories:
     - Genel
 tags:
@@ -23,7 +23,7 @@ tags:
 
 GM, iddialı bir elektrikli bisiklet üretmek adına hem pil, hem de güç bakımından gelişmiş bir ürün ortaya koymaya çalıştı. GM’den yapılan açıklamada, koronavirüs salgınının, GM’nin yürüttüğü işleri yeniden değerlendirmesi zorunluluğunu ortaya çıkardığı ifade edildi. GM yöneticilerinden Brian Tossan, “**Ariv**, **General** **Motors** için mikro mobilite hakkında önemli bilgiler edinilmesini sağladı ve bu bilgileri, gelecekteki yenilikçi projelere fayda sağlamak için kullanmayı planlıyoruz” ifadesini kullandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/gm-ariv-katlanabilir-elektrikli-bisiklet.png)</figure>Açıklanan son çeyrek raporu, **koronavirüs** salgınının GM’nin işlerini ciddi şekilde etkilediğini gösterdi. Şirket, krize rağmen çeyreği 294 milyon dolar kar elde ederek kapatsa da, bu yine de büyük bir kaybı ifade ediyor. Öte yandan şirketin Kuzey Amerika’daki fabrikalarının tamamı Mart ayının ortasından beri kapalı. Yapılan son açıklamada, üretime 18 Mayıs’ta devam edileceği aktarıldı.
+<figure class="wp-block-image size-large">![](images/gm-ariv-katlanabilir-elektrikli-bisiklet.png)</figure>Açıklanan son çeyrek raporu, **koronavirüs** salgınının GM’nin işlerini ciddi şekilde etkilediğini gösterdi. Şirket, krize rağmen çeyreği 294 milyon dolar kar elde ederek kapatsa da, bu yine de büyük bir kaybı ifade ediyor. Öte yandan şirketin Kuzey Amerika’daki fabrikalarının tamamı Mart ayının ortasından beri kapalı. Yapılan son açıklamada, üretime 18 Mayıs’ta devam edileceği aktarıldı.
 
 Ariv, GM’in durdurduğu tek proje değil. Şirket, yakın zamanda 2016 yılında tanıttığı araç paylaşım hizmeti **Maven’i** de durdurmuştu.
 

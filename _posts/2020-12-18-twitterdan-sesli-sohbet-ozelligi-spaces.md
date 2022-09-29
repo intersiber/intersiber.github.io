@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10081'
 permalink: /twitterdan-sesli-sohbet-ozelligi-spaces/
 post_views_count:
     - '18'
-image: /wp-content/uploads/2020/12/twitter-dan-sesli-sohbet-ozelligi-spaces.jpg
+image: images/twitter-dan-sesli-sohbet-ozelligi-spaces.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -29,7 +29,7 @@ Twitter, Spaces özelliği için bir Twitter hesabı da açtı ve özelliği, �
 
 ## Twitter Spaces nasıl görünüyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/twitter-spaces-nedir.png)</figure>Test sürecinde olan Spaces, Twitter’ın aktardığı bilgiye göre sadece iki kişi tarafından kullanıldığı gibi, grup sohbeti için de kullanılabilecek. Spaces üzerinde kullanıcıların tam hakimiyetine olanak tanıyan özelliklerin yer alacağı vurgulanırken, engelleme ve raporlama da mümkün olacak.
+<figure class="wp-block-image size-large">![](images/twitter-spaces-nedir.png)</figure>Test sürecinde olan Spaces, Twitter’ın aktardığı bilgiye göre sadece iki kişi tarafından kullanıldığı gibi, grup sohbeti için de kullanılabilecek. Spaces üzerinde kullanıcıların tam hakimiyetine olanak tanıyan özelliklerin yer alacağı vurgulanırken, engelleme ve raporlama da mümkün olacak.
 
 Bu haberler de ilginizi çekebilir:
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/apple-2.png
+image: images/apple-2.png
 categories:
     - Apple
 tags:
@@ -26,7 +26,7 @@ Apple, uzun zamandır üzerinde çalıştığı **iPad Pro** ile ilgili olarak M
 
 Şimdiye kadar birçok başarılı sızıntıları ile tanınan Geskin, önümüzdeki ay tanıtımı yapılacak yeni iPad Pro 2020’nin kılıf modellerini paylaştı. Kılıf modellerine baktığımızda iPhone 11 modelinde olduğu gibi üç adet kamera olduğunu görebiliyoruz. Şu ana kadar birçok otorite, 2020 iPad Pro’da ikili kamera olacağını iddia ediyordu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/ipad-pro-2020-kilif.png)</figure>## **Mart 2020 Lansmanında Birçok Ürün Tanıtılacak**
+<figure class="wp-block-image size-large">![](images/ipad-pro-2020-kilif.png)</figure>## **Mart 2020 Lansmanında Birçok Ürün Tanıtılacak**
 
 Mart ayında yapılacak lansmanda sadece yeni **iPad Pro** değil, birçok aksesuarla birlikte iPod Touch, Apple TV ve AirPods modeli de tanıtılacak. Ayrıca uygun fiyatlı iPhone modeli olan [iPhone 9 / SE2](https://intersiber.com/uygun-fiyatli-iphone-9-se-2-geliyor/)‘nin de tanıtılması bekleniyor.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6875'
 permalink: /rota-uluslararasi-uzay-istasyonu-spacexten-simulator-oyunu/
 post_views_count:
     - '116'
-image: /wp-content/uploads/2020/05/rota-uluslararasi-uzay-istasyonu-spacex-ten-simulator-oyunu.png
+image: images/rota-uluslararasi-uzay-istasyonu-spacex-ten-simulator-oyunu.png
 categories:
     - Oyun
     - Uzay
@@ -23,7 +23,7 @@ tags:
 
 **Simülatör**, sol kısımda kalan kontrol seçeneklerinde Crew Dragon’un hareket kabiliyetine yön vermenizi sağlıyor. İleri, geri, yukarı, aşağı ve yan hareketlerle aracın konumunu düzeltebilirsiniz. Sağdaki kontrollerse aracın eğitimini ve diğer hareketlerine odaklanıyor. Oyunda, ISS’e hızlı bir şekilde yaklaşmayı beklemeyin… İstasyona yanaşmak, yavaş ve sabır isteyen bir süreç. Eğer **Crew Dragon** ile başarılı bir görev tamamlamak istiyorsanız, uzay aracını **ISS** ile mükemmel bir şekilde kenetlemek için, vakit ayırmalısınız.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/spacex-uzay-simulatoru-oyunu.png)</figure>Crew Dragon, görev sürecinde her şey yolunda giderse manuel olarak kontrole ihtiyaç duymayacaklar. Araç, herhangi bir manuel müdahaleye gerek kalmadan, Uluslararası Uzay İstasyonu ile kenetlenmek üzere tasarlandı. Yine de her türlü olasılığa karşı astronotlar, Crew Dragon’un kontrolleri konusunda eğitildi. SpaceX’in yolcuları olacak olan **NASA** astronotları **Bob Behnken** ve **Doug Hurley**, bu tarihi görev için hazır.
+<figure class="wp-block-image size-large">![](images/spacex-uzay-simulatoru-oyunu.png)</figure>Crew Dragon, görev sürecinde her şey yolunda giderse manuel olarak kontrole ihtiyaç duymayacaklar. Araç, herhangi bir manuel müdahaleye gerek kalmadan, Uluslararası Uzay İstasyonu ile kenetlenmek üzere tasarlandı. Yine de her türlü olasılığa karşı astronotlar, Crew Dragon’un kontrolleri konusunda eğitildi. SpaceX’in yolcuları olacak olan **NASA** astronotları **Bob Behnken** ve **Doug Hurley**, bu tarihi görev için hazır.
 
 **SpaceX**, tarihi görev öncesinde sunduğu web tabanlı **simülatör oyunu**yla, uzay tutkunlarına keyifli bir deneyim yaşatacak. Simülatörde eğer kontrolleri sağlayamaz ve doğru bir şekilde kenetlenemezseniz, Uluslararası Uzay İstasyonu’nu parçalayabilirsiniz…
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6309'
 permalink: /oneplus-znin-ozellikleri-sizdirildi/
 post_views_count:
     - '56'
-image: /wp-content/uploads/2020/05/oneplus-znin-ozellikleri-sizdirildi.jpeg
+image: images/oneplus-znin-ozellikleri-sizdirildi.jpeg
 categories:
     - Mobil
 tags:
@@ -20,7 +20,7 @@ Mart ayında bir MediaTek Dimensity 1000 5G yongaseti ile güçlendirileceğini 
 
 Geçtiğimiz ay piyasaya sürülen OnePlus 8 serisinin yüksek fiyatlarının üzerine **Temmuz** ayında piyasaya sürülmesi beklenen daha uygun fiyatlı OnePlus 8 Lite akıllı telefonu artık **OnePlus Z** olarak adlandırılacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/oneplus-z-1600x900.jpg)</figure>Orta menzilli OnePlus Z’nin düz bir ekrana sahip olacağı ve Full HD+ çözünürlüğe ve 90Hz yenileme hızına sahip **6.4 inç AMOLED** ekranla geleceği söyleniyor. Yayınlanan fotoğraflara göre, ön kamera ekranın orta kısmında bulunacak.
+<figure class="wp-block-image size-large">![](images/oneplus-z-1600x900.jpg)</figure>Orta menzilli OnePlus Z’nin düz bir ekrana sahip olacağı ve Full HD+ çözünürlüğe ve 90Hz yenileme hızına sahip **6.4 inç AMOLED** ekranla geleceği söyleniyor. Yayınlanan fotoğraflara göre, ön kamera ekranın orta kısmında bulunacak.
 
 OnePlus Z’nin arkada üçlü bir arka kamera kurulumu ile gelmesi bekleniyor. Cihazın arkasında **48MP** ana kamerayla **16MP** ve **12MP** olmak üzere çift kamera yer alacak.
 

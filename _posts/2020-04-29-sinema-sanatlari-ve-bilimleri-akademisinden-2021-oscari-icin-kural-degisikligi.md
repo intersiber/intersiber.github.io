@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6140'
 permalink: /sinema-sanatlari-ve-bilimleri-akademisinden-2021-oscari-icin-kural-degisikligi/
 post_views_count:
     - '36'
-image: /wp-content/uploads/2020/04/sinema-sanatlari-ve-bilimleri-akademisinden-2021-oscari-icin-kural-degisikligi.jpg
+image: images/sinema-sanatlari-ve-bilimleri-akademisinden-2021-oscari-icin-kural-degisikligi.jpg
 categories:
     - Genel
 tags:
@@ -23,6 +23,6 @@ Dünya’nın dört bir yanında COVID-19 pandemisi nedeniyle tiyatroları kapan
 
 Akademi, yayın platformlarında ve dijital yayın yoluyla yayınlanan bazı filmlerin **2021 Oscar**‘a katılmasına izin vereceğini duyurdu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/2021-oscar-1600x1072.jpg)</figure>Akademi başkanı **David Rubin** ve CEO **Dawn Hudson** bir basın açıklamasında “Akademi filmlerin büyüsünü deneyimlemek için tiyatroda görmekten daha iyi bir yolu olmadığına inanıyor. Buna olan bağlılığımız değişmedi ve değişmez. Bununla birlikte, trajik COVID-19 salgını, ödüllere uygunluk kurallarımızda bu geçici istisnayı zorunlu kılıyor.” dedi.
+<figure class="wp-block-image size-large">![](images/2021-oscar-1600x1072.jpg)</figure>Akademi başkanı **David Rubin** ve CEO **Dawn Hudson** bir basın açıklamasında “Akademi filmlerin büyüsünü deneyimlemek için tiyatroda görmekten daha iyi bir yolu olmadığına inanıyor. Buna olan bağlılığımız değişmedi ve değişmez. Bununla birlikte, trajik COVID-19 salgını, ödüllere uygunluk kurallarımızda bu geçici istisnayı zorunlu kılıyor.” dedi.
 
 Bu kural değişikliği Akademi için **geçici** bir çözüm. Tiyatrolar yeniden açıldığında, Oscar’a aday olmak isteyen yapımcıların filmleri en az yedi gün boyunca tiyatrolarda gösterilmesi gerekecek.

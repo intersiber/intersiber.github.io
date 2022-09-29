@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=868'
 permalink: /windows-10-un-32-terabaytlik-kaynak-kodu-sizdirildi/
 post_views_count:
     - '912'
-image: /wp-content/uploads/2017/06/windows-10-source-code-leaked.jpg
+image: images/windows-10-source-code-leaked.jpg
 categories:
     - Genel
     - 'Öne Çıkan'

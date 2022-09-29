@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9034'
 permalink: /nissan-ariyanin-tanitim-fragmani-yayinlandi/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/07/0C2D6264-7180-40C4-91FB-B3AF3DFAE6A9.jpeg
+image: images/0C2D6264-7180-40C4-91FB-B3AF3DFAE6A9.jpeg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -24,7 +24,7 @@ Japon otomobil devi **Nissan**, kendi YouTube kanalı üzerinden **Aria** adın�
 
 Aracın detaylarına bakacak olursak önceki tanıtım fragmanlarında da görüldüğü gibi **altınımsı** bir renge sahip olduğu görülüyor. Yeni videoyla beraber elektrikli aracın far tasarımı ve yapısıda görüldü. Tanıtımın çok dikkat çeken detaylarından biri de araç üzerinde Nissan’ın **e-4ORCE** teknolojisinin amblemini bulunuyor. Bununla birlikte yetkililer aracın sürüş zevkini arttırmak için çift motorlu kuruluma da sahip olacağını doğruladı.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://intersiber.com/wp-content/uploads/2020/07/5CCC467F-A603-48FD-86C9-A2FE5902265C-1600x900.jpeg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/07/2AEC233C-1617-4C2D-A86F-9D43013FE045-1600x1067.jpeg)</figure>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](images/5CCC467F-A603-48FD-86C9-A2FE5902265C-1600x900.jpeg)</figure>
+- <figure>![](images/2AEC233C-1617-4C2D-A86F-9D43013FE045-1600x1067.jpeg)</figure>
 
 <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>Japon otomotiv markası, haftalar önce merakla beklenen yeni **Nissan Ariya**’nın tanıtım tarihini açıklamıştı. Bu açıklamaya göre yeni elektrikli SUV modeli **Ariya** **15 Temmuz**‘da tanıtılacak.

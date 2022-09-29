@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7460'
 permalink: /avustralyali-arastirmacilar-internetin-hiz-rekorunu-kirdi-442-tbps/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/05/avustralyali-arastirmacilar-internetin-hiz-rekorunu-kirdi-44-2-tbps.jpg
+image: images/avustralyali-arastirmacilar-internetin-hiz-rekorunu-kirdi-44-2-tbps.jpg
 categories:
     - Genel
 tags:
@@ -28,6 +28,6 @@ Monash Üniversitesi öğretim üyesi Bill Corcoran ise, “Araştırmamızın g
 
 ## Mevcut teknoloji ile entegre olabilir mi?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/internetin-hiz-rekoru-kirildi-1600x901.jpg)</figure>Araştırmacılar, şu anda sorunun, araştırmanın sonucunda ortaya çıkan modelin mevcut teknolojik altyapı ile kullanılabilecek bir şeye dönüşüp dönüşemeyeceği. RMIT profesörü Arnan Mitchell, “Uzun vadede, bu tür bir veri hızının fiber optik bağlantılarda, minimum maliyetle elde edilmesini sağlayabilecek entegre fotonik çipleri oluşturmayı umuyoruz” dedi.
+<figure class="wp-block-image size-large">![](images/internetin-hiz-rekoru-kirildi-1600x901.jpg)</figure>Araştırmacılar, şu anda sorunun, araştırmanın sonucunda ortaya çıkan modelin mevcut teknolojik altyapı ile kullanılabilecek bir şeye dönüşüp dönüşemeyeceği. RMIT profesörü Arnan Mitchell, “Uzun vadede, bu tür bir veri hızının fiber optik bağlantılarda, minimum maliyetle elde edilmesini sağlayabilecek entegre fotonik çipleri oluşturmayı umuyoruz” dedi.
 
 Bununla birlikte, **44,2 Tbps veri aktarım hızı**nın, oyun ya da film akışı indirme gibi kişisel işlemler için kullanılması olası değil. Eğer bu teknoloji ticari hale gelebilirse, veri merkezlerini bağlamak ya da bulut hizmetlerini geliştirmek adına kullanılabilir. Uzun bir süredir mevcut olan gigabit internet bağlantıları dahi henüz evlerde çok nadir bir şekilde bulunuyor. Teknoloji yeterince ucuz ve verimli bir hale gelirse, araştırmacılar bu hızın halk tarafından kullanılabileceğini umuyor.

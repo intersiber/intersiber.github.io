@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=4964'
 permalink: /the-last-of-us-part-ii-koronavirus-nedeniyle-suresiz-olarak-ertelendi/
 post_views_count:
     - '97'
-image: /wp-content/uploads/2020/04/The-Last-Of-Us-Part-2-Koronavirüs-Nedeniyle-Süresiz-Olarak-Ertelendi.png
+image: images/the-last-of-us-part-2-koronavirus-nedeniyle-suresiz-olarak-ertelendi.png
 categories:
     - Oyun
 tags:
@@ -21,7 +21,7 @@ Pek çok sektörde duraksamaya veya ertelemeye neden olan koronavirüs salgını
 
 Mayıs ayında resmi olarak ertelenmiş olan, oyuncuların sabırsızlıkla beklediği **TPS** tarzı (üçüncü şahıs nişancı) yapım “**The Last Of Us Part II”** bir kez daha ertelenince oyuncuları hayal kırıklığına uğrattı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/The-Last-Of-Us-Part-2-1600x900.jpg)</figure>**Naughty Dog**‘un resmi **Twitter** hesabından:
+<figure class="wp-block-image size-large">![](images/The-Last-Of-Us-Part-2-1600x900.jpg)</figure>**Naughty Dog**‘un resmi **Twitter** hesabından:
 
 “Yakın zamanda gördüğünüz üzere, Last of Us Part II’nin çıkışı ertelendi. Bu haberin sizin için de bizim için olduğu kadar hayal kırıklığı yarattığına eminiz. Takipçilerimize ve topluluğumuza erişmek istedik.
 

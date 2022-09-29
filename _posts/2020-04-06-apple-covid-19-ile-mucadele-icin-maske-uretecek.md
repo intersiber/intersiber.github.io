@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/apple.jpg
+image: images/apple.jpg
 categories:
     - Apple
 tags:
@@ -29,6 +29,6 @@ Teknoloji üreticisi Apple’dan COVID-19 koronavirüs salgınına karşı yeni 
 
 Çin’de üretim yaptırıyor olmasına rağmen ABD ve tüm dünyada üretimi olduğu bilinen Apple’ın, bu hamlesi ile beraber kullanıcılarından ve Amerikan hükümetinden takdir kazanacağı kesin.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Apple-4-1600x1010.jpg)</figure>Apple CEO’su Tim Cook, yaptığı kısa videolu açıklamada kendilerinin bu konu üzerinde çalıştıklarını ve tüm dünyaya koruyucu sağlık ekipmanları göndermek adına çalışmalarını da hızlandıracaklarını açıkladı.
+<figure class="wp-block-image size-large">![](images/Apple-4-1600x1010.jpg)</figure>Apple CEO’su Tim Cook, yaptığı kısa videolu açıklamada kendilerinin bu konu üzerinde çalıştıklarını ve tüm dünyaya koruyucu sağlık ekipmanları göndermek adına çalışmalarını da hızlandıracaklarını açıkladı.
 
 N95 maskelerin %95 oranında tozları filtreliyor olmasından dolayı sağlık sektöründe kullanımı çok büyük ve ihtiyaç duyulan ürünler arasında yer alıyor.

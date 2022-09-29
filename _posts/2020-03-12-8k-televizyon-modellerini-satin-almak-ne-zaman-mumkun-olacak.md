@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/8ktv.jpg
+image: images/8ktv.jpg
 categories:
     - Analiz
 tags:
@@ -38,7 +38,7 @@ Sony , 2012 yılında satışa sunulan ilk **4K TV**‘lerden birini 25.000$ mal
 
 İsterseniz şu anda **8K TV** satın alabilirsiniz. Sony’nin [MASTER serisi](https://www.sony.com/electronics/televisions/xbr-z9g-series) 9.999 dolardan başlıyor ve 59.999 dolara kadar çıkıyor. Sadece pahalı değil, aynı zamanda tamamen geleceğe dönük de değiller. Standardın olgunlaşması gereken süre boyunca hangi ek teknolojilerin ortaya çıkacağını söylemek mümkün değil.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/8ktv1.jpg)</figure>#### 2- Yeterli Derecede 8K İçerik Olduğu Zaman
+<figure class="wp-block-image size-large">![](images/8ktv1.jpg)</figure>#### 2- Yeterli Derecede 8K İçerik Olduğu Zaman
 
 4K’nın benimsenmesini engelleyen ana unsurlardan birisi de içerik eksikliğiydi. 2012’de 4K televizyonlar sahneye ilk çıktığında, 4K içerik üretmek pahalı bir işti. 4K kameralar pahalıydı ve çoğunlukla profesyonel film yapımcılarının erişebildiği donanımlardı. Görüntüleri işlemek ve düzenlemek için pahalı ve güçlü bilgisayarlar da gerekiyordu.
 
@@ -56,7 +56,7 @@ Netflix’e göre, bir saatlik akışlı HDR içeriği 7 GB bant genişliği tü
 
 Medya akış hizmetlerinin 8K’ya tam olarak taahhüt verebilmesi için internet bağlantı hızının önemli ölçüde artması gerekecektir. Oyunların ve filmlerin fiziksel satışları azalmaya devam ettikçe, internet geleceğinin içerik dağıtım altyapısı olduğu açıktır. Ve bu altyapının yarısının yoğun veri taleplerini karşılamak için gelişmesi gerekecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/8ktv2.jpg)</figure>5G **8K** medya akışı için çözümde önemli bir rol oynayacak. 2019 yılında Samsung, içeriği sabit bir geniş bant bağlantısından daha hızlı yayınlamak için 5G hızları kullanan 8K ekran konsepti üretmek için SK Telecom ile ortaklık kurdu. Çoğu ülke 5G’yi henüz ülkelerinde kullanıma sunmadı, yani bu hala uygulanabilir bir çözüm olmaktan çok uzak. Her ne kadar son dönemlerde 5G akıllı telefon modelleri tanıtılmaya başlansa da **Apple** henüz 5G uyumlu bir iPhone tanıtmadı.
+<figure class="wp-block-image size-large">![](images/8ktv2.jpg)</figure>5G **8K** medya akışı için çözümde önemli bir rol oynayacak. 2019 yılında Samsung, içeriği sabit bir geniş bant bağlantısından daha hızlı yayınlamak için 5G hızları kullanan 8K ekran konsepti üretmek için SK Telecom ile ortaklık kurdu. Çoğu ülke 5G’yi henüz ülkelerinde kullanıma sunmadı, yani bu hala uygulanabilir bir çözüm olmaktan çok uzak. Her ne kadar son dönemlerde 5G akıllı telefon modelleri tanıtılmaya başlansa da **Apple** henüz 5G uyumlu bir iPhone tanıtmadı.
 
 #### Tavsiyemiz Henüz Satın Almamanız Doğrultusunda
 

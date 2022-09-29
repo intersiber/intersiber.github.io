@@ -20,7 +20,7 @@ set_post:
     - default
 inceleme:
     - 'a:1:{i:0;a:2:{s:2:"ad";s:0:"";s:4:"Puan";s:0:"";}}'
-image: /wp-content/uploads/2020/03/ios-kullanicilarina-reklam-bildirimleri-geliyor.jpg
+image: images/ios-kullanicilarina-reklam-bildirimleri-geliyor.jpg
 categories:
     - Mobil
 tags:
@@ -33,7 +33,7 @@ Apple iOS işletim sistemine sahip cihazlara doğrudan bildirimlerle reklam gön
 
 Apple’ın **WWDC 2020** etkinliğinde tanıtılması beklenen yeni **iOS 14**‘ün öncesinde yeni güncellemeler gelmeye devam ediyor. Apple kullanım politikalarında yaptığı güncellemelerle, **iOS 13** destekli uygulamalar doğrudan **reklam bildirimleri** gönderebilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ios-kullanicilarina-reklam-bildirimleri-geliyor-2.png)</figure>## Reklam bildirimleri kullanıcıları rahatsız edebilir
+<figure class="wp-block-image size-large">![](images/ios-kullanicilarina-reklam-bildirimleri-geliyor-2.png)</figure>## Reklam bildirimleri kullanıcıları rahatsız edebilir
 
 Yeni bildirim seçenekleri için Apple App Store kullanım şartlarını güncellemeye başladı. iOS 13 SDK (yazılım geliştirme aracı) güncellemesi ile geliştiriciler iOS 13 destekli uygulamaları için doğrudan reklam bildirimleri gönderebilecek.
 

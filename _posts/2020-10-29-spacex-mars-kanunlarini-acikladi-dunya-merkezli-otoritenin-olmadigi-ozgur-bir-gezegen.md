@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9417'
 permalink: /spacex-mars-kanunlarini-acikladi-dunya-merkezli-otoritenin-olmadigi-ozgur-bir-gezegen/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/10/space-x-mars-kanunlarini-acikladi-dunya-merkezli-otoritenin-olmadigi-ozgur-bir-gezegen.png
+image: images/space-x-mars-kanunlarini-acikladi-dunya-merkezli-otoritenin-olmadigi-ozgur-bir-gezegen.png
 categories:
     - Uzay
 tags:
@@ -29,7 +29,7 @@ SpaceX’in Mars’a ilişkin çizdiği kanunlarda şu ifade yer aldı:
 
 **Mars’ta** kurulacak **koloninin** bağımsız olacağını ifade eden SpaceX, sorunların iyi niyet temelli olarak ‘kendini yönetme ilkelerine göre’ çözüleceğini söyledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/spacex-mars-kolonisi.jpg)</figure>Starlink uydularının, **Mars** **kolonileri** ile ilişkisini merak etmiş olabilirsiniz. Bunun en temel nedeni, geniş bant internet bağlantısı hizmeti için onlarca uydu gönderen SpaceX’in, gelecekte Mars ile Dünya arası iletişimde kilit bir rol oynayacak olması.
+<figure class="wp-block-image size-large">![](images/spacex-mars-kolonisi.jpg)</figure>Starlink uydularının, **Mars** **kolonileri** ile ilişkisini merak etmiş olabilirsiniz. Bunun en temel nedeni, geniş bant internet bağlantısı hizmeti için onlarca uydu gönderen SpaceX’in, gelecekte Mars ile Dünya arası iletişimde kilit bir rol oynayacak olması.
 
 ## 2024’te ilk insansız Mars görevi hedefleniyor
 

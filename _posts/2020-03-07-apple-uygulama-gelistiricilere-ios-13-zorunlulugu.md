@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/apple-uygulama-gelistiricilere-ios-13-sart-kosuyor.jpg
+image: images/apple-uygulama-gelistiricilere-ios-13-sart-kosuyor.jpg
 categories:
     - Apple
 tags:
@@ -31,7 +31,7 @@ Duyuru, [Apple geliştirici sitesi](https://developer.apple.com/news/?id=0304202
 
 *“iOS 13, dünya çapında son dört yılda tanıtılan tüm iOS cihazlarının % 77’sinde çalışıyor. Karanlık Mod, Apple ile Oturum Açma ve ARKit 3, Core ML 3 ve Siri’deki en son gelişmeleri sorunsuz bir şekilde entegre ederek mükemmel kullanıcı deneyimi sunuyor. 30 Nisan 2020’den itibaren App Store’a gönderilen tüm iPhone uygulamalarının iOS 13 SDK veya sonraki bir sürümüyle oluşturulması gerekir.”*
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/apple-uygulama-gelistiricilere-ios-13-sart-kosuyor-2.jpeg)</figure>## Tüm cihaz boyutları desteklenmek zorunda
+<figure class="wp-block-image size-large">![](images/apple-uygulama-gelistiricilere-ios-13-sart-kosuyor-2.jpeg)</figure>## Tüm cihaz boyutları desteklenmek zorunda
 
 Ayrıca 30 Nisan tarihinden itibaren, tüm uygulamaların tüm cihaz boyutları göz önünde bulundurularak oluşturulması gerekiyor, storyboard gereksinimleri de değişiyor.
 

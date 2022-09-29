@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9499'
 permalink: /izmirde-deprem-magduru-vatandaslar-icin-yardim-platformu-bizizmir-com/
 post_views_count:
     - '68'
-image: /wp-content/uploads/2020/11/izmir-de-deprem-magduru-vatandaslar-icin-yardim-platformu-bizizmir-com.png
+image: images/izmir-de-deprem-magduru-vatandaslar-icin-yardim-platformu-bizizmir-com.png
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Sitede dört temel yardım modeli bulunuyor. Bu paketler içinde “Gıda paketi
 
 **Elimi Tutar mısın Yemeği paketi**, 25 liralık bir fiyata sahip. Paketin içinde etli ana yemek, salata, tatlı ya da meyve, içecek ve ekmek bulunuyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/izmir-depremi-yardim-kampanyasi-bizizmir-nedir.png)</figure>**Gıda** **Paketi** 75 liralık bir destek ile alınabiliyor. Bu pakette de, depremzedeler için gerekli temel hijyen malzemeleri bulunuyor.
+<figure class="wp-block-image size-large">![](images/izmir-depremi-yardim-kampanyasi-bizizmir-nedir.png)</figure>**Gıda** **Paketi** 75 liralık bir destek ile alınabiliyor. Bu pakette de, depremzedeler için gerekli temel hijyen malzemeleri bulunuyor.
 
 Diş macunu, sabun, ped gibi ürünlerin yer aldığı **Hijyen** **Paketi** ise, 40 liralık destekle alınabiliyor.
 

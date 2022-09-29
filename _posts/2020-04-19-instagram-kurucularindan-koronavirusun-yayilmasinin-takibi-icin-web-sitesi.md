@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5675'
 permalink: /instagram-kurucularindan-koronavirusun-yayilmasinin-takibi-icin-web-sitesi/
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/04/instagram-kurucularindan-koronavirus-takibi-icin-web-sitesi.png
+image: images/instagram-kurucularindan-koronavirus-takibi-icin-web-sitesi.png
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Instagram’ın kurucu ortakları, Covid Takip Projesi’nden elde edilen verile
 
 **RT.live** adlı web sitesi, epidemiyolojide kullanılan bir istatistik terimi olan yayılma sabiti (R) ifadesini kullanıyor. Bu terim, **koronavirüs** bulaşmış bir kişiden virüsü kapmış ortalama insan sayısını gösteriyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/koronavirusun-eyalet-bazinda-yayilma-hizi-abd-rt-live-1600x923.png)<figcaption>RT.Live sitesinde New York ve diğer üç eyalette virüsün yayılma hız sabiti.</figcaption></figure>**Instagram’ın** eski CEO’su Kevin Systrom, yaptığı açıklamada “Karmaşık bir konunun ne olduğunu ele almaya ve herkesin evinden takip edebileceği basit bir sayıya indirmeye çalışıyoruz” dedi.
+<figure class="wp-block-image size-large">![](images/koronavirusun-eyalet-bazinda-yayilma-hizi-abd-rt-live-1600x923.png)<figcaption>RT.Live sitesinde New York ve diğer üç eyalette virüsün yayılma hız sabiti.</figcaption></figure>**Instagram’ın** eski CEO’su Kevin Systrom, yaptığı açıklamada “Karmaşık bir konunun ne olduğunu ele almaya ve herkesin evinden takip edebileceği basit bir sayıya indirmeye çalışıyoruz” dedi.
 
 RT.live projesinin verileri aldığı **Covid Takip Projesi**, resmi sağlık kaynaklarından veri toplayan ve COVID-19 test ve vaka sayılarını eyalet bazında aktaran gönüllü bir girişim. Covid Takip Projesi’nde hastaneye yatanların sayısının yanı sıra, hayatını kaybedenlerin sayısı da aktarılıyor.
 

@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '446'
-image: /wp-content/uploads/2020/01/samsung-galaxy-z-flip-fotograflari.jpg
+image: images/samsung-galaxy-z-flip-fotograflari.jpg
 categories:
     - Mobil
     - 'Öne Çıkan'
@@ -29,6 +29,6 @@ Samsung’un dikeyde katlanabilen yeni modeli Galaxy Z Flip’in tanıtım görs
 
 Galaxy Z Flip, 6.7 inç boyutundaki super AMOLED ekranı, 12 MP çift arka kamerayla gelecek. Telefonun katlanmış halinde, bilgi vermesi amacıyla dış tarafında 1.06 inç boyutunda bir AMOLED ekranı daha bulunuyor. Snapdragon 855+ ile gelecek olan Galaxy Z Flip 8 GB Ram ve 256 GB dahili hafızaya sahip olacak. Telefonun 3300 mAH bataryası için hızlı şarj desteği sunulacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/01/samsung-galaxy-z-flip-1.jpeg)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/01/samsung-galaxy-z-flip-tasarim-1200x800.jpg)</figure>Galaxy Z Flip dikeyde katlanabilen diğer bir model olan Motorola Razr’a rakip olacak. Motorola Razr 26 Şubat’ta ön sipariş almaya [başlamıştı](https://intersiber.com/motorolanin-katlanabilir-razr-modeli-satisa-cikiyor/) ve 6 Şubat’ta raflarda olacak.
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-z-flip-1.jpeg)</figure><figure class="wp-block-image size-large">![](images/samsung-galaxy-z-flip-tasarim-1200x800.jpg)</figure>Galaxy Z Flip dikeyde katlanabilen diğer bir model olan Motorola Razr’a rakip olacak. Motorola Razr 26 Şubat’ta ön sipariş almaya [başlamıştı](https://intersiber.com/motorolanin-katlanabilir-razr-modeli-satisa-cikiyor/) ve 6 Şubat’ta raflarda olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/01/samsung-galaxy-z-flip-gorselleri.jpeg)</figure>Samsung Galaxy Z Flip’in öngörülen satış fiyatı 1.000$ civarındaydı ancak gelen yeni bilgilere göre telefonun satış fiyatı 1.500$ civarında olacak.
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-z-flip-gorselleri.jpeg)</figure>Samsung Galaxy Z Flip’in öngörülen satış fiyatı 1.000$ civarındaydı ancak gelen yeni bilgilere göre telefonun satış fiyatı 1.500$ civarında olacak.

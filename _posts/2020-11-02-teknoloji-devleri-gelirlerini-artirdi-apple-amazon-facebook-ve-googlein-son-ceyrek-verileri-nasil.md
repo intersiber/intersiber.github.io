@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9480'
 permalink: /teknoloji-devleri-gelirlerini-artirdi-apple-amazon-facebook-ve-googlein-son-ceyrek-verileri-nasil/
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/11/teknoloji-devleri-gelirlerini-artirdi-apple-amazon-facebook-ve-google-in-son-ceyrek-verileri-nasil.png
+image: images/teknoloji-devleri-gelirlerini-artirdi-apple-amazon-facebook-ve-google-in-son-ceyrek-verileri-nasil.png
 categories:
     - Genel
     - 'Sosyal Medya'
@@ -26,7 +26,7 @@ ABD’li teknoloji devleri, koronavirüs krizine rağmen gelirlerini ciddi orand
 
 ## iPhone satışları azalırken, iPad ve Mac satışları arttı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-mac-satislari-2020-3-ceyrek.jpeg)</figure>**Apple’ın** **telefon** **satışları** 3. çeyrekte azaldı. Buna karşın tablet ve bilgisayar satışlarında ise artış oldu. Akıllı telefon satışlarının azalıp, iPad ve Mac satışlarının artması, koronavirüs pandemisi ile evden çalışma ve uzaktan eğitimin yaygınlaşması ile bağlantılı.
+<figure class="wp-block-image size-large">![](images/apple-mac-satislari-2020-3-ceyrek.jpeg)</figure>**Apple’ın** **telefon** **satışları** 3. çeyrekte azaldı. Buna karşın tablet ve bilgisayar satışlarında ise artış oldu. Akıllı telefon satışlarının azalıp, iPad ve Mac satışlarının artması, koronavirüs pandemisi ile evden çalışma ve uzaktan eğitimin yaygınlaşması ile bağlantılı.
 
 **Apple**, **telefon** **satışlarında** yüzde 20,7 azalışla 26,4 milyar dolar gelir elde etti. **Mac** satışlarında yüzde 29 artışla 9 milyar dolar gelir elde eden Apple, **iPad** **satışlarında** ise yüzde 45’lik artışla 6,8 milyar dolar elde etti.
 
@@ -40,7 +40,7 @@ ABD’li e-ticaret devi **Amazon** da, üçüncü çeyreğin kazananlarından. A
 
 Dünyanın en büyük sosyal paylaşım sitesi Facebook da, üçüncü çeyrekte gelirini artırdı. Facebook, Temmuz-Eylül döneminde 21,5 milyar dolar gelir elde etti. Şirket geçen yılın aynı döneminde, 17,7 milyar dolar gelir elde etmişti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/facebook-yillik-gelir-ve-kari-ne-kadar-1600x900.jpg)</figure>Öte yandan **Facebook**, **kullanıcı** **sayısında** da bir artış yaşadı. Günlük aktif kullanıcı sayısı, yıllık bazda yüzde 12 artışla 1,82 milyara ulaştı. Aylık aktif kullanıcı sayısı ise, yine yüzde 12 artışla 2,74 milyar oldu.
+<figure class="wp-block-image size-large">![](images/facebook-yillik-gelir-ve-kari-ne-kadar-1600x900.jpg)</figure>Öte yandan **Facebook**, **kullanıcı** **sayısında** da bir artış yaşadı. Günlük aktif kullanıcı sayısı, yıllık bazda yüzde 12 artışla 1,82 milyara ulaştı. Aylık aktif kullanıcı sayısı ise, yine yüzde 12 artışla 2,74 milyar oldu.
 
 ## Alphabet’in geliri yüzde 14 arttı
 
@@ -50,4 +50,4 @@ Alphabet, yılın üçüncü çeyreğinde 46 milyar dolar kar etti. Firma geçen
 
 **Twitter’ın** üçüncü çeyrek raporunda ise, **gelir** geçen yılın aynı dönemine göre yüzde 14 arttı ve 936 milyon dolar oldu. Şirket geçen yılın aynı döneminde 823 milyon dolar gelir elde etmişti. Twitter’ın 3. çeyrek kârı ise 28 milyon dolar oldu. Geçen yılın aynı döneminde Twitter, 36,5 milyon dolar kar elde etmişti. Twitter, gelirini artırırken karlılığı azalan şirketler arasına girdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/twitter-yillik-geliri-ne-kadar-2020-3-ceyrek-1600x1067.jpg)</figure>**Twitter** kullanıcı verilerinde ise artış görüldü. Twitter’ın günlük aktif **kullanıcı** **sayısı** ortalaması, geçen yıla göre yüzde 29’luk artışla 187 milyona yükseldi.
+<figure class="wp-block-image size-large">![](images/twitter-yillik-geliri-ne-kadar-2020-3-ceyrek-1600x1067.jpg)</figure>**Twitter** kullanıcı verilerinde ise artış görüldü. Twitter’ın günlük aktif **kullanıcı** **sayısı** ortalaması, geçen yıla göre yüzde 29’luk artışla 187 milyona yükseldi.

@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/01/tinder-panic-button-panik-butonu.jpeg
+image: images/tinder-panic-button-panik-butonu.jpeg
 categories:
     - Mobil
     - 'Öne Çıkan'

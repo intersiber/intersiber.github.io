@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/timcook.jpeg
+image: images/timcook.jpeg
 categories:
     - Apple
 tags:
@@ -27,7 +27,7 @@ Apple CEO’su **Tim Cook**, koronavirüs ile başa çıkmanın “geçici bir d
 
 Apple CEO’su **Tim Cook** Alabama, Birmingham’a yaptığı ziyaret sırasında Perşembe günü kaydedilen bir röportajda, devam eden **koronavirüs** salgınının ve Apple üzerindeki etkisinden pek emin olmasa da şirket hakkında gayet emin söylemlerde bulundu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/timcook2-1600x1067.jpg)</figure>Çin’deki **Foxconn** gibi tedarikçiler, üretim sürelerini geri kazanmak için fabrikalara geri dönüp çalışmak için işçilere ekstra ödeme yapıyor.
+<figure class="wp-block-image size-large">![](images/timcook2-1600x1067.jpg)</figure>Çin’deki **Foxconn** gibi tedarikçiler, üretim sürelerini geri kazanmak için fabrikalara geri dönüp çalışmak için işçilere ekstra ödeme yapıyor.
 
 **Tim Cook** röportajında: “Sanırım son birkaç gündeki gelişmeler odağı Çin’den Kore ve İtalya’ya çevirdi, bu yüzden orada neler olduğunu ve bundan yeni bir şey gelip gelmediğini görmek çok önemli.” diyerek şöyle devam etti: “Tedarik zincirimiz Çin’de nispeten daha önemli, ancak Kore’de de büyük işlerimiz var, Kore’deki tedarikçilerimiz, İtalya’daki tedarikçilerimiz ve orada da büyük bir işimiz var. ” ifadelerini kullandı.
 

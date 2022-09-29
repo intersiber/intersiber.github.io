@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6578'
 permalink: /googlein-read-along-uygulamasi-artik-180-ulkede-mevcut/
 post_views_count:
     - '93'
-image: /wp-content/uploads/2020/05/googlein-read-along-uygulamasi-artik-180-ulkede-mevcut.jpg
+image: images/googlein-read-along-uygulamasi-artik-180-ulkede-mevcut.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Geçen yıl Hindistan’daki çocukların okumayı öğrenmelerine yardımcı ol
 
 Erken erişime sahip olan uygulamada, çocukların yüksek sesle ne kadar iyi okuduğunu anlamak ve okuryazarlık becerilerini geliştirmelerine yardımcı olmak için Google’ın **konuşma tanıma** ve **metinden konuşmaya** teknolojisinden yararlanılıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/read-along-google.jpg)</figure>Uygulamadaki **Diya** adlı sanal bir okuma arkadaşı görsel ve sözlü olarak okuyuculara teşvik sağlıyor. Okuyucu bir kelime veya cümleyi **telaffuz** etmekte zorlanıyorsa yardım için Diya’ya dokunması yetiyor. Uygulama ayrıca okuma performansına dayalı hikayeler, mini kelime oyunları ve bu oyunlar için zorluk seviyeleri de içeriyor.
+<figure class="wp-block-image size-large">![](images/read-along-google.jpg)</figure>Uygulamadaki **Diya** adlı sanal bir okuma arkadaşı görsel ve sözlü olarak okuyuculara teşvik sağlıyor. Okuyucu bir kelime veya cümleyi **telaffuz** etmekte zorlanıyorsa yardım için Diya’ya dokunması yetiyor. Uygulama ayrıca okuma performansına dayalı hikayeler, mini kelime oyunları ve bu oyunlar için zorluk seviyeleri de içeriyor.
 
 Ebeveynler uygulamada her çocuğu için ayrı bir **profil** oluşturabiliyor. Ayrıca çocukların profillerinden performansına göre kazandığı yıldız ve rozetlere bakarak **bireysel ilerlemelerini** izleyebiliyorlar.
 

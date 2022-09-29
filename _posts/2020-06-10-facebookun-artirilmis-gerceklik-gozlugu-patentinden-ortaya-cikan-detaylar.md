@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8335'
 permalink: /facebookun-artirilmis-gerceklik-gozlugu-patentinden-ortaya-cikan-detaylar/
 post_views_count:
     - '94'
-image: /wp-content/uploads/2020/06/facebook-un-artirilmis-gerceklik-gozlugu-patentinden-ortaya-cikan-detaylar.png
+image: images/facebook-un-artirilmis-gerceklik-gozlugu-patentinden-ortaya-cikan-detaylar.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -22,7 +22,7 @@ Dünyanın en büyük sosyal medya platformu **Facebook’un** bir AR gözlük �
 
 ## Patentte öne çıkan detaylar neler?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/facebook-glass-patent-ozellikleri.png)</figure>Basına sızan patentte, Facebook Glass’ta diğer akıllı gözlük konseptlerinde olduğu gibi gözlüğün, mesafe ve derinlik konusunda akıllı telefonlara nazaran farklı teknikler üzerinde çalışıldığı gibi görülüyor.
+<figure class="wp-block-image size-large">![](images/facebook-glass-patent-ozellikleri.png)</figure>Basına sızan patentte, Facebook Glass’ta diğer akıllı gözlük konseptlerinde olduğu gibi gözlüğün, mesafe ve derinlik konusunda akıllı telefonlara nazaran farklı teknikler üzerinde çalışıldığı gibi görülüyor.
 
 Akıllı telefonlarda AR konusunda lazer sistemleri ve ToF sensörleri yer alıyor. Bu teknik ve sensörlerde zaman zaman, olumsuz yanlar da söz konusu oluyor. Bu nedenle **Facebook**, AR gözlüğünde farklı bir teknikle ilerliyor.
 

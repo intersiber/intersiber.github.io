@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9983'
 permalink: /sarj-olan-iphoneu-kuvete-dusmus-24-yasindaki-rus-kadin-carpilarak-yasamini-yitirdi/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/12/sarj-olan-iphone-u-kuvete-dusmus-24-yasindaki-rus-kadin-carpilarak-yasmini-yitirdi.png
+image: images/sarj-olan-iphone-u-kuvete-dusmus-24-yasindaki-rus-kadin-carpilarak-yasmini-yitirdi.png
 categories:
     - Genel
 tags:

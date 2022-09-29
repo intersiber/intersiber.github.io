@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10086'
 permalink: /cd-projekt-redden-cyberpunk-2077-aciklamasi-oyunu-playstation-storea-geri-getirebilmek-icin-calisiyoruz/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/12/cd-projekt-red-den-cyberpunk-2077-aciklamasi-oyunu-geri-getirmek-icin-calisiyoruz.jpg
+image: images/cd-projekt-red-den-cyberpunk-2077-aciklamasi-oyunu-geri-getirmek-icin-calisiyoruz.jpg
 categories:
     - Oyun
 tags:
@@ -30,7 +30,7 @@ Oyunun yapımcısı **CD Projekt RED**, Twitter’dan bir açıklama yayınladı
 
 ## Şirket borsada çakıldı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/cyberpunk-2077-cd-projekt-red-hisseleri.png)</figure>CD Projekt RED şirketinin hisseleri, daha önce oyunun birkaç kere ertelenmesinden ötürü değer kaybetmişti. Oyunun ciddi eleştiri almasının ardından sabit giden grafik, oyunun PS Store’dan kaldırılmasının ardından 653 TL’den yaklaşık 525 TL’ye kadar düştü.
+<figure class="wp-block-image size-large">![](images/cyberpunk-2077-cd-projekt-red-hisseleri.png)</figure>CD Projekt RED şirketinin hisseleri, daha önce oyunun birkaç kere ertelenmesinden ötürü değer kaybetmişti. Oyunun ciddi eleştiri almasının ardından sabit giden grafik, oyunun PS Store’dan kaldırılmasının ardından 653 TL’den yaklaşık 525 TL’ye kadar düştü.
 
 Bu haberler de ilginizi çekebilir:
 

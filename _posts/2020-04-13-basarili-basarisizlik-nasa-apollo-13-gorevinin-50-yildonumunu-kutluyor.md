@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5416'
 permalink: /basarili-basarisizlik-nasa-apollo-13-gorevinin-50-yildonumunu-kutluyor/
 post_views_count:
     - '123'
-image: /wp-content/uploads/2020/04/nasa-apollo-13-gorevinin-50-nci-yildonumunu-kutladi.png
+image: images/nasa-apollo-13-gorevinin-50-nci-yildonumunu-kutladi.png
 categories:
     - Uzay
 tags:
@@ -33,4 +33,4 @@ Mürettebat patlamanın ardından, Ay Örümceği olarak adlandırılan yapıyı
 
 Yer hizmetlerinin de büyük çabası ile mürettebat, Dünya atmosferine kadar kapalı tutuldu ve düşük sıcaklık, susuzluk gibi sıkıntılara rağmen hayatta kalmayı başardı. Yapılan ince hesaplarla mürettebat, ‘uzaya sekmekten’ kurtulup dünya atmosferine giriş yapmayı başardı. Pasifik Okyanusu’na iniş yapan komuta modülünü kurtarmak için ABD donanmasına ait USS IVO Jima gemisi gönderilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/apollo-13-murettebati-kurtarildiktan-sonra-ivo-jima-gemisinde.png)<figcaption>Apollo 13 mürettebatı, kurtarıldıktan sonra Ivo Jima gemisinde.</figcaption></figure>Görevi, Ron Howard’ın yönetmen koltuğunda oturduğu harika bir film ile izlemek istiyorsanız, Lovell rolünde Tom Hanks’in yer aldığı 1995 yapımı **Apollo 13** filmini Amazon Prime, Hulu ve Google Play üzerinden izleyebilirsiniz.
+<figure class="wp-block-image size-large">![](images/apollo-13-murettebati-kurtarildiktan-sonra-ivo-jima-gemisinde.png)<figcaption>Apollo 13 mürettebatı, kurtarıldıktan sonra Ivo Jima gemisinde.</figcaption></figure>Görevi, Ron Howard’ın yönetmen koltuğunda oturduğu harika bir film ile izlemek istiyorsanız, Lovell rolünde Tom Hanks’in yer aldığı 1995 yapımı **Apollo 13** filmini Amazon Prime, Hulu ve Google Play üzerinden izleyebilirsiniz.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6150'
 permalink: /google-drive-ve-google-dokumanlar-paylasim-penceresini-guncelliyor/
 post_views_count:
     - '36'
-image: /wp-content/uploads/2020/04/google-drive-ve-google-dokumanlar-paylasim-penceresini-guncelliyor-1.jpg
+image: images/google-drive-ve-google-dokumanlar-paylasim-penceresini-guncelliyor-1.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 Şirket **güncelleme** ile uzaktan çalışma ve sanal işbirliğinin arttığı, trollerin ve kötü niyetli yazılımların durumdan yararlanmaya çalıştığı bu zamanda artan bir endişe haline gelen istenmeyen kullanıcılara erişim verme riskini azaltmak için dosyaları belirli izinlerle paylaşmayı daha az kafa karıştırıcı hale getirmeyi hedefliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/google-drive-ve-google-dokumanlar-paylasim-penceresini-guncelliyor-1600x1066.jpg)</figure>Google, şirketin **blog** yazısında “Paylaşım deneyiminde birkaç değişiklik yaptık. Bunlar, ortak görevleri gerçekleştirmeyi, yanlışlıkla izin değişikliklerinden kaçınmayı ve bir dosyaya kimlerin erişebileceğini kolayca görmeyi kolaylaştırıyor.” dedi.
+<figure class="wp-block-image size-large">![](images/google-drive-ve-google-dokumanlar-paylasim-penceresini-guncelliyor-1600x1066.jpg)</figure>Google, şirketin **blog** yazısında “Paylaşım deneyiminde birkaç değişiklik yaptık. Bunlar, ortak görevleri gerçekleştirmeyi, yanlışlıkla izin değişikliklerinden kaçınmayı ve bir dosyaya kimlerin erişebileceğini kolayca görmeyi kolaylaştırıyor.” dedi.
 
 Yeni güncellemede “**Paylaş**” düğmesini tıkladığınızda, kimlerle paylaşımda bulunacağınızı seçtiğiniz zaman her şey daha net hale gelecek ve ardından erişime sahip olanların dosya üzerinde neler yapabileceğine karar vermek için “**İzinler**” penceresine tıklamanız yeterli olacak. Ayrıca güncelleme bireylerle paylaşım ve gruplarla paylaşım arasında daha net bir ayrım olacak şekilde tasarlanmış.
 

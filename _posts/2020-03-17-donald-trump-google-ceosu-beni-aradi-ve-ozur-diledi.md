@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/donald-trump.jpg
+image: images/donald-trump.jpg
 categories:
     - Genel
 tags:
@@ -27,4 +27,4 @@ Bugün Beyaz Saray’da basının karşısına geçen **ABD** Başkanı **Donald
 
 Google CEO’su **Sundar Pichai**‘nin Başkan Trump’tan neden dolayı özür dilediği konusunda hiçbir bilgi açıklanmazken, konunun Google’da Başkan Trump’ın corona virüse yakalandığı ile ilgili bazı gerçek olmayan sahte haberlerin yayınlanmasına izin verilmesi ve bunların index alarak Google News gibi servislerde saatlerce popüler aramalarda kalması olduğu tahmin ediliyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/trump.jpg)</figure>Google’dan konu hakkında herhangi bir açıklama yapılmazken, arama motoru devi özellikle ABD’de ve Avrupa’da siyasetçilerden sık sık bu konuda tepkiler alabiliyor. ABD Başkanı Donald J. Trump ise zaman zaman ülkesindeki teknoloji şirketlerini eleştirmesi, özellikle medyaya yönelik sert açıklamaları ile gündeme geliyor.
+<figure class="wp-block-image size-full">![](images/trump.jpg)</figure>Google’dan konu hakkında herhangi bir açıklama yapılmazken, arama motoru devi özellikle ABD’de ve Avrupa’da siyasetçilerden sık sık bu konuda tepkiler alabiliyor. ABD Başkanı Donald J. Trump ise zaman zaman ülkesindeki teknoloji şirketlerini eleştirmesi, özellikle medyaya yönelik sert açıklamaları ile gündeme geliyor.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7754'
 permalink: /twittera-tweet-zamanlama-ozelligi-geldi/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/05/twitter-a-tweet-zamanlama-ozelligi-geldi.jpg
+image: images/twitter-a-tweet-zamanlama-ozelligi-geldi.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -19,7 +19,7 @@ Twitter’ın bir süredir üzerinde çalıştığı tweet zamanlama özelliği,
 
 ## Kasım ayından beri testteydi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tweet-zamanlama-nasil-yapilir.png)</figure>Tweet zamanlama özelliğine ilişkin detaylar ve ekran görüntüleri, geçtiğimiz yılın son aylarında ortaya çıktı. **Twitter**, **tweet** **zamanlama** özelliğini sadece **tweetdeck** ya da **buffer** gibi üçüncü parti uygulamalar üzerinden sunuyordu. Twitter web’e gelen zamanlama özelliği, markalar, ajanslar ya da haber siteleri için faydalı olacak.
+<figure class="wp-block-image size-large">![](images/tweet-zamanlama-nasil-yapilir.png)</figure>Tweet zamanlama özelliğine ilişkin detaylar ve ekran görüntüleri, geçtiğimiz yılın son aylarında ortaya çıktı. **Twitter**, **tweet** **zamanlama** özelliğini sadece **tweetdeck** ya da **buffer** gibi üçüncü parti uygulamalar üzerinden sunuyordu. Twitter web’e gelen zamanlama özelliği, markalar, ajanslar ya da haber siteleri için faydalı olacak.
 
 ## Web sürümünde de taslak kaydedilebiliyor
 

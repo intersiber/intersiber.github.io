@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5146'
 permalink: /hp-yeni-probook-dizustu-bilgisayarlarini-tanitti/
 post_views_count:
     - '81'
-image: /wp-content/uploads/2020/04/HP-Yeni-ProBook-Dizüstü-Bilgisayarlarını-Tanıttı.jpg
+image: images/hp-yeni-probook-dizustu-bilgisayarlarini-tanitti.jpg
 categories:
     - 'Dizüstü Bilgisayar'
 tags:
@@ -21,8 +21,8 @@ tags:
 
 Ocak 2019’da HP, her biri **Ryzen 7 2700U** ile donatılmış 14 inç **ProBook 445 G6** ve 15.6 inç **ProBook 455 G6**‘yı piyasaya çıkaracağını söylemişti. Uzun süredir bunun üzerinde çalışan HP, AMD’nin üçüncü nesil Renoir işlemcileriyle donatılmış bu dizüstü bilgisayarlarını piyasaya sürmeye hazır olduklarını duyurdu.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/HP-Yeni-ProBook-1600x1360.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/HP-ProBook-1600x929.jpg)</figure>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](images/HP-Yeni-ProBook-1600x1360.jpg)</figure>
+- <figure>![](images/HP-ProBook-1600x929.jpg)</figure>
 
 <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>İnce tasarımlı ve dar çerçeveli dizüstü bilgisayarlar **AMD Ryzen 4000 serisi APU**‘lar tarafından desteklenmektedir. Her iki dizüstü bilgisayarda da ekranın düz durmasını sağlayan 180 derece menteşe bulunuyor ve her biri dayanıklılık için 19 MIL-STG 810G testini geçmiştir. Anodize alüminyum klavye destesi ile artırılmış dayanıklılık ve HP Genişletilmiş Aralık Kablosuz LAN ile geliştirilmiş bağlantı gibi özelliklere sahip.
 

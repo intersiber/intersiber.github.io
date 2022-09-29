@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5466'
 permalink: /video-oyun-gelistirebileceginiz-5-populer-program/
 post_views_count:
     - '99'
-image: /wp-content/uploads/2020/04/video-oyun-gelistirebileceginiz-5-populer-program.png
+image: images/video-oyun-gelistirebileceginiz-5-populer-program.png
 categories:
     - Oyun
 tags:
@@ -35,7 +35,7 @@ CryEngine ile, 3D video oyunu geliştirmek istiyorsanız, kapsamlı bir eğitim 
 
 Platform, YoYo Games tarafından 2D oyunların yapımı için geliştirilmiştir. Undertale, Hyper Light Drifter ve Minit gibi oyunlar için kullanılmıştır. Hem Windows hem de macOS için kullanabileceğiniz bu harika oyun aracı, etkileyici **video oyunlar geliştirme**niz için sizi bekliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/hyper-light-drifter-oyun-gelistirme-araclari-ucretsiz.png)<figcaption>Hyper Light Drifter</figcaption></figure>- Kullanım alanı: 2D oyunlar
+<figure class="wp-block-image size-large">![](images/hyper-light-drifter-oyun-gelistirme-araclari-ucretsiz.png)<figcaption>Hyper Light Drifter</figcaption></figure>- Kullanım alanı: 2D oyunlar
 - Editör: Windows ve macOS
 - Yazılım dili: Programlama dili olarak, GameMakerLanguage (GML) ve görsel tasarım için Drag and Drop (DnD).
 - Fiyat: İlk 30 gün için ücretsizdir, yıllık lisans ücreti 39 dolardan başlıyor.
@@ -66,7 +66,7 @@ Godot, editörünün nasıl kullanıldığını anlatmak adına kapsamlı kılav
 
 Amazon tarafından geliştirilmiş ve CryEngine’in eski bir sürümüne dayanan oyun geliştrme platformu, 3D oyun yapmak için kullanılabiliyor. Star Citizen ve The Grand Tour Game gibi oyunlar için kullanılmıştır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/star-citizen-oyunu-video-oyun-gelistirme-programlari.png)<figcaption>Star Citizen</figcaption></figure>- Kullanım alanı: 3D oyunlar, Twitch entegrasyonu ve Amazon Web Service kullanan multiplayer oyunlar
+<figure class="wp-block-image size-large">![](images/star-citizen-oyunu-video-oyun-gelistirme-programlari.png)<figcaption>Star Citizen</figcaption></figure>- Kullanım alanı: 3D oyunlar, Twitch entegrasyonu ve Amazon Web Service kullanan multiplayer oyunlar
 - Editör: Windows
 - Yazılım dili: Lua
 - Fiyat: Ücretsiz

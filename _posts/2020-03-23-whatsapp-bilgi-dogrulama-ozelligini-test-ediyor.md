@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/whatsapp-bilgi-dogrulama.jpg
+image: images/whatsapp-bilgi-dogrulama.jpg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ tags:
 
 İletişim devi, bu özellik sayesinde mesajların yan kısmına haber linki veya benzer linkler iletildiğinde “bilgiyi doğrula” anlamına gelen büyüteç ekleyecek ve bu bilginin doğru olup olmadığı Google.com üzerinde yayınlanan içeriklerden referans alarak doğrulanmaya çalışılacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/whatsapp.png)</figure>Türkiye’de ve diğer ülkelerde nasıl işleyecek olduğu hakkında soru işaretleri bulunan doğrulama özelliğinin çok sayıda kullanıcının ilgisini çekeceği ve çok sayıda kullanıcının bu özellik sayesinde yalan bilgilere inanmasının önüne geçilebileceği düşünülüyor.
+<figure class="wp-block-image size-large">![](images/whatsapp.png)</figure>Türkiye’de ve diğer ülkelerde nasıl işleyecek olduğu hakkında soru işaretleri bulunan doğrulama özelliğinin çok sayıda kullanıcının ilgisini çekeceği ve çok sayıda kullanıcının bu özellik sayesinde yalan bilgilere inanmasının önüne geçilebileceği düşünülüyor.
 
 Kesin olarak özelliğin ne zaman yayınlanacağı açıklanmazken, beta testlerinden sonra tüm WhatsApp kullanıcılarının özellikten yararlanması bekleniyor.

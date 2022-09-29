@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5529'
 permalink: /google-play-cocuklar-icin-ogretmen-onayli-uygulamalar-sunacak/
 post_views_count:
     - '70'
-image: /wp-content/uploads/2020/04/google-play-cocuklar-icin-ogretmen-onayli-uygulamalar-sunacak.png
+image: images/google-play-cocuklar-icin-ogretmen-onayli-uygulamalar-sunacak.png
 categories:
     - Mobil
 tags:
@@ -20,7 +20,7 @@ Google, Android uygulama mağazası Play Store’de yeni bir çocuk bölümü a�
 
 Çocuklara uygunluğu açısından belli bir kalite standardının üzerindeki uygulamaların yer aldığı yeni çocuk kategorisinde her uygulamanın, hangi yaşlar için uygun olduğu belirtilecek. Bunun yanı sıra uygulamaların çocuklara ne öğretmeyi amaçladığı ve öğretmenlerin neden uygulamayı tercih ettiğinin nedenleri de yer alacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/google-play-store-cocuklar-icin-ogretmen-onayli-uygulamalar.png)<figcaption>Google Play Store / Çocuk sekmesi</figcaption></figure>## Koronavirüs nedeniyle lansman öne alındı
+<figure class="wp-block-image size-large">![](images/google-play-store-cocuklar-icin-ogretmen-onayli-uygulamalar.png)<figcaption>Google Play Store / Çocuk sekmesi</figcaption></figure>## Koronavirüs nedeniyle lansman öne alındı
 
 **Google**, aslında yeni **Çocuk** uygulamaları sekmesini daha sonra yayına almayı planlıyordu. Ancak çocukların evde daha çok zaman geçirmeye başladığı salgın döneminde, lansman tarihi öne alındı. Birçok okulun kapanması ve birçok şehrin karantina altına alınması, herkes gibi çocukların da akıllı telefonda geçirdiği günlük zamanı artırdı. Google, erken lansman nedeniyle bazı uygulamaların eksik olabileceğini ancak içeriği güçlendirmek için, yeni uygulamaları olabildiğince hızlı incelemeye çalıştığını ifade etti.
 

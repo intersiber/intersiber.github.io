@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/Redmi-Band-2.jpg
+image: images/Redmi-Band-2.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -29,6 +29,6 @@ tags:
 
 Tüm dünyada satış oranlarını çok daha fazla artırmak için yeni adımlar atan Xiaomi, yan markasının adı altında tanıttığı bu bileklik modelinde 1,08 inç ekrana yer veriyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/04/Redmi-Band.jpg)</figure>Kalp atış sensörüne de sahip olan Redmi Band, aynı zamanda diğer birçok bileklik modelinde olduğu gibi kalp atış hızını belirli aralıklarla ölçüyor. Sensörün ne kadar iyi çalıştığı bir soru işareti olarak kalsa da çoğu günlük iş için Redmi Band modelinin yeterli olacağı kesin.
+<figure class="wp-block-image size-full">![](images/Redmi-Band.jpg)</figure>Kalp atış sensörüne de sahip olan Redmi Band, aynı zamanda diğer birçok bileklik modelinde olduğu gibi kalp atış hızını belirli aralıklarla ölçüyor. Sensörün ne kadar iyi çalıştığı bir soru işareti olarak kalsa da çoğu günlük iş için Redmi Band modelinin yeterli olacağı kesin.
 
 Aynı zamanda bileklik uyku takibi özelliği ile diğer bileklik modellerine oranla bir adım öne çıkmış durumda.

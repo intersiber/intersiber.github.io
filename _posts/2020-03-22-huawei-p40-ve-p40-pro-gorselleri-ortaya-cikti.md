@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Huawei-P40-2-1.jpg
+image: images/Huawei-P40-2-1.jpg
 categories:
     - Mobil
 tags:
@@ -26,6 +26,6 @@ Dev teknoloji üreticisi **Huawei** son dönemde zor günler geçiriyor. Corona 
 
 Amerikan yönetiminin lisans yaptırımlarını kısa süre ertelemesine rağmen şirketin yakında tanıtması beklenen amiral gemi serisi **Huawei P40** ve **P40 Pro** modellerinin görselleri bugün Evan Blass tarafından ortaya çıkarıldı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Huawei-P40-ve-P40-Pro-2.jpg)</figure>Blass, sosyal medya hesabından Huawei P40 ve P40 Pro modellerinin görsellerini yayınlarken, teknoloji üreticisi Huawei ise henüz sosyal medya hesaplarından cihaz ile ilgili hiçbir sızıntıya yer vermedi.
+<figure class="wp-block-image size-full">![](images/Huawei-P40-ve-P40-Pro-2.jpg)</figure>Blass, sosyal medya hesabından Huawei P40 ve P40 Pro modellerinin görsellerini yayınlarken, teknoloji üreticisi Huawei ise henüz sosyal medya hesaplarından cihaz ile ilgili hiçbir sızıntıya yer vermedi.
 
 12 GB RAM, 512 GB hafıza gibi özelliklere sahip olması beklenen Huawei P40 ve P40 Pro modellerinin ekran ve diğer özellikleri konusuda ise henüz tam net olmayan bazı iddialar olmasına rağmen şirket yine bu konularda hiçbir açıklama yapmış değil.

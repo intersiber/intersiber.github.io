@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9791'
 permalink: /macte-iphone-ve-ipad-uygulamalari-nasil-calistirilir/
 post_views_count:
     - '139'
-image: /wp-content/uploads/2020/11/mac-te-iphone-ve-ipad-uygulamalari-nasil-calisir.jpeg
+image: images/mac-te-iphone-ve-ipad-uygulamalari-nasil-calisir.jpeg
 categories:
     - Apple
     - 'Dizüstü Bilgisayar'
@@ -30,7 +30,7 @@ App Store butonuna tıklayın, bulamazsanız bulmak için üst kısımdaki arama
 
 Aradığınız uygulama App Store’da hemen görünmez, bunun nedeni mağazanın varsayılan olarak Mac uygulamalarını göstermesidir. Görünümler arasında geçiş yapmak için **iPhone ve iPad uygulamaları** listesine tıklayın.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/mac-e-iphone-uygulamasi-indirme.png)</figure>iPhone ve iPad uygulama geliştiricisi, mobil uygulamasının Mac’te kullanılabilir olmasını seçtiyse sonuçlar sayfasında görünecektir.
+<figure class="wp-block-image size-large">![](images/mac-e-iphone-uygulamasi-indirme.png)</figure>iPhone ve iPad uygulama geliştiricisi, mobil uygulamasının Mac’te kullanılabilir olmasını seçtiyse sonuçlar sayfasında görünecektir.
 
 *Not: Uygulamayı ilk kez indiriyorsanız MacBook’un Touch ID parmak izi sensörü ya a Apple Kimliği parolanız ile doğrulama yapmanız gerekir, sonrasında ise indirme seçeneğini görürsünüz. Bulut simgesi ise uygulamayı daha önce indirdiğinizi ve kimlik doğrulaması gerekmediğini gösterir.*
 
@@ -38,6 +38,6 @@ Sonraki adımlar ise şu şekilde:
 
 iPhone ya da iPad uygulamasını Mac’e yükledikten sonra, Aç butonuna tıklayın. Uygulama kendi penceresinde açılacak ve Mac’iniz için geliştirilmiş diğer uygulamalardan farksız çalışacaktır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/macbook-a-ipad-uygulamasi-indirme.png)</figure>App Store’u kapattıktan sonra Mac’inizde iPhone ya da iPad uygulamasını Launchpad’de bularak ya da yukarıda yaptığımız gibi Spotlight araması ile bulup kullanabilirsiniz.
+<figure class="wp-block-image size-large">![](images/macbook-a-ipad-uygulamasi-indirme.png)</figure>App Store’u kapattıktan sonra Mac’inizde iPhone ya da iPad uygulamasını Launchpad’de bularak ya da yukarıda yaptığımız gibi Spotlight araması ile bulup kullanabilirsiniz.
 
 Ne yazık ki dokunmatik ekranlı Mac’ler yok. İndirdiğiniz oyun ya da uygulamalarla, trackpad, fare ya da klavyenizi kullanarak etkileşime girmelisiniz.

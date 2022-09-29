@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9836'
 permalink: /twitter-ve-linkedinin-ardindan-spotify-calma-listelerinde-hikayeler-ozelligi-goruldu/
 post_views_count:
     - '23'
-image: /wp-content/uploads/2020/11/twitter-ve-linkedin-in-ardindan-spotify-calma-listelerinde-hikayeler-ozelligi-goruldu.jpg
+image: images/twitter-ve-linkedin-in-ardindan-spotify-calma-listelerinde-hikayeler-ozelligi-goruldu.jpg
 categories:
     - Genel
 tags:

@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=933'
 permalink: /wi-fi-alliance-wpa3-guvenlik-protokolunu-duyurdu/
 post_views_count:
     - '275'
-image: /wp-content/uploads/2018/01/wifi-1371030_1280.jpg
+image: images/wifi-1371030_1280.jpg
 categories:
     - Genel
     - Güvenlik

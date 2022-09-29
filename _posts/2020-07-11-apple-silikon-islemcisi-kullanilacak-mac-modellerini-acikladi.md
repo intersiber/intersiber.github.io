@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9017'
 permalink: /apple-silikon-islemcisi-kullanilacak-mac-modellerini-acikladi/
 post_views_count:
     - '50'
-image: /wp-content/uploads/2020/07/66B71D07-1088-466D-AAA2-52EED0A35817.jpeg
+image: images/66B71D07-1088-466D-AAA2-52EED0A35817.jpeg
 categories:
     - Apple
 tags:
@@ -20,6 +20,6 @@ tags:
 
 **Apple** sızıntıları ile tanınan **Ming-Chi Kuo**, **ARM** tabanlı işlemcilerin ilk olarak **13** inç **MacBook Pro**’da ve **MacBook Air**’de kullanılacağını belirtti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/07/31337A59-4331-4EF7-94E2-99C3A447CBC5-1600x900.jpeg)</figure>**Kuo** yaptığı paylaşımda **Apple**’ın gelecek yıl piyasaya süreceği Led ekranlı **16** inç **MacBook Pro** ve yeniden tasarlanan **14.1** inç **MacBook Pro** modellerini de yeni işlemcisi ile donatacağını belirtti. Modellerde önceki nesil modellere göre nasıl bir performans değişikliği olacağı merakla bekleniyor.
+<figure class="wp-block-image size-large">![](images/31337A59-4331-4EF7-94E2-99C3A447CBC5-1600x900.jpeg)</figure>**Kuo** yaptığı paylaşımda **Apple**’ın gelecek yıl piyasaya süreceği Led ekranlı **16** inç **MacBook Pro** ve yeniden tasarlanan **14.1** inç **MacBook Pro** modellerini de yeni işlemcisi ile donatacağını belirtti. Modellerde önceki nesil modellere göre nasıl bir performans değişikliği olacağı merakla bekleniyor.
 
 Buna ek olarak **Kuo** şirketin 2020 yılı içerisinde 16-17 milyon adet **MacBook** satışı gerçekleştirmesinin beklendiğini söyledi.

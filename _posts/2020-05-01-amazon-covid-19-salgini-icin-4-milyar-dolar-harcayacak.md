@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6255'
 permalink: /amazon-covid-19-salgini-icin-4-milyar-dolar-harcayacak/
 post_views_count:
     - '78'
-image: /wp-content/uploads/2020/05/amazon-covid-19-salgini-icin-4-milyar-dolar-harcayacak.jpg
+image: images/amazon-covid-19-salgini-icin-4-milyar-dolar-harcayacak.jpg
 categories:
     - Genel
 tags:
@@ -34,6 +34,6 @@ Satışların artmasına karşın net gelirde ise bir düşüş yaşandı. Net g
 
 ## Koronavirüs salgını ile online alışverişe olan ilgi, Amazon’a yaradı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/amazon-depolari-nasil-gorunuyor.jpg)</figure>Dünya çapında 3,3 milyon insanı enfekte eden koronavirüs salgını, 234 binden fazla insanın hayatını kaybetmesine neden oldu. Birçok ülkenin önlemler kapsamında perakende mağazalarını kapatması, e-ticaret sitelerinin iş hacmini artırmasına neden oldu. Amazon da bu süreçte çok ciddi bir taleple karşılaştı, öyle ki siparişlere yetişemeyen şirket, eski müşterilerinin siparişlerini öne alıp, yeni müşterileri sıraya aldığını duyurdu. Buna ek olarak, talebe ayak uydurma adına 200 bine yakın kişinin işe alınacağı da Amazon tarafından ifade edildi.
+<figure class="wp-block-image size-large">![](images/amazon-depolari-nasil-gorunuyor.jpg)</figure>Dünya çapında 3,3 milyon insanı enfekte eden koronavirüs salgını, 234 binden fazla insanın hayatını kaybetmesine neden oldu. Birçok ülkenin önlemler kapsamında perakende mağazalarını kapatması, e-ticaret sitelerinin iş hacmini artırmasına neden oldu. Amazon da bu süreçte çok ciddi bir taleple karşılaştı, öyle ki siparişlere yetişemeyen şirket, eski müşterilerinin siparişlerini öne alıp, yeni müşterileri sıraya aldığını duyurdu. Buna ek olarak, talebe ayak uydurma adına 200 bine yakın kişinin işe alınacağı da Amazon tarafından ifade edildi.
 
 Şirketin CEO’su **Bezos**, Amazon’un piyasa değerinin yükseliş yaşadığı koronavirüs salgınında **dünyanın en zengini** konumunu korudu ve kişisel servetini 139,7 milyar dolara yükseltti.

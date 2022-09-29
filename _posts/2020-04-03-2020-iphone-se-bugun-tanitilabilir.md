@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/iPhone-SE.jpg
+image: images/iPhone-SE.jpg
 categories:
     - Mobil
 tags:
@@ -28,7 +28,7 @@ tags:
 
 Buna göre, Apple bugün internet sitesinde Belkin marka ekran koruyucu modelini iPhone 7 ve 8 modellerinin açıklamasına bir de iPhone SE destekli olduğu ifadesini ekledi ve yeni model olarak siteye iPhone SE ifadesi eklendi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/iPhone-SE-1600x873.png)</figure>Ancak bununla da sınırlı kalmayan Apple, AppleCare+ isimli ABD’de ve bazı ülkelerde satışa sunduğu premium özel hizmetinin 129 dolar karşılığında iPhone SE modeli için alınabilecek olduğunu gösteren yeni bir kart yayınladı.
+<figure class="wp-block-image size-large">![](images/iPhone-SE-1600x873.png)</figure>Ancak bununla da sınırlı kalmayan Apple, AppleCare+ isimli ABD’de ve bazı ülkelerde satışa sunduğu premium özel hizmetinin 129 dolar karşılığında iPhone SE modeli için alınabilecek olduğunu gösteren yeni bir kart yayınladı.
 
 Tüm bu gelişmeler göz önüne alındığında yeni modelin, uzun zamandır konuşulan uygun fiyatlı iPhone 9 veya diğer ismiyle iPhone SE2 adlandırması yerine 2020 iPhone SE olarak tanıtılması bekleniyor.
 

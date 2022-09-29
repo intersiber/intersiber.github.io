@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8060'
 permalink: /fortnitein-canli-etkinligi-ve-gelecek-sezonu-yeniden-ertelendi/
 post_views_count:
     - '40'
-image: /wp-content/uploads/2020/06/fortnite-in-canli-etkinligi-ve-gelecek-sezonu-yeniden-ertelendi.png
+image: images/fortnite-in-canli-etkinligi-ve-gelecek-sezonu-yeniden-ertelendi.png
 categories:
     - Oyun
 tags:
@@ -24,4 +24,4 @@ tags:
 
 ## Protestolar birçok etkinliğin ertelenmesine neden oldu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/abd-de-george-floyd-protestolari.jpeg)</figure>ABD’de, **George** **Floyd** adlı siyahi vatandaşın polis şiddeti nedeniyle hayatını kaybetmesi, birçok şehirde milyonlarca insanın sokağa çıkmasına neden oldu. Bu olaylar, koronavirüs krizini henüz atlatamamış ve 2 milyona yakın vakanın bulunduğu **ABD’de** işleri iyice kızıştırdı. Sony, 4 Haziran’da gerçekleşmesi beklenen **PS5** etkinliğini erteledi. **EA** ise, **Madden** **21** açıklamasını erteledi. Ertelenen diğer etkinlikler içinde, **Google’ın** **Android** 11’in yeni özelliklerini içerecek açıklaması da yer aldı.
+<figure class="wp-block-image size-large">![](images/abd-de-george-floyd-protestolari.jpeg)</figure>ABD’de, **George** **Floyd** adlı siyahi vatandaşın polis şiddeti nedeniyle hayatını kaybetmesi, birçok şehirde milyonlarca insanın sokağa çıkmasına neden oldu. Bu olaylar, koronavirüs krizini henüz atlatamamış ve 2 milyona yakın vakanın bulunduğu **ABD’de** işleri iyice kızıştırdı. Sony, 4 Haziran’da gerçekleşmesi beklenen **PS5** etkinliğini erteledi. **EA** ise, **Madden** **21** açıklamasını erteledi. Ertelenen diğer etkinlikler içinde, **Google’ın** **Android** 11’in yeni özelliklerini içerecek açıklaması da yer aldı.

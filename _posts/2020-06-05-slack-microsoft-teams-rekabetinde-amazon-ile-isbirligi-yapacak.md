@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8084'
 permalink: /slack-microsoft-teams-rekabetinde-amazon-ile-isbirligi-yapacak/
 post_views_count:
     - '23'
-image: /wp-content/uploads/2020/06/slack-microsoft-teams-ile-rekabetinde-amazon-ile-isbirligi-yapacak.jpg
+image: images/slack-microsoft-teams-ile-rekabetinde-amazon-ile-isbirligi-yapacak.jpg
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ Popüler ekip içi iletişim ve üretkenlik uygulaması Slack ile Amazon arasın
 
 ## Slack’in çözüm ortağı AWS olacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/amazon-web-service-nedir.jpg)</figure>Slack, sohbet bölümünde birçok alanda uzun süredir AWS’yi kullanıyor. Anlaşma, uzun vadede Amazon Web Services’ı bulut depolamanın yanı sıra bilgi işlem, veritabanı, güvenlik, analitik ve makine öğrenimi gibi alanlarda tercih etmeyi taahhüt ediyor. Bu da, **Slack’in** Microsoft **Azure** ya da **Google** **Cloud** ile bir işbirliği yapmasının olası olmadığını gösteriyor.
+<figure class="wp-block-image size-large">![](images/amazon-web-service-nedir.jpg)</figure>Slack, sohbet bölümünde birçok alanda uzun süredir AWS’yi kullanıyor. Anlaşma, uzun vadede Amazon Web Services’ı bulut depolamanın yanı sıra bilgi işlem, veritabanı, güvenlik, analitik ve makine öğrenimi gibi alanlarda tercih etmeyi taahhüt ediyor. Bu da, **Slack’in** Microsoft **Azure** ya da **Google** **Cloud** ile bir işbirliği yapmasının olası olmadığını gösteriyor.
 
 ## Slack’in sesli ve görüntülü arama hizmeti, Teams’e göre zayıf 
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6819'
 permalink: /twitter-calisanlarinin-suresiz-olarak-evden-calismasina-izin-verdi/
 post_views_count:
     - '36'
-image: /wp-content/uploads/2020/05/twitter-calisanlarinin-suresiz-olarak-evden-calismasina-izin-verdi.png
+image: images/twitter-calisanlarinin-suresiz-olarak-evden-calismasina-izin-verdi.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ Dorsey, buna ek olarak Twitter ofislerinin Eylül ayına kadar açılmayacağın
 
 Bir Twitter sözcüsü, konuyla ilgili yaptığı açıklamada şirketin bu kararının, çalışanlarını destekleme konusundaki misyona uygun olduğunu söyledi ve “son birkaç ay, bu işi yapabileceğimizi kanıtladı” yorumunu yaptı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/twitter-ofislerinde-koronavirus-duzenlemesi.png)</figure>Sözcü, “Çalışanlarımız ofislerimizi ne zaman dönerse, ofisleri o zaman açılacak” dedi ve “Ofisi açmaya karar verdiğimizde, daha önce olduğu gibi sert bir dönüş olmayacak. Dikkatli, kademeli bir dönüş olacak” sözlerini ekledi.
+<figure class="wp-block-image size-large">![](images/twitter-ofislerinde-koronavirus-duzenlemesi.png)</figure>Sözcü, “Çalışanlarımız ofislerimizi ne zaman dönerse, ofisleri o zaman açılacak” dedi ve “Ofisi açmaya karar verdiğimizde, daha önce olduğu gibi sert bir dönüş olmayacak. Dikkatli, kademeli bir dönüş olacak” sözlerini ekledi.
 
 Twitter’ın, 2020’nin geri kalanında da iş seyahatlerini askıya almayı sürdüreceği belirtilirken, yılın geri kalanında herhangi bir etkinlik düzenlenmeyeceği aktarıldı. 2021 yılındaki program ise değerlendiriliyor.
 

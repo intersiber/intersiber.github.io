@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '109'
-image: /wp-content/uploads/2018/03/internet-ozgurlugu-forumu-cirak-istanbul-hackerspace.jpg
+image: images/internet-ozgurlugu-forumu-cirak-istanbul-hackerspace.jpg
 categories:
     - Genel
     - 'Öne Çıkan'

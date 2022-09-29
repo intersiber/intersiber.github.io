@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/çocukvebilim-2.jpg
+image: images/cocukvebilim-2.jpg
 categories:
     - Genel
 tags:
@@ -25,4 +25,4 @@ Yeni bir araştırmaya göre , Güney LA’den gelen düşük gelirli dördünc�
 
 Washington State Üniversitesi’nde klinik yardımcı doçent olan **Samantha Gizerian**, “Birçok öğrenci ‘Bilimin eğlenceli olduğunu bilmiyordum’ gibi şeyler söylüyor. Görünüşe göre, kitapları okumak için eve götürmeye daha fazla ilgi gösterdiler ve matematik uygulama konusunda daha istekliydiler. Dersler de basitti ve bir üniversite öğrencisi laboratuarından bazı mikroskop lamları getirdi.” açıklamasını yaptı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/cocuk-ve-bilim.jpg)</figure>Çalışma ile ortaya çıkan bulguları yakın zamanda **Sinirbilim Derneği** toplantısında sunan **Samantha Gizerian,** derslerin bilimi öğrettiğini, ancak aynı zamanda çocuğun tüm alanlarda yaşam boyu öğrenmeye olan ilgisini ateşlemek için bir kıvılcım olarak hareket ettiğini söyledi.
+<figure class="wp-block-image size-full">![](images/cocuk-ve-bilim.jpg)</figure>Çalışma ile ortaya çıkan bulguları yakın zamanda **Sinirbilim Derneği** toplantısında sunan **Samantha Gizerian,** derslerin bilimi öğrettiğini, ancak aynı zamanda çocuğun tüm alanlarda yaşam boyu öğrenmeye olan ilgisini ateşlemek için bir kıvılcım olarak hareket ettiğini söyledi.

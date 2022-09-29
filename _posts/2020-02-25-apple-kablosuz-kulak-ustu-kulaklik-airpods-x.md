@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/apple-airpods-x-ozellikleri-fiyati.png
+image: images/apple-airpods-x-ozellikleri-fiyati.png
 categories:
     - Genel
 tags:

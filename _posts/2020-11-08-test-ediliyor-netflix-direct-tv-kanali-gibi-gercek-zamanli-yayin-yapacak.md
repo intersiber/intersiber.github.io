@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9574'
 permalink: /test-ediliyor-netflix-direct-tv-kanali-gibi-gercek-zamanli-yayin-yapacak/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/11/test-ediliyor-netflix-direct-tv-kanali-gibi-gercek-zamanli-yayin-yapacak.png
+image: images/test-ediliyor-netflix-direct-tv-kanali-gibi-gercek-zamanli-yayin-yapacak.png
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ ABD’de, insanlara posta yolu ile DVD gönderen **Netflix**, dijital yayına ad
 
 **Netflix** **Direct**, tıpkı bir **TV** **kanalı** gibi çalışacak ancak Netflix içeriklerini verecek. Gerçek zamanlı yayın yapacak olan kanal, “**Netflix’te ne izlesem**?” sorusuna yanıt bulamayanların ilgisini çekecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/netflix-direct-nedir.jpeg)</figure>Netflix Direct’e bağlanmak için kullanıcılar, menüdeki “**Direct**” sekmesine tıklayacak. Sekmede, popüler dizi ve filmlerin yanı sıra, belgesellerin de yer aldığı bir akış programı sunulacak.
+<figure class="wp-block-image size-large">![](images/netflix-direct-nedir.jpeg)</figure>Netflix Direct’e bağlanmak için kullanıcılar, menüdeki “**Direct**” sekmesine tıklayacak. Sekmede, popüler dizi ve filmlerin yanı sıra, belgesellerin de yer aldığı bir akış programı sunulacak.
 
 **Direct**, normal bir TV kanalının Netflix formatı olarak düşünülebilir. Fransa’nın test sürecinde tercih edilmesinin nedeni olaraksa, ülkenin 9 milyon Netflix abonesiyle şirketin en ciddi kullanıcıya sahip olduğu pazarlardan biri olması gösteriliyor. Fransa’da öte yandan, TV izleme kültürü de çok yaygın. Bu da, Direct’in neden ilk önce Fransa’ya sunulduğunu açıklıyor.
 

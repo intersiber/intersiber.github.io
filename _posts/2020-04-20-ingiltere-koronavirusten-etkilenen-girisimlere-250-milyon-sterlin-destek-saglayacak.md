@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5717'
 permalink: /ingiltere-koronavirusten-etkilenen-girisimlere-250-milyon-sterlin-destek-saglayacak/
 post_views_count:
     - '9'
-image: /wp-content/uploads/2020/04/ingiltere-koronavirusten-etkilenen-girisimlere-250-milyon-sterlin-destek-saglayacak.jpg
+image: images/ingiltere-koronavirusten-etkilenen-girisimlere-250-milyon-sterlin-destek-saglayacak.jpg
 categories:
     - Girişim
 tags:
@@ -34,4 +34,4 @@ Yardım paketinde, 1 milyar sterlinin kalan 750 milyon sterlini ise kobilere ve 
 
 Dünya genelinde 2,4 milyon insana bulaşan yeni tip koronavirüs (covid-19) salgınının en çok etkilediği ülkeler arasında Birleşik Krallık geliyor. 120 bin koronavirüs vakasının görüldüğü ülkede, hayatını kaybedenlerin sayısı 16 bin oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/ingiltere-basbakani-boris-johnson-koronavirus-nedeniyle-tepkilerin-odaginda.jpeg)</figure>Bununla birlikte **İngiltere’de koronavirüs**ün yayılma sürecinde, ilk etapta ciddi kısıtlamalar getirilmemesi ve sürü bağışıklığı sisteminin denenmeye çalışılması, ülkede virüsün yayılma sürecini hızlandırmıştı. Başbakan Boris Johnson da, koronavirüs nedeniyle kaldırıldığı hastanede bir süre yoğun bakıma alınmış, ardından taburcu olmuştu. Johnson, ülkede salgının geldiği nokta konusunda suçlanıyor.
+<figure class="wp-block-image size-large">![](images/ingiltere-basbakani-boris-johnson-koronavirus-nedeniyle-tepkilerin-odaginda.jpeg)</figure>Bununla birlikte **İngiltere’de koronavirüs**ün yayılma sürecinde, ilk etapta ciddi kısıtlamalar getirilmemesi ve sürü bağışıklığı sisteminin denenmeye çalışılması, ülkede virüsün yayılma sürecini hızlandırmıştı. Başbakan Boris Johnson da, koronavirüs nedeniyle kaldırıldığı hastanede bir süre yoğun bakıma alınmış, ardından taburcu olmuştu. Johnson, ülkede salgının geldiği nokta konusunda suçlanıyor.

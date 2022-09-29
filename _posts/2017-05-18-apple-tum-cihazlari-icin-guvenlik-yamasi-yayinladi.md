@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=858'
 permalink: /apple-tum-cihazlari-icin-guvenlik-yamasi-yayinladi/
 post_views_count:
     - '712'
-image: /wp-content/uploads/2017/05/apple-lock.jpg
+image: images/apple-lock.jpg
 categories:
     - Apple
     - Genel

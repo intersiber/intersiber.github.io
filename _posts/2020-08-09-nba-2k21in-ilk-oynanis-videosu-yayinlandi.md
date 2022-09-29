@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9354'
 permalink: /nba-2k21in-ilk-oynanis-videosu-yayinlandi/
 post_views_count:
     - '77'
-image: /wp-content/uploads/2020/08/A23E91A6-011A-462B-9F80-E4C639D5AB50.jpeg
+image: images/A23E91A6-011A-462B-9F80-E4C639D5AB50.jpeg
 categories:
     - Oyun
 tags:

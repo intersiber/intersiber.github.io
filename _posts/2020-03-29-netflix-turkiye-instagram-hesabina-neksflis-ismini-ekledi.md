@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/netflix-turkiye.png
+image: images/netflix-turkiye.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -28,6 +28,6 @@ Dünyanın en popüler akış hizmeti devi Netflix, Türkiye Instagram hesabına
 
 Sosyal medya fenomeni **Murat Övüç** tarafından yayınlanan bir [videoda](https://www.instagram.com/p/B-Sb0xChjbT/), Netflix’in nasıl kullanılacağını sorması ve Netflix ekibine bana ulaşın diye seslenmesi sebebiyle, **Netflix Türkiye** Instagram sayfasının böyle bir adım attığı düşünülüyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/netflix-turkiye-instagram-neksflis.png)</figure>Netflix Türkiye Instagram hesabından konuyla ilgili resmi bir açıklama yapılmadı. Murat Övüç’ün Instagram gönderisine ise, ünlü sanatçılar ve hayranları tarafından yorumlar yağdı.
+<figure class="wp-block-image size-full">![](images/netflix-turkiye-instagram-neksflis.png)</figure>Netflix Türkiye Instagram hesabından konuyla ilgili resmi bir açıklama yapılmadı. Murat Övüç’ün Instagram gönderisine ise, ünlü sanatçılar ve hayranları tarafından yorumlar yağdı.
 
 En merak edilen sorulardan biri olan, Netflix’in Murat Övüç’e konuyla ilgili ulaşıp ulaşmadığı ise henüz bilinmiyor.

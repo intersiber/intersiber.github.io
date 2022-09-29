@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8572'
 permalink: /apple-koronavirus-nedeniyle-bazi-magazalarini-yeniden-kapatacak/
 post_views_count:
     - '21'
-image: /wp-content/uploads/2020/06/abd-koronavirus-nedeniyle-bazı-magazalarini-yeniden-kapatacak.jpg
+image: images/abd-koronavirus-nedeniyle-bazi-magazalarini-yeniden-kapatacak.jpg
 categories:
     - Apple
 tags:
@@ -20,7 +20,7 @@ Apple’ın, **COVID-19** vaka sayılarındaki artıştan ötürü ABD’nin dö
 
 ## Mart ayında tüm mağazalar kapatılmıştı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-store-abd-magazalari.jpg)</figure>Apple, Çin dışındaki tüm mağazalarını Mart ayında, koronavirüs salgınının zirve yaptığı dönemde kapatma kararı aldı. Mayıs ayında ise ABD’deki bazı mağazalar yeniden açıldı. **Apple** **mağazalarında** sıcaklık kontrolü ya da maske gibi temel önlemler uygulanıyordu.
+<figure class="wp-block-image size-large">![](images/apple-store-abd-magazalari.jpg)</figure>Apple, Çin dışındaki tüm mağazalarını Mart ayında, koronavirüs salgınının zirve yaptığı dönemde kapatma kararı aldı. Mayıs ayında ise ABD’deki bazı mağazalar yeniden açıldı. **Apple** **mağazalarında** sıcaklık kontrolü ya da maske gibi temel önlemler uygulanıyordu.
 
 Bir **Apple** sözcüsü konuyla ilgili, “Hizmet verdiğimiz bazı topluluklarda mevcut **COVID-19** koşulları nedeniyle, bu bölgelerdeki mağazaları geçici olarak kapatıyoruz” dedi ve “Müşterilerimizi en kısa sürede mağazalarımızda ağırlamayı dört gözle bekliyoruz” diye ekledi.
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/webcam.jpeg
+image: images/webcam.jpeg
 categories:
     - Genel
 tags:
@@ -29,6 +29,6 @@ ABD ve Avrupa ülkelerinde evlerinden çalışma düzenine geçen milyonlarca in
 
 Henüz Türkiye’de **web kamerası** konusunda bir problem görülmezken, Türkiye’de de **hava temizleyici** cihaz fiyatlarında %110’a varan oranlarda büyük ve beklenmedik fiyat artışları oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/web-cam-1600x900.jpg)</figure>Web kamerası için ABD’de güncel stok bulmanın son derece zor olduğu, ancak Logitech’in kendi internet sitesi üzerinden web kamerası satışlarını stoktan satmaya devam ettiği açıklandı.
+<figure class="wp-block-image size-large">![](images/web-cam-1600x900.jpg)</figure>Web kamerası için ABD’de güncel stok bulmanın son derece zor olduğu, ancak Logitech’in kendi internet sitesi üzerinden web kamerası satışlarını stoktan satmaya devam ettiği açıklandı.
 
 Web kamerası sahibi olmak isteyen şirket çalışanları hem yüksek çözünürlük, hem kesintisiz görüntü, hem de güvenilir web kameraları aradığından **Logitech** gibi markalar her zaman birkaç adım ön planda yer ediniyorlar.

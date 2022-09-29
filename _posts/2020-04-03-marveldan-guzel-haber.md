@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=4954'
 permalink: /marveldan-guzel-haber/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/04/Marvel’dan-Güzel-Haber-2.jpg
+image: images/marveldan-guzel-haber-2.jpg
 categories:
     - Genel
 tags:
@@ -19,7 +19,7 @@ tags:
 
 **Marvel**, kendimizi sosyal yaşamdan izole ettiğimiz şu günlerde bizlere ufak bir eğlence imkanı sunacağını duyurdu. **4 Mayıs**‘a kadar **Marvel Unlimited** abonelik hizmeti aracılığıyla bir dizi çizgi roman ücretsiz olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/Marvel’dan-Güzel-Haber-1-1600x900.jpg)</figure>Seçilen çizgi romanlara, herhangi bir ödeme bilgisi girmeye veya deneme aboneliği başlatmaya gerek kalmadan Marvel Unlimited’ın **Android** veya **iOS** uygulamaları veya **web** sitesi aracılığıyla erişilebilecek. İşte bu çizgi romanların tam listesi:
+<figure class="wp-block-image size-large">![](images/Marvel’dan-Güzel-Haber-1-1600x900.jpg)</figure>Seçilen çizgi romanlara, herhangi bir ödeme bilgisi girmeye veya deneme aboneliği başlatmaya gerek kalmadan Marvel Unlimited’ın **Android** veya **iOS** uygulamaları veya **web** sitesi aracılığıyla erişilebilecek. İşte bu çizgi romanların tam listesi:
 
 - Avengers vs. X-Men
 - Civil War

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/robot-sophia-turkiyeye-geliyor.jpg
+image: images/robot-sophia-turkiyeye-geliyor.jpg
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Hong Kong merkezli Hanson Robotics tarafından geliştirilen ve tüm dünyada ol
 
 3-4 Nisan’da Zorlu Center’da gerçekleştrilecek olan **Modanisa İstanbul Modest Fashion Week**‘e katılacak olan **Robot Sophia** Türkiye’de ilk kez moda etkinliğine katılarak Özlem Süer’in düzenleyeceği X Refka açılış defilesini izleyecek. Gün içerisinde de Geleceğin Modası hakkında bir konuşma yapması planlanıyor.
 
-<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/03/1524126473-el343-moda-sophia-alta-7.jpg?fit=640%2C426&ssl=1)</figure>## Moda haftasına katılacak
+<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.comimages/1524126473-el343-moda-sophia-alta-7.jpg?fit=640%2C426&ssl=1)</figure>## Moda haftasına katılacak
 
 **Hanson Robotics** tarafından geliştirilen Robot Sophia’nın yapay zekası ve görünümü oldukça büyük bir titizlikle planlandı. Yüzü için oyuncu Audrey Hepburn ve Mısır Kraliçesi Nefertiti model alındı. Sosyal zekanın anlaşılması için tüm detaylar dikkate alındı ve konuşurken göz teması kurması, sorulan sorulara gülümseyerek cevap vermesi ve yüzleri tanıması ile Robot Sophia çok dikkat çekti.
 

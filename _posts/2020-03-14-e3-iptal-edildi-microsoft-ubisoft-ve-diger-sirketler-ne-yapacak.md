@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/e3-1.jpg
+image: images/e3-1.jpg
 categories:
     - Oyun
 tags:
@@ -32,7 +32,7 @@ Entertainment Software Association’ın (ESA) E3’ün Çarşamba günü iptali
 
 Oyun şirketleri, **Dünya Sağlık Örgütü**‘nün resmi olarak bir salgın olarak etiketlediği yeni koronavirüsün yayılmasının ardından etkinlikleri iptal eden en son şirketler oldu. Ülkedeki yerel yönetimler halk sağlığı acil durumlarını ilan ediyor, etkinlikleri kısıtlıyor ve şirketler çalışanları eve göndermeye teşvik ediyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/e3-2.jpg)</figure>[Facebook](https://intersiber.com/facebook-f8-gelistirici-konferansi-coronavirus-salgini-nedeniyle-iptal-edildi/) ve [Google](https://intersiber.com/google-i-o-koronavirus-nedeniyle-iptal-edildi/) gibi teknoloji devleri, genellikle ilkbahar ve yaz aylarında düzenlenen yılın en büyük etkinliklerini iptal etmek zorunda kaldı.
+<figure class="wp-block-image size-large">![](images/e3-2.jpg)</figure>[Facebook](https://intersiber.com/facebook-f8-gelistirici-konferansi-coronavirus-salgini-nedeniyle-iptal-edildi/) ve [Google](https://intersiber.com/google-i-o-koronavirus-nedeniyle-iptal-edildi/) gibi teknoloji devleri, genellikle ilkbahar ve yaz aylarında düzenlenen yılın en büyük etkinliklerini iptal etmek zorunda kaldı.
 
 Video oyunu endüstrisi, **E3**‘ü sadece iptal etmeyi planlamıyor. Şirketler, büyük olasılıkla canlı yayınlar veya kaydedilmiş mesajlar aracılığıyla gelecek oyunları internet üzerinden açıklayacaklarını söylüyor.
 

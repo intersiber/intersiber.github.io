@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/corona-virus-1.jpg
+image: images/corona-virus-1.jpg
 categories:
     - Genel
 tags:
@@ -31,7 +31,7 @@ ABD’de **COVID-19** koronavirüs salgını sebebiyle, Hastalık Kontrol ve Ön
 
 **Wall Street Journal** (WSJ), **ABD** hükümet yetkililerinin, koronavirüs salgını sırasında Amerikalıların hareketlerini izlemek için mobil reklam endüstrisinden yararlanarak cep telefonu konum verilerini kullandığını bildirdi. Ayrıca **CDC**’nin eyalet ve yerel yönetimlerle birlikte belirli bölgedeki insanların cep telefonu verilerini aldığını açıkladı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/china-coronavirus-covid-19.jpg)</figure>Wall Street’e göre amaç ülke çapında 500’den fazla şehirden alınan ve coğrafi konum bilgilerini içeren bir hükümet portalı oluşturup insanların evde kalmaya yönelik emirlere ne kadar uyduklarını belirlemeye yardımcı olmak.
+<figure class="wp-block-image size-full">![](images/china-coronavirus-covid-19.jpg)</figure>Wall Street’e göre amaç ülke çapında 500’den fazla şehirden alınan ve coğrafi konum bilgilerini içeren bir hükümet portalı oluşturup insanların evde kalmaya yönelik emirlere ne kadar uyduklarını belirlemeye yardımcı olmak.
 
 Wall Street haberine göre ayrıca, anonimleştirilmiş verilerin bile kullanılmasının sayısız gizlilik endişelerini gündeme getirdiğini ve gizlilik savunucularının bu tür verilerin nasıl kullanılabileceğine dair sınırları zorladığını ve başka amaçlar için kullanılmasını engellediğini söyledi.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7031'
 permalink: /abdden-huaweiye-donanim-satan-sirketlere-bir-engel-daha/
 post_views_count:
     - '50'
-image: /wp-content/uploads/2020/05/abd-den-huawei-ye-donanim-satan-sirketlere-bir-engel-daha.png
+image: images/abd-den-huawei-ye-donanim-satan-sirketlere-bir-engel-daha.png
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Ticaret Bakanı **Wilbur Ros**s, yaptığı açıklamada “**Huawei ve HiSilico
 
 ## ABD ile Çin arasında gerilim yükseldi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/abd-cin-ticaret-savaslari-huawei-yasagi.jpg)</figure>Geçtiğimiz senelerde, karşılıklı olarak gümrük vergileri üzerinden yükselen ve adeta bir soğuk savaşa neden olan **ABD**–**Çin** **gerginliği**, koronavirüs krizi ile daha da ciddi bir boyuta ulaştı. Koronavirüs için, Twitter hesabında “Çin virüsü” ifadesini kullanan ABD Başkanı Trump, Çin ile tüm ilişkiyi kesme tehdidinde dahi bulundu.
+<figure class="wp-block-image size-large">![](images/abd-cin-ticaret-savaslari-huawei-yasagi.jpg)</figure>Geçtiğimiz senelerde, karşılıklı olarak gümrük vergileri üzerinden yükselen ve adeta bir soğuk savaşa neden olan **ABD**–**Çin** **gerginliği**, koronavirüs krizi ile daha da ciddi bir boyuta ulaştı. Koronavirüs için, Twitter hesabında “Çin virüsü” ifadesini kullanan ABD Başkanı Trump, Çin ile tüm ilişkiyi kesme tehdidinde dahi bulundu.
 
 Akıllı telefon üretiminin yanı sıra, telekom altyapısı alanında da dünyanın en büyük şirketlerinden olan ve 5G altyapısı konusunda bir güç merkezine dönen Huawei, bu anlamda **ABD’nin** hedefi oldu. **Trump** yönetimi, geçtiğimiz günlerde Huawei’nin ABD ürün ve hizmetlerini yasaklayan kararı bir yıl uzattı. Huawei, yeni telefonlarında **Google** ürün ve hizmetlerine yer veremiyor.
 

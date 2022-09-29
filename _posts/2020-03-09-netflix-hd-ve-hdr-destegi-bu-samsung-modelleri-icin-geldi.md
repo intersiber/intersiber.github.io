@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/netflix.png
+image: images/netflix.png
 categories:
     - Mobil
 tags:
@@ -26,7 +26,7 @@ Netflix’te, **HD** ve HDR içerikleri oynatmak için cihazların sertifikaland
 
 Üreticiler, cihazların maliyetleri düşürmek için sertifikalandırmıyorlar ve akıllı telefonların çoğu standart video kalite akışıyla sınırlandırılıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/https___hypebeast.com_image_2018_11_netflix-cheaper-mobile-only-subscription-1-1.jpg)</figure>Bununla birlikte, Netlflix **desteklenen cihazlar** listesini yavaş ama emin bir şekilde güncelliyor. Yeni güncellenmiş liste açıklandı. İlginç bir şekilde yeni eklenen ve çoğunlukla Samsung modellerini içeren cihazları aşağıda listeledik.
+<figure class="wp-block-image size-large">![](images/https___hypebeast.com_image_2018_11_netflix-cheaper-mobile-only-subscription-1-1.jpg)</figure>Bununla birlikte, Netlflix **desteklenen cihazlar** listesini yavaş ama emin bir şekilde güncelliyor. Yeni güncellenmiş liste açıklandı. İlginç bir şekilde yeni eklenen ve çoğunlukla Samsung modellerini içeren cihazları aşağıda listeledik.
 
 Eski cihazların yanı sıra yeni eklemeler arasında yeni piyasaya sürülen Galaxy S20 serisi, Xiaomi Mi 10 serisi, Sony Xperia 1 II, TCL 10 Pro, Galaxy Tab S6 Lite gibi cihazlar da bulunuyor.
 

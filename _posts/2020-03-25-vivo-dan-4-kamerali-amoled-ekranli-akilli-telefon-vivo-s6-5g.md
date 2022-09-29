@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/vivos6-1.png
+image: images/vivos6-1.png
 categories:
     - Mobil
 tags:
@@ -28,7 +28,7 @@ tags:
 
 **Vivo**, 23 Mart tarihinde telefon için dörtlü arka kamera ve şık bir tasarım gösteren yeni bir görüntü yayınladı. Şirket ayrıca Çinli aktör **Liu Haoran**‘ın telefonun temsilcisi olduğunu açıkladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/vivos6-2.jpeg)</figure>#### Vivo S6 5G Muhtemel Özellikleri
+<figure class="wp-block-image size-large">![](images/vivos6-2.jpeg)</figure>#### Vivo S6 5G Muhtemel Özellikleri
 
 - 2400 × 1080 piksel 6,44 inç Full HD + 20: 9 Süper AMOLED 2,5D kavisli cam ekran
 - Mali-G76 MP5 GPU’lu 2.2GHz Sekiz Çekirdekli Samsung Exynos 980 8nm işlemci

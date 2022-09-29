@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7823'
 permalink: /canli-yayin-spacex-ve-nasa-bugun-murettebatli-iss-gorevini-2-kere-deneyecek/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/05/canli-yayin-spacex-ve-nasa-crew-dragon-gorevini-ikinci-kere-deneyecek.jpg
+image: images/canli-yayin-spacex-ve-nasa-crew-dragon-gorevini-ikinci-kere-deneyecek.jpg
 categories:
     - Uzay
 tags:
@@ -20,7 +20,7 @@ tags:
 
 ## SpaceX’in ilk mürettebatlı görevine saatler kaldı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/bob-behnken-doug-hurley-nasa-space-x-astronotlari.jpeg)</figure>Astronotlar **Bob** **Behnken** ve **Doug** **Hurley’i** taşıyacak olan Crew Dragon, ABD’nin Florida eyaletindeki uzay üssünden Uluslararası Uzay İstasyonu’na gidecek. ABD yerel saati ile 15:22’de başlaması beklenen kalkış için hazırlıklar tamamlandı. İlk kalkış girişimi, 27 Mayıs çarşamba günü olmuştu ve hava şartlarının elvermemesi üzerine [bugüne ertelendi](https://intersiber.com/nasa-ve-spacexin-tarihi-uzay-gorevinin-ilk-denemesi-ertelendi/). Eğer bugün de hava koşulları son anda olumsuz seyrederse, görev 31 Mayıs pazar gününe ertelenecek.
+<figure class="wp-block-image size-large">![](images/bob-behnken-doug-hurley-nasa-space-x-astronotlari.jpeg)</figure>Astronotlar **Bob** **Behnken** ve **Doug** **Hurley’i** taşıyacak olan Crew Dragon, ABD’nin Florida eyaletindeki uzay üssünden Uluslararası Uzay İstasyonu’na gidecek. ABD yerel saati ile 15:22’de başlaması beklenen kalkış için hazırlıklar tamamlandı. İlk kalkış girişimi, 27 Mayıs çarşamba günü olmuştu ve hava şartlarının elvermemesi üzerine [bugüne ertelendi](https://intersiber.com/nasa-ve-spacexin-tarihi-uzay-gorevinin-ilk-denemesi-ertelendi/). Eğer bugün de hava koşulları son anda olumsuz seyrederse, görev 31 Mayıs pazar gününe ertelenecek.
 
 ## SpaceX ve NASA görevini canlı takip edin
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8612'
 permalink: /virgin-galactic-uzay-istasyonuna-ozel-geziler-duzenleyecek/
 post_views_count:
     - '14'
-image: /wp-content/uploads/2020/06/virgin-galactic-uzay-istasyonuna-ozel-geziler-duzenleyecek.png
+image: images/virgin-galactic-uzay-istasyonuna-ozel-geziler-duzenleyecek.png
 categories:
     - Uzay
 tags:
@@ -24,6 +24,6 @@ Virgin Galactic CEO’su George Whitesides, projeyi “Bu sadece potansiyel olar
 
 ## İki test uçuşunda beş kişiyi uzaya gönderdi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/virgin-galactic-uzay-turizmi.png)</figure>**Virgin** **Galactic**, uzay turizmi vizyonuyla faaliyete geçen bir şirket olmasına karşın, bu zamana kadar iki test uçuşunda beş kişiyi uzaya gönderdi. Bununla birlikte, birçok Virgin Galactic çalışanı NASA geçmişine sahip uzay profesyonellerinden oluşuyor.
+<figure class="wp-block-image size-large">![](images/virgin-galactic-uzay-turizmi.png)</figure>**Virgin** **Galactic**, uzay turizmi vizyonuyla faaliyete geçen bir şirket olmasına karşın, bu zamana kadar iki test uçuşunda beş kişiyi uzaya gönderdi. Bununla birlikte, birçok Virgin Galactic çalışanı NASA geçmişine sahip uzay profesyonellerinden oluşuyor.
 
 Şirket, gelecekteki müşterileri için New Mexico’da yer alan Spaceport America’da bir astronot eğitim programı geliştiriyor. Eğitim programı, Virgin Galactic müşterilerine uzaya gitmeden önce yörüngede kalmak için biraz deneyim katmayı amaçlıyor.

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/sony_vision_s_ces_bigumigu_8-1300x680-1.jpg
+image: images/sony_vision_s_ces_bigumigu_8-1300x680-1.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -24,7 +24,7 @@ tags:
 
 2018 yılında Türkiye’de 5 bin 367 olan **hibrit** ve elektrikli otomobillerin sayısı 2019 yılında üç kat artarak 15 bin 53’e yükseldi. Çevre kirliliği ve azalan yakıt rezervleri gibi nedenlerden dolayı otomotiv üreticileri hızlı bir şekilde elektrikli motorlara geçiş yaptı. 2020 yılı itibariyle **elektrikli otomobil** sektöründe küresel bir rekabet yaşanıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/5d1a7a60c9de3d2950d0f801.jpg)</figure>Elektrikli otomotivlerin üretilmesinin yanı sıra birçok ülkede bu araçların satın alınmasında büyük teşvikler veriliyor. Türkiye İstatistik Kurumu (TÜİK) tarafından yapılan açıklamaya göre, geçtiğimiz yıl trafiğe kayıtlı 12 milyon 503 bin 49 adet otomobil olduğu açıklandı. Bunlardan yüzde 38,1’inin dizel, yüzde 37,3’ünün LPG, yüzde 24,2’nin benzin ve kalan yüzde 0,1’inin ise elektrikli ya da hibrit otomobil olduğu ifade edildi.
+<figure class="wp-block-image size-large">![](images/5d1a7a60c9de3d2950d0f801.jpg)</figure>Elektrikli otomotivlerin üretilmesinin yanı sıra birçok ülkede bu araçların satın alınmasında büyük teşvikler veriliyor. Türkiye İstatistik Kurumu (TÜİK) tarafından yapılan açıklamaya göre, geçtiğimiz yıl trafiğe kayıtlı 12 milyon 503 bin 49 adet otomobil olduğu açıklandı. Bunlardan yüzde 38,1’inin dizel, yüzde 37,3’ünün LPG, yüzde 24,2’nin benzin ve kalan yüzde 0,1’inin ise elektrikli ya da hibrit otomobil olduğu ifade edildi.
 
 ## Sayı Her Yıl Katlanarak Artıyor
 

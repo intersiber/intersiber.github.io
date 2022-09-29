@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/netflix-logo.png
+image: images/netflix-logo.png
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ tags:
 
 **Netflix** Türkiye için bir aylık **ücretsiz deneme** üyeliğini kaldırmasının ardından, yaptığı açıklama ile yeni üyeler kazanabilmek için farklı kampanyalar planladıklarını duyurdu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/netflix-yeni-kampanya-ucretsiz-uyelik-1600x900.jpg)</figure>Geçtiğimiz günlerde Netflix, daha önce kullanımda olan bir aylık ücretsiz deneme üyeliğini Türkiye için [sonlandırmıştı](https://intersiber.com/netflix-1-aylik-ucretsiz-deneme-surumunu-turkiyede-kullanimdan-kaldirdi/). Konuyla ilgili **Netflix Türkiye** tarafından yapılan açıklamada şu sözler yer aldı:
+<figure class="wp-block-image size-large">![](images/netflix-yeni-kampanya-ucretsiz-uyelik-1600x900.jpg)</figure>Geçtiğimiz günlerde Netflix, daha önce kullanımda olan bir aylık ücretsiz deneme üyeliğini Türkiye için [sonlandırmıştı](https://intersiber.com/netflix-1-aylik-ucretsiz-deneme-surumunu-turkiyede-kullanimdan-kaldirdi/). Konuyla ilgili **Netflix Türkiye** tarafından yapılan açıklamada şu sözler yer aldı:
 
 *“Netflix olarak Türkiye’de yeni üyeler kazanmak ve onlara harika bir Netflix deneyimi sunmak için farklı kampanyalar planlıyoruz.”*
 

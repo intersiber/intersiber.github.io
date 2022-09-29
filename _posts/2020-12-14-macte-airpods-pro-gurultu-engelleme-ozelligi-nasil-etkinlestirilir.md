@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10034'
 permalink: /macte-airpods-pro-gurultu-engelleme-ozelligi-nasil-etkinlestirilir/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/12/mac-te-airpods-pro-icin-gurultu-engelleme-nasil-etkinlestirilir.jpg
+image: images/mac-te-airpods-pro-icin-gurultu-engelleme-nasil-etkinlestirilir.jpg
 categories:
     - Apple
     - 'Giyilebilir Teknoloji'
@@ -31,7 +31,7 @@ Mac’te farklı ses denetimi modları arasında geçiş yapmanın en hızlı yo
 - Menü çubuğunda ses dümesini görmüyorsanız, “Sistem Tercihleri” üzerinden etkinleştirebilirsiniz. Bunu yapmak için menü çubuğundan “Apple” simgesine tıklayın ve “Sistem Tercihleri” seçeneğine gidin.
 - Burada, “Ses” seçeneğini seçin.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/mac-te-airpods-pro-ayari.png)</figure>- Şimdi, “Çıktı” sekmesine gidin ve “Menü çubuğunda sesi göster” seçeneğinin işaretli olduğundan emin olun.
+<figure class="wp-block-image size-large">![](images/mac-te-airpods-pro-ayari.png)</figure>- Şimdi, “Çıktı” sekmesine gidin ve “Menü çubuğunda sesi göster” seçeneğinin işaretli olduğundan emin olun.
 - Sonraki aşamada, menü çubuğunda bir Ses simgesi göreceksiniz. AirPods Pro’nuz Mac’e bağlandıktan sonra, “Ses” düğmesini tıklayın ve AirPods Pro’nuzu seçin.
 - Gürültü Engelleme modunu açmak için, Mac menü çubuğundaki hoparlör simgesine tıklayın. AirPods Pro’nuzun üzerine gelin ve Gürültü Kontrolü listesinden “Gürültü Önleme”yi seçin. Ayrıca bu seçenekleri tıklayarak “Kapalı” duruma getirebilir ya da “Şeffaflık” modunu etkinleştirebilirsiniz.
 
@@ -39,7 +39,7 @@ Mac’te farklı ses denetimi modları arasında geçiş yapmanın en hızlı yo
 
 AirPods’un aksine AirPods Pro, çift dokunma özelliğine sahip değil. Bunun yerine AirPods Pro’nun gövdesinde yer alan kuvvet sensörüne basılı tutmanız gerekiyor. Varsayılan olarak, üç gürültü kontrol modu arasında geçiş yapmak için her iki gövdeye de basabilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/airpods-pro-kuvvet-sensoru-nedir.png)<figcaption>AirPods Pro kuvvet sensörü.</figcaption></figure>Bu modlardan kapalı modu, normal moddur. Şeffaflık modu, çevresel sesleri etkin bir şekilde sağlar. Gürültü önleme modu ise tüm gürültüyü engeller.
+<figure class="wp-block-image size-large">![](images/airpods-pro-kuvvet-sensoru-nedir.png)<figcaption>AirPods Pro kuvvet sensörü.</figcaption></figure>Bu modlardan kapalı modu, normal moddur. Şeffaflık modu, çevresel sesleri etkin bir şekilde sağlar. Gürültü önleme modu ise tüm gürültüyü engeller.
 
 Modlar arasında geçiş yapmak için AirPods Pro’nun her iki yanındaki gövdeyi basılı tutmanız yeterlidir. Görünüşte bu oldukça basit geliyor, ancak şeffaflık modunu sevmeyebilir ya da kullanmak istemeyebilirsiniz.
 

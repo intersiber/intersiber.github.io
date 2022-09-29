@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/meta-image-netflix-symbol-black.png
+image: images/meta-image-netflix-symbol-black.png
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ tags:
 
 Dünyanın en çok kullanılan medya hizmet sağlayıcılarından **Netflix**, 2015 yılından bugüne kadar toplam 9 içeriği listesinden kaldırdı. Amerika Birleşik Devletleri merkezli Netflix’in yayınladığı raporda, bugüne kadar hükümetlerden gelen tepki ve talepler nedeniyle yayından kaldırdığı içerikler açıklandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/shutterstock_729647704_16_9_1551773382-880x495-1.jpg)</figure>Netflix tarafından paylaşılan 2019 Çevresel Sosyal Yönetişim [raporuna](https://s22.q4cdn.com/959853165/files/doc_downloads/2020/02/0220_Netflix_EnvironmentalSocialGovernanceReport_FINAL.pdf) göre, şirket bugüne kadar 9 içeriğini, hükümetlerden gelen talepler doğrultusunda yayından kaldırdığını açıkladı.
+<figure class="wp-block-image size-large">![](images/shutterstock_729647704_16_9_1551773382-880x495-1.jpg)</figure>Netflix tarafından paylaşılan 2019 Çevresel Sosyal Yönetişim [raporuna](https://s22.q4cdn.com/959853165/files/doc_downloads/2020/02/0220_Netflix_EnvironmentalSocialGovernanceReport_FINAL.pdf) göre, şirket bugüne kadar 9 içeriğini, hükümetlerden gelen talepler doğrultusunda yayından kaldırdığını açıkladı.
 
 ## **İlk Yayından Kaldırılan The Bridge Oldu**
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6610'
 permalink: /zoom-ve-new-york-bassavcisi-guvenlik-iyilestirmeleri-konusunda-anlasti/
 post_views_count:
     - '33'
-image: /wp-content/uploads/2020/05/zoom-ve-new-york-bassavcisi-guvenlik-iyilestirmeleri-konusunda-anlasti.jpeg
+image: images/zoom-ve-new-york-bassavcisi-guvenlik-iyilestirmeleri-konusunda-anlasti.jpeg
 categories:
     - Girişim
 tags:
@@ -25,7 +25,7 @@ Anlaşma yayınlanmadan kısa süre önce, **New** **York** Eğitim Şubesi, **Z
 
 ## Salgının ardından ‘keşfedilen’ Zoom, zor bir dönem geçirdi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/zoom-guvenlik-ve-gizlilik-sorunlari.jpeg)</figure>Koronavirüs salgınının ardından, günlük 10 milyon aktif kullanıcısı 300 milyonu geçen ve bir anda ilgi odağı olan Zoom, çeşitli güvenlik ve gizlilik açıkları ile gündeme geldi. **Zoombombing** gibi saldırıların yanı sıra, güvenlik anahtarlarının Çin’e gönderilmesi konusuyla da gündeme gelen Zoom, hızlıca bu alanlarda güncelleme yaptı. Facebook’un eski güvenlik başkanı **Alex** **Stamos’ı** danışman olarak ekibe alan Zoom, yakın zamanda da uçtan uca şifreli video konferans geliştirme süreci için şifreleme ve güvenlik hizmeti sunan **Keybase’i** satın aldı.
+<figure class="wp-block-image size-large">![](images/zoom-guvenlik-ve-gizlilik-sorunlari.jpeg)</figure>Koronavirüs salgınının ardından, günlük 10 milyon aktif kullanıcısı 300 milyonu geçen ve bir anda ilgi odağı olan Zoom, çeşitli güvenlik ve gizlilik açıkları ile gündeme geldi. **Zoombombing** gibi saldırıların yanı sıra, güvenlik anahtarlarının Çin’e gönderilmesi konusuyla da gündeme gelen Zoom, hızlıca bu alanlarda güncelleme yaptı. Facebook’un eski güvenlik başkanı **Alex** **Stamos’ı** danışman olarak ekibe alan Zoom, yakın zamanda da uçtan uca şifreli video konferans geliştirme süreci için şifreleme ve güvenlik hizmeti sunan **Keybase’i** satın aldı.
 
 Başsavcı, mektubunda Zoom’un ilk mektupta belirtilen sorunlara hızlı bir şekilde yanıt vermek için hareket ettiğini ve işbirliği içinde çalıştığını ifade etti. Zoom’un bu süreçte yerel yönetimlere, okullara, sağlık kurumlarına değerli hizmetler sağladığı ifade edilen mektupta, küresel salgınla mücadelede şirketin rolüne vurgu yapıldı.
 

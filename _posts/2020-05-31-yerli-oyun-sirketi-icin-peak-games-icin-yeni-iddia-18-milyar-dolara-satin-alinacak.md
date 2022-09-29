@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7850'
 permalink: /yerli-oyun-sirketi-icin-peak-games-icin-yeni-iddia-18-milyar-dolara-satin-alinacak/
 post_views_count:
     - '93'
-image: /wp-content/uploads/2020/05/yerli-oyun-sirketi-peak-games-icin-yeni-iddia-1-8-milyar-dolara-satilacak.jpg
+image: images/yerli-oyun-sirketi-peak-games-icin-yeni-iddia-1-8-milyar-dolara-satilacak.jpg
 categories:
     - Girişim
     - Oyun
@@ -23,7 +23,7 @@ Geçtiğimiz günlerde, ABD’li oyun devi Zynga tarafından satın alınacağı
 
 ## Geriye sadece bir imza kaldı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/zynga-peak-games-i-satin-alacak-1600x1068.jpg)</figure>Webrazzi kurucusu Arda Kutsal, Peak Games’in Zynga tarafından satın alınacağı iddiasını detaylandırdı. Geçtiğimiz günlerde şirket, bazı teknoloji sitelerinde 1 milyar dolar karşılığında satılacak iddiası ile gündeme gelmişti.
+<figure class="wp-block-image size-large">![](images/zynga-peak-games-i-satin-alacak-1600x1068.jpg)</figure>Webrazzi kurucusu Arda Kutsal, Peak Games’in Zynga tarafından satın alınacağı iddiasını detaylandırdı. Geçtiğimiz günlerde şirket, bazı teknoloji sitelerinde 1 milyar dolar karşılığında satılacak iddiası ile gündeme gelmişti.
 
 Geçtiğimiz yıllarda **Peak** imzası taşıyan bazı oyunları 100 milyon doların üzerinde bedelle satın alan Zynga, Türk oyun ekosistemine hakim bir şirket. 2 yıl önce **Gram** **Games’i** 250 milyon dolara satın alan **Zynga’nın**, Peak Games ile olan anlaşmasında iddiaya göre geriye sadece bir imza kaldı.
 

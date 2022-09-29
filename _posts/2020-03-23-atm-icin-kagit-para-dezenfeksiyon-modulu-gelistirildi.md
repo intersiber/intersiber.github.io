@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/atm-dezenfeksiyon.jpg
+image: images/atm-dezenfeksiyon.jpg
 categories:
     - Genel
 tags:
@@ -33,4 +33,4 @@ Bugüne kadar bu konu hakkında hiçbir çalışmada bulunulmadığını belirte
 
 Eruçan, Türkiye’nin önde gelen bankalarından birine ürün satışı gerçekleştirdiklerini ve pilot uygulamaların ardından 2023’e kadar öncü bankaların ATM’lerine entegre olmayı hedeflediklerini söyleyerek, “İTÜ Çekirdek’ten aldığımız eğitimler ve geniş mentor ağı ile yaptığımız görüşmeler sayesinde iş fikrimizi uygulanabilir hale getirdik. Türkiye pazarında kendimizi kanıtladıktan sonra eş zamanlı olarak İTÜ ARI Teknokent’in Innogate Programı ile dünyaya açılmayı hedefliyoruz.” dedi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/pABlK_1584697724_7719.jpg)</figure>Ayrıca Thing Shower adında, cebte taşınabilecek boyuta sahip elektronik dezenfektan geliştirdiklerinin haberini de veren Eruçan “Işık dalga boyunu 200-280 nanometre arasında tutarak mikrosaniyeler içerisinde dezenfeksiyona imkan sağlıyoruz. Temassız ve anlık bir dezenfeksiyona imkan tanıtan ürünümüz sayesinde hijyeninden en fazla endişe duyduğumuz; umumi tuvaletler, kapı kolları, restoranlardaki çatal bıçak bardaklar, telefonlar, biberon ve emzikler, kozmetik eşyalar ve daha birçok eşya temassız bir şekilde saniyeler içerisinde dezenfekte edilebiliyor. Bu ürünü halkın temas ettiği ya da edeceği yüzeyleri korunması, bakteri ve virüslerden arındırması amacı ile geliştirdik ve internet sitemizden ön sipariş almaya başladık. Uluslararası sağlık kuruluşlarının ve Sağlık Bakanlığı’nın da belirttiği gibi hijyenin en önemli ve birinci kural olması gerekiyor. Temas edilen nesnelerin sık sık dezenfekte edilmesi önem taşıyor.” ifadelerini kullandı.
+<figure class="wp-block-image size-full">![](images/pABlK_1584697724_7719.jpg)</figure>Ayrıca Thing Shower adında, cebte taşınabilecek boyuta sahip elektronik dezenfektan geliştirdiklerinin haberini de veren Eruçan “Işık dalga boyunu 200-280 nanometre arasında tutarak mikrosaniyeler içerisinde dezenfeksiyona imkan sağlıyoruz. Temassız ve anlık bir dezenfeksiyona imkan tanıtan ürünümüz sayesinde hijyeninden en fazla endişe duyduğumuz; umumi tuvaletler, kapı kolları, restoranlardaki çatal bıçak bardaklar, telefonlar, biberon ve emzikler, kozmetik eşyalar ve daha birçok eşya temassız bir şekilde saniyeler içerisinde dezenfekte edilebiliyor. Bu ürünü halkın temas ettiği ya da edeceği yüzeyleri korunması, bakteri ve virüslerden arındırması amacı ile geliştirdik ve internet sitemizden ön sipariş almaya başladık. Uluslararası sağlık kuruluşlarının ve Sağlık Bakanlığı’nın da belirttiği gibi hijyenin en önemli ve birinci kural olması gerekiyor. Temas edilen nesnelerin sık sık dezenfekte edilmesi önem taşıyor.” ifadelerini kullandı.

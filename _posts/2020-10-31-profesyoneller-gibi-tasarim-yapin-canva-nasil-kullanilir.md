@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9456'
 permalink: /profesyoneller-gibi-tasarim-yapin-canva-nasil-kullanilir/
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/10/profesyoneller-gibi-tasarim-yapin-canva-nedir-nasil-kullanilir.png
+image: images/profesyoneller-gibi-tasarim-yapin-canva-nedir-nasil-kullanilir.png
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Photoshop gibi araçlar, tasarım konusunda çok yönlü özellikler sunması il
 
 Canva, yüksek kalitede görsel içerik oluşturmanızı sağlayan çevrimiçi bir grafik tasarım platformu. Milyonlarca insan, sosyal medya içerikleri, poster, dijital davetiyeler, sunum, kartvizit ve broşürler gibi içerikler için Canva’yı kullanıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/canva-nedir.jpg)</figure>Adobe Photoshop ya da Illustrator gibi araçların aksine Canva, basit arayüzü ile herkes tarafından kullanılabilen bir yapıda. Web’in yanı sıra Android ve iOS için mobil uygulama olarak da Canva’yı kullanabilirsiniz.
+<figure class="wp-block-image size-large">![](images/canva-nedir.jpg)</figure>Adobe Photoshop ya da Illustrator gibi araçların aksine Canva, basit arayüzü ile herkes tarafından kullanılabilen bir yapıda. Web’in yanı sıra Android ve iOS için mobil uygulama olarak da Canva’yı kullanabilirsiniz.
 
 Bireysel kullanıcılar için, farklı işlevsellik seviyeleri sunan Canva, ücretsiz plana da sahip. Canva üyelik modelleri şu şekilde:
 
@@ -37,7 +37,7 @@ Bir şablon seçmek için Canva anasayfasına gidin. Burada, ana sayfada öneril
 
 Kategoriler arasında sosyal medya, kişisel, iş pazarlama ve eğitim yer alıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/canva-gorsel-icerik-kategorileri.png)</figure>Canva şablonları, aşağıdaki öğeleri içerir:
+<figure class="wp-block-image size-large">![](images/canva-gorsel-icerik-kategorileri.png)</figure>Canva şablonları, aşağıdaki öğeleri içerir:
 
 - **Vektörler** ve **grafikler**: Vektör ve grafikler arasında şekiller, çıkartmalar, çerçeveler ya da animasyonlu simgeler yer alır.
 - **Stok** **görüntüler**: Canva, geniş bir stok görsel kitaplığına sahip. Shutterstock ya da Getty gibi, stok fotoğraf platformlarının sunduğu içeriklere alternatif olarak, Canva’nın fotoğraflarını kullanabilirsiniz.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6352'
 permalink: /lenovo-ideapad-duet-chromebook-artik-on-siparis-listesinde-yer-aliyor/
 post_views_count:
     - '62'
-image: /wp-content/uploads/2020/05/Lenovo-IdeaPad-Duet-Chromebook.jpg
+image: images/Lenovo-IdeaPad-Duet-Chromebook.jpg
 categories:
     - Genel
 tags:
@@ -23,6 +23,6 @@ Geçtiğimiz günlerde, bazı alıcılar Best Buy üzerinden Duet için başarı
 
 Ürün sayfası, IdeaPad Duet’in **6 Mayıs**‘ta satışa çıkacağını gösteriyor ancak **Lenovo** çıkış tarihini henüz onaylamadı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/lenova-IdealPad-duet-1600x991.jpg)</figure>Lenovo IdeaPad Duet, **10.1** inç FHD ekrana ve tek bir USB-C bağlantı noktasına sahip. Cihaz **4 GB RAM** ile 64 GB ve 128 GB olmak üzere iki depolama alanı seçeneği sunuyor. **MediaTek Helio P60T** işlemci ile güçlendirilmiş olan ürün ayrıca **7.180 mAh** pil, arkada **8 MP** kamera ve önde **2 MP** kamera ile donatılmış. Ürün kutusunda bir klavye ve USB-C 3.5mm adaptörü ile birlikte geliyor.
+<figure class="wp-block-image size-large">![](images/lenova-IdealPad-duet-1600x991.jpg)</figure>Lenovo IdeaPad Duet, **10.1** inç FHD ekrana ve tek bir USB-C bağlantı noktasına sahip. Cihaz **4 GB RAM** ile 64 GB ve 128 GB olmak üzere iki depolama alanı seçeneği sunuyor. **MediaTek Helio P60T** işlemci ile güçlendirilmiş olan ürün ayrıca **7.180 mAh** pil, arkada **8 MP** kamera ve önde **2 MP** kamera ile donatılmış. Ürün kutusunda bir klavye ve USB-C 3.5mm adaptörü ile birlikte geliyor.
 
 IdeaPad Duet’in **279$**‘lık **64 GB** olan sürümüne 20 dolar ekleyerek **299$**‘a ürünü **128 GB**‘lık sürümüne yükseltebilirsiniz.

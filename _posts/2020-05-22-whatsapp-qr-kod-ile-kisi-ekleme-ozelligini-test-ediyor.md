@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7408'
 permalink: /whatsapp-qr-kod-ile-kisi-ekleme-ozelligini-test-ediyor/
 post_views_count:
     - '72'
-image: /wp-content/uploads/2020/05/whatsapp-qr-kod-ile-kisi-ekleme-ozelligini-test-ediyor.jpg
+image: images/whatsapp-qr-kod-ile-kisi-ekleme-ozelligini-test-ediyor.jpg
 categories:
     - Genel
 tags:
@@ -22,4 +22,4 @@ tags:
 
 ## Whatsapp’ta QR kod ile kişi ekleme ne zaman gelecek?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/whatsapp-ta-qr-kod-ile-nasil-yeni-kisi-eklenir.jpg)</figure>WABetaInfo’nun aktardığı bilgiye göre, Whatsapp’ın sunduğu bu özelliğin iOS ve **Android’e** geleceği zaman için henüz bir bilgi bulunmuyor. Android’de beta sürümünü test etmek istiyorsanız, bu [bağlantıya](https://play.google.com/apps/testing/com.whatsapp) tıklayabilirsiniz. Beta sürümüne kayıt olduktan sonra QR kodu seçeneği, ayarlar menüsünde yer alıyor. **iPhone** için bunu deneme şansınız ne yazık ki yok, zira iOS beta kapalı.
+<figure class="wp-block-image size-large">![](images/whatsapp-ta-qr-kod-ile-nasil-yeni-kisi-eklenir.jpg)</figure>WABetaInfo’nun aktardığı bilgiye göre, Whatsapp’ın sunduğu bu özelliğin iOS ve **Android’e** geleceği zaman için henüz bir bilgi bulunmuyor. Android’de beta sürümünü test etmek istiyorsanız, bu [bağlantıya](https://play.google.com/apps/testing/com.whatsapp) tıklayabilirsiniz. Beta sürümüne kayıt olduktan sonra QR kodu seçeneği, ayarlar menüsünde yer alıyor. **iPhone** için bunu deneme şansınız ne yazık ki yok, zira iOS beta kapalı.

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/macmini1.jpg
+image: images/macmini1.jpg
 categories:
     - Apple
 tags:
@@ -30,7 +30,7 @@ Sızıntılardaki ayrıntılar tam olarak bilinmiyor, ancak Twitter’daki CoinX
 
 Apple son olarak 2014’te ilk güncellemesini alan **Mac Mini’yi** 2018’de güncelledi. Bu güncelleme, Mac mini için büyük bir güç artışını temsil etti ve ayrıca ilk kez USB-C bağlantısını getirdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/macmini2.jpg)</figure>iMac’e gelince, CoinX isimli Twitter kullanıcısı, masaüstü all-in-one’ın Pro olmayan modeline atıfta bulunuyor. Ancak geçtiğimiz günlerde Apple analisti **Ming-Chi Kuo**, Apple’ın bu yılın son çeyreğinde gelen iMac Pro’nun güncellenmiş bir versiyonuna sahip olduğunu söyledi .
+<figure class="wp-block-image size-large">![](images/macmini2.jpg)</figure>iMac’e gelince, CoinX isimli Twitter kullanıcısı, masaüstü all-in-one’ın Pro olmayan modeline atıfta bulunuyor. Ancak geçtiğimiz günlerde Apple analisti **Ming-Chi Kuo**, Apple’ın bu yılın son çeyreğinde gelen iMac Pro’nun güncellenmiş bir versiyonuna sahip olduğunu söyledi .
 
 21.5 inç ve 27 inç iMac’ler geçen baharda yeni 6 çekirdekli ve 8 çekirdekli Intel CPU’lar ve yeni Radeon Pro Vega grafik seçenekleriyle güncellenmişti.
 

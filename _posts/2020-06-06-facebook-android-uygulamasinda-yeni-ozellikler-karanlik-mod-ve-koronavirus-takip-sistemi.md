@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8148'
 permalink: /facebook-android-uygulamasinda-yeni-ozellikler-karanlik-mod-ve-koronavirus-takip-sistemi/
 post_views_count:
     - '88'
-image: /wp-content/uploads/2020/06/facebook-android-mobil-uygulamasi-karanlik-mod-ve-koronavirus-takip-sistemi.png
+image: images/facebook-android-mobil-uygulamasi-karanlik-mod-ve-koronavirus-takip-sistemi.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -23,7 +23,7 @@ Günümüzde birçok platformda sunulan karanlık mod özelliği, Facebook için
 
 ## Facebook Android uygulamasında karanlık mod nasıl görünüyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/facebook-android-karanlik-mod.png)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/facebook-android-uygulamasinda-yeni-ozellikler-karanlik-mod-ve-koronavirus-takip-sistemi-1.png)</figure>Paylaşılan ekran görüntüleri, masaüstü uygulamasındaki karanlık modu andıran bir yapıda ve **Android’in** **karanlık** **modu** ile uyumlu görünüyor. Facebook’un bu özelliği artık son aşamasında ve yayına girmek üzere.
+<figure class="wp-block-image size-large">![](images/facebook-android-karanlik-mod.png)</figure><figure class="wp-block-image size-large">![](images/facebook-android-uygulamasinda-yeni-ozellikler-karanlik-mod-ve-koronavirus-takip-sistemi-1.png)</figure>Paylaşılan ekran görüntüleri, masaüstü uygulamasındaki karanlık modu andıran bir yapıda ve **Android’in** **karanlık** **modu** ile uyumlu görünüyor. Facebook’un bu özelliği artık son aşamasında ve yayına girmek üzere.
 
 ## Koronavirüs takip özelliği
 

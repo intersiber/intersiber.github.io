@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/coinmarketcap-com.jpg
+image: images/coinmarketcap-com.jpg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ Dünyanın en büyük kripto para fiyat ve piyasa takibi sitesi olan **CoinMarke
 
 The Block isimli kaynağa göre internet sitesinin 400 milyon dolar gibi yüksek bir ücret karşılığında satın alınması beklenirken, Binance’in platformu satın alması durumunda bir piyasa takip sitesine en yüksek ücret ödenmiş olacak ve CoinMarketCap’e olan güven sarsılacak.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/coinmarketcap.jpg)</figure>Binance tarafından satın alınması halinde çok ciddi piyasa manipülasyonlarının olabileceğini düşünen çok sayıda kripto para yatırımcısı, CMC olarak tanınan platformun satılmasına karşı çıkıyor.
+<figure class="wp-block-image size-full">![](images/coinmarketcap.jpg)</figure>Binance tarafından satın alınması halinde çok ciddi piyasa manipülasyonlarının olabileceğini düşünen çok sayıda kripto para yatırımcısı, CMC olarak tanınan platformun satılmasına karşı çıkıyor.
 
 CMC’nin bugüne kadar bazı konularda tepki çektiği bilinse bile hala en güvenilir kripto para piyasa fiyat takip sitesi olduğu düşünülüyor.

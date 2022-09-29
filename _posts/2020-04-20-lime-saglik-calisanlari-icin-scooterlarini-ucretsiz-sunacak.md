@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5727'
 permalink: /lime-saglik-calisanlari-icin-scooterlarini-ucretsiz-sunacak/
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/04/lime-scooterlarini-saglik-calisanlari-icin-ucretsiz-sunacak.jpeg
+image: images/lime-scooterlarini-saglik-calisanlari-icin-ucretsiz-sunacak.jpeg
 categories:
     - Girişim
 tags:
@@ -24,6 +24,6 @@ tags:
 
 ## 30 ülkede 120 bin scooter ile dünya lideri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/lime-dunyanin-en-buyuk-e-scooter-girisimi-1600x1108.jpeg)</figure>Son dönemde popülerleşen, Türkiye’de de **Martı** ile adını çok duyduğumuz **e-scooter paylaşım** şirketi **Lime**, dünya çapında 30 ülkede, 120 bin scootera sahip. Şirket, Mart ayında 20’den fazla ülkede operasyonlarını durduracağını açıkladı.
+<figure class="wp-block-image size-large">![](images/lime-dunyanin-en-buyuk-e-scooter-girisimi-1600x1108.jpeg)</figure>Son dönemde popülerleşen, Türkiye’de de **Martı** ile adını çok duyduğumuz **e-scooter paylaşım** şirketi **Lime**, dünya çapında 30 ülkede, 120 bin scootera sahip. Şirket, Mart ayında 20’den fazla ülkede operasyonlarını durduracağını açıkladı.
 
 Öte yandan Lime’ın, elektrikli kaykay şirketi Boosted’ı da satın aldığı, gelen bilgiler arasında.

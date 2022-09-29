@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Exiled-Asteroid-2004-EW95.jpg
+image: images/Exiled-Asteroid-2004-EW95.jpg
 categories:
     - Uzay
 tags:
@@ -28,11 +28,11 @@ Everest Dağı büyüklüğündeki **1998 OR2** isimli asteroit, Nisan ayında D
 
 **NASA** güneş sistemi büyükelçisi Eddie Irizarry, EarthSky için yazdığı yazıda asteroit için, “Teleskoplardan bakarken onu yavaş hareket eden bir yıldız olarak göreceksiniz. En az 6 inç veya 8 inç teleskoplara sahip gözlemciler yıldızların önünde hareket eden asteroit olarak görebilecek.” ifadelerini kullandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ebPHKKD7WAN5iWeZ-637018129664305760.jpg)</figure>NASA, 1998 OR2 adlı asteroidi ilk keşfettiğinde gezegenimizle temas etmeyecek olsa dahi, bir çarpışmaya yetecek kadar büyük küresel etkilere neden olacağını söyledi.
+<figure class="wp-block-image size-large">![](images/ebPHKKD7WAN5iWeZ-637018129664305760.jpg)</figure>NASA, 1998 OR2 adlı asteroidi ilk keşfettiğinde gezegenimizle temas etmeyecek olsa dahi, bir çarpışmaya yetecek kadar büyük küresel etkilere neden olacağını söyledi.
 
 Asteroit, gezegenimizle çarpışma potansiyeli nedeniyle değil, büyüklüğü ve periyodik olarak Dünya’dan geçtiği gerçeği nedeniyle, her ne kadar geçiş Dünya ve Ay arasındaki mesafenin 15 katından fazla olsa da, NASA’nın potansiyel olarak tehlikeli nesneler listesinde izleniyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/602x338_cmsv2_53da61ce-3fc2-58db-a259-3bee2535b2f5-4545912.jpg)</figure>## Asteroit Ne Zaman Geçecek?
+<figure class="wp-block-image size-large">![](images/602x338_cmsv2_53da61ce-3fc2-58db-a259-3bee2535b2f5-4545912.jpg)</figure>## Asteroit Ne Zaman Geçecek?
 
 NASA’nın verilerine göre, asteroidin önümüzdeki yüzyılda Dünya’dan birkaç kez geçmesi bekleniyor. En yakın geçişi 16 Nisan 2079’da olacak. Asteroit gezegenden yaklaşık 929.560 mil uzaklığa ulaştığında daha da yakından ama yine de tamamen güvenli olarak bir geçiş yapacak.
 

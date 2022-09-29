@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5905'
 permalink: /iphonelari-kilitleyen-bir-ios-guvenlik-acigi-tespit-edildi/
 post_views_count:
     - '47'
-image: /wp-content/uploads/2020/04/iphone-lari-kilitleyen-bir-ios-guvenlik-acigi-tespit-edildi.jpeg
+image: images/iphone-lari-kilitleyen-bir-ios-guvenlik-acigi-tespit-edildi.jpeg
 categories:
     - Apple
     - Güvenlik
@@ -20,7 +20,7 @@ iPhone modellerinin kitlenmesine neden olan yeni bir **iOS** metin **güvenlik a
 
 ## Sorunun çözülmesi için beklemeniz gerekebilir
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/iphone-mesajlasma-bildirimi-bugi.jpg)<figcaption>Güvenlik açığı böyle görünüyor.</figcaption></figure>**iPhone**’unuz, mevcut **güvenlik açığı** yüzünden kilitlenirse, yeniden eski durumuna gelmesi için zorla yeniden başlatabilir, iOS Springboard’ın iyileşmesi için bir dakika beklemeniz gerekebilir. Yeni iPhone hatasına karşı, internetteki kötü niyetli insanlara karşı önlem almak adına bildirimleri, mesajlaşma uygulamalarında durdurabilirsiniz. Sorunun çözülmesi için, iOS 13.4.5 beta sürümüne geçiş gerekiyor, bu da Apple’ın durumu farkında olup, çözdüğünü gösteriyor.
+<figure class="wp-block-image size-large">![](images/iphone-mesajlasma-bildirimi-bugi.jpg)<figcaption>Güvenlik açığı böyle görünüyor.</figcaption></figure>**iPhone**’unuz, mevcut **güvenlik açığı** yüzünden kilitlenirse, yeniden eski durumuna gelmesi için zorla yeniden başlatabilir, iOS Springboard’ın iyileşmesi için bir dakika beklemeniz gerekebilir. Yeni iPhone hatasına karşı, internetteki kötü niyetli insanlara karşı önlem almak adına bildirimleri, mesajlaşma uygulamalarında durdurabilirsiniz. Sorunun çözülmesi için, iOS 13.4.5 beta sürümüne geçiş gerekiyor, bu da Apple’ın durumu farkında olup, çözdüğünü gösteriyor.
 
 ## Önceki iOS açığı 2 yıl önceydi
 

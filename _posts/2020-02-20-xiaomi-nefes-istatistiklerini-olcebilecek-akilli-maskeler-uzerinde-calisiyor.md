@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/xiaomi-akilli-maske.png
+image: images/xiaomi-akilli-maske.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -30,7 +30,7 @@ Xiaomi akıllı telefonların yanı sıra, yeni bir yaşam tarzı ürününü uy
 
 Patente göre, Xiaomi’nin yeni akıllı maskesi gömülü bir hesaplama birimi içeren dört farklı modülle gelecek. Gelen bilgilere göre yerleşik sensörlerden gelen tüm verileri hesaplayacak bir işlemciye sahip olacak maske, bu verileri daha sonra bir bellek modülüne kaydedecek. Ayrıca, depolanan tüm verileri aktaracak bir bağlantı modülüne de sahip olacak olan akıllı maske tüm bunlar için dahili bataryadan güç alacak. Akıllı maske standart filtrelere de sahip olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/ezgif.com-webp-to-jpg-3.jpg)</figure>Xiaomi’nin akıllı maskesi kirlilik emilim miktarıyla birlikte toplam kullanım süresini kaydedebilecek. Xiaomi bunun için emilim miktarını hesaplayacak sensörler kullanacak. Elbette maske beraberinde kaydedilen ve hesaplanan verileri göndereceği bir mobil uygulamayla gelecek. Ayrıca maske, merkezi bir sunucu vasıtasıyla hava kalitesi verilerini de kullanıcılarına sunacak.
+<figure class="wp-block-image size-large">![](images/ezgif.com-webp-to-jpg-3.jpg)</figure>Xiaomi’nin akıllı maskesi kirlilik emilim miktarıyla birlikte toplam kullanım süresini kaydedebilecek. Xiaomi bunun için emilim miktarını hesaplayacak sensörler kullanacak. Elbette maske beraberinde kaydedilen ve hesaplanan verileri göndereceği bir mobil uygulamayla gelecek. Ayrıca maske, merkezi bir sunucu vasıtasıyla hava kalitesi verilerini de kullanıcılarına sunacak.
 
 Dahası maskede solunum hacmi, toplam nefes sayısı gibi istatistikleri ölçecek çeşitli sağlık sensörlerinin olduğunu da görüyoruz. Maske ek olarak ivmeölçer ve jiroskoplar yardımıyla hareket halinde olup olmadığınızı da algılayabilecek ve şaşırtıcı bir şekilde, akciğer kapasitenizin arttığını veya azaldığını da ölçebilecek. Solunum sorunlarını belirleyen maske, mobil uygulaması sayesinde olası sağlık tavsiyelerini de kullanıcılara bildirecek.
 

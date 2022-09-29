@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '32'
-image: /wp-content/uploads/2020/01/microsoft-xbox-bug-bounty-programi-ile-odul-dagitacak.jpeg
+image: images/microsoft-xbox-bug-bounty-programi-ile-odul-dagitacak.jpeg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

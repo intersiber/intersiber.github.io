@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8550'
 permalink: /ingiltereden-geri-adim-apple-ve-googlein-koronavirus-takip-sistemi-kullanilacak/
 post_views_count:
     - '23'
-image: /wp-content/uploads/2020/06/ingiltere-den-geri-adim-apple-ve-google-in-koronavirus-takip-sistemi-kullanilacak.jpeg
+image: images/ingiltere-den-geri-adim-apple-ve-google-in-koronavirus-takip-sistemi-kullanilacak.jpeg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## Değişikliğin onaylanması bekleniyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/koronavirus-takip-uygulamalari.jpg)</figure>İngiltere hükümetinin, **Google** ve **Apple’ın** ortak geliştirdiği koronavirüs temas takip sisteminin kullanımına onay vermesi bekleniyor. Teknoloji devlerinin sunduğu uygulama, verileri merkezi olmayan bir şekilde depolamaya dayalı, gizlilik odaklı bir sistem.
+<figure class="wp-block-image size-large">![](images/koronavirus-takip-uygulamalari.jpg)</figure>İngiltere hükümetinin, **Google** ve **Apple’ın** ortak geliştirdiği koronavirüs temas takip sisteminin kullanımına onay vermesi bekleniyor. Teknoloji devlerinin sunduğu uygulama, verileri merkezi olmayan bir şekilde depolamaya dayalı, gizlilik odaklı bir sistem.
 
 İngiltere, daha önce merkezi bir mantığa dayanan, kendi temas takip uygulamasını geliştirmede ısrarcı olmuştu. Hükümet, birçok kişi tarafından sağlık hizmetlerinin dışında vatandaşların farklı verilerine ulaşabilmesi konusunda eleştirildi.
 

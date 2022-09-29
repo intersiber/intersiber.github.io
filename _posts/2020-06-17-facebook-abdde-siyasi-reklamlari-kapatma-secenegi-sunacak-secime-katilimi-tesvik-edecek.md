@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8530'
 permalink: /facebook-abdde-siyasi-reklamlari-kapatma-secenegi-sunacak-secime-katilimi-tesvik-edecek/
 post_views_count:
     - '61'
-image: /wp-content/uploads/2020/06/facebook-siyasi-reklamlari-kapatma-secenegi-sunacak-secime-katilimi-tesvik-edecek.jpeg
+image: images/facebook-siyasi-reklamlari-kapatma-secenegi-sunacak-secime-katilimi-tesvik-edecek.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -29,6 +29,6 @@ Facebook, seçim bilgilendirme özelliğini ilk etapta kısıtlı bir kullanıc�
 
 ## 160 milyon kişiye erişecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/2020-abd-baskanlik-secimleri-ne-zama.jpeg)</figure>Zuckerberg, Facebook’un ABD’de **oylama** **bilgi** **merkezini**, 160 milyon kişinin görmesini beklediğini ve bu erişimin, 4 milyon seçmenin zamanında seçimler için gereken işlemleri yapmasına neden olacağını söyledi.
+<figure class="wp-block-image size-large">![](images/2020-abd-baskanlik-secimleri-ne-zama.jpeg)</figure>Zuckerberg, Facebook’un ABD’de **oylama** **bilgi** **merkezini**, 160 milyon kişinin görmesini beklediğini ve bu erişimin, 4 milyon seçmenin zamanında seçimler için gereken işlemleri yapmasına neden olacağını söyledi.
 
 Facebook’un seçim konusundaki radikal adımlarından biri de, siyasi reklamı gizleme seçeneği olacak. Kullanıcılar, politikacıları reklamlarda görmek istemediği takdirde, zaman akışında bu reklamları engelleyebilecek.

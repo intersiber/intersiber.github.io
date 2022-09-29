@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/z-flip-2.jpg
+image: images/z-flip-2.jpg
 categories:
     - Mobil
 tags:
@@ -25,6 +25,6 @@ tags:
 
 Avrupa ve ABD’de kullanıcı belirli bir süre içerisinde herhangi bir neden sunmadan değişim yaptırabilirken, **Türkiye** ve bazı ülkelerde tüketici yasaları doğru uygulanmıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/z-flip-3.jpg)</figure>Satıcılar kendilerini yasaların üzerinde görürken, yasalarda herhangi bir yaptırım olmaması nedeniyle bazı durumlarda tüketiciler haklarını ancak sosyal medya aracılığı ile arayabiliyorlar.
+<figure class="wp-block-image size-large">![](images/z-flip-3.jpg)</figure>Satıcılar kendilerini yasaların üzerinde görürken, yasalarda herhangi bir yaptırım olmaması nedeniyle bazı durumlarda tüketiciler haklarını ancak sosyal medya aracılığı ile arayabiliyorlar.
 
 Ortadoğu ülkelerinin bir kısmında ve Türkiye’de özellikle katlanabilir ekranlı cep telefonlarının bir süre boyunca çok fazla tutulan modeller olmayacağı düşünülürken, ABD’de bile bu modellere endişe ile yaklaşıldığında söz etmek mümkün.

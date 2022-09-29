@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6843'
 permalink: /iron-man-vr-3-temmuzda-yayinlanacak/
 post_views_count:
     - '133'
-image: /wp-content/uploads/2020/05/iron-man-vr-3-temmuzda-yayinlanacak-scaled.jpg
+image: images/iron-man-vr-3-temmuzda-yayinlanacak-scaled.jpg
 categories:
     - Oyun
 tags:
@@ -20,7 +20,7 @@ tags:
 
 Marvel evreninin bir hayranı olsanız da olmasanız da **Iron Man VR**, olağanüstü bir deneyim olarak geliyor. Gazeteci ve içerik yaratıcıları, Sony tarafından yayınlanan oyunu, çeşitli oyun konferanslarında ve etkinliklerinde ilk elden deneyimleme şansına sahip oldular. Oyun gerçek bir süper kahraman simülatörü gibi görünüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/marvels-iron-man-vr-1600x900.jpg)</figure>**Iron Man** rolünü birinci şahıs perspektifinden oynayacağınız, yerleşik itici bombalarınızı ve zırhlı uçuş takımınızı kullanarak çeşitli tehditlerle karşı karşıya kalacağınız oyunda oyuncular, Iron Man’ın Marvel’ın çeşitli filmlerinde ve çizgi romanlarında yaptığı gibi hızlarını, uçuş yönlerini ve daha fazlasını ellerinin açısını kullanarak ayarlayabilecekler.
+<figure class="wp-block-image size-large">![](images/marvels-iron-man-vr-1600x900.jpg)</figure>**Iron Man** rolünü birinci şahıs perspektifinden oynayacağınız, yerleşik itici bombalarınızı ve zırhlı uçuş takımınızı kullanarak çeşitli tehditlerle karşı karşıya kalacağınız oyunda oyuncular, Iron Man’ın Marvel’ın çeşitli filmlerinde ve çizgi romanlarında yaptığı gibi hızlarını, uçuş yönlerini ve daha fazlasını ellerinin açısını kullanarak ayarlayabilecekler.
 
 Oyun göğüse monte edilmiş **Unibeam** saldırısı, yüksek güçlü bir **yumruk** ve daha fazlası dahil olmak üzere çeşitli ikonik alet ve oyuncaklarla oynanabilecek. Ayrıca şirkete göre, zırhı ve yukarıda belirtilen yetenekleri beğeninize göre özelleştirmek için **Tony Stark’ın garajına** bile gidebileceksiniz.
 

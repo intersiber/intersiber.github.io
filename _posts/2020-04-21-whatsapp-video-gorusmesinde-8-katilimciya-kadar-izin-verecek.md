@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5765'
 permalink: /whatsapp-video-gorusmesinde-8-katilimciya-kadar-izin-verecek/
 post_views_count:
     - '68'
-image: /wp-content/uploads/2020/04/whatsapp-video-gorusmesinde-8-kisiye-kadar-izin-verecek.jpeg
+image: images/whatsapp-video-gorusmesinde-8-kisiye-kadar-izin-verecek.jpeg
 categories:
     - Mobil
 tags:
@@ -24,7 +24,7 @@ Başta Zoom olmak üzere Houseparty ve Duo gibi uygulamaların öne çıktığı
 
 Sızdırılan uygulama özelliği görüntüleri şu şekilde:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/whatsapp-goruntulu-konusma-limiti-8-kisi.jpeg)</figure>WABetaInfo’nun aktardığı bilgiye göre Whatsapp, şu anda 4 katılımcıyı destekleyen videolu görüşmelerindeki sınırı 8 kişiye çıkaracak. Şu anda rakip uygulamalarda Houseparty 8 kişi, Google Duo ise 12 kişiye kadar destek veriyor. Zoom uygulamasında ise limit daha da yüksek.
+<figure class="wp-block-image size-large">![](images/whatsapp-goruntulu-konusma-limiti-8-kisi.jpeg)</figure>WABetaInfo’nun aktardığı bilgiye göre Whatsapp, şu anda 4 katılımcıyı destekleyen videolu görüşmelerindeki sınırı 8 kişiye çıkaracak. Şu anda rakip uygulamalarda Houseparty 8 kişi, Google Duo ise 12 kişiye kadar destek veriyor. Zoom uygulamasında ise limit daha da yüksek.
 
 ## 2 milyar kullanıcıya sahip
 

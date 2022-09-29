@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8352'
 permalink: /zoom-tinananmen-meydani-katliamini-anma-etkinligi-acan-hesabi-devre-disi-birakti/
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/06/zoom-tiananmen-meydani-katliamini-anma-etkinligi-acan-hesabi-devre-disi-birakti.jpeg
+image: images/zoom-tiananmen-meydani-katliamini-anma-etkinligi-acan-hesabi-devre-disi-birakti.jpeg
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ Koronavirüs salgını sonrasında kullanıcı sayısında çok ciddi bir artı�
 
 Zoom sözcüsü, yaptığı açıklamada hesabın ‘yerel yasalara uymak’ için devre dışı bırakıldığını söyledi. Sözcü açıkça ifade etmese de, bunun nedeninin Çin’den toplantıya katılan kullanıcıların, Çin’in yetki alanına girmesi olduğu düşünülüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/zoom-cin-ile-iliskili-bir-sirket-mi.jpg)<figcaption>Zoom’un Çin’le olan ilişkisini eleştiren bir illüstrasyon</figcaption></figure>Sözcü, “Her küresel şirket gibi, faaliyet gösterdiğimiz ülkelerde geçerli yasalar uymalıyız. Farklı ülkelerde bir toplantı yapıldığında bu ülkelerdeki katılımcıların kendi yerel yasalarına uymaları gerekir. Eylemleri sınırlamayı hedefliyoruz.” şeklinde sözlerini sürdürdü.
+<figure class="wp-block-image size-large">![](images/zoom-cin-ile-iliskili-bir-sirket-mi.jpg)<figcaption>Zoom’un Çin’le olan ilişkisini eleştiren bir illüstrasyon</figcaption></figure>Sözcü, “Her küresel şirket gibi, faaliyet gösterdiğimiz ülkelerde geçerli yasalar uymalıyız. Farklı ülkelerde bir toplantı yapıldığında bu ülkelerdeki katılımcıların kendi yerel yasalarına uymaları gerekir. Eylemleri sınırlamayı hedefliyoruz.” şeklinde sözlerini sürdürdü.
 
 ## Hesap yeniden etkinleştirildi
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6489'
 permalink: /tinder-uygulama-icinde-goruntulu-sohbet-baslatacak/
 post_views_count:
     - '72'
-image: /wp-content/uploads/2020/05/tinder-uygulama-icinde-goruntulu-sohbet-baslatacak.png
+image: images/tinder-uygulama-icinde-goruntulu-sohbet-baslatacak.png
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Yıllardır yalnızca metin tabanlı bir mesajlaşma sunan **Tinder**, taciz ve 
 
 ## Uygulamanın popülerliği, tüm zamanların en yüksek seviyesinde
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tinder-kullanici-sayisi-ne-kadar-artti.jpeg)</figure>Match, bu özelliğin yanı sıra şirketin koronavirüs sürecindeki performansına ilişkin bilgiler de sundu. Tinder kullanımında ciddi bir artış olduğunu belirten **Match**, **Tinder** “kaydırmalarında” tüm zamanların en yüksek seviyesine ulaşıldığını söyledi.
+<figure class="wp-block-image size-large">![](images/tinder-kullanici-sayisi-ne-kadar-artti.jpeg)</figure>Match, bu özelliğin yanı sıra şirketin koronavirüs sürecindeki performansına ilişkin bilgiler de sundu. Tinder kullanımında ciddi bir artış olduğunu belirten **Match**, **Tinder** “kaydırmalarında” tüm zamanların en yüksek seviyesine ulaşıldığını söyledi.
 
 Şirket, 30 yaşın altındaki kadınların günlük Tinder kullanım oranının yüzde 37 arttığını söyledi. Bunun dışında Hinge, [match.com](http://match.com) ve OkCupid gibi diğer ürünlerde de toplamda görülen günlük mesaj sayısı, Nisan ayında, önceki aylara göre yüzde 27 arttı.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5533'
 permalink: /youtubedan-kobiler-icin-video-olusturma-araci-youtube-video-builder/
 post_views_count:
     - '73'
-image: /wp-content/uploads/2020/04/youtube-dan-kobi-ler-icin-video-olusturma-araci-youtube-video-builder.png
+image: images/youtube-dan-kobi-ler-icin-video-olusturma-araci-youtube-video-builder.png
 categories:
     - Genel
 tags:
@@ -28,7 +28,7 @@ Youtube’un reklam departmanında ürün yöneticisi olarak çalışan Ali Mill
 
 ## Video Builder’ı nasıl kullanabilirsiniz?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/youtube-video-builder-nasil-kullanilir.png)</figure>İşletmeniz için **Youtube Video Builder**’ı kullanmak istiyorsanız öncelikle bir Google hesabına sahip olmanız gerekli. Araçla oluşturduğunuz videoyu yayınlama sürecinde ise Youtube kanalınız olması gerekiyor. Google hesabınız yoksa, mevcut bir eposta hesabınızı Google hesabına bağlama şansınız var.
+<figure class="wp-block-image size-large">![](images/youtube-video-builder-nasil-kullanilir.png)</figure>İşletmeniz için **Youtube Video Builder**’ı kullanmak istiyorsanız öncelikle bir Google hesabına sahip olmanız gerekli. Araçla oluşturduğunuz videoyu yayınlama sürecinde ise Youtube kanalınız olması gerekiyor. Google hesabınız yoksa, mevcut bir eposta hesabınızı Google hesabına bağlama şansınız var.
 
 Google, yaptığı açıklamada beta sürümü için başvuru formunu doldurarak talep gönderilebiliyor. Forma kısa süre içinde yanıt verileceği aktarılıyor.
 

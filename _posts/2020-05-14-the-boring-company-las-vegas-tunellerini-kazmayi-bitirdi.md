@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6907'
 permalink: /the-boring-company-las-vegas-tunellerini-kazmayi-bitirdi/
 post_views_count:
     - '63'
-image: /wp-content/uploads/2020/05/the-boring-company-las-vegas-tunellerini-kazmayi-bitirdi.png
+image: images/the-boring-company-las-vegas-tunellerini-kazmayi-bitirdi.png
 categories:
     - Genel
 tags:
@@ -22,6 +22,6 @@ Elon Musk’ın kurucusu olduğu sondaj şirketi **The Boring Company**, Las Veg
 
 Proje tamamlandığında, Kaliforniya’da SpaceX merkezinin yanındaki test tünelinin ardından, Boring Company’nin ilk ticari işi olacak. **Las Vegas**’ta tamamlanmakta olan döngünün, saatte 4 binin üzerinde insanın ulaşımını sağlaması bekleniyor. Normalde, kampüsün içinde 15 dakikadan fazla süren bir yürüyüş, **The** **Boring Company** loop’ları ile, iki dakikadan kısa süren bir yolculuğa dönüşüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/boring-company-las-vegas-tuneli-nasil-gorunecek.jpg)</figure>Las Vegas Kongre ve Ziyaretçi Kurumu CEO’su Steve Hill, The Boring Company’nin döngüsü ve işleyecek süreçle ilgili konuştu. Hill, tünellerde yer alacak tramvay benzeri araçların, 12 ile 16 arasında yolcu alabileceğini söyledi. Araçların, kanalı tünellere yerleştirilen sensörler aracılığı ile takip edeceğini söyledi ve otonom araç olarak görülse de, aslında kontrollü ve şoförlü bir ulaşım olacağını aktardı. Hill, “Araçların kendilerini sürmesine izin vermenin güvenli olduğunu bildiğimiz noktaya geldiğimizde”, otonom sürüş için adım atılacağını aktardı.
+<figure class="wp-block-image size-large">![](images/boring-company-las-vegas-tuneli-nasil-gorunecek.jpg)</figure>Las Vegas Kongre ve Ziyaretçi Kurumu CEO’su Steve Hill, The Boring Company’nin döngüsü ve işleyecek süreçle ilgili konuştu. Hill, tünellerde yer alacak tramvay benzeri araçların, 12 ile 16 arasında yolcu alabileceğini söyledi. Araçların, kanalı tünellere yerleştirilen sensörler aracılığı ile takip edeceğini söyledi ve otonom araç olarak görülse de, aslında kontrollü ve şoförlü bir ulaşım olacağını aktardı. Hill, “Araçların kendilerini sürmesine izin vermenin güvenli olduğunu bildiğimiz noktaya geldiğimizde”, otonom sürüş için adım atılacağını aktardı.
 
 Projenin koronavirüs salgınından etkilenmediği aktarılırken, **2021 Tüketici Elektroniği Fuarı** (CES) ertelense dahi, The Boring Company’nin tanıtım için bir sonraki etkinliği bekleyeceği aktarıldı.

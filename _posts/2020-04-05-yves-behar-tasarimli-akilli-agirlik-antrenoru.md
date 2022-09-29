@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/Yves-Behar-Tasarımlı-Akıllı-Ağırlık-Antrenörü.png
+image: images/yves-behar-tasarimli-akilli-agirlik-antrenoru.png
 categories:
     - Genel
 tags:
@@ -28,7 +28,7 @@ Bulunduğumuz sosyal izolasyon döneminde pek çok insan kendi kendine evde spor
 
 **Forme**, ağırlığı simüle etmek için gizli bir direnç sistemi kullanıyor. Böylece çeşitli ağırlıklarda çeşitli açılardan itme, çekme ve kaldırma egzersizleri yapılabiliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/forme_connected_training_machine.jpg)</figure>Makine birkaç egzersiz olanağı sunuyor. Bunlar arasında **kardiyo**, **vücut ağırlığı antrenmanları**, barre ve **yoga** yer alıyor. Fitness seviyenize en uygun ağırlıkları otomatik olarak ayarlıyor. Şirket henüz aynanın destekleyebileceği maksimum ağırlığı belirtmedi. Kullanılmadığında, kollar ekranın arkasına diğer aksesuarlarla birlikte bir bölmede gizlenebiliyor. Daha fazla hareket çeşidi için ayak bileği kayışları, kalp atış hızı monitörü gibi birkaç aksesuar daha eklenmesi bekleniyor.
+<figure class="wp-block-image size-large">![](images/forme_connected_training_machine.jpg)</figure>Makine birkaç egzersiz olanağı sunuyor. Bunlar arasında **kardiyo**, **vücut ağırlığı antrenmanları**, barre ve **yoga** yer alıyor. Fitness seviyenize en uygun ağırlıkları otomatik olarak ayarlıyor. Şirket henüz aynanın destekleyebileceği maksimum ağırlığı belirtmedi. Kullanılmadığında, kollar ekranın arkasına diğer aksesuarlarla birlikte bir bölmede gizlenebiliyor. Daha fazla hareket çeşidi için ayak bileği kayışları, kalp atış hızı monitörü gibi birkaç aksesuar daha eklenmesi bekleniyor.
 
 Daha tamamlanmayan alet için şirket, ekranındaki eğitmenlerin mümkün olduğunca normal boyda olacağını, böylece evde çalışanların formlarını ölçebileceğini söylüyor. Bu özelliğiyle Forme, kullanıcı hareketlerini izlemek üzere Microsoft’un Azure Kinect’ini kullanan başka bir fitness makinesi olan Tempo’ya benziyor.
 

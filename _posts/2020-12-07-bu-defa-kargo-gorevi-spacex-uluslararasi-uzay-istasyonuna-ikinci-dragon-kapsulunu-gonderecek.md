@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9946'
 permalink: /bu-defa-kargo-gorevi-spacex-uluslararasi-uzay-istasyonuna-ikinci-dragon-kapsulunu-gonderecek/
 post_views_count:
     - '35'
-image: /wp-content/uploads/2020/12/space-x-uluslararasi-uzay-istasyonuna-ikinci-dragon-aracini-gonderecek.jpg
+image: images/space-x-uluslararasi-uzay-istasyonuna-ikinci-dragon-aracini-gonderecek.jpg
 categories:
     - Uzay
 tags:
@@ -27,6 +27,6 @@ ISS’e daha önce iki defa Dragon kapsülünü gönderen SpaceX, kargo taşıma
 
 SpaceX esasen ISS’e ilk defa kargo teslimatı yapmıyor. Daha önce ISS’in ikmal görevleri için 20 kere kullanılan orijinal Dragon kapsülü, sadece ekipman teslimatı için gönderiliyordu. **Crew** **Dragon** ise, mürettebat da taşıyabilen ve daha önce tarihe geçmiş görevleri, dünya tarafından bilinen bir kapsül.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/crew-dragon-nedir.jpg)</figure>Bu yılın Mayıs ayında 2 NASA astronotunu İstasyon’a götürmeyi başaran Crew Dragon, eski kapsülün yerine geliştirildi. Yeni Dragon 2 olarak da bilinen kapsül, hem ekipman hem de mürettebat taşıyabiliyor.
+<figure class="wp-block-image size-large">![](images/crew-dragon-nedir.jpg)</figure>Bu yılın Mayıs ayında 2 NASA astronotunu İstasyon’a götürmeyi başaran Crew Dragon, eski kapsülün yerine geliştirildi. Yeni Dragon 2 olarak da bilinen kapsül, hem ekipman hem de mürettebat taşıyabiliyor.
 
 SpaceX’e göre **Dragon** **kapsülü**, eski modele kıyasla yüzde 50 daha fazla yük taşıyabiliyor. Buna ek olarak araç, istasyona otomatik olarak kenetlenebiliyor. Önceki model, bir robotik kol yardımı ile astronotların müdahalesiyle istasyonla kenetlenebiliyordu.

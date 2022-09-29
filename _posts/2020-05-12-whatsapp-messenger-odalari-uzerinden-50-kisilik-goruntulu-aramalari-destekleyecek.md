@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6796'
 permalink: /whatsapp-messenger-odalari-uzerinden-50-kisilik-goruntulu-aramalari-destekleyecek/
 post_views_count:
     - '78'
-image: /wp-content/uploads/2020/05/whatsapp-messenger-odalari-uzerinden-50-kisilik-goruntulu-aramalari-destekleyecek.jpg
+image: images/whatsapp-messenger-odalari-uzerinden-50-kisilik-goruntulu-aramalari-destekleyecek.jpg
 categories:
     - Genel
 tags:
@@ -20,7 +20,7 @@ tags:
 
 ## Whatsapp’ın 8 kişilik sınırı, Messenger’da 50 kişi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/facebook-messenger-goruntulu-video-chat-grup-konusmasi.png)</figure>**Zoom’un** başını çektiği görüntülü konuşma uygulamalarının yükselişe geçmesi ile, tüm mesajlaşma uygulamaları bu alanda bir güncelleme yapmış ve katılımcı sayısını artırmıştı. Whatsapp, kısa bir süre öncesine kadar video görüşmelerinde 8 kişilik bir sınıra sahipti. Facebook Messenger ise 50 kişiye kadar görüntülü konuşma desteği verebiliyor. WABetaInfo, Whatsapp’ın web sürümünde, **Messenger** **Rooms’a** bir bağlantı keşfetti. Bu da, Facebook’un **Whatsapp** ile **Messenger** arasında bir entegrasyon üzerinde çalıştığını gösteren bir kanıt.
+<figure class="wp-block-image size-large">![](images/facebook-messenger-goruntulu-video-chat-grup-konusmasi.png)</figure>**Zoom’un** başını çektiği görüntülü konuşma uygulamalarının yükselişe geçmesi ile, tüm mesajlaşma uygulamaları bu alanda bir güncelleme yapmış ve katılımcı sayısını artırmıştı. Whatsapp, kısa bir süre öncesine kadar video görüşmelerinde 8 kişilik bir sınıra sahipti. Facebook Messenger ise 50 kişiye kadar görüntülü konuşma desteği verebiliyor. WABetaInfo, Whatsapp’ın web sürümünde, **Messenger** **Rooms’a** bir bağlantı keşfetti. Bu da, Facebook’un **Whatsapp** ile **Messenger** arasında bir entegrasyon üzerinde çalıştığını gösteren bir kanıt.
 
 Kısayol şu anda hem mobil menüde hem de web sürümünün ana menüsünde yer alıyor. Whatsapp kullanıcıları, kısayola tıkladıktan sonra anında Messenger odalarına yönlendirileceklerini ifade eden bir uyarı alacak. Ancak Messenger çağrıları, Whatsapp çağrıları gibi uçtan uca şifreleme modeline sahip değil.
 

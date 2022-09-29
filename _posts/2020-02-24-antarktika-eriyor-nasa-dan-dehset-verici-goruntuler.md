@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/antarktika-nasa-buzul-erime-eagle-island-kartal-adasi.jpg
+image: images/antarktika-nasa-buzul-erime-eagle-island-kartal-adasi.jpg
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ Antarktika en sıcak yazını yaşıyor. Geçtiğimiz günlerde hava sıcaklığ
 
 Tatlı su ihtiyacının yüzde 70’ini buzul olarak barındıran Antarktika’daki erime hızla devam ediyor. Bu gidişle yakında deniz seviyesinin yarım metre artması muhtemel gözüküyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/1_5807.jpg)<figcaption>Sol tarafta 4 Şubat tarihinde, sağ tarafta 13 Şubat tarihinde kaydedilen uydu görüntüsü</figcaption></figure>Eagle Adası’nı gözlemleyen **NASA**, erimenin boyutunu bölgedeki değişim uyduları tarafından görüntüledi. NASA tarafından yayınlanan fotoğraflarda tehlike çanlarının artık daha yüksek sesle çaldığı görülüyor.
+<figure class="wp-block-image size-large">![](images/1_5807.jpg)<figcaption>Sol tarafta 4 Şubat tarihinde, sağ tarafta 13 Şubat tarihinde kaydedilen uydu görüntüsü</figcaption></figure>Eagle Adası’nı gözlemleyen **NASA**, erimenin boyutunu bölgedeki değişim uyduları tarafından görüntüledi. NASA tarafından yayınlanan fotoğraflarda tehlike çanlarının artık daha yüksek sesle çaldığı görülüyor.
 
 **Nichols College**‘da buzul bilimci olan **Mauri Pelto** tarafından yapılan açıklamada Antarktika’da erimelerden kaynaklı gölet oluşumunun daha önce görülmediği belirtildi. Ayrıca erimenin Antarktika’daki hava durumundan kaynaklandığı ve şu anki hava durumun normal seyrinde olmadığı ifade edildi.
 

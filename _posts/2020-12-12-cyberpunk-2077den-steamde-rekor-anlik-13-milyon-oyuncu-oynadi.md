@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10000'
 permalink: /cyberpunk-2077den-steamde-rekor-anlik-13-milyon-oyuncu-oynadi/
 post_views_count:
     - '49'
-image: /wp-content/uploads/2020/12/cyberpunk-2077-den-steam-de-rekor-anlik-1-3-milyon-kisi-oynadi.jpg
+image: images/cyberpunk-2077-den-steam-de-rekor-anlik-1-3-milyon-kisi-oynadi.jpg
 categories:
     - Oyun
 tags:

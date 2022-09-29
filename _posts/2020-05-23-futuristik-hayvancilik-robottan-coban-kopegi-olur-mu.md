@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7449'
 permalink: /futuristik-hayvancilik-robottan-coban-kopegi-olur-mu/
 post_views_count:
     - '78'
-image: /wp-content/uploads/2020/05/futuristik-hayvancilik-robottan-coban-kopegi-olur-mu.png
+image: images/futuristik-hayvancilik-robottan-coban-kopegi-olur-mu.png
 categories:
     - Genel
 tags:
@@ -21,6 +21,6 @@ Yeni Zelanda’da **Rocos** adlı firma, robotların uzaktan kontrol edilmesi i�
 
 **Rocos** ve **Boston** **Dynamics’in** yayınladığı video, Spot’un çoban köpeklerinin yerini alması iddiasından ziyade, eğlenceli bir yöne de sahip olduğu kesin. Ancak gören herkesin aklına, bu ve bunun gibi bazı konularda robotlar görev alsaydı, neler olurdu sorusu geliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tarim-ve-hayvancilikta-robotlar.png)</figure>Bu durumla ilgili, bir dönem çobanlık yapmış yazar **James** **Rebanks**, robotların asla köpeklerin yerini alamayacağını söyledi. Robotların, böyle bir iş için gerekli motor becerilere asla sahip olamayacaklarını söyleyen Rebanks, koyun ve köpekler arasındaki ilişkinin evrimsel geçmişe dayandığını ve koyunların sahip olduğu zeka ile, robotları bir hafta içerisinde çözerek onları dikkate almayacaklarını söyledi.
+<figure class="wp-block-image size-large">![](images/tarim-ve-hayvancilikta-robotlar.png)</figure>Bu durumla ilgili, bir dönem çobanlık yapmış yazar **James** **Rebanks**, robotların asla köpeklerin yerini alamayacağını söyledi. Robotların, böyle bir iş için gerekli motor becerilere asla sahip olamayacaklarını söyleyen Rebanks, koyun ve köpekler arasındaki ilişkinin evrimsel geçmişe dayandığını ve koyunların sahip olduğu zeka ile, robotları bir hafta içerisinde çözerek onları dikkate almayacaklarını söyledi.
 
 Tabii ki ortaya çıkan video, Boston Dynamics ve Rocos’un, robotlarını çoban köpeği olarak satma düşüncesinden dolayı popüler olmadı. Ancak hem hayvancılık hem de tarım için yenilikçi teknolojiler, tartışmaya açık. **Robot** ve **drone’lar** tarafından yapılan çiftçilik ve gıda üretiminin, daha çevre dostu ve sürdürülebilir olmadığını söyleyen James Rebanks, bir nevi teknoloji karşıtı cephede yer alarak, bu tip eylemlerin çiftlik işlerini mekanize etme ve basitleştirme çabalarının parçası olarak nitelendirdi…

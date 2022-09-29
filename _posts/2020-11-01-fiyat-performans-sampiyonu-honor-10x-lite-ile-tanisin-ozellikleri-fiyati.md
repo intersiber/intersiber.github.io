@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9463'
 permalink: /fiyat-performans-sampiyonu-honor-10x-lite-ile-tanisin-ozellikleri-fiyati/
 post_views_count:
     - '49'
-image: /wp-content/uploads/2020/11/fiyat-performans-sampiyonu-honor-10x-lite-fiyati-ozellikleri.png
+image: images/fiyat-performans-sampiyonu-honor-10x-lite-fiyati-ozellikleri.png
 categories:
     - Mobil
 tags:
@@ -36,7 +36,7 @@ Honor, Huawei’nin bir alt markası olarak konumlandı ve fiyat/performans şam
 - Kirin 710 çip seti
 - 128 GB dahili depolama
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/honor-10x-lite-kamera-ozellikleri.jpg)</figure>## Honor 10X Lite fiyatı ne olacak?
+<figure class="wp-block-image size-large">![](images/honor-10x-lite-kamera-ozellikleri.jpg)</figure>## Honor 10X Lite fiyatı ne olacak?
 
 **Honor** **10X** **Lite**, harika özellikler barındıran bir telefon. Ancak bu model, sunduğu bu avantajlara karşın uygun **fiyatı**yla da şaşırtıyor. Honor 10X’in Türkiye satış fiyatının 1700 TL ile 1800 TL arasında olması bekleniyor.
 

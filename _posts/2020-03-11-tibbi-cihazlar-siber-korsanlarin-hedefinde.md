@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/mri.jpg
+image: images/mri.jpg
 categories:
     - Güvenlik
 tags:
@@ -29,7 +29,7 @@ Bazı röntgen, CAT tarama ve MRI makineleri **Windows 7** ve **Windows XP** iş
 
 Siber güvenlik şirketi **Palo Alto Networks** tarafından Salı günü yayınlanan araştırmaya göre , hastanelerde internete bağlı görüntüleme cihazlarının büyük bir kısmı eski işletim sistemleri kullanıyor. Şirket, bu cihazların %83’ünün bilgisayar korsanlarının yararlanabileceği güvenlik açıklarını içerdiğini ve güncel olmayan yazılımlarda çalıştığını buldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/mri1.jpeg)</figure>İstatistikler, 2018’den bu yana önemli ölçüde artış gösterdi. **Microsoft Windows 7** için bu yılın başlarında desteği kesti. Microsoft’un 2014’te desteklemeyi bıraktığı **Windows XP** de dahil olmak üzere önemli sayıda medikal cihaz güncel olmayan eski işletim sistemlerini çalıştırıyor. Görüntüleme cihazları arasında X-ışınları, MRI’lar, Mamogramlar ve CAT taramaları alan makineler bulunuyor.
+<figure class="wp-block-image size-large">![](images/mri1.jpeg)</figure>İstatistikler, 2018’den bu yana önemli ölçüde artış gösterdi. **Microsoft Windows 7** için bu yılın başlarında desteği kesti. Microsoft’un 2014’te desteklemeyi bıraktığı **Windows XP** de dahil olmak üzere önemli sayıda medikal cihaz güncel olmayan eski işletim sistemlerini çalıştırıyor. Görüntüleme cihazları arasında X-ışınları, MRI’lar, Mamogramlar ve CAT taramaları alan makineler bulunuyor.
 
 ## Tıbbi cihazlar nasıl hackleniyor?
 

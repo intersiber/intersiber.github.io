@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/google-pixel-kullanicilari-yeni-guncelleme-sonrasi-sorun-yasiyor.jpg
+image: images/google-pixel-kullanicilari-yeni-guncelleme-sonrasi-sorun-yasiyor.jpg
 categories:
     - Mobil
 tags:
@@ -26,6 +26,6 @@ tags:
 
 Bazı Google Pixel 3A kullanıcıları, cihazlarda yaşanan sorunların sadece bununla sınırlı olmadığını, cihazlarının eskisine göre daha fazla hata vermeye başladığını paylaştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/google-pixel-2.jpg)</figure>Google’dan yapılan son açıklamada ise şirketin bu durumla ilgili bilgisinin olduğu, mühendislerin Google Pixel kullanıcıları için yeni güncelleme üzerinde sorunları giderebilmek için çalışmalarına devam ettikleri açıklandı.
+<figure class="wp-block-image size-large">![](images/google-pixel-2.jpg)</figure>Google’dan yapılan son açıklamada ise şirketin bu durumla ilgili bilgisinin olduğu, mühendislerin Google Pixel kullanıcıları için yeni güncelleme üzerinde sorunları giderebilmek için çalışmalarına devam ettikleri açıklandı.
 
 \*Cihazların fabrika ayarlarına geri döndürülmesi Google tarafından bu sorunu yaşayan kullanıcılara önerilmiyor.

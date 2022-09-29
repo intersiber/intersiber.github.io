@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8041'
 permalink: /appledan-abdde-yasanan-yagmada-iphone-calanlara-surpriz-mesaj-lutfen-telefonu-geri-getirin/
 post_views_count:
     - '74'
-image: /wp-content/uploads/2020/06/apple-dan-abd-de-yasanan-yagmada-iphone-calanlara-surpriz-mesaj.jpg
+image: images/apple-dan-abd-de-yasanan-yagmada-iphone-calanlara-surpriz-mesaj.jpg
 categories:
     - Apple
 tags:
@@ -20,6 +20,6 @@ tags:
 
 Bir protestocunun paylaşımında, Apple’ın çalınan **iPhone’lar** için bir mesaj gönderdiği görülüyor. Sosyal medyada paylaşılan mesajda “Lütfen Apple Walnut Street’e geri dönün” ifadesi yer alıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-abd-de-iphone-calan-protestoculara-uyari-gonderdi.png)</figure>## Apple çalınan telefonları takip ediyor
+<figure class="wp-block-image size-large">![](images/apple-abd-de-iphone-calan-protestoculara-uyari-gonderdi.png)</figure>## Apple çalınan telefonları takip ediyor
 
 Çalınan telefonların seri numarasını bilen şirket, tüm telefonları takip ediyor ve cihazın devre dışı bırakılarak, takip edildiğini çalan kişilere de uyarı mesajı ile gösterdi. Apple, göstericilere konuyla ilgili yetkililere bilgi verildiğini de aktardı. Olayların devamında, mağaza yağmalayanlar için Apple artık zor bir hedef olacak gibi görünüyor.

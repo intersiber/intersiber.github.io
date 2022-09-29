@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/linkedin-hikayeler-ozelligi-geliyor.png
+image: images/linkedin-hikayeler-ozelligi-geliyor.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -27,7 +27,7 @@ Dünyanın en popüler iş ağı **LinkedIn**‘e hikaye özelliği geliyor. Ins
 
 İş bulma konusunda birçok avantaj sağlayan Linkedln hikaye özelliğini duyurdu. Bu hikaye özelliği ile insanların kısa sürede iş bulmasının önünün açılacağı belirtildi. İş bulma konusunda görsel tanıtımları amaçlayan LinkedIn hikayelerin işleyiş mantığı Instagram’a benzeyecek.
 
-<figure class="wp-block-image">![](https://intersiber.com/wp-content/uploads/2020/03/LinkedIn’a-Hikaye-Özelliği-Geliyor-3.png)</figure>## Hikayeler etkileşimi artıracak
+<figure class="wp-block-image">![](images/LinkedIn’a-Hikaye-Özelliği-Geliyor-3.png)</figure>## Hikayeler etkileşimi artıracak
 
 Kısa süre içerisinde istediğiniz mesleğe kavuşmak için yapmanız gereken birkaç adım var. En önemli aşamaların başında CV hazırlamak geliyor. Tüm firmalar işe alacakları kişilerin ilk olarak CV’lerine bakıyor. **CV** içerisinde ne kadar fazla bilgi varsa iş bulma ihtimaliniz o kadar yükselmekte.
 

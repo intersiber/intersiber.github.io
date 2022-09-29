@@ -10,7 +10,7 @@ spay_email:
     - ''
 post_views_count:
     - '100'
-image: /wp-content/uploads/2020/06/telegram-dan-yeni-ozellikler-video-duzenleme-araci-gifler-icin-trend-listesi.jpeg
+image: images/telegram-dan-yeni-ozellikler-video-duzenleme-araci-gifler-icin-trend-listesi.jpeg
 categories:
     - Genel
 tags:
@@ -23,6 +23,6 @@ Güncellemede, videoyu düzenlerken parlaklık ya da doygunluk gibi farklı tekn
 
 ## En popüler GIF’lerin yer aldığı bir trend listesi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/telegram-ozellikleri.jpg)</figure>Telegram’da çıkartmalar uzun bir süredir kullanılıyor. Ancak şimdi, çıkartmaları istediğiniz fotoğraf ve videoda kullanmanız mümkün. GIF’lere erişilebilen emoji tabanlı kısımda ayrıca, uygulamadaki en popüler GIF’leri görebileceğiniz bir trend bölümü de var.
+<figure class="wp-block-image size-large">![](images/telegram-ozellikleri.jpg)</figure>Telegram’da çıkartmalar uzun bir süredir kullanılıyor. Ancak şimdi, çıkartmaları istediğiniz fotoğraf ve videoda kullanmanız mümkün. GIF’lere erişilebilen emoji tabanlı kısımda ayrıca, uygulamadaki en popüler GIF’leri görebileceğiniz bir trend bölümü de var.
 
 Nisan ayında **400** **milyon** aktif kullanıcıya ulaştığını açıklayan Telegram, önemli bir kilometre taşını geride bırakmayı başardı. 20 bin çıkartma içeren bir dizin yayınlayan mesajlaşma uygulaması, bu yıl içinde üzerinde çalıştığı güvenli grup video görüşmelerini de yayınlayacağını duyurdu.

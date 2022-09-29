@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9376'
 permalink: /oneplus-8t-rekoru-ilk-60-saniyede-120-milyon-liralik-telefon-satildi/
 post_views_count:
     - '62'
-image: /wp-content/uploads/2020/10/oneplus-8t-rekoru-ilk-60-saniyede-120-milyon-liralik-telefon-satildi.png
+image: images/oneplus-8t-rekoru-ilk-60-saniyede-120-milyon-liralik-telefon-satildi.png
 categories:
     - Mobil
 tags:

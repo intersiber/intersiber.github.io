@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9368'
 permalink: /android-tvye-oyun-ve-uygulama-nasil-yuklenir/
 post_views_count:
     - '129'
-image: /wp-content/uploads/2020/10/android-tv-ye-oyun-ve-uygulama-nasil-yuklenir.png
+image: images/android-tv-ye-oyun-ve-uygulama-nasil-yuklenir.png
 categories:
     - 'Ne Nasıl?'
 tags:
@@ -33,7 +33,7 @@ Hepsi bu kadar. Artık uygulamayı Android TV ana ekranınızda istediğiniz zam
 
 ## Android TV’den uygulama kaldırma
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/android-tv-uygulamalari-1600x900.jpg)</figure>İndirdiğiniz bir uygulamayı artık kullanmıyorsanız, depolama alanında biraz yer almak için uygulamayı Android TV’de kaldırabilirsiniz. Bu işlem kolaydır ve doğrudan Android TV ana ekranından yapılabilir.
+<figure class="wp-block-image size-large">![](images/android-tv-uygulamalari-1600x900.jpg)</figure>İndirdiğiniz bir uygulamayı artık kullanmıyorsanız, depolama alanında biraz yer almak için uygulamayı Android TV’de kaldırabilirsiniz. Bu işlem kolaydır ve doğrudan Android TV ana ekranından yapılabilir.
 
 - Soldaki “Uygulamalar”ı seçmek için, uzaktan kumandanızı kulllanın.
 - Kaldırmak istediğiniz oyun ya da uygulamanın üzerine gelin.

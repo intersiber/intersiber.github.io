@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/google-pixel-3.png
+image: images/google-pixel-3.png
 categories:
     - Mobil
 tags:
@@ -28,6 +28,6 @@ Google, ABD ve bazı ülkelerde kendi sitesi üzerinden satışa sunduğu **Pixe
 
 Bazılarına göre yeni modellerin satışının daha fazla arttırılması, bazılarına göre ise Pixel 3 modellerinin üretiminin durdurulmuş veya azaltılmış olması nedeniyle bu kararın alınmış olabileceğinden söz ediliyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/google-pixel-3-akilli-telefon.jpg)</figure>ABD’de Pixel modelleri son derece fazla ilgi çekerken, Pixel 4 modellerinin bu sene satış rakamlarının beklendiği kadar iyi olamayabileceği düşüncesi hakim. Tüm dünyada kullanıcılar tarafından merakla beklenen yeni Pixel serisinin ne zaman tanılacağı henüz belli değil.
+<figure class="wp-block-image size-full">![](images/google-pixel-3-akilli-telefon.jpg)</figure>ABD’de Pixel modelleri son derece fazla ilgi çekerken, Pixel 4 modellerinin bu sene satış rakamlarının beklendiği kadar iyi olamayabileceği düşüncesi hakim. Tüm dünyada kullanıcılar tarafından merakla beklenen yeni Pixel serisinin ne zaman tanılacağı henüz belli değil.
 
 Bu yılki [Google I/O](https://intersiber.com/google-i-o-koronavirus-nedeniyle-iptal-edildi/) konferansında tanıtılması beklenen yeni Pixel serisi, etkinliğin koronavirüs salgını sebebiyle iptal edilmesi sonrasında hakkındaki soru işaretlerini korumaya devam ediyor.

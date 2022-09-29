@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=715'
 permalink: /dunya-genelindeki-ddos-saldirisi-sebebiyle-erisim-sorunlari-yasaniyor/
 post_views_count:
     - '1437'
-image: /wp-content/uploads/2016/10/network.jpg
+image: images/network.jpg
 categories:
     - Genel
     - Güvenlik
@@ -28,7 +28,7 @@ tags:
 
 21 Ekim’de başlayan DDOS saldırıları sonucunda aralarında Reddit, Twitter, Spotify, Amazon ve Netflix’in de bulunduğu bir çok servise erişim kısmen veya tamamen durdu. Saldırıyla ilgili henüz resmi bir kanaldan açıklama gelmedi. Saldırı hedefi olarak seçilense bizzat uygulama sunucuları değil dns sunucuları oldu. DNS sunucularında ağırlıklı olarak etkilenense DynDns sunucuları oldu. DNS hizmetinde önemli bir yere sahip olan DynDns yaptığı açıklamada özellikle Amerika Birleşik Devletlerinin doğu eyaletlerinin ciddi bir şekilde saldırıdan etkilendiğini, sorunun giderilmesi için çalıştıklarını iletti. DynDns ABD doğu kıyılarının etkilendiğini açıklasa da, dünya’nın bir çok bölgesinden ilgili hizmetlere erişim sağlanamadığı rapor edildi.
 
-![iot-devices](http://www.intersiber.com/wp-content/uploads/2016/10/iot-devices.jpg)
+![iot-devices](http://www.intersiber.comimages/iot-devices.jpg)
 
 Yapılan DDOS saldırılarında, standart şifreyle kullanıma sunulan IOT cihazların botnet olarak kullanıldığı neredeyse kesinleşti. Yaklaşık bir ay önce 1.5 milyon kameranın hacklendiği ve bu cihazların bir botnet haline getirildiği belirlenmişti. Bu saldırının da bu ve benzeri botnetler aracılığıyla gerçekleştirildiğini söylemek mümkün. IOT cihazların hemen her eve girdiği bir dönemde böyle bir saldırı ile yeni bir güvenlik zafiyeti de gündeme gelmiş oldu. Güvenlik zafiyetinin Twitter, Spotify gibi hizmetlerde veya ilgili hizmetlerin veri merkezlerinden kaynaklanmadığını belirtmekte fayda var.
 
@@ -38,7 +38,7 @@ Dünya devleri standart tek bir sunucu üzerinden hizmet vermezler. Esasında ku
 
 Saldırıyı kimin düzenlediği henüz net değil. Ancak doğrudan uygulama sunucularını hedef alarak hizmet dışı bırakamayacaklarını bilen saldırganlar, doğrudan uygulama sunucuları yerine DNS sunucularını hedef aldılar.
 
-![dns_nasil](http://www.intersiber.com/wp-content/uploads/2016/10/dns_nasil.jpg)
+![dns_nasil](http://www.intersiber.comimages/dns_nasil.jpg)
 
 Bu sayede kullanıcılar ilgili DNS sunucusularından DNS çözümlemesini alamadığı için dolaylı yoldan ilgili servise ulaşamadılar. DNS sunucuları aynı anda çok fazla sayıda sorguya cevap verebilecek kapasitede olmasına rağmen yapılan saldırı dünyanın farklı bölgelerinden ve çok fazla sayıda istemciden gerçekleştiği için hizmet dışı kaldı.
 

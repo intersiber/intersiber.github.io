@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6637'
 permalink: /elon-musk-yeni-tesla-roadster-yolda-ancak-cybertruck-daha-once-gelecek/
 post_views_count:
     - '73'
-image: /wp-content/uploads/2020/05/tesla-roadster-yolda-ancak-cybertruck-daha-once-gelecek-scaled.jpg
+image: images/tesla-roadster-yolda-ancak-cybertruck-daha-once-gelecek-scaled.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -27,7 +27,7 @@ Musk, yayında kendisine ‘Ne zaman bir **Roadster** satın alabileceğiz’ so
 
 Musk, Roadster’ın Cybertruck’tan önce gelip gelmeyeceği ile ilgili soruya ise, “Sanırım Roadster’den önce **Cybertruck’ı** yapmalıyız” yanıtını verdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-cybertruck.jpg)</figure>**Roadster**, **Tesla** tarafından 2017 yılında duyuruldu. 1,9 saniye içerisinde saatte 60 mil, yani 96,5 kilometre hıza çıkacağı belirtilen modelin, 250 mil azami hıza sahip olacağı belirtildi. Bunun yanı sıra 620 mil menzile sahip olması beklenen model, 200 bin dolar **başlangıç** **fiyatına** sahip olacak.
+<figure class="wp-block-image size-large">![](images/tesla-cybertruck.jpg)</figure>**Roadster**, **Tesla** tarafından 2017 yılında duyuruldu. 1,9 saniye içerisinde saatte 60 mil, yani 96,5 kilometre hıza çıkacağı belirtilen modelin, 250 mil azami hıza sahip olacağı belirtildi. Bunun yanı sıra 620 mil menzile sahip olması beklenen model, 200 bin dolar **başlangıç** **fiyatına** sahip olacak.
 
 Roadster, her ne kadar 2017’de tanıtılmış olsa da, piyasaya sürüleceği tarih 2020 olarak belirlenmişti. Elon Musk, 2019 yılında yaptığı açıklamada Model S’in öncelikli olarak üretileceğini ve Roadster’ın daha sonra üretim hattına geleceğini açıkladı. Ancak bunun ne zaman olacağı belli değil.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8518'
 permalink: /samsung-galaxy-watch-3-fotograflari-sizdi-hangi-ozellikleri-sunacak/
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/06/samsung-galaxy-watch-3-fotograflari-sizdi.png
+image: images/samsung-galaxy-watch-3-fotograflari-sizdi.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -19,7 +19,7 @@ tags:
 
 Samsung’un henüz tanıtımını yapmadığı akıllı saati **Galaxy** **Watch 3**’ün fotoğrafları internette sızdı. Güney Kore’nin NRS sertifikasyon sitesinde ortaya çıkan görüntüler, şirketin giyilebilir teknoloji alanındaki yeni amiral gemisi olacak model için fikir verdi. Fiziksel olarak dönen bir kadraj ve cihazın sağ tarafındaki iki düğme, dikkat çeken detaylardan oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/samsung-galaxy-watch-3-goruntuleri-sizdi.jpg)</figure>Modelin, **Android** işletim sistemli bir akıllı telefonunuz varsa, tercih edebileceğiniz en iyi akıllı saatlerden biri olan Galaxy Watch Active 2’yi takip etmesi bekleniyor.
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-watch-3-goruntuleri-sizdi.jpg)</figure>Modelin, **Android** işletim sistemli bir akıllı telefonunuz varsa, tercih edebileceğiniz en iyi akıllı saatlerden biri olan Galaxy Watch Active 2’yi takip etmesi bekleniyor.
 
 ## Hangi özellikleri sunacak?
 

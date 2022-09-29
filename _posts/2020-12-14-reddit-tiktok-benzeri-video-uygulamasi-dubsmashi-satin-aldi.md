@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10024'
 permalink: /reddit-tiktok-benzeri-video-uygulamasi-dubsmashi-satin-aldi/
 post_views_count:
     - '23'
-image: /wp-content/uploads/2020/12/reddit-tiktok-benzeri-video-uygulamasi-dubsmash-i-satin-aldi.png
+image: images/reddit-tiktok-benzeri-video-uygulamasi-dubsmash-i-satin-aldi.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -29,7 +29,7 @@ Gelen bilgiler, geliştiricilerin Reddit’te hikayeler ya da Instagram Reels be
 
 ## 1 milyardan fazla aylık görüntülemesi var
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/dubsmash-nedir.jpg)</figure>Dubsmash’ın verilerine gelirsek, platformun günlük aktif kullanıcı sayısı 50 milyonun üzerinde. Buna ek olarak Dubsmash, Ocak ayında 1 milyar içerik görüntülemenin üzerine çıktığını duyurmuştu. Ancak tabii ki, TikTok için Dubsmash şu anda ciddi bir rakip sayılmaz. TikTok’un sadece ABD’de aylık içerik görüntülenme sayısı 40 milyara yakın.
+<figure class="wp-block-image size-large">![](images/dubsmash-nedir.jpg)</figure>Dubsmash’ın verilerine gelirsek, platformun günlük aktif kullanıcı sayısı 50 milyonun üzerinde. Buna ek olarak Dubsmash, Ocak ayında 1 milyar içerik görüntülemenin üzerine çıktığını duyurmuştu. Ancak tabii ki, TikTok için Dubsmash şu anda ciddi bir rakip sayılmaz. TikTok’un sadece ABD’de aylık içerik görüntülenme sayısı 40 milyara yakın.
 
 Bu haberler de ilginizi çekebilir:
 

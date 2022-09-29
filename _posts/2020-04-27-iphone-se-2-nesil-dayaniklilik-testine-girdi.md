@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6073'
 permalink: /iphone-se-2-nesil-dayaniklilik-testine-girdi/
 post_views_count:
     - '118'
-image: /wp-content/uploads/2020/04/iphone-se-2-nesil-dayaniklilik-testine-girdi.jpg
+image: images/iphone-se-2-nesil-dayaniklilik-testine-girdi.jpg
 categories:
     - Genel
 ---

@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '138'
-image: /wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-5.jpg
+image: images/citroen-ami-elektrikli-arac-5.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -26,7 +26,7 @@ Citroen iki kişilik scooter-araba karışımı yeni elektrikli modelini tanıtt
 
 “Ami” isimli araç şehir içi ulaşımı sağlamak amacıyla tasarlandı. İki kişilik oldukça küçük bir araç olan Citroen Ami’yi kullanmak için ehliyet gerekmiyor. Yeni Citroen Ami, 2019’da temelleri atılan **Ami One Concept** modelinin biraz geliştirilmiş haline benziyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-6-1600x799.jpg)</figure>Tek şarjla **70 Km** yol gidebilen Citroen Ami, **5.5kWh**‘lık bir bataryaya sahip. Araç şarj için herhangi bir ekstra üniteye ihtiyaç duymuyor ve **220V** ile yaklaşık **3 saat**te rahatça şarj edilebiliyor.
+<figure class="wp-block-image size-large">![](images/citroen-ami-elektrikli-arac-6-1600x799.jpg)</figure>Tek şarjla **70 Km** yol gidebilen Citroen Ami, **5.5kWh**‘lık bir bataryaya sahip. Araç şarj için herhangi bir ekstra üniteye ihtiyaç duymuyor ve **220V** ile yaklaşık **3 saat**te rahatça şarj edilebiliyor.
 
 ## Aylık 22 $’a kiralanabilecek
 
@@ -36,9 +36,9 @@ Aracı doğrudan satın almak isteyenler için ise aracın fiyatı **6.600 $** o
 
 Citroen yeni elektrikli modeli Ami’yi ilk olarak **30 Mart**‘ta Fransa’da satışa sunacak. Ardından bir kaç ay içinde İspanya, İtalya, Belçika, Portekiz ve Almanya’da satışa sunulması bekleniyor.
 
-<figure class="wp-block-gallery columns-3 is-cropped">- <figure>[![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-1.jpg?fit=640%2C360&ssl=1)](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-1.jpg?fit=1920%2C1080&ssl=1)</figure>
-- <figure>[![](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-2.jpg?fit=640%2C360&ssl=1)](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-2.jpg?fit=1920%2C1080&ssl=1)</figure>
-- <figure>[![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-3.jpg?fit=640%2C322&ssl=1)](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-3.jpg?fit=1920%2C966&ssl=1)</figure>
-- <figure>[![](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-4.jpg?fit=640%2C414&ssl=1)](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/02/citroen-ami-elektrikli-arac-4.jpg?fit=1920%2C1243&ssl=1)</figure>
+<figure class="wp-block-gallery columns-3 is-cropped">- <figure>[![](https://i1.wp.com/intersiber.comimages/citroen-ami-elektrikli-arac-1.jpg?fit=640%2C360&ssl=1)](https://i1.wp.com/intersiber.comimages/citroen-ami-elektrikli-arac-1.jpg?fit=1920%2C1080&ssl=1)</figure>
+- <figure>[![](https://i2.wp.com/intersiber.comimages/citroen-ami-elektrikli-arac-2.jpg?fit=640%2C360&ssl=1)](https://i2.wp.com/intersiber.comimages/citroen-ami-elektrikli-arac-2.jpg?fit=1920%2C1080&ssl=1)</figure>
+- <figure>[![](https://i1.wp.com/intersiber.comimages/citroen-ami-elektrikli-arac-3.jpg?fit=640%2C322&ssl=1)](https://i1.wp.com/intersiber.comimages/citroen-ami-elektrikli-arac-3.jpg?fit=1920%2C966&ssl=1)</figure>
+- <figure>[![](https://i2.wp.com/intersiber.comimages/citroen-ami-elektrikli-arac-4.jpg?fit=640%2C414&ssl=1)](https://i2.wp.com/intersiber.comimages/citroen-ami-elektrikli-arac-4.jpg?fit=1920%2C1243&ssl=1)</figure>
 
 </figure>

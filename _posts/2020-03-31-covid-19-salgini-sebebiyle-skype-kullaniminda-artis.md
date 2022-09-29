@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Skype-2.jpg
+image: images/Skype-2.jpg
 categories:
     - Genel
 tags:
@@ -30,7 +30,7 @@ Microsoft’un yıllar yıllar önce satın aldığı **Skype** bugünlerde tüm
 
 Devlet kurumlarının bile çalışmaları azalttığı son aylarda dünyayı etkisi altına alan **COVID-19** koronavirüs salgını en çok Skype gibi video konferans uygulamalarının kullanım oranını artırdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Skype.jpg)</figure>The Verge’de yer alan habere göre yıllar içerisinde Microsoft’un satın almasından hemen sonra kullanım oranları dönem dönem değişen, tasarım ve kullanılabilirlik olarak büyük değişimler gösteren Skype’ın bundan sonra daha aktif kullanılabileceği tahmin ediliyor.
+<figure class="wp-block-image size-large">![](images/Skype.jpg)</figure>The Verge’de yer alan habere göre yıllar içerisinde Microsoft’un satın almasından hemen sonra kullanım oranları dönem dönem değişen, tasarım ve kullanılabilirlik olarak büyük değişimler gösteren Skype’ın bundan sonra daha aktif kullanılabileceği tahmin ediliyor.
 
 Özellikle FaceTime’ın sadece Apple cihazlarda kullanılabiliyor olması, Skype’ın ise tüm cihazlara yüklenebiliyor olması nedeniyle FaceTime’a göre çok daha fazla kullanıldığı belirtiliyor.
 

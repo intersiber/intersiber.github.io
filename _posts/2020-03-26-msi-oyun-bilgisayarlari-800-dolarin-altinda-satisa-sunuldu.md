@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/msi_laptop.jpg
+image: images/msi_laptop.jpg
 categories:
     - 'Dizüstü Bilgisayar'
 tags:
@@ -30,10 +30,10 @@ Tayvan asıllı elektronik şirketi **MSI** başta yüksek performanslı oyuncu 
 
 ##  MSI Alpha 15 
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/MS_-Alpha_15.jpg)</figure>Normalde 999$ olan **MSI Alpha 15** şimdi 200$ indirimle 799$ olarak satışta. 15.6 inç boyutunda, FreeSync destekli, 120 Hz veya 144 Hz IPS ekrana sahip Cooler Boost 5 teknolojisi ve Dynaudio Giant Speaker teknolojisi kullanılarak tasarlanan bu dizüstü bilgisayar ikinci nesil Ryzen 7 işlemciye, 8 GB veya 16 GB RAM’e, AMD Radeon RX 5500M 4 GB GDDR6 ekran kartına, 1 SSD ve 1 HDD depolama alanına sahip.
+<figure class="wp-block-image size-large">![](images/MS_-Alpha_15.jpg)</figure>Normalde 999$ olan **MSI Alpha 15** şimdi 200$ indirimle 799$ olarak satışta. 15.6 inç boyutunda, FreeSync destekli, 120 Hz veya 144 Hz IPS ekrana sahip Cooler Boost 5 teknolojisi ve Dynaudio Giant Speaker teknolojisi kullanılarak tasarlanan bu dizüstü bilgisayar ikinci nesil Ryzen 7 işlemciye, 8 GB veya 16 GB RAM’e, AMD Radeon RX 5500M 4 GB GDDR6 ekran kartına, 1 SSD ve 1 HDD depolama alanına sahip.
 
 ## MSI GL73 
 
 MSI’ın bir diğer indirimli ürünü ise **MSI GL73** model dizüstü bilgisayarı. Normalde 1100$ olan bu oyun bilgisayarı şimdi sadece 800$. Sistem bir Intel Core i7 işlemci, 6GB RAM ve Nvidia GeForce GTX 1660 Ti grafik alt sistemini çalıştırıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/MSI_GL73.jpg)</figure>Toplam 7 heat pipe ile CPU ve GPU için bağımsız adanmış soğutma sistemi ile ısınmanın önüne geçiyor. Özel tasarımı, üstün ses özellikleri, detaylı bir şekilde tasarlanmış klavyesi ile oyuncuların kendilerini adeta oyunun içinde hissetmesini sağlayan bu dizüstü bilgisayar Killer Gaming LAN ile oyun gecikmelerine de son veriyor.
+<figure class="wp-block-image size-large">![](images/MSI_GL73.jpg)</figure>Toplam 7 heat pipe ile CPU ve GPU için bağımsız adanmış soğutma sistemi ile ısınmanın önüne geçiyor. Özel tasarımı, üstün ses özellikleri, detaylı bir şekilde tasarlanmış klavyesi ile oyuncuların kendilerini adeta oyunun içinde hissetmesini sağlayan bu dizüstü bilgisayar Killer Gaming LAN ile oyun gecikmelerine de son veriyor.

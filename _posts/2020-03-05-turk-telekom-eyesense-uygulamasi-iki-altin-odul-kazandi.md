@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/turk-telekom-eyesense-uygulamasi-altin-odul-kazandi.png
+image: images/turk-telekom-eyesense-uygulamasi-altin-odul-kazandi.png
 categories:
     - Mobil
 tags:
@@ -24,7 +24,7 @@ tags:
 
 Türk Telekom, görme engelli bireylerin teknolojiden daha efektif faydalanabilmesi için kullanıma sunduğu **EyeSense uygulaması**, birçok otorite tarafından büyük bir takdir kazanmıştı. Uygulamanın kolay kullanılması ve hayatı kolaylaştırması açısından yaptığı katkılar, “Telekomünikasyon Sektöründe En İyi Teknoloji Kullanımı” dalında ödül almasını sağladı. **MarTech Ödülleri 2020** ismindeki organizasyonda Türk Telekom EyeSense uygulaması ayrıca “KSS’de En İyi MarTech Kullanımı” isimli altın ödülü de kazandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/turk-telekom-eyesense-uygulamasi-altin-odul-kazandi-2.png)</figure>## **EyeSense Görme Engellilere Büyük Kolaylık Sağlıyor**
+<figure class="wp-block-image size-large">![](images/turk-telekom-eyesense-uygulamasi-altin-odul-kazandi-2.png)</figure>## **EyeSense Görme Engellilere Büyük Kolaylık Sağlıyor**
 
 Türk Telekom’un görme engellilerin hayatını kolaylaştırma amacıyla kullanıma sunduğu **EyeSense** isimli uygulama, sosyal hayatta da bireylerin kendilerini ifade etmesine imkan tanıyor. Özellikle görme engelli bireylerin “**Selfie**” çekmesini ve bununla birlikte sosyal medya uygulamalarını takip edebilmelerini sağlıyor.
 

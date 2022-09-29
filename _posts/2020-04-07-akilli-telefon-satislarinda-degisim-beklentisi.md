@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/iPhone-9-2.jpg
+image: images/iPhone-9-2.jpg
 categories:
     - Mobil
 tags:
@@ -26,6 +26,6 @@ Konturpuan Araştırma müdürü Tarun Pathak, yaptığı açıklamada akıllı 
 
 Tüm akıllı telefon üreticilerinin değişim yapması gerekeceğine işaret eden Pathak, “2020 yılında 5G çalışmalarının ertelenmesi gibi stratejik bazı yeni adımlar görebilmemiz mümkün olacaktır.” dedi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/iphone-1600x1067.jpg)</figure>Bir süre önce başlayan COVID-19 koronavirüs salgını devam ediyor ve bir milyondan fazla insan bu virüse yakalandı.
+<figure class="wp-block-image size-large">![](images/iphone-1600x1067.jpg)</figure>Bir süre önce başlayan COVID-19 koronavirüs salgını devam ediyor ve bir milyondan fazla insan bu virüse yakalandı.
 
 Yine aynı sebeplerle milyarlarca insan gezegende evlerine hapis olurken, bu durumdan en çok teknoloji üreticileri etkilendi. Yeni teknoloji akıllı telefonlara ilginin gelecek dönemde gelir kaybı sebebiyle azalacağı tahmin edilirken, bir yandan ise yeni stratejik planların nasıl olacağı merak konusu.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7531'
 permalink: /sony-xperia-1-ii-24-temmuzda-satisa-sunulacak/
 post_views_count:
     - '125'
-image: /wp-content/uploads/2020/05/sony-xperia-1-ii-24-temmuzda-satisa-sunulacak.jpg
+image: images/sony-xperia-1-ii-24-temmuzda-satisa-sunulacak.jpg
 categories:
     - Mobil
 tags:

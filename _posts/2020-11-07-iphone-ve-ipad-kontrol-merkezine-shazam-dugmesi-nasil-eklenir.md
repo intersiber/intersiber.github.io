@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9562'
 permalink: /iphone-ve-ipad-kontrol-merkezine-shazam-dugmesi-nasil-eklenir/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/11/iphone-ve-ipad-kontrol-merkezine-shazam-dugmesi-nasil-eklenir.jpg
+image: images/iphone-ve-ipad-kontrol-merkezine-shazam-dugmesi-nasil-eklenir.jpg
 categories:
     - Apple
 tags:
@@ -34,7 +34,7 @@ Shazam düğmesi varsayılan olarak iPhone ve iPad kontrol merkezine yerleştiri
 
 Kontrol Merkezi’ne Shazam müzik tanıma seçeneğini eklediğinize göre, artık yeni müzikleri keşfe hazırsınız.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/iphone-a-shazam-butonu-ekleme.png)</figure>- Telefon ya da tabletinizin ekranının sağ üst köşesinden aşağı kaydırarak Kontrol Merkezi’ni açın. Gri renkli Shazam butonuna dokunun.
+<figure class="wp-block-image size-large">![](images/iphone-a-shazam-butonu-ekleme.png)</figure>- Telefon ya da tabletinizin ekranının sağ üst köşesinden aşağı kaydırarak Kontrol Merkezi’ni açın. Gri renkli Shazam butonuna dokunun.
 - Etkinleştirdikten sonra Shazam müziği algılayacaktır.
 - Şarkı tanımlandığında, ekranın üst kısmında bir başlık bildirimi gelir. Şarkı hakkında daha çok bilgi için üzerine dokunabilirsiniz.
 - Shazam, 15 saniye içinde şarkıyla ilgili bir sonuç bulamazsa, size sonucu bildirir.

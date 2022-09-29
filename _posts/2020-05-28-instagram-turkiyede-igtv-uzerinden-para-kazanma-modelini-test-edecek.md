@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7713'
 permalink: /instagram-turkiyede-igtv-uzerinden-para-kazanma-modelini-test-edecek/
 post_views_count:
     - '79'
-image: /wp-content/uploads/2020/05/instagram-turkiye-de-igtv-uzerinden-para-kazanma-modelini-test-edecek.jpg
+image: images/instagram-turkiye-de-igtv-uzerinden-para-kazanma-modelini-test-edecek.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ tags:
 
 Instagram, canlı video akışı sunduğu IGTV’yi daha popüler hale getirmek istiyor. Şirket bu kapsamda içerik üreticileriyle de birlikte çalışıyor. Instagram, **IGTV** çatısı altında kazanç yaratmak adına satın alınabilir rozet ve reklam izlenmesi sunacak. Reklamların, en fazla 15 saniye olacağı aktarılırken, burada sağlanan gelirin bir kısmı da içerik üreticilerine verilecek. Reklamlar, diğer platformlarda olduğu gibi izlenmeden atlanabilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/instagram-dan-nasil-para-kazanilir.png)</figure>**Instagram’ın** gelir modeli yaratmaya çalıştığı IGTV’de, içerik üreticilerinin ortaya koyduğu çalışmalar belli kurallara tabi olacak. Özellikle, telif hakkını ihlal eden içeriklere yer verilmeyecek. Politikalara uygun olmayan içerikler de, IGTV tarafından engellenecek.
+<figure class="wp-block-image size-large">![](images/instagram-dan-nasil-para-kazanilir.png)</figure>**Instagram’ın** gelir modeli yaratmaya çalıştığı IGTV’de, içerik üreticilerinin ortaya koyduğu çalışmalar belli kurallara tabi olacak. Özellikle, telif hakkını ihlal eden içeriklere yer verilmeyecek. Politikalara uygun olmayan içerikler de, IGTV tarafından engellenecek.
 
 ## İzleyiciler rozetleri satın alabilecek
 

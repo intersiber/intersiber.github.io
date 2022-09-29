@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6952'
 permalink: /apple-koronaviruse-karsi-aldigi-onlemleri-acikladi/
 post_views_count:
     - '50'
-image: /wp-content/uploads/2020/05/apple-koronaviruse-karsi-aldigi-onlemleri-acikladi.jpg
+image: images/apple-koronaviruse-karsi-aldigi-onlemleri-acikladi.jpg
 categories:
     - Apple
 tags:
@@ -22,7 +22,7 @@ Khan, açıklamasında şirketin tedarik zincirinde, “sağlık taramaları, yo
 
 ## Gelişmiş temizlik protokolleri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-store-koronavirus-onlemleri-neler.jpg)</figure>Khan, Apple çalışanları için ‘tüm ortak alanlarda’ kişisel koruyucu ekipmanın zorunlu olduğunu belirtirken, gelişmiş temizlik protokolleri uygulanacağını aktardı. Bu kapsamda, maske ve dezenfektan gibi temel hijyen ürünlerinin işçilere sunulacağı belirtildi.
+<figure class="wp-block-image size-large">![](images/apple-store-koronavirus-onlemleri-neler.jpg)</figure>Khan, Apple çalışanları için ‘tüm ortak alanlarda’ kişisel koruyucu ekipmanın zorunlu olduğunu belirtirken, gelişmiş temizlik protokolleri uygulanacağını aktardı. Bu kapsamda, maske ve dezenfektan gibi temel hijyen ürünlerinin işçilere sunulacağı belirtildi.
 
 ## Kat planları değişecek, çalışanlar arası alan artırılacak
 

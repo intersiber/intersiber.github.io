@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/8d-musi-scaled.jpg
+image: images/8d-musi-scaled.jpg
 categories:
     - Genel
 tags:
@@ -28,7 +28,7 @@ Eve kapandığımız bu günlerde kulaklıklarınızı takarak **8D müzik** ak�
 
 8D Tunes Youtube kanalında ortaya çıkan **8 boyutlu müzik** aslında 3 boyutlu müziklere eklenen efektlerle elde ediliyor. Müziğin sağ, sol, ön ve arkada dolaştırılmasıyla oluşturuluyor. Böylece müzik kafanızın içinde dolaşıyor hissi veriyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/music-8d.jpg)</figure>## **Sizlerde Deneyin!**
+<figure class="wp-block-image size-full">![](images/music-8d.jpg)</figure>## **Sizlerde Deneyin!**
 
 Sizler için listelediğimiz 8D müzik örnekleriyle, bu deneyimin bir parçası olabilirsiniz. Daha fazlası için [8D Tunes](https://www.youtube.com/channel/UCrRpYEytIHGyDgNWO6VbHlQ) kanalına göz atabilirsiniz.
 

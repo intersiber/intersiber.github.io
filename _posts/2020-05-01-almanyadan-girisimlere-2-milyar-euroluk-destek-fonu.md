@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6265'
 permalink: /almanyadan-girisimlere-2-milyar-euroluk-destek-fonu/
 post_views_count:
     - '12'
-image: /wp-content/uploads/2020/05/almanya-dan-girisimlere-2-milyar-euro-luk-destek-fonu.png
+image: images/almanya-dan-girisimlere-2-milyar-euro-luk-destek-fonu.png
 categories:
     - Girişim
 tags:
@@ -28,7 +28,7 @@ Koronavirüsün en çok etkilediği işletme grubu olan küçük işletmeler, ya
 
 ## Yatırım ekosisteminde hareketlilik getirebilir
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/almanya-starup-destek-fonu.jpeg)</figure>Almanya girişim destek fonu, Finans ve Ekonomi bakanlıklarının çalışmasıyla ortaya çıktı. Fonun duyurulmasının ardından, durgunluk içindeki girişimlere yeni yatırımların gelme şansı da arttı değerlendirmesi yapılıyor.
+<figure class="wp-block-image size-large">![](images/almanya-starup-destek-fonu.jpeg)</figure>Almanya girişim destek fonu, Finans ve Ekonomi bakanlıklarının çalışmasıyla ortaya çıktı. Fonun duyurulmasının ardından, durgunluk içindeki girişimlere yeni yatırımların gelme şansı da arttı değerlendirmesi yapılıyor.
 
 Hükümet, yardım fonunda İngiltere ve Fransa örneklerinde olduğu gibi, riskin tamamını üstlenmiyor ve **risk** **sermayedarları**nın da oyunun içinde yer almasını istiyor. Bu da, VC’lerin bu yatırımı hükümet ile, yüzde 50-50 şeklinde yapacağı anlamına geliyor. Hükümetin amacı, verilen desteğin daha efektif şekilde kullanılması ve somut sonuçların ortaya çıkması.
 

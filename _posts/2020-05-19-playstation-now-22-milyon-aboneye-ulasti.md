@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7192'
 permalink: /playstation-now-22-milyon-aboneye-ulasti/
 post_views_count:
     - '16'
-image: /wp-content/uploads/2020/05/playstation-now-2-2-milyon-aboneye-ulasti.jpeg
+image: images/playstation-now-2-2-milyon-aboneye-ulasti.jpeg
 categories:
     - Oyun
 tags:
@@ -23,7 +23,7 @@ Sony’nin birinci ve üçüncü parti oyunlara erişim imkanı sunan bulut taba
 
 Kağıt üzerinde **PlayStation** **Now** abonelerinin sayısı her ne kadar fazla görünse de, beş yıl önce başlamış bir hizmet için, büyüme hızının çok fazla olduğu söylenemez. Abonelere, oyun konusunda devasa bir kütüphane sunan hizmetin rakibi **Xbox** **Game** **Pass**, 2017’de tanıtılmasına karşın Nisan ayında **10 milyon abone**yi geçtiğini duyurmuştu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/play-station-now-nedir-abonelik-ucretleri.jpeg)</figure>Bunun yanı sıra **Sony’nin** online oyun servisi **PlayStation** **Plus’ın** da büyümesi sürüyor. Mart sonunda 41,5 aboneye ulaştığı paylaşılan PlayStation Plus, geçtiğimiz yıla göre 5 milyon aktif kullanıcı artışına ulaştı. Microsoft ise, ürünün rakibi **Xbox** **Live’ın** Nisan sonunda 90 milyon aktif kullanıcıya eriştiğini duyurmuştu.
+<figure class="wp-block-image size-large">![](images/play-station-now-nedir-abonelik-ucretleri.jpeg)</figure>Bunun yanı sıra **Sony’nin** online oyun servisi **PlayStation** **Plus’ın** da büyümesi sürüyor. Mart sonunda 41,5 aboneye ulaştığı paylaşılan PlayStation Plus, geçtiğimiz yıla göre 5 milyon aktif kullanıcı artışına ulaştı. Microsoft ise, ürünün rakibi **Xbox** **Live’ın** Nisan sonunda 90 milyon aktif kullanıcıya eriştiğini duyurmuştu.
 
 ## Koronavirüs salgını oyunlara ilgiyi artırdı
 

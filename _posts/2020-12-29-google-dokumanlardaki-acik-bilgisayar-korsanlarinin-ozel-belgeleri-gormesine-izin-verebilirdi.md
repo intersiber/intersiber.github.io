@@ -26,7 +26,7 @@ Google Dökümanlar dahil olmak üzere birçok Google hizmeti, kullanıcıların
 
 Ancak, feedback.googleusercontent.com adresinden gelen bir pop up içeriğinin, farklı domainlere bir iframe ile eklenmesi ile bu özelliğin bir açığı söz konusu oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/google-dokumanlar-geri-bildirim-guvenlik-acigi.jpg)</figure>Bu durum, Google Dökümanlar penceresinin bir ekran görüntüsü eklendiğinde, görüntünün işlenmesinin her pikselin RGB değerlerinin ana alan adına (google.com) iletilmesi gerektiği ve sonrasında yeniden yönlendirdiği anlamına geliyor. Sonuç olarak bu RGB değerleri görüntüyü oluşturuyor ve Base64 kodlanmış bir şekilde geri döndürüyor.
+<figure class="wp-block-image size-large">![](images/google-dokumanlar-geri-bildirim-guvenlik-acigi.jpg)</figure>Bu durum, Google Dökümanlar penceresinin bir ekran görüntüsü eklendiğinde, görüntünün işlenmesinin her pikselin RGB değerlerinin ana alan adına (google.com) iletilmesi gerektiği ve sonrasında yeniden yönlendirdiği anlamına geliyor. Sonuç olarak bu RGB değerleri görüntüyü oluşturuyor ve Base64 kodlanmış bir şekilde geri döndürüyor.
 
 Sheeram, bu mesajların feedback.googleusercontent.com’a aktarılma biçiminde bir hata tespit etti. Güvenlik açığı, Google Dökümanlar alanındaki X-Frame-Options içeriğinin eksikliğinden kaynaklanıyor ve bu da mesajın hedef kaynağını değiştirmeyi ve sayfa ile içerdiği kaynak iletişiminden yararlanmayı olası kılıyor.
 

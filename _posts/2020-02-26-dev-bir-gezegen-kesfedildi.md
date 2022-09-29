@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/jupiterden-10-kat-buyuk-genc-gezegen-kesfedildi.jpg
+image: images/jupiterden-10-kat-buyuk-genc-gezegen-kesfedildi.jpg
 categories:
     - Uzay
 tags:
@@ -26,6 +26,6 @@ Güneş sisteminin en büyük gezegeni olan **Jüpiter**‘den 10 kat daha büy�
 
 Dünya’ya **330 ışık yılı** uzaklıkta bulunan gezegen henüz genç durumda. Keşfedilen bu yeni gezegene bilim adamları tarafından **2MASS 1155-7919 b** adı verildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/jupiter-genc-gezegen.jpg)</figure>## Gezegenin oluşumu gözlemlenecek
+<figure class="wp-block-image size-large">![](images/jupiter-genc-gezegen.jpg)</figure>## Gezegenin oluşumu gözlemlenecek
 
 Bu keşif ile gök bilimciler bir gaz devinin ilk oluşum dönemlerini gözlemleyebilecekleri bir fırsat yakalamış oldular. Gezegenin **5 milyon** yaşında olduğu, hala büyüme aşamasında olabileceği tahmin ediliyor.

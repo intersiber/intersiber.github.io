@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=876'
 permalink: /equifaxin-143-milyon-kullanici-bilgisi-calindi/
 post_views_count:
     - '692'
-image: /wp-content/uploads/2017/09/Equifax-Cyberattack.jpg
+image: images/Equifax-Cyberattack.jpg
 categories:
     - Genel
     - Güvenlik

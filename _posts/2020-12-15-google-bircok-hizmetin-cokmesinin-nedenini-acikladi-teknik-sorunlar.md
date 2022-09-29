@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10040'
 permalink: /google-bircok-hizmetin-cokmesinin-nedenini-acikladi-teknik-sorunlar/
 post_views_count:
     - '25'
-image: /wp-content/uploads/2020/12/google-bircok-hizmetin-cokmesinin-nedenini-acikladi-teknik-sorunlar.png
+image: images/google-bircok-hizmetin-cokmesinin-nedenini-acikladi-teknik-sorunlar.png
 categories:
     - Genel
 tags:

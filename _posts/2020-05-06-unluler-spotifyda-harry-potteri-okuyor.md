@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6469'
 permalink: /unluler-spotifyda-harry-potteri-okuyor/
 post_views_count:
     - '80'
-image: /wp-content/uploads/2020/05/unluler-spotifyda-harry-potteri-okuyor.jpg
+image: images/unluler-spotifyda-harry-potteri-okuyor.jpg
 categories:
     - Genel
 tags:
@@ -23,4 +23,4 @@ Daniel Radcliffe, 5 Mayıs 2020 Salı günü yayınlanan “**Yaşayan Oğlan**�
 
 Wizarding World Digital ve J.K. tarafından geliştirilen **Harry Potter At Home** projesine önümüzdeki haftalarda Stephen Fry, David Beckham, Dakota Fanning, Claudia Kim, Noma Dumezweni ve Eddie Redmayne de katılacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/spotify-harry-potter-1600x963.png)</figure>Ünlüler kitabı bölüm bölüm okuyacak ve ses kayıtları Spotify Kids uygulaması da dahil olmak üzere tüm **Spotify** kullanıcıları için **ücretsiz** olacak. Ses kayıtlarının videolarına haftalık olarak **harrypotterathome.com** veya **wizardingworld.com** adresinden ulaşılabilecek. **Haziran** sonuna kadar her hafta kitaptan bir bölüm yayınlanacak.
+<figure class="wp-block-image size-large">![](images/spotify-harry-potter-1600x963.png)</figure>Ünlüler kitabı bölüm bölüm okuyacak ve ses kayıtları Spotify Kids uygulaması da dahil olmak üzere tüm **Spotify** kullanıcıları için **ücretsiz** olacak. Ses kayıtlarının videolarına haftalık olarak **harrypotterathome.com** veya **wizardingworld.com** adresinden ulaşılabilecek. **Haziran** sonuna kadar her hafta kitaptan bir bölüm yayınlanacak.

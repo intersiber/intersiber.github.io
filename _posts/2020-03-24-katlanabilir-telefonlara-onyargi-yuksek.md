@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/motorola-razr-katlanabilir-telefon.jpg
+image: images/motorola-razr-katlanabilir-telefon.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ tags:
 
 Bunun ardında yatan en önemli sebeplerden bir tanesi cihazların kısa ve uzun vadede daha çabuk bozulabileceğine, daha fazla sorunlar çıkarabileceğine inanılması.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/galaxy-flip-z-2.jpg)</figure>## Yıllar Geçmesi Gerek
+<figure class="wp-block-image size-full">![](images/galaxy-flip-z-2.jpg)</figure>## Yıllar Geçmesi Gerek
 
 Bu önyargıdan kurtulabilmek için katlanabilir modellerin sayısının artması, herhangi bir sorun olmadığının ilk cihazı alanlar tarafından teyit edilmesi gerektiği belirtiliyor.
 

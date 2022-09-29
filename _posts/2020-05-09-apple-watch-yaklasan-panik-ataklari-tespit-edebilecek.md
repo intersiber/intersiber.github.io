@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6641'
 permalink: /apple-watch-yaklasan-panik-ataklari-tespit-edebilecek/
 post_views_count:
     - '62'
-image: /wp-content/uploads/2020/05/apple-watch-yaklasan-panik-ataklari-tespit-edebilecek.jpeg
+image: images/apple-watch-yaklasan-panik-ataklari-tespit-edebilecek.jpeg
 categories:
     - Apple
     - 'Giyilebilir Teknoloji'
@@ -23,7 +23,7 @@ Tanıtıma bir buçuk ay kala, yazılım getireceği özelliklerle ilgili bazı 
 
 Prosser, konuyla ilgili katıldığı bir podcast yayınında, “En büyük odak noktası şu anda bu ve umarım bu yıl geliyor, önümüzdeki yıl da gelebilir. Apple Watch, kalp atış hızınızla kanınızdaki oksijen seviyesini alabilir ve panik atak meydana gelmeden önce tespit ederek, sizi uyarabilir. Özellikle araç kullanıyorsanız, size ara vermenizi önerebilir ve nefes egzersizleri sunabilir” dedi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-watch-ozellikleri-ve-fiyatlari.jpeg)</figure>Apple’ın, **Apple** **Watch’un** gelecekteki bir sürümü için, kandaki oksijen düzeyini izleme üzerinde çalıştığı söyleniyor ancak diğer kaynaklara göre, zihinsel sağlık açısından bu özellik, yeterince etkili bir dayanak olmayabilir.
+<figure class="wp-block-image size-large">![](images/apple-watch-ozellikleri-ve-fiyatlari.jpeg)</figure>Apple’ın, **Apple** **Watch’un** gelecekteki bir sürümü için, kandaki oksijen düzeyini izleme üzerinde çalıştığı söyleniyor ancak diğer kaynaklara göre, zihinsel sağlık açısından bu özellik, yeterince etkili bir dayanak olmayabilir.
 
 Panik atak tespit özelliği, ilk olarak Apple’ın, kullanıcıların ne zaman yüksek düzeyde stres yaşadığını belirleyebilen bir özellik üzerinde çalıştığı söylentisinin ardından konuşuldu. Kaynaklar, Apple’ın bu konuda kandaki oksijen düzeyinin tespiti sistemine güvendiğini söyledi.
 

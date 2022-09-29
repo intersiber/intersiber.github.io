@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8506'
 permalink: /htc-u20-5g-ile-5g-dunyasina-adim-atti/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/06/htc-u20-5g-ile-5g-dunyasina-adim-atti.jpg
+image: images/htc-u20-5g-ile-5g-dunyasina-adim-atti.jpg
 categories:
     - Mobil
 tags:
@@ -21,7 +21,7 @@ tags:
 
 **HTC’nin** ilk **5G’li** akıllı telefonu olan U20 5G, 32 megapiksel selfie kamerasına ve 6.8 inç full HD LCD ekrana sahip. Telefonun ana kamera sensörü 48 megapiksel olurken, 8 megapiksel ultra geniş ve 2 megapiksel derinlik sensörüne sahip. Telefonda ayrıca, arka kısımda bir parmak izi sensörü de bulunuyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/htc-u20-5g-ozellikleri.jpg)</figure>**Qualcomm’un** orta segmentli **Snapdragon** **765G** işlemcisine sahip olan telefon, 5000 mAh pil kapasitesine sahip. 8 GB RAM’e sahip telefon, 256GB depolama alanı sunuyor.
+<figure class="wp-block-image size-large">![](images/htc-u20-5g-ozellikleri.jpg)</figure>**Qualcomm’un** orta segmentli **Snapdragon** **765G** işlemcisine sahip olan telefon, 5000 mAh pil kapasitesine sahip. 8 GB RAM’e sahip telefon, 256GB depolama alanı sunuyor.
 
 1 Temmuz’da Tayvan’da ön siparişe açılacak olan telefonun fiyatının 640 dolar, yani 4380 TL olması bekleniyor.
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2019/04/microsoft-edge-insider-chromium.png
+image: images/microsoft-edge-insider-chromium.png
 categories:
     - Genel
     - 'Öne Çıkan'
@@ -33,9 +33,9 @@ Chromium tabanlı Microsoft Edge web tarayıcısı henüz stabil veya beta bir d
 
 Chromium tabanlı Microsoft Edge web tarayıcısı için duyurulan önizleme sürümleri şimdilik yalnızca 64-bit Microsoft Windows 10 sürümünü destekliyor. Ancak Microsoft ilerleyen zamanlarda Windows 7, 8.1 ve Apple MacOS için de test sürümlerini yayınlayacak.
 
-<figure class="wp-block-image">![](https://intersiber.com/wp-content/uploads/2019/04/microsoft-chromium-edge-web-tarayicisi-1200x654.png)</figure>Yeni Edge web tarayıcısı Microsoft’un kendi eklenti mağazasının yanında Google Chrome eklenti mağazasını da destekliyor.
+<figure class="wp-block-image">![](images/microsoft-chromium-edge-web-tarayicisi-1200x654.png)</figure>Yeni Edge web tarayıcısı Microsoft’un kendi eklenti mağazasının yanında Google Chrome eklenti mağazasını da destekliyor.
 
-<figure class="wp-block-image">![](https://intersiber.com/wp-content/uploads/2019/04/edge-insider-extensions-1200x675.jpg)</figure>Microsoft geçtiğimiz yıllarda Edge ile birlikte tarayıcı pazarında bazı atılımlar denemiş ancak Google Chrome’un hezimetine uğramıştı. Bu sebeple geçtiğimiz aylarda EdgeHTML motoru yerine Chromium motorunu kullanacağını duyurmuştu.
+<figure class="wp-block-image">![](images/edge-insider-extensions-1200x675.jpg)</figure>Microsoft geçtiğimiz yıllarda Edge ile birlikte tarayıcı pazarında bazı atılımlar denemiş ancak Google Chrome’un hezimetine uğramıştı. Bu sebeple geçtiğimiz aylarda EdgeHTML motoru yerine Chromium motorunu kullanacağını duyurmuştu.
 
 Chromium motoru Google Chrome, Opera, Brave ve Samsung Internet gibi birçok web tarayıcısı tarafından kullanılan açık kaynak kodlu bir web tarayıcı projesidir.
 

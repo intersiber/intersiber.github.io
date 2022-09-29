@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/sosyal-medya-facebook-instagram-twitter.jpeg
+image: images/sosyal-medya-facebook-instagram-twitter.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -29,6 +29,6 @@ Türkiye Cumhuriyeti tarihinde ilk kez yaş kısıtlamalı sokağa çıkma yasak
 
 Sosyal medya sitesi Twitter’da dün #20yaş etiketi trend olurken, birçok 20 yaş ve altındaki genç bu karar karşısındaki üzüntülerini dile getirirken, bazıları ise kararların kendilerini etkilemeyeceğinden söz etmeye başladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/covid-19-koronavirus-salgini.jpeg)</figure>Sosyal medyada özellikle bazı gençler kendilerine yönelik sokağa çıkma yasağı ile ilgili videolar paylaşarak üzüntülerini ifade etti. TikTok üzerinde paylaşılan videolarda ise, 20 yaş altındaki bazı kullanıcılar gerçek anlamda ağlayarak göz yaşlarını sergiledi.
+<figure class="wp-block-image size-large">![](images/covid-19-koronavirus-salgini.jpeg)</figure>Sosyal medyada özellikle bazı gençler kendilerine yönelik sokağa çıkma yasağı ile ilgili videolar paylaşarak üzüntülerini ifade etti. TikTok üzerinde paylaşılan videolarda ise, 20 yaş altındaki bazı kullanıcılar gerçek anlamda ağlayarak göz yaşlarını sergiledi.
 
 Tüm dünyada büyük bir endişeye yol açan ve küresel çapta ciddi önlemlerin alındığı koronavirüs COVID-19 salgınına karşı, tüm vatandaşların alınan önlemlere uymaları oldukça önemli. Uzmanlar tarafından; yaş sınırlaması olmaksızın, kimsenin mecbur kalmadıkça sokağa çıkmaması ve kişisel koruyucu ekipmanları doğru kullanmaları öneriliyor.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7801'
 permalink: /facebook-etkinlik-uygulamasi-venue-ile-twittera-rakip-olabilir/
 post_views_count:
     - '25'
-image: /wp-content/uploads/2020/05/facebook-etkinlik-uygulamasi-venue-ile-twitter-a-rakip-olabilir.png
+image: images/facebook-etkinlik-uygulamasi-venue-ile-twitter-a-rakip-olabilir.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -24,7 +24,7 @@ tags:
 
 ## NASCAR’da kullanılacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/venue-uygulamasi-nedir-facebook.jpg)</figure>Venue uygulaması kullanıcılarla ilk olarak **NASCAR** etkinliğinde bir araya gelecek. Uygulamada herkesin tepkilerini ve düşüncelerini bir akışta sürekli olarak vermek yerine, **Venue** yalnızca yorum yapma yetkisi verilmiş gazeteci, eski sporcu ya da analist gibi isimlere yer verecek ve sosyal medyada ünlü isimler de yorumları ile katılabilecek.
+<figure class="wp-block-image size-large">![](images/venue-uygulamasi-nedir-facebook.jpg)</figure>Venue uygulaması kullanıcılarla ilk olarak **NASCAR** etkinliğinde bir araya gelecek. Uygulamada herkesin tepkilerini ve düşüncelerini bir akışta sürekli olarak vermek yerine, **Venue** yalnızca yorum yapma yetkisi verilmiş gazeteci, eski sporcu ya da analist gibi isimlere yer verecek ve sosyal medyada ünlü isimler de yorumları ile katılabilecek.
 
 Venue’de etkinlik süresince, izleyiciler için anketler düzenlenebilecek ya da soru sorulabilecek. Etkinliğin sahipleri, zaman zaman izleyicilerin de yorumlarını paylaşabileceği kısa sohbetler açabilse de, uygulamanın odağı, izleyicilerin yorum yapması üzerine değil.
 

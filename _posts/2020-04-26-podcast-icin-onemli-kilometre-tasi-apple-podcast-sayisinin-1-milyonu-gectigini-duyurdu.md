@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6007'
 permalink: /podcast-icin-onemli-kilometre-tasi-apple-podcast-sayisinin-1-milyonu-gectigini-duyurdu/
 post_views_count:
     - '23'
-image: /wp-content/uploads/2020/04/podcast-icin-onemli-kilometre-tasi-apple-podcast-sayisinin-1-milyonu-gectigini-duyurdu.jpeg
+image: images/podcast-icin-onemli-kilometre-tasi-apple-podcast-sayisinin-1-milyonu-gectigini-duyurdu.jpeg
 categories:
     - Apple
     - Genel
@@ -24,7 +24,7 @@ Mashable’a yaptığı bir açıklamada, **Apple Podcast**’lerin 1 milyondan 
 
 Apple’ın önem verdiği bir taraf olan podcast içerikleri, koronavirüs pandemisinin küresel etkisini arttırmasıyla birlikte hızlı bir şekilde arttı. MyPodcastReviews, Mart ve Nisan aylarında yeni podcast sayısında ciddi bir artış olduğunu aktardı. Dünyanın birçok ülkesinde yüz milyonlarca insanın karantina ve sokağa çıkma yasakları nedeniyle evde kalması, podcaste olan ilgiyi de artırdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/apple-podcast-nedir.jpg)</figure>Sitenin kurucusu, “Yeni podcastlerde şimdiye kadar hiç böyle bir patlama görmedik. Yani içeriklerin sayısı her zaman artarken, Mart ayı ise en büyük sıçramayı getirdi” dedi. Mart ayı, koronavirüs salgınının da sıçrama gösterdiği aydı.
+<figure class="wp-block-image size-large">![](images/apple-podcast-nedir.jpg)</figure>Sitenin kurucusu, “Yeni podcastlerde şimdiye kadar hiç böyle bir patlama görmedik. Yani içeriklerin sayısı her zaman artarken, Mart ayı ise en büyük sıçramayı getirdi” dedi. Mart ayı, koronavirüs salgınının da sıçrama gösterdiği aydı.
 
 MyPodcastReviews, 2019’un son aylarında ortalama 25 bin ile 40 bin yeni podcast eklendiğini, 2020’nin Ocak ve Şubat aylarında ise 48 bin ile 50 bin yeni podcast eklendiğini aktardı. Mart ayında 63 bine çıkan yeni podcast içeriği, Nisan ayı itibariyle 70 binin üzerinde.
 

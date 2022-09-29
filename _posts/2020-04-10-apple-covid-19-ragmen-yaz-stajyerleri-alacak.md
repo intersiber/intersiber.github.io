@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/apple-campus.jpg
+image: images/apple-campus.jpg
 categories:
     - Apple
 tags:
@@ -30,7 +30,7 @@ Dünya’da hızla yayılan **COVID-19** koronavirüs salgınına rağmen **Appl
 
 Bu zorlu süreçte birçok şirket ücretsiz izin, işten çıkarmalar veya evden çalışma alternatiflerini uygularken Apple’dan öğrencileri sevindirecek stajyer alım haberi geldi. ABD haber kaynağı Axios’tan gelen bilgilere göre Apple yaz stajı için 1000 stajyer alımı yapacak. Stajyerler çevrimiçi ve yüz yüze staj programlarına dahil olacak. Aynı zamanda dev teknoloji şirketi çalışanlarına sunduğu tüm imkanları stajyerleri için de sunacağını belirtti.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/04/apple-stajyer.jpeg)<figcaption>Fotoğraf: Business Insider</figcaption></figure>## Büyük Şirketler Stajyer Alımına Devam Edecek
+<figure class="wp-block-image size-full">![](images/apple-stajyer.jpeg)<figcaption>Fotoğraf: Business Insider</figcaption></figure>## Büyük Şirketler Stajyer Alımına Devam Edecek
 
 Büyük teknoloji şirketlerinde **staj** programları için alım yapacağı gelen bilgiler arasında. Google’ın stajyerlere tam ücret ödeyeceği bilgisi gelirken Twitter’ın bu yıl stajyer kadrosunun sayısını azaltarak da olsa stajyer almaya devam edeceği bildirildi.
 

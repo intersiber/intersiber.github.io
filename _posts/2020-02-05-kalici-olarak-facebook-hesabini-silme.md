@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/kalici-olarak-facebook-hesabi-silme.jpeg
+image: images/kalici-olarak-facebook-hesabi-silme.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -24,7 +24,7 @@ tags:
 
 Facebook hesabınızı silmek için birçok nedeniniz olabilir ve bu durumda hesabınıza hiçbir şekilde ulaşılmasını istemiyorsanız, ‘’Hesabı dondurma’’ işlemi yerine kalıcı olarak Facebook hesabınızı silme işlemini uygulayabilirsiniz. Tabii bu durumda hesabınız bir daha açılmayacağı için hesabınızla birlikte üye olduğunuz sayfalar hatta yöneticisi olduğunuz gruplarınızda silinecektir. Ayrıca unutmamanız gereken bir hususta kapatılan hiçbir hesap kesinlikle tekrar açılamamaktadır. Tüm bunlara rağmen ben hala Facebook hesabımı kalıcı olarak silmek istiyorum diyorsanız, 14 günlük bekleme sürenizin olduğunu bilmeniz gerekmektedir ve ayrıca durum güncellemelerinden fotoğraflara kadar tüm verilerin silinme işlemi de 90 gün gibi bir süre almaktadır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/5b49b8de5379ff23b4673062.jpg)</figure>## **Facebook Hesap Silme Nasıl Yapılır?** 
+<figure class="wp-block-image size-large">![](images/5b49b8de5379ff23b4673062.jpg)</figure>## **Facebook Hesap Silme Nasıl Yapılır?** 
 
 Facebook hesabınızı silme işlemine başlamadan aşağıdaki adrese giriş yapılarak öncelikle kullanılan uygulamaların silinmesi sonucu aktifliğin sona erdirilmesi gerekmektedir.
 

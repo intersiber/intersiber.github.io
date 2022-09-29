@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/koronavirus-akilli-telefon-pazarini-vurdu.jpeg
+image: images/koronavirus-akilli-telefon-pazarini-vurdu.jpeg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ Kasım 2019 ayında ortaya çıkan ve yaklaşık 80 bin kişide görülen **Koro
 
 **Akıllı telefon pazarı**nda büyük bir düşüş beklendiğini öne süren Amerika Birleşik Devletleri merkezli **IDC** (Uluslararası Veri Kuruluşu) Koronavirüs salgınının olumsuz yönleriyle alakalı veriler yayınladı. Yayınladığı verilerin içerisinde de **Samsung** ve **Apple** gibi şirketlerin dahi ciddi şekilde etkileneceğini belirtti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/koronavirus-akilli-telefon-pazarini-vurdu-2-1600x1067.jpeg)</figure>## Akıllı Telefon Pazarı Ciddi Bir Kayıp Yaşayacak
+<figure class="wp-block-image size-large">![](images/koronavirus-akilli-telefon-pazarini-vurdu-2-1600x1067.jpeg)</figure>## Akıllı Telefon Pazarı Ciddi Bir Kayıp Yaşayacak
 
 IDC verilerine göre 2020 yılının Haziran ayına kadar akıllı telefon pazarında en az %10,6’lık bir daralmanın mümkün olduğu belirtiliyor. Üstelik bu oranın her geçen gün artmasından da endişe edilmekte. Dünyanın en aktif sektörlerinden biri olan akıllı telefon pazarının %10 oranında daralması öngörülüyor.
 

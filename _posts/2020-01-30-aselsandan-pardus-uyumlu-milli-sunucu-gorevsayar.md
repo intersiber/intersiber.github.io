@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '188'
-image: /wp-content/uploads/2020/01/aselsan-yerli-milli-sunucu-gorevsayar-pardus.jpg
+image: images/aselsan-yerli-milli-sunucu-gorevsayar-pardus.jpg
 categories:
     - Genel
     - 'Öne Çıkan'

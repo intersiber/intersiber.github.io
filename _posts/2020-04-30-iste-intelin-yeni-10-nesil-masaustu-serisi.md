@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6227'
 permalink: /iste-intelin-yeni-10-nesil-masaustu-serisi/
 post_views_count:
     - '68'
-image: /wp-content/uploads/2020/04/iste-intelin-yeni-10-nesil-masaustu-serisi.jpg
+image: images/iste-intelin-yeni-10-nesil-masaustu-serisi.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 **Intel Core i9-10900K**, 10 çekirdek ve 20 iş parçacığıyla birlikte **3.7 GHz** taban saat hızından **5.3 GHz**‘e kadar çıkarabiliyor. Firma, serideki işlemcilerinin %60’ından fazlasının da **5 GHz**‘in üstüne çıkacağını söyledi. Bu gelişme ile birlikte mobil işlemcilerde 5 GHz barajı ilk defa aşılmış olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/core-i9-1600x900.jpg)</figure>Yüksek saat hızına ulaşmayı hedefleyen şirket, güncellenmiş T**urbo Boost Max 3.0** özelliği ile işlemcideki en hızlı iki çekirdeği belirleyerek yoğun yük altında performansı yükseltmeyi amaçlıyor. Ayrıca şirket i9 işlemcilerinin 70 santigratın altında olduğu zamanlarda daha iyi performans sağlamaları için **Thermal Velocity Boost** teknolojisi kullanmış.
+<figure class="wp-block-image size-large">![](images/core-i9-1600x900.jpg)</figure>Yüksek saat hızına ulaşmayı hedefleyen şirket, güncellenmiş T**urbo Boost Max 3.0** özelliği ile işlemcideki en hızlı iki çekirdeği belirleyerek yoğun yük altında performansı yükseltmeyi amaçlıyor. Ayrıca şirket i9 işlemcilerinin 70 santigratın altında olduğu zamanlarda daha iyi performans sağlamaları için **Thermal Velocity Boost** teknolojisi kullanmış.
 
 Intel, kullanıcıların **overclock** yapabilmeleri için işlemciyle birlikte gerilim ve frekans üzerinde daha fazla kontrol sağlamak amacıyla tasarlanmış **Intel Extreme Tuning Utility** aracını getiriyor. Ayrıca bazı çekrdeklerde **Hyper Threading**‘i kapatmaya olanak sağlıyor. Böylelikle overclock esnasında ısıyı azaltmayı hedefliyor.
 

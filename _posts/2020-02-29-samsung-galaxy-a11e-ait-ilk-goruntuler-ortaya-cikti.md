@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '162'
-image: /wp-content/uploads/2020/02/samsung-galaxy-a11-intersiber.png
+image: images/samsung-galaxy-a11-intersiber.png
 categories:
     - Mobil
 tags:
@@ -26,7 +26,7 @@ Samsung Galaxy A11’e ait ilk görüntü paylaşıldı. Galaxy A10’un devamı
 
 Galaxy A10’un 2019 yılındaki satış başarısını devam ettirmek isteyen Samsung, A10 modelinin devamı niteliğindeki **Galaxy A11** ile uygun fiyatlı Android modellerine bir yenisini daha ekliyor. Galaxy A11 ile ilgili henüz çok fazla bir bilgi yok ancak paylaşılan yeni görüntüyle birlikte telefonun tasarımı ortaya çıktı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/samsung-galaxy-a11-goruntusu-paylasildi.jpg)</figure>Paylaşılan görüntüye göre Galaxy A11 delikli bir ekranla gelecek. Uygun fiyatlı modeller göz önüne alındığında, Samsung’un A11’de delikli bir ekran kullanması hoş olmuş diyebiliriz.
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-a11-goruntusu-paylasildi.jpg)</figure>Paylaşılan görüntüye göre Galaxy A11 delikli bir ekranla gelecek. Uygun fiyatlı modeller göz önüne alındığında, Samsung’un A11’de delikli bir ekran kullanması hoş olmuş diyebiliriz.
 
 Samsung Galaxy A11 **5.000 mAH** bir pil, **6.2 inç** büyüklüğünde bir LCD ekran, **Exynos 7** serisi bir işlemci ve **3 GB RAM** ile gelecek.
 

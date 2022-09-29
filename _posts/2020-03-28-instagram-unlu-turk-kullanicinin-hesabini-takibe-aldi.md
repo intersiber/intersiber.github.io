@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Instagram.jpg
+image: images/Instagram.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -27,4 +27,4 @@ Bugüne kadar 1 milyar aktif kullanıcısı olan ve giderek daha fazla sayıda k
 
 Devasa büyüklükte yemekler yapması ve özellikle yayınladığı paylaşımlarda “sever misiniz?” diye kullanıcılara sorular sorması ile tanınan **Burak Özdemir**‘in Türkiye’de ve Dünya’da oldukça fazla popüler bir isim olduğu biliniyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/sosyal-medya-facebook-instagram-twitter.jpeg)</figure>Zaman zaman sosyal medya hesaplarından yardımlar düzenleyen ve bunları diğer kullanıcılar ile paylaşan Özdemir’in Instagram’da binlerce takipçisine ek olarak bugünden itibaren Instagram’ın en prestijli hesabı olan @Instagram hesabı tarafından da takip ediliyor olması takipçileri tarafından çok iyi karşılandı.
+<figure class="wp-block-image size-large">![](images/sosyal-medya-facebook-instagram-twitter.jpeg)</figure>Zaman zaman sosyal medya hesaplarından yardımlar düzenleyen ve bunları diğer kullanıcılar ile paylaşan Özdemir’in Instagram’da binlerce takipçisine ek olarak bugünden itibaren Instagram’ın en prestijli hesabı olan @Instagram hesabı tarafından da takip ediliyor olması takipçileri tarafından çok iyi karşılandı.

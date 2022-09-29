@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=835'
 permalink: /hp-dizustu-bilgisayar-modellerinde-yerlesik-keylogger-bulundu/
 post_views_count:
     - '918'
-image: /wp-content/uploads/2017/05/keyboard-black-notebook-input-163130.jpeg
+image: images/keyboard-black-notebook-input-163130.jpeg
 categories:
     - Genel
     - Güvenlik

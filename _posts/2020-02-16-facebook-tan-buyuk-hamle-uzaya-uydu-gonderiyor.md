@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/facebook-uzay-internet-uydu.jpg
+image: images/facebook-uzay-internet-uydu.jpg
 categories:
     - Uzay
 tags:
@@ -27,7 +27,7 @@ tags:
 
 Son yıllarda uzaya uydu gönderen birçok şirket var. Bu şirketlerden en çok meşhuru ise SpaceX. Elon Musk’ın sahibi olduğu SpaceX, uzaya birçok roket gönderdi ve bu alanda oldukça tecrübeli. Kısa bir zaman önce ise Amazon’un sahibi ve dünyanın en zengin insanı unvanına sahip Jeff Bezos’ta, uzaya uydu göndereceğini açıklamıştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/facebook-uydu-internet-projesi.png)</figure>## Zuckerberg Uzun Zamandır Alamadığı İzni Nihayet Aldı
+<figure class="wp-block-image size-large">![](images/facebook-uydu-internet-projesi.png)</figure>## Zuckerberg Uzun Zamandır Alamadığı İzni Nihayet Aldı
 
 Uzun yıllardır internet erişimi olmayan coğrafyalara internet götürme niyetinde olan Mark Zuckerberg, uzun bir zamandır ABD Federal İletişim Komisyonu’ndan izin alamıyordu. İzin alamamasının sebebinin ise firmanın lojistik sorunları olduğu belirtiliyordu. Buna çözüm olarak Facebook’a bağlı **PointView** isimli şirketi ile tekrar başvuru yapan Zuckerberg, nihayet gerekli izinleri aldı.
 

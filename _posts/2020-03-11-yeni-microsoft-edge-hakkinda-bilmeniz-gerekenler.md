@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/microsoft-chromium-edge-tarayici.png
+image: images/microsoft-chromium-edge-tarayici.png
 categories:
     - Windows
 tags:
@@ -29,7 +29,7 @@ Yeni Microsoft Edge, [Chromium](https://www.chromium.org) açık kaynaklı taray
 
 Bir web sitesi **Google Chrome** için tasarlanmışsa ve eski Edge’de düzgün çalışmadıysa, artık yeni Edge’de düzgün çalışacaktır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/microsoftedge.jpg)</figure>Google Chrome gibi, Microsoft Edge’in yeni sürümü altı haftada bir güncellenecek. Eski Edge tarayıcısında yaptığınız gibi, yalnızca tarayıcı güncellemeleri için her altı ayda bir Windows 10’un büyük sürümlerini beklemek zorunda kalmayacaksınız.
+<figure class="wp-block-image size-large">![](images/microsoftedge.jpg)</figure>Google Chrome gibi, Microsoft Edge’in yeni sürümü altı haftada bir güncellenecek. Eski Edge tarayıcısında yaptığınız gibi, yalnızca tarayıcı güncellemeleri için her altı ayda bir Windows 10’un büyük sürümlerini beklemek zorunda kalmayacaksınız.
 
 Microsoft, Windows Update aracılığıyla yeni Edge’i tüm Windows 10 kullanıcılarına sunmayı planlıyor. **Microsoft** bunu ne zaman yapacağını söylemedi, ancak şirket 25 Şubat 2020’de Windows 10 Insider test kullanıcıları için Windows 10’un “Release Preview” kanalında bir Edge güncellemesini [test etmeye başladı](https://twitter.com/windowsinsider/status/1232428022772289536) .
 

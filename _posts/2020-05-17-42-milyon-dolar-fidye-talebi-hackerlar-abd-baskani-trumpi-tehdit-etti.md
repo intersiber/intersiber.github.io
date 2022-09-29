@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7089'
 permalink: /42-milyon-dolar-fidye-talebi-hackerlar-abd-baskani-trumpi-tehdit-etti/
 post_views_count:
     - '95'
-image: /wp-content/uploads/2020/05/42-milyon-dolar-fidye-talebi-hackerlar-abd-baskani-donald-trump-i-tehdit-etti.jpg
+image: images/42-milyon-dolar-fidye-talebi-hackerlar-abd-baskani-donald-trump-i-tehdit-etti.jpg
 categories:
     - Genel
     - Güvenlik
@@ -22,7 +22,7 @@ Eğlence dünyasına yönelik çalışan hukuk firması **Grubman Shire Meiselas
 
 Korsanlar, **21 milyon dolar fidye** verilmediği takdirde, aralarında Bruce Springsteen ve **Christina Aguilera**’nın da dahil olduğu onlarca ünlü ile ilgili belgeleri yayınlama tehdidinde bulundu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/revil-bilgisayar-korsanlari-fidye-tehdidi.png)<figcaption>Hackerların hedefinde hangi ünlüler var? Sızdırılan dosyada yer alan isimler bu şekilde…</figcaption></figure>Bilgisayar korsanlarının, **Donald Trump** ile ilgili belgeleri yayınlama tehdidi, olayı daha ciddi bir noktaya getirdi. Şirket, ödemeyi yapmayı reddedince, hackerlar Trump’ı da listeye ekleyip fidye miktarını 2 katına çıkardı ve **42 milyon dolar** talep etti.
+<figure class="wp-block-image size-large">![](images/revil-bilgisayar-korsanlari-fidye-tehdidi.png)<figcaption>Hackerların hedefinde hangi ünlüler var? Sızdırılan dosyada yer alan isimler bu şekilde…</figcaption></figure>Bilgisayar korsanlarının, **Donald Trump** ile ilgili belgeleri yayınlama tehdidi, olayı daha ciddi bir noktaya getirdi. Şirket, ödemeyi yapmayı reddedince, hackerlar Trump’ı da listeye ekleyip fidye miktarını 2 katına çıkardı ve **42 milyon dolar** talep etti.
 
 Ancak hukuk firması, ABD Başkanı Trump’ın şirketin bir müşterisi olmadığını söyledi ve suçun çözülmesi adına **FBI** ile birlikte çalışıldığını aktardı.
 
@@ -32,7 +32,7 @@ Hacker grubu, **Trump** ile ilgili iddia edilen veriler hakkında, “Bay Lawyer
 
 ## Hackerlar Trump’a ait verilerle ilgili e-posta yayınladı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/hackerlar-donald-trump-i-tehdit-etti.png)</figure>Saldırganlar, ABD Başkanı Trump’a ait veriler konusunda şaka yapmadıklarını vurguladı. Ellerinde **756 GB** boyutunda veri olduğunu ifade eden bilgisayar korsanları, firmanın verilerinin açık artırma ile herhangi birine satılacağını söyledi.
+<figure class="wp-block-image size-large">![](images/hackerlar-donald-trump-i-tehdit-etti.png)</figure>Saldırganlar, ABD Başkanı Trump’a ait veriler konusunda şaka yapmadıklarını vurguladı. Ellerinde **756 GB** boyutunda veri olduğunu ifade eden bilgisayar korsanları, firmanın verilerinin açık artırma ile herhangi birine satılacağını söyledi.
 
 Hackerlar, verilerin şifreleme anahtarını ellerinde bulundurduğu müddetçe, hukuk firmasının çalınan verileri geri alamayacağını belirtti.
 

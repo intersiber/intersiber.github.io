@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/WF-XB700.png
+image: images/WF-XB700.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -27,6 +27,6 @@ Yeni Sony WF-XB700 kulaklıkları sadece 129,99$ olarak piyasaya sürülecek. Bu
 
 **Sony XB700**, Sony’nin daha güçlü ses çıkışı için imzalı “**Ekstra Bas**” teknolojisine sahip. Kulaklıklar tek bir şarjla dokuz saate kadar dayanabiliyor ve pil kutusuyla beraber toplam **18 saat** kullanılabiliyor. Ayrıca **IPX4** özelliğine yani su ve ter direncine sahip bu sayede egzersiz yaparken veya yağmurlu havada çalışabiliyor. Ancak bu kulaklıklarda herhangi bir gürültü engelleyici yok.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/Sony-WF-XB700.jpg)</figure>Sony XB700 kulak içi kulaklık **Bluetooth 5.0** teknolojisi ile gelecek. Bu sayede her bir kulaklığı telefonunuza ayrı ayrı bağlamanız gerekiyor. Böylece tek kulaklığı kullanarak müzik dinleyebiliyorsunuz. Ayrıca codec bileşenleri için Sony, AAC ve SBC’yi destekliyor.
+<figure class="wp-block-image size-large">![](images/Sony-WF-XB700.jpg)</figure>Sony XB700 kulak içi kulaklık **Bluetooth 5.0** teknolojisi ile gelecek. Bu sayede her bir kulaklığı telefonunuza ayrı ayrı bağlamanız gerekiyor. Böylece tek kulaklığı kullanarak müzik dinleyebiliyorsunuz. Ayrıca codec bileşenleri için Sony, AAC ve SBC’yi destekliyor.
 
 XB700’ler bu ay siyah ve mavi renk seçenekleriyle satışa sunulacak.

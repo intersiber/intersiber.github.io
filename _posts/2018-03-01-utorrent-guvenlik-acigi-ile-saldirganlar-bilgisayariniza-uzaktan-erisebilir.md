@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=997'
 permalink: /utorrent-guvenlik-acigi-ile-saldirganlar-bilgisayariniza-uzaktan-erisebilir/
 post_views_count:
     - '907'
-image: /wp-content/uploads/2018/03/uTorrent.jpg
+image: images/uTorrent.jpg
 categories:
     - Genel
     - Güvenlik
@@ -25,7 +25,7 @@ Google Project Zero ekibi, μTorrent Windows masaüstü ve yeni kullanıma sunul
 
 Ormandy’ye göre, μTorrent uygulamaları kullanıcılarının bilgisayarında, kötü amaçlı kod çalıştırmak için kullanıcının ziyaret ettiği kötü niyetli bir web sitesi vasıtasıyla istismara açık durumda.
 
-![](https://intersiber.com/wp-content/uploads/2018/03/utorrent-web-ui.png)
+![](images/utorrent-web-ui.png)
 
 Keşfedilen açık sayesinde, saldırganlar klasik μTorrent ve μTorrent Web istemcilerini kullanan kullanıcıların bilgisayarlarında uzaktan zararlı kod çalıştırabiliyor. Geçtiğimiz günlerde Ormandy, Transmission Bittorrent istemcisi üzerinde de benzer bir güvenlik açığını duyurmuştu.
 

@@ -31,7 +31,7 @@ Yeni bir saat kadranı eklemek isterseniz bu oldykça basittir. Dilerseniz bir d
 
 Başlamak için Apple Watch’ta mevcut bir saat kadranına gidin ve ekrana uzun basın. Daha sonra saat kadranı düzenleme arayüzünü göreceksiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/apple-watch-kadran-eklemenasil-yapilir.png)</figure>“Yeni” ekranına gelene kadar sağa kaydırın. Bunun için Digital Crown’u da kullanabilirsiniz.
+<figure class="wp-block-image size-large">![](images/apple-watch-kadran-eklemenasil-yapilir.png)</figure>“Yeni” ekranına gelene kadar sağa kaydırın. Bunun için Digital Crown’u da kullanabilirsiniz.
 
 Artık mevcut tüm saat yüzlerinin bir listesini göreceksiniz. Daha fazla saat yüzü görmek için yukarı kaydırın veya Digital Crown’u kullanarak kaydırın.
 
@@ -47,8 +47,8 @@ Apple Watch’unuzun küçük ekranında yeni kadran bulmak için uğraşmak ist
 
 Daha sonra, en üstte yeni saat kadranları olmak üzere, mevcut tüm kadranların bir listesini göreceksiniz. Galeride aynı kadranın farklı renk ve komplikasyonlara sahip varyasyonları da gösterilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/iphone-da-apple-watch-kadrani-eklemek.png)</figure>Beğendiğiniz bir kadranı seçtikten sonra, kararınızı kesinleştirdiğinizde “Ekle” butonuna dokunun.
+<figure class="wp-block-image size-large">![](images/iphone-da-apple-watch-kadrani-eklemek.png)</figure>Beğendiğiniz bir kadranı seçtikten sonra, kararınızı kesinleştirdiğinizde “Ekle” butonuna dokunun.
 
 Saatim sekmesine gittiğinizde, “Kadranlarım” bölümünün sonunda yeni seçiminizi göreceksiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/apple-watch-kadran-ekleme.png)</figure>iPhone üzerinden Apple Watch için yeni kadran belirleme süreci işte böyle…
+<figure class="wp-block-image size-large">![](images/apple-watch-kadran-ekleme.png)</figure>iPhone üzerinden Apple Watch için yeni kadran belirleme süreci işte böyle…

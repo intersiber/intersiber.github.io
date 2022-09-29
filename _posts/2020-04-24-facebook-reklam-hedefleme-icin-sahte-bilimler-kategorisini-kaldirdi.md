@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5901'
 permalink: /facebook-reklam-hedefleme-icin-sahte-bilimler-kategorisini-kaldirdi/
 post_views_count:
     - '12'
-image: /wp-content/uploads/2020/04/facebook-reklam-hedefleme-icin-sahte-bilimler-kategorisini-kaldirdi.jpg
+image: images/facebook-reklam-hedefleme-icin-sahte-bilimler-kategorisini-kaldirdi.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -28,4 +28,4 @@ Koronavirüs konusunda yanlış bilgiler, virüsü Bill Gates’e bağlı bir gr
 
 ## Şüpheli içerikler 100 milyondan fazla görüntülendi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/facebook-koronavirusle-mucadele-icin-yeni-onlemler-aliyor.jpg)</figure>İnsan hakları grubu **Avaaz**, yaptığı açıklamada koronavirüsle ilgili yanlış bilgilendirmelerin Facebook’ta 1,7 milyondan fazla paylaşıldığını söyledi. Yanlış ve şüpheli bilgi içeren 100 içeriğin, toplamda 117 milyon kez görüntülendiği de aktarıldı. Topluluk, **Facebook**’u kullanıcıları bilgilendirmeye ve onlara neyin yanlış olduğunu tam olarak göstermeye davet etti.
+<figure class="wp-block-image size-large">![](images/facebook-koronavirusle-mucadele-icin-yeni-onlemler-aliyor.jpg)</figure>İnsan hakları grubu **Avaaz**, yaptığı açıklamada koronavirüsle ilgili yanlış bilgilendirmelerin Facebook’ta 1,7 milyondan fazla paylaşıldığını söyledi. Yanlış ve şüpheli bilgi içeren 100 içeriğin, toplamda 117 milyon kez görüntülendiği de aktarıldı. Topluluk, **Facebook**’u kullanıcıları bilgilendirmeye ve onlara neyin yanlış olduğunu tam olarak göstermeye davet etti.

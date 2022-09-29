@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9734'
 permalink: /stoklar-tukendi-karaborsaya-dustu-playstation-5-internette-15-bin-tlye-satiliyor/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/11/stoklar-tukendi-karaborsaya-dustu-ps5-internette-15-bin-liraya-satiliyor.jpg
+image: images/stoklar-tukendi-karaborsaya-dustu-ps5-internette-15-bin-liraya-satiliyor.jpg
 categories:
     - Oyun
 tags:
@@ -23,6 +23,6 @@ Sony’nin merakla beklenen oyun konsolu **PlayStation 5**, dün Türkiye’de s
 
 ## İşte karaborsadan PS5 ilanları
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/karaborsada-playstation-5-15-bin-tl-ye-satiliyor-1600x1015.png)</figure>Stoklar tükenene kadar **PS5** satın alabilen şanslı oyun severler ya da stokçular, ikinci el ilan sitelerinde PlayStation 5’leri listeledi.
+<figure class="wp-block-image size-large">![](images/karaborsada-playstation-5-15-bin-tl-ye-satiliyor-1600x1015.png)</figure>Stoklar tükenene kadar **PS5** satın alabilen şanslı oyun severler ya da stokçular, ikinci el ilan sitelerinde PlayStation 5’leri listeledi.
 
 Sony’nin tavsiye edilen satış fiyatını 8.299 TL olarak duyurduğu oyun konsolunun fiyatı 15 bin liraları gördü. Resmi satış fiyatının iki katına yakın bir fiyatla satılıyor.

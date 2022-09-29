@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '86'
-image: /wp-content/uploads/2020/02/iphone-8.jpg
+image: images/iphone-8.jpg
 categories:
     - Apple
     - Mobil

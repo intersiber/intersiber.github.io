@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8580'
 permalink: /twitter-trumpin-paylastigi-videoyu-manipule-edilmis-medya-olarak-isaretleyerek-kaldirdi/
 post_views_count:
     - '57'
-image: /wp-content/uploads/2020/06/twitter-donald-trump-in-paylastigi-bir-videoyu-manipule-edilmis-medya-olarak-isaretledikten-sonra-kaldirdi.jpg
+image: images/twitter-donald-trump-in-paylastigi-bir-videoyu-manipule-edilmis-medya-olarak-isaretledikten-sonra-kaldirdi.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ ABD Başkanı **Donald Trump**’ın, seçildiği günden bu yana sert eleştiri
 
 CNN’den bir görüntü gibi görünen video, Trump tarafından paylaşıldıktan sonra Twitter’da, “manipüle edilmiş medya” olarak işaretlendi. Cuma günü ise, telif hakkı sahibinden gelen bir raporun ardından, Twitter içeriği tamamen kaldırdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/twitter-donald-trump-in-paylasimini-manipule-edilmis-medya-olarak-kaldirdi.png)</figure>Video, geçtiğimiz yıl viral olan bir video ve **Trump’ın** paylaştığı versiyonu, CNN’de yayınlanmış algısını yaratan bir tasarım içeriyor. Video, **CNN** için Trump’ın sık kullandığı “sahte haberler” kavramını öne çıkarıyor ve CNN ile alay ediyor.
+<figure class="wp-block-image size-large">![](images/twitter-donald-trump-in-paylasimini-manipule-edilmis-medya-olarak-kaldirdi.png)</figure>Video, geçtiğimiz yıl viral olan bir video ve **Trump’ın** paylaştığı versiyonu, CNN’de yayınlanmış algısını yaratan bir tasarım içeriyor. Video, **CNN** için Trump’ın sık kullandığı “sahte haberler” kavramını öne çıkarıyor ve CNN ile alay ediyor.
 
 ## CNN’den açıklama: Sahte videoları tweetlemek yerine, gerçeklerle çalışmaya devam edeceğiz
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/samsung_s20-scaled.jpg
+image: images/samsung_s20-scaled.jpg
 categories:
     - Mobil
 tags:
@@ -27,6 +27,6 @@ Samsung, Droid Life aracılığıyla kendi mağazası için alışılmadık bir 
 
 Piyasaya sürüldükten iki yıl sonra kullanılmış **Samsung** telefonunun piyasa değeri göz önüne alındığında bu oldukça büyük bir anlaşma olabilir. Örneğin piyasaya sürüldüğünde 720 dolara mal olan Galaxy S9, Amazon’da şu anda 270 doların altında kolayca bulunabiliyor. Bugün 1400 dolara 128 GB’lık bir Galaxy S20 Ultra satın alıp, 24 ay sonunda 700 dolara iade alma durumu da kullanıcılara oldukça cazip gelecek gibi görünüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/samsung_s20-1.jpg)</figure>Elbette bu program için bazı şartlar bulunuyor. Telefonun, Samsung’un “normal aşınma ve yıpranmanın ötesinde” zarar görmemiş olması ve tam çalışır durumda olarak tanımladığı “tatmin edici durumda” olacak şekilde iade edilmesi gerekiyor.
+<figure class="wp-block-image size-large">![](images/samsung_s20-1.jpg)</figure>Elbette bu program için bazı şartlar bulunuyor. Telefonun, Samsung’un “normal aşınma ve yıpranmanın ötesinde” zarar görmemiş olması ve tam çalışır durumda olarak tanımladığı “tatmin edici durumda” olacak şekilde iade edilmesi gerekiyor.
 
 Ayrıca S20’yi şu anda 200 dolarlık indirimle 799 dolardan satın alabilirsiniz. Ancak normal fiyatını (999 $) ödemediğiniz sürece geri alım programından yararlanamayacaksınız.

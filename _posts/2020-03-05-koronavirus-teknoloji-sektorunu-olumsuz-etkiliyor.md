@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/koronavirus-teknoloji-sektorunu-olumsuz-etkiliyor.jpg
+image: images/koronavirus-teknoloji-sektorunu-olumsuz-etkiliyor.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ tags:
 
 Telefon üreticilerinden, işlemci geliştiricilerine kadar her alanda teknoloji sektörü bir daralma yaşıyor. Üretiminin kimi noktalarda durma noktasına geldiği bugünlerde fiyatlar da yükseliyor. Özellikle AMD işlemcilerin maliyeti 200 dolardan 240 dolara kadar yükselmiş durumda.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/koronavirus-teknoloji-sektorunu-olumsuz-etkiliyor-2.jpg)</figure>## Teknoloji Sektöründe Daralma 
+<figure class="wp-block-image size-large">![](images/koronavirus-teknoloji-sektorunu-olumsuz-etkiliyor-2.jpg)</figure>## Teknoloji Sektöründe Daralma 
 
 Virüsten finansal olarak en çok etkilenen sektör teknoloji sektörü oldu. Amazon 10 milyar dolardan fazla zarara uğradığını açıklarken tedavinin en kısa sürede bulunmasının umut edildiğini belirtti. Bir yandan mobil telefon sektörü de durma noktasına geldi. Uzmanlar en az %10’luk bir daralma beklendiğini duyurdu.
 

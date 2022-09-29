@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8011'
 permalink: /segadan-60-yilina-ozel-retro-kutlama-the-game-gear-micro/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/06/sega-dan-60-nci-yilina-ozel-kutlama-the-game-gear-micro.png
+image: images/sega-dan-60-nci-yilina-ozel-kutlama-the-game-gear-micro.png
 categories:
     - Oyun
 tags:
@@ -23,4 +23,4 @@ Mikro oyun konsolunda hangi oyunların yer alacağı henüz net değil ancak Jap
 
 ## Fiyatı ne kadar olacak?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/sega-game-gear-micro-ozellikleri.png)</figure>**Sega**, Game Gear Micro’nun dört farklı renk seçeneği ile (siyah, mavi, sarı ve kırmızı) geleceğini ve bu yıl içinde, 6 Ekim’de piyasaya çıkacağını aktardı. **Oyun** **konsolunun** Japonya’daki satış fiyatı yaklaşık 5000 Yen, yani 50 dolar olacak. 336 Türk lirasına tekabül eden fiyat, ülkemizde de bu retro heyecanı yaşamak isteyen olursa, uygun fiyatlı bir alternatif gibi görünüyor.
+<figure class="wp-block-image size-large">![](images/sega-game-gear-micro-ozellikleri.png)</figure>**Sega**, Game Gear Micro’nun dört farklı renk seçeneği ile (siyah, mavi, sarı ve kırmızı) geleceğini ve bu yıl içinde, 6 Ekim’de piyasaya çıkacağını aktardı. **Oyun** **konsolunun** Japonya’daki satış fiyatı yaklaşık 5000 Yen, yani 50 dolar olacak. 336 Türk lirasına tekabül eden fiyat, ülkemizde de bu retro heyecanı yaşamak isteyen olursa, uygun fiyatlı bir alternatif gibi görünüyor.

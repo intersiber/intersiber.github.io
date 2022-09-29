@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/corona-virüsü-1.jpg
+image: images/corona-virusu-1.jpg
 categories:
     - Genel
 tags:
@@ -26,6 +26,6 @@ Microsoft Bing yetkilisi Michael Schechter, şirketin her geçen saat daha fazla
 
 **Corona virüsü** hakkında kullanıcıları sık sık bilgilendirmek ve dünyadaki sahte haberlerin önüne geçmek için [bing.com/covid](https://bing.com/covid) isimli bir sayfa oluşturduklarını, bu saydada corona virüsü vakalarının ülkelere göre canlı ve gerçek rakamlarla dağıtımını yaptıklarını belirten yetkili, ”kullanıcılar hangi ülkede ne kadar vaka olduğunu canlı olarak görebilecek, haberlere anında ulaşabilecek” dedi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/bing.png)</figure>Corona virüsü salgınının giderek daha fazla artığı bu dönemde özellikle birçok internet kullanıcısı sahte haberlerle karşı karşıya kalıyor, bu haberler bazen sirke suyunun, sarımsak gibi gıdaların virüsten koruduğunu iddia eden spam içeriklerle dolup taşıyor.
+<figure class="wp-block-image size-full">![](images/bing.png)</figure>Corona virüsü salgınının giderek daha fazla artığı bu dönemde özellikle birçok internet kullanıcısı sahte haberlerle karşı karşıya kalıyor, bu haberler bazen sirke suyunun, sarımsak gibi gıdaların virüsten koruduğunu iddia eden spam içeriklerle dolup taşıyor.
 
 Michael Schechter, kullanıcıların bu hizmet üzerinden WHO, CDC gibi kurumlardan aldıkları anlık bilgilerle güncelledikleri sayfa sayesinde doğru rakamlara ulaşabileceklerini açıkladı.

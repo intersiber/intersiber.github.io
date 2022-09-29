@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5352'
 permalink: /bilim-insanlari-bocek-benzeri-robotlari-dakikalar-icinde-3d-olarak-basabilecek/
 post_views_count:
     - '38'
-image: /wp-content/uploads/2020/04/uc-scaled.jpg
+image: images/uc-scaled.jpg
 categories:
     - Genel
 tags:
@@ -23,6 +23,6 @@ Araştırmacılar, sert bir robot gövdesine yumuşak malzemelerin nasıl eklene
 
 Her bir flekso-iskelet bileşeninin yazdırılması yaklaşık **10 dakika** sürüyor ve tamamen monte edilmiş bir bot iki saatten daha kısa sürede hazır oluyor. Tek bir parçanın maliyeti **1$**‘dan daha az. İskelette, işlem gücü, sensörler ve pil en pahalı parçalar olabilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/flexoskeletons.jpg)</figure>UC San Diego’daki Jacobs Mühendislik Fakültesi’nde makine mühendisliği profesörü **Nick Gravish**, “Bu flekso iskeletlerin yeni bir yumuşak, biyo-ilham robot sınıfının yaratılmasına yol açacağını umuyoruz. Dünyanın dört bir yanındaki araştırmacılar için yumuşak robotların inşa edilmesini kolaylaştırmak istiyoruz.” dedi.
+<figure class="wp-block-image size-large">![](images/flexoskeletons.jpg)</figure>UC San Diego’daki Jacobs Mühendislik Fakültesi’nde makine mühendisliği profesörü **Nick Gravish**, “Bu flekso iskeletlerin yeni bir yumuşak, biyo-ilham robot sınıfının yaratılmasına yol açacağını umuyoruz. Dünyanın dört bir yanındaki araştırmacılar için yumuşak robotların inşa edilmesini kolaylaştırmak istiyoruz.” dedi.
 
 Bu, başlangıçta araştırmacıların hızlı ve kolay bir şekilde robotlar oluşturmasına yardımcı olacak bir proje, ancak nihai amaç, insan katılımı olmadan robotları toplu olarak üretmektir. Projede en azından büyük, monolitik makinelerin yanı sıra daha düşük maliyet ve daha az riskle görevleri yerine getirebilen robot yapmak amaçlandı.

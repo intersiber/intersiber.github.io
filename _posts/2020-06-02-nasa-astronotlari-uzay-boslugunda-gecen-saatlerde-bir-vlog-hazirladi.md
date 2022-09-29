@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7950'
 permalink: /nasa-astronotlari-uzay-boslugunda-gecen-saatlerde-bir-vlog-hazirladi/
 post_views_count:
     - '64'
-image: /wp-content/uploads/2020/06/nasa-astronotlari-uzay-boslugunda-gecen-saatlerde-bir-vlog-hazirladi.png
+image: images/nasa-astronotlari-uzay-boslugunda-gecen-saatlerde-bir-vlog-hazirladi.png
 categories:
     - Uzay
     - Video
@@ -19,7 +19,7 @@ tags:
 
 NASA astronotları **Bob** **Behnken** ve **Doug** **Hurley**, Cumartesi günü ABD’nin Florida eyaletinde gerçekleşen **SpaceX**–**NASA** ortak çalışması ile, Uluslararası Uzay İstasyonu’na gitti. Astronotlar, yörüngeye ulaştıktan sonra ISS’e adım atabilmek için yaklaşık 19 saat beklediler.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/nasa-astronotlari-bob-behnken-doug-hurley.jpg)</figure>## Yörüngede geçen 19 saat
+<figure class="wp-block-image size-large">![](images/nasa-astronotlari-bob-behnken-doug-hurley.jpg)</figure>## Yörüngede geçen 19 saat
 
 Hurley ve Behnken, geçen sürede hem uzak kapsülü Crew Dragon’ı hem de kendilerini, görevi anlattıkları bir vlog hazırladı. **Crew** **Dragon’da** çekilen video, **NASA** **Youtube** hesabından yayınlandı.
 

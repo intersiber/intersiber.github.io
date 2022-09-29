@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/whatsapp.png
+image: images/whatsapp.png
 categories:
     - Mobil
 tags:
@@ -32,7 +32,7 @@ WhatsApp dünyanın en çok kullanılan anlık mesajlaşma uygulamasıdır. What
 
 Daha yeni sistem sürümlerine sahip bir cihaz kullanıyorsanız, bir sonraki duyuruya kadar WhatsApp’ı kullanmaya devam edebilirsiniz. 1 Şubat 2020’den bu yana, bu eski sürümlerde tekrar kaydolmak veya mevcut bir hesabı kullanmak mümkün değil. Siz veya tanıdığınız birisi WhatsApp ile eski bir akıllı telefon kullanıyorsa, geri alamayacağınız için artık WhatsApp’ı kaldırmamalı veya hesabı silmemelisiniz. Durum Windows Phone işletim sistemini kullananlar için çok daha kötü. 1 Ocak 2020’den beridir Windows Phone artık WhatsApp desteği almıyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/whatsapp-karanlik-mod.png)</figure>Android Gingerbread neredeyse dokuz yaşında ve 2019’da hala tedavüldeki tüm Android akıllı telefonların yüzde 0,3’ünde çalışıyor. En yaygın sürüm, yüzde 28,3 payla Android 8 Oreo.
+<figure class="wp-block-image size-full">![](images/whatsapp-karanlik-mod.png)</figure>Android Gingerbread neredeyse dokuz yaşında ve 2019’da hala tedavüldeki tüm Android akıllı telefonların yüzde 0,3’ünde çalışıyor. En yaygın sürüm, yüzde 28,3 payla Android 8 Oreo.
 
 Apple, mobil cihazları için güncellemelerini her zaman uzun bir süre kullanıma sunuyor. En son sürüm iOS 13, tüm cihazların yaklaşık yüzde 70’ini kapsıyor. Yalnızca yüzde 7’si iOS 12’den daha eski bir iOS sürümü kullanıyor. Bu nedenle iOS 8’in şu anki payı neredeyse çok az.
 

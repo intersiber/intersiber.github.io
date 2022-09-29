@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/veri-ihlallerine-14-milyon-lira-ceza-kesildi-scaled.jpg
+image: images/veri-ihlallerine-14-milyon-lira-ceza-kesildi-scaled.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ tags:
 
 12 Ocak 2017’de göreve başlayarak 2017 yılının haziran ayından itibaren karar verme sürecine geçen Kişisel Verilerin Korunması Kanunu kapsamında hizmet veren **KVKK**, kişisel verileri işlenen şahıs şikayetleri ile birlikte veri sorumlularının görevlerini yerine getirip getirmediğine dair resen inceleme yapmaya başladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/7ba4ae23fcd3355c6a6991234c8e2fb5.jpeg)</figure>## **Kurul Tarafından Kesilmiş Ceza Örnekleri**
+<figure class="wp-block-image size-large">![](images/7ba4ae23fcd3355c6a6991234c8e2fb5.jpeg)</figure>## **Kurul Tarafından Kesilmiş Ceza Örnekleri**
 
 2019 yılının sonu itibarıyla veri ihlal bildirimi 167 olmak üzere Kişisel Verileri Koruma Kurumu’na 3 bin 585 başvuru yapıldı. Başvuruların 2 bin 401’i sonuçlandırılarak veri ihlal tespitleri olan başvurulara karşı ‘’Kişisel Verilerin Korunması Kanunu’’kapsamında idari para cezası verilmesine hükmetti. İhlal belirlenmesi durumunda veri sorumluları ‘’72 saat’’ içinde bildirim yapmak zorunda olduğu için bu sürede bildiriminde bulunmayan birimlere toplamda 14 milyon 100 bin TL idari para cezası uygulandı.
 

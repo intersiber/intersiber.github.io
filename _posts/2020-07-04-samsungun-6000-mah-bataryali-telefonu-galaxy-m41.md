@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8908'
 permalink: /samsungun-6000-mah-bataryali-telefonu-galaxy-m41/
 post_views_count:
     - '71'
-image: /wp-content/uploads/2020/07/IMG_0051.jpeg
+image: images/IMG_0051.jpeg
 categories:
     - Mobil
 tags:
@@ -21,6 +21,6 @@ Teknoloji devi **Samsung, Galaxy** **M** serisi telefonlarına yeni bir model da
 
 **Galaxy** **M** serisi telefonlarının batarya kapasitesinde 6.000 mAh eşiğini aşan **Samsung** yeni modeliyle çıtayı **7.000 mAh**’a yükseltmeyi hedefliyor gibi duruyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/07/05AA37C7-2037-45CA-BC9C-BB8ECCD1D466-1600x950.jpeg)</figure>Çinli 3C sertifikasyon kurumunun veritabanında ortaya çıkan bilgilere göre **Galaxy M41**, **6.800 mAh** değerindeki batarya kapasitesiyle birlikte gelecek. Cihaz bu kapasitedeki ilk telefon ünvanını sahip olacak.
+<figure class="wp-block-image size-large">![](images/05AA37C7-2037-45CA-BC9C-BB8ECCD1D466-1600x950.jpeg)</figure>Çinli 3C sertifikasyon kurumunun veritabanında ortaya çıkan bilgilere göre **Galaxy M41**, **6.800 mAh** değerindeki batarya kapasitesiyle birlikte gelecek. Cihaz bu kapasitedeki ilk telefon ünvanını sahip olacak.
 
 Yeni modelinde batarya kapasitesini iki katına çıkaran **Samsung** tedarik sorunu ile henüz üretiminİ başlatamadığı **Galaxy M41**’in tedarik sorununun çözüldüğünü ve en kısa zamanda üretimine başlayacağını söylüyor.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5753'
 permalink: /uber-connect-ve-direct-hizmetlerini-tanitti/
 post_views_count:
     - '149'
-image: /wp-content/uploads/2020/04/uber-direct-ve-connect-hizmetlerini-tanitti.jpeg
+image: images/uber-direct-ve-connect-hizmetlerini-tanitti.jpeg
 categories:
     - Genel
     - Girişim
@@ -22,7 +22,7 @@ Uber, dünya genelinde etkilerini sürdüren covid-19 salgınıyla talebin azalm
 
 ## Koronavirüs ile mücadelede önemli adımlar
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/uber-koronavirusten-nasil-etkilendi.jpeg)</figure>**Uber, koronavirüs** salgınının ABD’deki merkezi New York’ta ilaç teslimatları sunacağını açıklarken, Portekiz’de ise koli teslimatları için ulusal posta servisi CTT ile birlikte çalışıyor. Avustralya’da evcil hayvan malzemeleri dağıtmak için Yeşil Haç ile çalışan Uber, Güney Afrika’da da ilaç dağıtımı yapıyor. Şirket, virüsün yayılımını önlemek için tüm teslimatların temassız gerçekleşeceğini de ekledi.
+<figure class="wp-block-image size-large">![](images/uber-koronavirusten-nasil-etkilendi.jpeg)</figure>**Uber, koronavirüs** salgınının ABD’deki merkezi New York’ta ilaç teslimatları sunacağını açıklarken, Portekiz’de ise koli teslimatları için ulusal posta servisi CTT ile birlikte çalışıyor. Avustralya’da evcil hayvan malzemeleri dağıtmak için Yeşil Haç ile çalışan Uber, Güney Afrika’da da ilaç dağıtımı yapıyor. Şirket, virüsün yayılımını önlemek için tüm teslimatların temassız gerçekleşeceğini de ekledi.
 
 Uber Connect’in Avustralya, Meksika ve ABD’de yer alan 25’ten fazla şehirde hayata geçeceği aktarıldı. Uber, aynı gün teslimat sunacak hizmetin, temas olmadan gerçekleşeceğini söyledi.
 

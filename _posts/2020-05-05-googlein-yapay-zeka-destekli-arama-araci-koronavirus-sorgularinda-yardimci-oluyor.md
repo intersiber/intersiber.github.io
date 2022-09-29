@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6422'
 permalink: /googlein-yapay-zeka-destekli-arama-araci-koronavirus-sorgularinda-yardimci-oluyor/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/05/google-in-yapay-zeka-destekli-arama-araci-koronavirus-sorgularinda-yardimci-oluyor.png
+image: images/google-in-yapay-zeka-destekli-arama-araci-koronavirus-sorgularinda-yardimci-oluyor.png
 categories:
     - Genel
 tags:
@@ -19,7 +19,7 @@ Google’ın yapay zeka ekibi, araştırmacıların koronavirüsle ilgili makale
 
 **Google** ekibi, geleneksel arama motorlarının “Koronavirüsün belirtileri nelerdir” gibi sorguları yanıtlamak için yeterli olduğunu söylüyor. Bunun yanı sıra, “Bulunduğum şehirde nerede test olabilirim” gibi sorgular için de, arama motorlarının yeterli olduğu belirtiliyor. Ancak araştırmacılar bu alanda daha farklı sorguları yapabiliyor ve anahtar kelime tabanlı aramalar, istenilen sonucu vermeyebiliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-yapay-zeka-arama-araci.jpg)<figcaption>Artificial Intelligence digital concept</figcaption></figure>**Google’ın** **AI** destekli yeni aracı, araştırmacıların bu sorununu çözmeye yardımcı oluyor. **CORD-19** veritabanı, koronavirüsle ilgili 50 binin üzerinde dergi makalesine ve araştırma içeriğine sahip. Basit bir anahtar kelime araması istenen sonucu vermezken, **Google** bu arama sorgularında Doğal Dil Anlama (NLU) tabanlı bir anlamsal yapı kullanıyor.
+<figure class="wp-block-image size-large">![](images/google-yapay-zeka-arama-araci.jpg)<figcaption>Artificial Intelligence digital concept</figcaption></figure>**Google’ın** **AI** destekli yeni aracı, araştırmacıların bu sorununu çözmeye yardımcı oluyor. **CORD-19** veritabanı, koronavirüsle ilgili 50 binin üzerinde dergi makalesine ve araştırma içeriğine sahip. Basit bir anahtar kelime araması istenen sonucu vermezken, **Google** bu arama sorgularında Doğal Dil Anlama (NLU) tabanlı bir anlamsal yapı kullanıyor.
 
 **NLU** (Native Language Processing) sistemi, sorunun anlamını analiz ediyor ve farklı yaklaşımlar geliştirmeye çalışıyor. Sistem, doğal dil işleme NLP’nin bir alt kümesi.
 

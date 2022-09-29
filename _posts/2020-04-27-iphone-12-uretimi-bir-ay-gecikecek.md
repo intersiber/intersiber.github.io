@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6089'
 permalink: /iphone-12-uretimi-bir-ay-gecikecek/
 post_views_count:
     - '54'
-image: /wp-content/uploads/2020/04/iphone-12-uretimi-bir-ay-gecikecek.jpeg
+image: images/iphone-12-uretimi-bir-ay-gecikecek.jpeg
 categories:
     - Apple
 tags:
@@ -20,7 +20,7 @@ Apple’ın yakın dönemde çıkması beklenen amiral gemisi modeli **iPhone 12
 
 ## Yeni modeller eylül ayında tanıtılıyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/iphone-12-ne-zaman-tanitilacak.jpeg)</figure>**Apple**, **yeni** **iPhone** lansmanını genellikle Eylül ayı içinde yapıp, ay sonuna doğru da cihazları teslim etmeye başlıyor. Ancak bu uygulama, yaz aylarındaki etkin seri üretim ile yapılabiliyordu. Böylece şirket, perakendecilere iPhone’ları hızlı bir şekilde gönderebiliyordu.
+<figure class="wp-block-image size-large">![](images/iphone-12-ne-zaman-tanitilacak.jpeg)</figure>**Apple**, **yeni** **iPhone** lansmanını genellikle Eylül ayı içinde yapıp, ay sonuna doğru da cihazları teslim etmeye başlıyor. Ancak bu uygulama, yaz aylarındaki etkin seri üretim ile yapılabiliyordu. Böylece şirket, perakendecilere iPhone’ları hızlı bir şekilde gönderebiliyordu.
 
 Gelen bilgilere göre, seri üretimde yaşanan gecikmeler lansman tarihini etkilemeyebilir. Zira Temmuz ayından Eylül ayına kadar aralıksız, yeni telefon üretimi sürecek. Ancak seri üretimdeki gecikmenin tek etkisi, arzdaki bir kısıntı olabilir. Yani yeni telefon modelleri, satış kanallarında sınırlı sayıda yer alabilir.
 

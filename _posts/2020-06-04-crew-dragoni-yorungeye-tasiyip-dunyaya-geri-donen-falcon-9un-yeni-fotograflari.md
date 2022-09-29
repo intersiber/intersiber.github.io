@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8069'
 permalink: /crew-dragoni-yorungeye-tasiyip-dunyaya-geri-donen-falcon-9un-yeni-fotograflari/
 post_views_count:
     - '75'
-image: /wp-content/uploads/2020/06/crew-dragon-i-yorungeye-tasiyip-geri-donen-space-x-roketi-falcon-9-un-yeni-fotograflari-scaled.jpeg
+image: images/crew-dragon-i-yorungeye-tasiyip-geri-donen-space-x-roketi-falcon-9-un-yeni-fotograflari-scaled.jpeg
 categories:
     - Uzay
 tags:
@@ -24,7 +24,7 @@ tags:
 
 ## Falcon 9’un görev sonrası fotoğrafları
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/space-x-falcon-9-roketi-1600x1067.jpeg)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/nasa-space-x-falcon-9-roketi-1067x1600.jpeg)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/falcon-9-dunyaya-donus-ani-1067x1600.jpeg)</figure>## Tarihi göreve imza atan roket sergilenecek
+<figure class="wp-block-image size-large">![](images/space-x-falcon-9-roketi-1600x1067.jpeg)</figure><figure class="wp-block-image size-large">![](images/nasa-space-x-falcon-9-roketi-1067x1600.jpeg)</figure><figure class="wp-block-image size-large">![](images/falcon-9-dunyaya-donus-ani-1067x1600.jpeg)</figure>## Tarihi göreve imza atan roket sergilenecek
 
 **SpaceX’in**, Hawthorne’daki tesisinin dışında sergilenen Falcon 9, ABD’nin 2011 yılından bu yana ilk defa kendi topraklarından uzaya astronot göndermesini sağladı. Şirket ve kurucusu **Elon** **Musk**, ABD’de kahraman ilan edildi.
 

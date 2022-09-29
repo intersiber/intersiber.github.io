@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/candy-crush-saga-2.jpg
+image: images/candy-crush-saga-2.jpg
 categories:
     - Oyun
 tags:
@@ -28,6 +28,6 @@ Mobil dünyanın en fazla kazanan oyun şirketlerinden olan King, COVID-19 koron
 
 Bu dönemde özellikle COVID-19 vakalarının giderek artıyor olması, başta ABD olmak üzere dünya genelinde insanların izolasyon çağrılarına uymayarak evlerinde kalmamaları nedeniyle Dünya Sağlık Örgütü’nün tavsiyeleri ve hükümetlerin önlemleri başta olmak üzere birçok şirket insanları evde tutmaya çalışıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/Candy-crush-saga-1600x1000.jpg)</figure>King ise bu kapsamda ***Candy Crush Saga , Candy Crush Soda Saga , Candy Crush Jelly Saga , Candy Crush Friends Saga , Farm Heroes Saga , Bubble Witch 3 Saga ve Pet Rescue Saga*** oyunlarında 5 Nisan’a kadar sınırsız can hakkı sunarak kullanıcıların evlerinde izolasyon sürecinde sıkılmadan vakit geçirmelerini hedefliyor.
+<figure class="wp-block-image size-large">![](images/Candy-crush-saga-1600x1000.jpg)</figure>King ise bu kapsamda ***Candy Crush Saga , Candy Crush Soda Saga , Candy Crush Jelly Saga , Candy Crush Friends Saga , Farm Heroes Saga , Bubble Witch 3 Saga ve Pet Rescue Saga*** oyunlarında 5 Nisan’a kadar sınırsız can hakkı sunarak kullanıcıların evlerinde izolasyon sürecinde sıkılmadan vakit geçirmelerini hedefliyor.
 
 En zor bölümlerin geçilmesi bu sayede çok daha kolay hale geleceği gibi, milyonlarca insan sırf bu sebeple bile evlerinde kalmak için bir motivasyon edinecek gibi görünüyor.

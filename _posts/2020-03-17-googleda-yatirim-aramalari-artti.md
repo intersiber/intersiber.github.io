@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/google-1.jpg
+image: images/google-1.jpg
 categories:
     - Genel
 tags:
@@ -25,6 +25,6 @@ Yatırımcılar Google’da yaptıkları yatırım aramalarında büyük bir art
 
 Arama motoru devi Google’ın belirli aralıklarla güncellenen arama trendleri sayfası verilerine göre kullanıcılar aynı zamanda en fazla aramayı “dezenfektan, kolonya, corona, corona virüsü, korona virüsü, dezenfektan önlemleri” gibi kelimeler üzerinden yaptılar.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/google-2-1600x851.png)</figure>## Vatandaşlar Evden Çıkmak İstemiyor
+<figure class="wp-block-image size-large">![](images/google-2-1600x851.png)</figure>## Vatandaşlar Evden Çıkmak İstemiyor
 
 Vatandaşların en çok aradıkları arasında ayrıca “evden gıda siparişi, internetten gıda siparişi vermek” gibi aramalarda da bu dönemde artış yaşanmaya başlamış durumda. Evden çıkma yasağının henüz uygulanmadığı Türkiye’de corona virüsüne karşı vatandaşların aldığı önlemler görünüşe göre artış gösteriyor.

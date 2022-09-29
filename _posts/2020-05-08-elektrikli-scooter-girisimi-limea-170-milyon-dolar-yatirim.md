@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6629'
 permalink: /elektrikli-scooter-girisimi-limea-170-milyon-dolar-yatirim/
 post_views_count:
     - '105'
-image: /wp-content/uploads/2020/05/elektrikli-scooter-girisimi-lime-a-170-milyon-dolar-yatirim.jpeg
+image: images/elektrikli-scooter-girisimi-lime-a-170-milyon-dolar-yatirim.jpeg
 categories:
     - Girişim
 tags:
@@ -24,7 +24,7 @@ Lime’ın yeni yatırım turunda Google’ın yatırım şirketi olan Google Ve
 
 ## Değerlemesi 500 milyon doların üzerinde
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/lime-nedir-elektrikli-scooter-girisimleri.jpg)</figure>Yeni yatırım turunun ardından, **Lime’ın** piyasa değerlemesi ile ilgili bir açıklama yapılmazken, şirketin değerlemesinin 510 milyon dolar olduğu ifade ediliyor.
+<figure class="wp-block-image size-large">![](images/lime-nedir-elektrikli-scooter-girisimleri.jpg)</figure>Yeni yatırım turunun ardından, **Lime’ın** piyasa değerlemesi ile ilgili bir açıklama yapılmazken, şirketin değerlemesinin 510 milyon dolar olduğu ifade ediliyor.
 
 Şirkette CEO görevini yürüten Brad Bao, yerini Lime’ın global operasyonundan sorumlu olan Wayne Ting’e bıraktı. Eski CEO, yönetim kurulundaki görevini sürdürmeye devam edecek.
 

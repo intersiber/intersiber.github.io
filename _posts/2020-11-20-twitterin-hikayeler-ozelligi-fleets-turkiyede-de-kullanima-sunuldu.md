@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9730'
 permalink: /twitterin-hikayeler-ozelligi-fleets-turkiyede-de-kullanima-sunuldu/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/11/twitter-in-hikayeler-ozelligi-fleets-turkiye-de-de-kullanima-sunuldu.png
+image: images/twitter-in-hikayeler-ozelligi-fleets-turkiye-de-de-kullanima-sunuldu.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -27,4 +27,4 @@ Sosyal medyanın popüler içerik türü olan Fleets, artık neredeyse tüm sosy
 
 ## Twitter hikayeler Türkiye’de: Nasıl görünüyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/twitter-hikayeler-ozelligi.jpeg)</figure>Bugün itibariyle Twitter kullanıcıları, Hikayeler özelliği olan Fleets’i kullanabilmeye başladı. Özellik, meraklı kullanıcılar tarafından test edilirken, Twitter’da bu işlevin ne kadar başarılı olup olmayacağını zamanla göreceğiz.
+<figure class="wp-block-image size-large">![](images/twitter-hikayeler-ozelligi.jpeg)</figure>Bugün itibariyle Twitter kullanıcıları, Hikayeler özelliği olan Fleets’i kullanabilmeye başladı. Özellik, meraklı kullanıcılar tarafından test edilirken, Twitter’da bu işlevin ne kadar başarılı olup olmayacağını zamanla göreceğiz.

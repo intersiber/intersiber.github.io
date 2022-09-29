@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/xiaomi-mi-10-pro-scaled.jpg
+image: images/xiaomi-mi-10-pro-scaled.jpg
 categories:
     - Mobil
 tags:
@@ -26,7 +26,7 @@ tags:
 
 Xiaomi 23 Şubat’ta Barcelona’da başlayacak **Mobil Dünya Kongresi**nden hemen öncesinde bir etkinliğe ev sahipliği yapacak. Düzenlenecek lansmanda Xiaomi’nin yeni nesil amiral gemisi akıllı telefonu Mi 10 serisi tanıtılacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/xiaomi-yeni-urun-lansmani.jpeg)<figcaption>Görsel: Xiaomi Türkiye</figcaption></figure>## Xiaomi Mi 10 Serisi Özellikleri Hakkında Bilinenler
+<figure class="wp-block-image size-large">![](images/xiaomi-yeni-urun-lansmani.jpeg)<figcaption>Görsel: Xiaomi Türkiye</figcaption></figure>## Xiaomi Mi 10 Serisi Özellikleri Hakkında Bilinenler
 
 Mi 10 serisi iki farklı modelde gelecek. Her iki telefonun da Qualcomm **Snapdragon 865** yonga seti ile gelmesi bekleniyor. Bu gelişme şirketin daha önce duyurduğu Snapdragon 865 ile çalışan bir cihazı ilk piyasaya süren üretici olma gayretini ispatlar nitelikte.
 

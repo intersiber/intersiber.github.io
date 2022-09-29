@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8479'
 permalink: /whatsapp-brezilyada-odeme-ozelligini-yayinladi/
 post_views_count:
     - '51'
-image: /wp-content/uploads/2020/06/whatsapp-brezilya-da-odeme-ozelligini-yayinladi.png
+image: images/whatsapp-brezilya-da-odeme-ozelligini-yayinladi.png
 categories:
     - Genel
 tags:
@@ -21,6 +21,6 @@ Yapılan açıklamada, “**Whatsapp’ta** ödemeler, bugünden itibaren Brezil
 
 ## Satıcılar işlem ücreti ödeyecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/whatsapp-odeme-ozelligi.jpg)</figure>**Whatsapp**, ödeme hizmetinde kullanıcıların herhangi bir ücret ödemeyeceğini, satıcılarınsa işlem ücreti ödeyeceğini duyurdu. Whatsapp hesaplarına bir kredi kartı ya da banka kartı ile girilecek ödeme bilgileri, parmak izi ya da PIN ile güvence alına alınacak. Şirket, Brezilya’da Banco de Brasil, Nubank ve Sicredi’deki kartları destekleyeceğini açıkladı.
+<figure class="wp-block-image size-large">![](images/whatsapp-odeme-ozelligi.jpg)</figure>**Whatsapp**, ödeme hizmetinde kullanıcıların herhangi bir ücret ödemeyeceğini, satıcılarınsa işlem ücreti ödeyeceğini duyurdu. Whatsapp hesaplarına bir kredi kartı ya da banka kartı ile girilecek ödeme bilgileri, parmak izi ya da PIN ile güvence alına alınacak. Şirket, Brezilya’da Banco de Brasil, Nubank ve Sicredi’deki kartları destekleyeceğini açıkladı.
 
 2 milyarın üzerinde aktif kullanıcısı olan Whatsapp, bir süredir dijital ödeme altyapısı üzerinde çalışıyordu. 2018 yılında Hindistan’da başlayan kapalı beta sürümün, diğer ülkelere de sunulması bekleniyor.

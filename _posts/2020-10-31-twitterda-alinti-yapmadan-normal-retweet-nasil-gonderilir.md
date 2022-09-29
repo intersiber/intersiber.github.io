@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9452'
 permalink: /twitterda-alinti-yapmadan-normal-retweet-nasil-gonderilir/
 post_views_count:
     - '78'
-image: /wp-content/uploads/2020/10/twitter-da-alinti-yapmadan-normal-retweet-nasil-gonderilir.jpg
+image: images/twitter-da-alinti-yapmadan-normal-retweet-nasil-gonderilir.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -30,6 +30,6 @@ Neyse ki, **alıntı yapmadan retweet** yapmak hala oldukça basit bir işlem.
 - Bunu yapmak için, Twitter web sitesi ya da uygulamasındaki normal retweet butonuna tıklamanız ya da dokunmanız yeterli.
 - Twitter size alıntı tweet penceresini gösterecek ve yorum eklemenizi isteyecektir. Buraya hiçbir şey yazmayın ve “retweet” butonuna basın.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/twitter-alinti-yapmadan-retweet.png)</figure>- Metin kutusuna hiçbir şey yazmamanız durumunda, alıntılı retweet yerine, normal retweet gönderilecektir.
+<figure class="wp-block-image size-large">![](images/twitter-alinti-yapmadan-retweet.png)</figure>- Metin kutusuna hiçbir şey yazmamanız durumunda, alıntılı retweet yerine, normal retweet gönderilecektir.
 
 Bu yeni özellik, dünya genelinde Ekim ayının ortasında uygulandı. Twitter, ABD seçimlerinin ardından bu özelliğin devam edip etmeyeceğine ilişkin karar verecek.

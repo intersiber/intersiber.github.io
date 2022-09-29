@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/xbox-series-x-teknik-ozellikler.png
+image: images/xbox-series-x-teknik-ozellikler.png
 categories:
     - Konsol
 tags:
@@ -39,6 +39,6 @@ Microsoft, **Series X**‘in özel işlemcisinin “Xbox One X’in sekiz katın
 - Optik Sürücü 4K UHD Blu-Ray Sürücü
 - Performans Hedefi 4K’da 120 FPS’ye kadar
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/microsoft-xbox-series-x-teknik-ozellikleri-1600x900.jpg)</figure>Blog gönderisi, eski **Xbox** oyunlarını “gelişmiş önyükleme ve yükleme süreleri, daha kararlı kare hızları, daha yüksek çözünürlükler ve gelişmiş yeniliklerle” oynayabilme gibi çeşitli yeni donanım özelliklerini tartışmaya devam ediyor.
+<figure class="wp-block-image size-large">![](images/microsoft-xbox-series-x-teknik-ozellikleri-1600x900.jpg)</figure>Blog gönderisi, eski **Xbox** oyunlarını “gelişmiş önyükleme ve yükleme süreleri, daha kararlı kare hızları, daha yüksek çözünürlükler ve gelişmiş yeniliklerle” oynayabilme gibi çeşitli yeni donanım özelliklerini tartışmaya devam ediyor.
 
 Bahsedilen diğer donanım özellikleri; yeni nesil SSD depolama, Dinamik Gecikme Girişi, HDMI 2.1 destekli değişken yenileme hızları, 120 fps desteği ve daha fazlasını içeriyor.

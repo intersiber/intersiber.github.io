@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7027'
 permalink: /abd-hukumeti-googlea-dava-acacak-yasayan-her-insan-icin-7-bin-veri-noktasi-var/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/05/abd-hukumeti-google-a-dava-acacak-yasayan-her-insan-icin-7-bin-veri-noktasi-var.jpg
+image: images/abd-hukumeti-google-a-dava-acacak-yasayan-her-insan-icin-7-bin-veri-noktasi-var.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Soruşturma, federal ve devlet yetkilileri arasında ciddi bir koordinasyon ile,
 
 ## ‘Google’ın her insan için 7 bin veri noktası var’
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-a-dava-internet-reklamlarinda-tekel.jpg)</figure>Teksas Başsavcısı Ken Paxton, soruşturmanın ana odağının, Google’ın çevrimiçi reklam piyasasındaki geniş erişimi olduğunu söyledi. Paxton, verdiği demeçte “**Google’ın**, hayatta olan hemen her insan için 7 bin veri noktasına sahip olduğunu düşünüyoruz” dedi. Başsavcı ayrıca, şirketin online reklamların satın alma tarafını ve satış tarafını kontrol ettiğini belirterek, verilerin Google’a çok fazla güç verdiğini ifade etti.
+<figure class="wp-block-image size-large">![](images/google-a-dava-internet-reklamlarinda-tekel.jpg)</figure>Teksas Başsavcısı Ken Paxton, soruşturmanın ana odağının, Google’ın çevrimiçi reklam piyasasındaki geniş erişimi olduğunu söyledi. Paxton, verdiği demeçte “**Google’ın**, hayatta olan hemen her insan için 7 bin veri noktasına sahip olduğunu düşünüyoruz” dedi. Başsavcı ayrıca, şirketin online reklamların satın alma tarafını ve satış tarafını kontrol ettiğini belirterek, verilerin Google’a çok fazla güç verdiğini ifade etti.
 
 Soruşturmanın kapsamı, ana odağın reklam piyasası olmasından ötürü Google’ın arama hizmeti. Bu nedenle **Youtube**, **Play Store** ve diğer Google hizmetleri, soruşturma kapsamında yer almıyor.
 

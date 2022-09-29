@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6337'
 permalink: /jiodaki-guvenlik-acigi-koronavirus-semptom-sonuclarini-aciga-cikardi/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/05/jio-daki-guvenlik-acigi-koronavirus-semptom-sonuclarini-aciga-cikardi.png
+image: images/jio-daki-guvenlik-acigi-koronavirus-semptom-sonuclarini-aciga-cikardi.png
 categories:
     - Güvenlik
 tags:
@@ -25,7 +25,7 @@ Ancak veritabanındaki bir **güvenlik** **açığı**, semptom denetleyicisinin
 
 Açık, kodlarda bu şekilde görünüyor:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/jio-koronavirus-test-guvenlik-acigi.png)</figure>Güvenlik araştırmacısı Anurag Sen tarafından 1 Mayıs’ta tespit edilen açık öğrenildikten sonra, veritabanı çevrimdışı duruma getirildi. Ancak veritabanına kimlerin erişip erişmediği bilinmiyor.
+<figure class="wp-block-image size-large">![](images/jio-koronavirus-test-guvenlik-acigi.png)</figure>Güvenlik araştırmacısı Anurag Sen tarafından 1 Mayıs’ta tespit edilen açık öğrenildikten sonra, veritabanı çevrimdışı duruma getirildi. Ancak veritabanına kimlerin erişip erişmediği bilinmiyor.
 
 **Jio** sözcüsü Tushar Pania, hemen harekete geçildiğini ifade ederek “Sunucu, herhangi bir **COVID**–**19** belirtisi olup olmadığını görmek için kendi kendini kontrol eden kişilerin bilgilerini içeriyordu” dedi.
 

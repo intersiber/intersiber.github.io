@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/internet-2-1.jpg
+image: images/internet-2-1.jpg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ Son dönemde insanların eve kapanması ve kendisini dış dünya ile izole etme
 
 ABD internet altyapısı olarak çok iyi durumda olmasından dolayı en ufak bir endişe duymazken, Türkiye’de de altyapı ile ilgili benzer adımların atıldığı iddia edildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/internet-1.jpg)</figure>Aynı zamanda internet kullanımının aşırı artmasına bağlı olarak bazı kullanıcıların bu dönemde geçmişe oranla 3-4 kat daha fazla internet kullanımının olduğu, bazı internet sitelerinin aşırı talep nedeniyle daha yavaş yanıt vermeye başladığı tahmin ediliyor.
+<figure class="wp-block-image size-large">![](images/internet-1.jpg)</figure>Aynı zamanda internet kullanımının aşırı artmasına bağlı olarak bazı kullanıcıların bu dönemde geçmişe oranla 3-4 kat daha fazla internet kullanımının olduğu, bazı internet sitelerinin aşırı talep nedeniyle daha yavaş yanıt vermeye başladığı tahmin ediliyor.
 
 Bir süredir devam eden YouTube ve Netflix çılgınlığı özellikle sosyal medya yorumlarının geçmişte 1 dakikada 10 iken, bugün 50-60 olmasından da rahatlıkla anlaşılıyor.

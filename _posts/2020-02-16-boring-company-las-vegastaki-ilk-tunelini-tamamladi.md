@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/02/the-boring-company-las-vegas-tunel.png
+image: images/the-boring-company-las-vegas-tunel.png
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ tags:
 
 **Elon Musk**‘ın çılgın projelerinden biri olan hızlı ulaşıma olanak sağlayan **Boring Company**, **Las Vegas**‘taki ilk tünelinin kazısını tamamladığını duyurdu. Tünel sayesinde 15 dakikalık yürüme mesafesi yaklaşık 1 dakikada katedilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/the-boring-company-las-vegas-tunel-ces-2021.jpg)</figure>Las Vegas Fuar Alanı Twitter hesabı tarafından yapılan paylaşımda, Boring Company’nin yürüttüğü kazı çalışmasının tamamlandığı duyuruldu. Tünelin taşıma operasyonlarına **Ocak 2021**‘de hazır olacağı ifade edildi.
+<figure class="wp-block-image size-large">![](images/the-boring-company-las-vegas-tunel-ces-2021.jpg)</figure>Las Vegas Fuar Alanı Twitter hesabı tarafından yapılan paylaşımda, Boring Company’nin yürüttüğü kazı çalışmasının tamamlandığı duyuruldu. Tünelin taşıma operasyonlarına **Ocak 2021**‘de hazır olacağı ifade edildi.
 
 <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">> Excavation is complete for the first of two tunnels that will comprise Elon Musk’s innovative underground transportation system beneath the LVCC campus. The project is scheduled to debut in January 2021. [pic.twitter.com/CwpxEWDXYc](https://t.co/CwpxEWDXYc)
 > 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5381'
 permalink: /instagram-canli-yayin-akislari-artik-web-sayfasinda-da-goruntulenebilecek/
 post_views_count:
     - '82'
-image: /wp-content/uploads/2020/04/instagram-canli-yayin-akislari-artik-web-sayfasinda-da-goruntulenebilecek.jpg
+image: images/instagram-canli-yayin-akislari-artik-web-sayfasinda-da-goruntulenebilecek.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -19,6 +19,6 @@ Devam eden pandemi esnasında insanlar **Instagram**, **Facebook** gibi platform
 
 **COVID-19** salgını nedeniyle iptal edilen pek çok konser canlı yayınlarla insanların gösterimine sunulmaya başladı. Pek çok ünlü kendi **Instagram** hesaplarından **canlı yayınlar** açarak takipçileriyle sohbet etmeye, konser vermeye başladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/Instagram-Canlı-Yayın-Akışları-Artık-Web-Sayfasında-da-Görüntülenebilecek-1.jpg)</figure>Instagram’ın bu yeni özelliği ile birlikte şimdiye kadar sadece mobil uygulaması üzerinden izlenebilen canlı yayınları doğrudan **masaüstünden** kolayca izleyebileceksiniz. Ancak masaüstünden yayın başlatamayacaksınız.
+<figure class="wp-block-image size-large">![](images/Instagram-Canlı-Yayın-Akışları-Artık-Web-Sayfasında-da-Görüntülenebilecek-1.jpg)</figure>Instagram’ın bu yeni özelliği ile birlikte şimdiye kadar sadece mobil uygulaması üzerinden izlenebilen canlı yayınları doğrudan **masaüstünden** kolayca izleyebileceksiniz. Ancak masaüstünden yayın başlatamayacaksınız.
 
 **Yakın zamanda** kullanıcılar ile buluşacak olan masaüstü canlı yayın özelliği, web’deki hikaye tasarımlarına oldukça benzer bir tasarımla karşımıza gelecek.

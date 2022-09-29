@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7510'
 permalink: /apple-glass-hakkinda-ne-biliyoruz-applein-yeni-ikonik-urununun-beklenen-ozellikleri/
 post_views_count:
     - '80'
-image: /wp-content/uploads/2020/05/apple-glass-hakkinda-ne-biliyoruz-apple-in-yeni-ikonik-urununun-ozellikleri.png
+image: images/apple-glass-hakkinda-ne-biliyoruz-apple-in-yeni-ikonik-urununun-ozellikleri.png
 categories:
     - Apple
     - Genel
@@ -35,7 +35,7 @@ Apple’la ilgili çeşitli sızıntılarıyla teknoloji gündeminde bilinen bir
 
 Qualcomm’un AR ve VR planları, birçok ölçüm ve kontrolün telefonlar üzerinden yönlendirileceğini işaret ediyor. Apple Glass’ın yıldızının iPhone olması bekleniyor. Birçok AR özelliğini yönetebilen çip setlerini taşıyan iPhone, Apple Glass’ın merkezi konumunda olabilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-glass-ozellikleri-nasil-olacak.jpg)</figure>Prosser’ın raporu, QR kodların Apple Glass’ta ciddi bir teşkil edeceğini doğruluyor. iOS 14 AR uygulamasında QR kodların kullanımı, fiziksel nesnelerin taranması gibi noktalarda, AR deneyimlerini hızlı bir şekilde başlatabilir.
+<figure class="wp-block-image size-large">![](images/apple-glass-ozellikleri-nasil-olacak.jpg)</figure>Prosser’ın raporu, QR kodların Apple Glass’ta ciddi bir teşkil edeceğini doğruluyor. iOS 14 AR uygulamasında QR kodların kullanımı, fiziksel nesnelerin taranması gibi noktalarda, AR deneyimlerini hızlı bir şekilde başlatabilir.
 
 Öte yandan QR kodların AR için kullanılması yeni bir durum değil. 2011 yılında Nintendo, bazı AR destekli oyunlarını QR içeren kartlarla piyasaya sürmüştü.
 

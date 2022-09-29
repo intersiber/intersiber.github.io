@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/appstore-3.png
+image: images/appstore-3.png
 categories:
     - Genel
 tags:
@@ -28,7 +28,7 @@ Sensor Tower’dan yapılan açıklamada App Store harcamalarında gelecek 2024 
 
 Apple’ın App Store üzerinden milyarlarca dolar kazandığı bilinirken, Sensor Tower’a göre 4 sene içerisinde 115.4 milyar dolara ulaşan harcamalar öngörülüyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/appstore-4.jpg)</figure>## 67,3 Milyar Dolar Harcandı
+<figure class="wp-block-image size-full">![](images/appstore-4.jpg)</figure>## 67,3 Milyar Dolar Harcandı
 
 2020 yılında App Store’da şimdiye kadar 67,3 milyar dolarlık bir harcama yapıldı. Bu rakamın yıl sonuna kadar 100 milyar doları bulabileceği, daha düşük veya daha yüksek olabilmesinin önünde herhangi bir engel olmadığı belirtildi.
 

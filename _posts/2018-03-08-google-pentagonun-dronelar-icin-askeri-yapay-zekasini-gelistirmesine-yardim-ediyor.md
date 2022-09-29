@@ -10,7 +10,7 @@ post_views_count:
     - '90'
 amp_status:
     - enabled
-image: /wp-content/uploads/2018/03/drone-footage-example.jpg
+image: images/drone-footage-example.jpg
 categories:
     - Genel
     - 'Öne Çıkan'

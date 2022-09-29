@@ -10,7 +10,7 @@ spay_email:
     - ''
 post_views_count:
     - '21'
-image: /wp-content/uploads/2020/12/cin-chang-e-5-uzay-araci-ile-ay-a-inis-yapti.png
+image: images/cin-chang-e-5-uzay-araci-ile-ay-a-inis-yapti.png
 categories:
     - Uzay
 tags:
@@ -24,6 +24,6 @@ tags:
 
 ## Ay’a Çin bayrağı dikildi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/cin-ay-a-bayrak-dikti.png)</figure>Çin devletine ait **Mission** **of** **China** adlı Twitter hesabından yapılan paylaşımda, uzay aracının Ay yüzeyine Çin bayrağı dikmesine ilişkin fotoğrafa yer verildi.
+<figure class="wp-block-image size-large">![](images/cin-ay-a-bayrak-dikti.png)</figure>Çin devletine ait **Mission** **of** **China** adlı Twitter hesabından yapılan paylaşımda, uzay aracının Ay yüzeyine Çin bayrağı dikmesine ilişkin fotoğrafa yer verildi.
 
 **Çin’in** **Ay** **görevi** tarihi açıdan oldukça önemli. Çin, ABD ve Rusya’nın ardından Ay’dan örnek toplamayı başaran 3. ülke olacak. Chang’e 5 uzay aracının Ay’da ortalama 14 gün boyunca örnek toplaması ve 16 Aralık tarihinde toprak ve taş örnekleriyle Dünya’ya dönmesi bekleniyor.

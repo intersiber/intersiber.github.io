@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Xiaomi-Mi-Mix-3-1-1.jpg
+image: images/Xiaomi-Mi-Mix-3-1-1.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ tags:
 
 2020 yılı Şubat ayı Google Android güvenlik güncellemesini kapsayan Android 10 güncellemesi ile beraber Xiaomi Mi Mix 3 kullanıcıları çok daha hızlı bir döneme yelken açmış olacaklar.
 
-<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/03/Xiaomi-Mi-Mix-3-.jpg?fit=640%2C336&ssl=1)</figure>## Android 10 güncellemesi nasıl yapılır?
+<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.comimages/Xiaomi-Mi-Mix-3-.jpg?fit=640%2C336&ssl=1)</figure>## Android 10 güncellemesi nasıl yapılır?
 
 Xiaomi tarafından 2 GB boyutunda olduğu açıklanan güncelleme sadece ek özellikler getirmekle sınırlı kalmıyor, aynı zamanda cihazda bulunan mevcut eski yazılım hatalarını gideriyor, cihazın daha güvenli olmasına katkı sağlıyor.
 

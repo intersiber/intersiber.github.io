@@ -10,7 +10,7 @@ post_views_count:
     - '61'
 amp-page-builder:
     - ''
-image: /wp-content/uploads/2020/05/twitter-kullanicilarin-tweetlerini-kimlerin-yanitlayabilecegi-sinirlamasi-getiriyor.jpg
+image: images/twitter-kullanicilarin-tweetlerini-kimlerin-yanitlayabilecegi-sinirlamasi-getiriyor.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -23,7 +23,7 @@ tags:
 
 Yeni özelliğini **Ocak** ayında **Tüketici Elektroniği Fuarı**‘nda açıklayan **Twitter,** uygulamada yanıtlar için yeni bir düzen getirerek yorumlarla daha erişilebilir **Retweet**‘ler ile bir **Tweet** çevresindeki tüm konuşmaların okumasını kolaylaştırıyor. **Sosyal medya platformu**, yeni özelliği ile kullanıcıların daha iyi ve sağlıklı bir konuşma yapmasını ve platformda bugünlerde son derece yaygın hale gelen **saygısız** davranışları olabildiğince en aza indirmeyi amaçlıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/twitter-replies-1600x900.jpeg)</figure>Güncelleme ile Tweet Oluştur penceresinde yeni bir **Görüşme Katılımcıları** seçeneği olacak. Her tweet’te **üç** seçenek yer alacak. Seçenekler, tweet’inizi belirli bir grup insanla **sınırlamanıza** ve istenmeyen yanıtları tweet’inizden uzak tutmanıza olanak tanıyacak. Yine de herkes tweet altındaki konuşmaları görebilecek.
+<figure class="wp-block-image size-large">![](images/twitter-replies-1600x900.jpeg)</figure>Güncelleme ile Tweet Oluştur penceresinde yeni bir **Görüşme Katılımcıları** seçeneği olacak. Her tweet’te **üç** seçenek yer alacak. Seçenekler, tweet’inizi belirli bir grup insanla **sınırlamanıza** ve istenmeyen yanıtları tweet’inizden uzak tutmanıza olanak tanıyacak. Yine de herkes tweet altındaki konuşmaları görebilecek.
 
 - İlk seçenek, Twitter’daki herkesin tweet’inize yorum yapmasına izin verecek olan “**herkes**” seçeneğidir. Temel olarak, bu mevcut standart tweet’e benziyor.
 - İkincisi, yalnızca takip ettiğiniz kişilerin tweet’lerinize yanıt vermesine olanak tanıyan “**yalnızca takip ettiğiniz kişiler**” seçeneğidir.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7900'
 permalink: /spacexin-basarisi-uzay-endustrisinde-neleri-degistirecek/
 post_views_count:
     - '35'
-image: /wp-content/uploads/2020/06/spacex-in-basarisi-uzay-endustrisinde-neleri-degistirecek.png
+image: images/spacex-in-basarisi-uzay-endustrisinde-neleri-degistirecek.png
 categories:
     - Uzay
 tags:
@@ -25,7 +25,7 @@ SpaceX, gelecek yıl turistik yörünge uçuşlarını başlatmak istiyor
 
 SpaceX, **Crew** **Dragon’ı** sadece ISS’ye NASA astronotu götürmek için tasarlamadı. Şirketin vizyonu, 2021 yılında yörüngeye turistik amaçlı geziler düzenlemek. Kapsül, normalde 7 yolcu taşıma kapasitesine sahip ancak ISS görevinde iki koltuk kullanıldı. Peki, Crew Dragon ile bir seyahatin maliyeti ne olur? **Falcon 9**’un kullanıldığı, Cumartesi günü düzenlenen görevin **maliyeti** 60 milyon dolar oldu. **SpaceX**, özel seyahatler için bir fiyatlandırma sunmadı ancak bilet fiyatının milyonlarca dolar olacağı kesin.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/spacex-nasa-crew-dragon-kalkis-anlari-1600x932.jpg)</figure>SpaceX’in başarılı görevi, çeşitli alanlarda nasıl bir değişim yaratacak? Detaylıca bakalım.
+<figure class="wp-block-image size-large">![](images/spacex-nasa-crew-dragon-kalkis-anlari-1600x932.jpg)</figure>SpaceX’in başarılı görevi, çeşitli alanlarda nasıl bir değişim yaratacak? Detaylıca bakalım.
 
 ## Turizm
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6761'
 permalink: /twitter-koronavirusle-ilgili-yaniltici-bilgi-iceren-tweetleri-etiketleyecek/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/05/twitter-koronavirusle-ilgili-yaniltici-bilgi-iceren-tweetleri-etiketleyecek.jpg
+image: images/twitter-koronavirusle-ilgili-yaniltici-bilgi-iceren-tweetleri-etiketleyecek.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,10 +21,10 @@ tags:
 
 **Twitter’a** göre kullanılacak etiketler, şirket tarafından özel bir sayfaya ve bilgi alınabilecek harici bir kaynağa bağlanacak. Twitter’ın kullanacağı etiketler aşağıdaki gibi görünecek:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/twitter-koronavirus-yanlis-bilgi-etiketleri.png)</figure>Twitter bunun dışında, sağlık uzmanlarının COVID-19 konusundaki bilgilendirmesi ile çelişen tweetlerde de bir uyarı verecek. Bu uyarı, tweeti bir mesajla kapatarak insanları bilgilendirecek. Tweetin içeriğinin görünmesi için ayrıca tıklanması gerekecek. Bu uyarı ise, şu şekilde görünecek:
+<figure class="wp-block-image size-large">![](images/twitter-koronavirus-yanlis-bilgi-etiketleri.png)</figure>Twitter bunun dışında, sağlık uzmanlarının COVID-19 konusundaki bilgilendirmesi ile çelişen tweetlerde de bir uyarı verecek. Bu uyarı, tweeti bir mesajla kapatarak insanları bilgilendirecek. Tweetin içeriğinin görünmesi için ayrıca tıklanması gerekecek. Bu uyarı ise, şu şekilde görünecek:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/twitter-koronavirus-tweetleri-etiketleri.png)</figure>Şirket ayrıca, üç farklı kategoriyi baz alarak, yanlış ya da yanıltıcı bilgi içeren tweetler konusunda nasıl hareket edileceğini anlatan bir değerlendirme tablosu da paylaştı.
+<figure class="wp-block-image size-large">![](images/twitter-koronavirus-tweetleri-etiketleri.png)</figure>Şirket ayrıca, üç farklı kategoriyi baz alarak, yanlış ya da yanıltıcı bilgi içeren tweetler konusunda nasıl hareket edileceğini anlatan bir değerlendirme tablosu da paylaştı.
 
 Tabloda, hangi tweetlerde etiket uygulaması, hangi tweetlerde ise kaldırma uygulanacağı aktarılıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/twitter-yanlis-bilgi-hesap-kapatma.png)</figure>Twitter, Şubat ayından bu yana maniple edilmiş içeriğe sahip tweetlerle ilgili yeni bir etiket uygulamasına başlamıştı. Şirket, koronavirüs süreci ile ilgili yanlış bilgi içeren tweetleri, “**zararlı etkinlik**” olarak adlandırdı ve bu içerikleri kaldıracağının sözünü verdi.
+<figure class="wp-block-image size-large">![](images/twitter-yanlis-bilgi-hesap-kapatma.png)</figure>Twitter, Şubat ayından bu yana maniple edilmiş içeriğe sahip tweetlerle ilgili yeni bir etiket uygulamasına başlamıştı. Şirket, koronavirüs süreci ile ilgili yanlış bilgi içeren tweetleri, “**zararlı etkinlik**” olarak adlandırdı ve bu içerikleri kaldıracağının sözünü verdi.

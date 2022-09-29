@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '136'
-image: /wp-content/uploads/2020/02/bundle-app-logo.jpg
+image: images/bundle-app-logo.jpg
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ tags:
 
 İntersiber, sevilen haber uygulaması Bundle’da. Bizi artık Bundle üzerinden de takip edebilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/02/bundle-app-haber-intersiber-scaled.jpg?fit=640%2C480&ssl=1)</figure>### Bundle Yenilendi!
+<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.comimages/bundle-app-haber-intersiber-scaled.jpg?fit=640%2C480&ssl=1)</figure>### Bundle Yenilendi!
 
 İntersiber’in de yayıncıları arasında bulunduğu Bundle’ın yeni versiyonu App Store ve Google Play’de! Bundle 2.5 tamamen yenilenen arayüzüyle eskisinden de üstün bir kullanıcı deneyimi sunuyor.
 

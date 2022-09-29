@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9994'
 permalink: /spotifyda-guvenlik-acigi-binlerce-kullanicinin-sifresi-sifirlandi/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/12/spotify-da-guvenlik-acigi-binlerce-kullanicinin-sifresi-sifirlandi.png
+image: images/spotify-da-guvenlik-acigi-binlerce-kullanicinin-sifresi-sifirlandi.png
 categories:
     - Güvenlik
 tags:

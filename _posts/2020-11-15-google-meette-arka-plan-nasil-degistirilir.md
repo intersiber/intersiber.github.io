@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9667'
 permalink: /google-meette-arka-plan-nasil-degistirilir/
 post_views_count:
     - '223'
-image: /wp-content/uploads/2020/11/google-meet-te-arka-plan-nasil-degistirilir.png
+image: images/google-meet-te-arka-plan-nasil-degistirilir.png
 categories:
     - 'Ne Nasıl?'
 tags:
@@ -30,9 +30,9 @@ Başlangıç aşamasında, Chrome gibi bir web tarayıcısında Google Meet gör
 - Listenin en üstünde, o andaki geçerli arka planınızı bulanıklaştırmak için butonlar vardır.
 - Bu butonların altında önceden yüklenmiş sanal arka plan resimleri yer alır. Kullanmak için birine tıklamanız yeterlidir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/google-meet-arka-plan-degistirme.png)</figure>- Google Meet’te kendi arka plan fotoğrafınızı kullanmak için “+” seçeneğine tıklayın.
+<figure class="wp-block-image size-large">![](images/google-meet-arka-plan-degistirme.png)</figure>- Google Meet’te kendi arka plan fotoğrafınızı kullanmak için “+” seçeneğine tıklayın.
 - Bilgisayarınızda kullanabileceğiniz bir görüntü bulmanız için, dosya yöneticisi penceresi açılır. Tercihen, iyi bir deneyim için 1920x1080p çözünürlüklü bir JPG ya da PNG görsel kullanabilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/google-meet-e-sanal-arka-plan-goruntusu-yukleme.png)</figure>- Sonraki aşamada, mevcut resim arka planınızda görüntülenir. Arka planlar menüsünden çıkmak için sağ üst köşedeki “X” işaretine dokunun.
+<figure class="wp-block-image size-large">![](images/google-meet-e-sanal-arka-plan-goruntusu-yukleme.png)</figure>- Sonraki aşamada, mevcut resim arka planınızda görüntülenir. Arka planlar menüsünden çıkmak için sağ üst köşedeki “X” işaretine dokunun.
 
 Google Meet’te arka plan fotoğrafı değiştirme işlemi işte bu kadar. Arkadaşlarınızla görüşürken ya da iş toplantılarına katılırken, arka planınızla farklı bir konsept yaratmak için yukarıdaki adımları takip etmeniz yeterli.

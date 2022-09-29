@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5292'
 permalink: /artik-instagram-web-sitesinden-dm-ozelligi-kullanilabilecek/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/04/artik-instagram-masaustu-uygulamasinda-dm-ozelligi-kullanilabilecek.jpg
+image: images/artik-instagram-masaustu-uygulamasinda-dm-ozelligi-kullanilabilecek.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -31,6 +31,6 @@ Ocak ayında, **Facebook**‘a ait olan fotoğraf sitesi, web sitesinden DM’le
 
 Doğrudan mesajlaşma deneyimi, web tarayıcıda da mobilde olduğu gibi olacak. Giriş yaptığınızda, sağ üst köşede **Doğrudan Mesaj** simgesini göreceksiniz. Simgeye tıkladıktan sonra, soldaki mevcut görüşmeleriniz arasında gezinebileceksiniz. Kullanıcılar **DM ekranından** veya bir **profil** sayfasından yeni bir **grup** oluşturabilecek veya **sohbet** başlatabilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/Instagram-direct-message-1600x900.png)</figure>Ayrıca **masaüstünden** fotoğraf paylaşabilecek ve sahip olduğunuz okunmamış mesajların toplam sayısını görebileceksiniz. Bir mesajı beğenmek için ise mesaja iki kez tıklamanız yeterli olacak. Tarayıcınızda **Instagram** sitesinin tamamı için bildirimleri etkinleştirip **masaüstü bildirimlerini** aktifleştirebilirsiniz.
+<figure class="wp-block-image size-large">![](images/Instagram-direct-message-1600x900.png)</figure>Ayrıca **masaüstünden** fotoğraf paylaşabilecek ve sahip olduğunuz okunmamış mesajların toplam sayısını görebileceksiniz. Bir mesajı beğenmek için ise mesaja iki kez tıklamanız yeterli olacak. Tarayıcınızda **Instagram** sitesinin tamamı için bildirimleri etkinleştirip **masaüstü bildirimlerini** aktifleştirebilirsiniz.
 
 Şirket bugünkü sunumun sadece bir **test** olduğunu ve gelecekte potansiyel olarak geniş kapsamlı bir sunumla ilgili daha fazla ayrıntılı bilgi geleceğini söyledi.

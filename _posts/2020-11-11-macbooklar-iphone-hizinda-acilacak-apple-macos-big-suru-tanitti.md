@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9607'
 permalink: /macbooklar-iphone-hizinda-acilacak-apple-macos-big-suru-tanitti/
 post_views_count:
     - '47'
-image: /wp-content/uploads/2020/11/macbook-lar-iphone-hizinda-acilacak-apple-macos-big-sur-u-tanitti.jpg
+image: images/macbook-lar-iphone-hizinda-acilacak-apple-macos-big-sur-u-tanitti.jpg
 categories:
     - Apple
 tags:
@@ -27,7 +27,7 @@ Apple’ın dün düzenlenen “**One** **More** **Thing**” isimli etkinliğin
 
 ## Apple macOS Big Sur özellikleri: Bizi neler bekliyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/macos-big-sur-ozellikleri.jpeg)</figure>**macOS Big Sur**, Apple’ın yeni işletim sistemi ile birlikte çalışacak uygulamaların ve bilgisayarın açılma hızını ciddi bir şekilde artırdı. MacBook modelleri artık, iPad ya da iPhone’un açılma hızına yaklaştı diyebiliriz.
+<figure class="wp-block-image size-large">![](images/macos-big-sur-ozellikleri.jpeg)</figure>**macOS Big Sur**, Apple’ın yeni işletim sistemi ile birlikte çalışacak uygulamaların ve bilgisayarın açılma hızını ciddi bir şekilde artırdı. MacBook modelleri artık, iPad ya da iPhone’un açılma hızına yaklaştı diyebiliriz.
 
 Yeni işletim sistemi, Logic Pro’da 3 kat daha fazla efekt sunacak, popüler video düzenleme uygulaması Final Cut Pro ise 6 kat daha hızlı çalışacak.
 

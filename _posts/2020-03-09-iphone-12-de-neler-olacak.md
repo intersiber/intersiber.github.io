@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/iPhone-12-2.jpg
+image: images/iPhone-12-2.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ iPhone 12 özellikleri konusunda şimdiden meraklı bir bekleyiş hakim. Çok sa
 
 Eylül ayının en geç ortalarına doğru iPhone modellerini tanıtan Apple’ın, bu sene Eylül ayında tanıtması beklenen **iPhone 12** modellerinin nasıl özellikleri olacağı konusunda bazı söylentiler şimdiden kesin gibi görünüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/iPhone-12.jpg)</figure>Apple’ın yeni iPhone 12 modellerini, Samsung ve diğer birçok mobil cihaz üreticisinin kullanmaya başladığı **ekran altı parmak izi** okuyucusu ile tanıtması bekleniyor. Ayrıca ekran altından parmak izi okuma özelliğinin Face ID ile birlikte çalışabileceği de bir diğer iddia.
+<figure class="wp-block-image size-large">![](images/iPhone-12.jpg)</figure>Apple’ın yeni iPhone 12 modellerini, Samsung ve diğer birçok mobil cihaz üreticisinin kullanmaya başladığı **ekran altı parmak izi** okuyucusu ile tanıtması bekleniyor. Ayrıca ekran altından parmak izi okuma özelliğinin Face ID ile birlikte çalışabileceği de bir diğer iddia.
 
 iPhone 12 modeliyle Apple’ın **5G** yarışına da dahil olması bekleniyor. Akıllı telefon üreticilerinin birbiri ardına duyurmaya başladığı 5G destekli modellerinin ardından iPhone 12’nin 5G desteği ile gelmesi pek şaşırtıcı olmayacaktır.
 

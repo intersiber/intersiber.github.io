@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10077'
 permalink: /sony-cyberpunk-2077yi-playstation-storedan-kaldirma-karari-aldi/
 post_views_count:
     - '17'
-image: /wp-content/uploads/2020/12/sony-cyberpunk-2077-yi-playstation-store-dan-kaldirma-karari-aldi.png
+image: images/sony-cyberpunk-2077-yi-playstation-store-dan-kaldirma-karari-aldi.png
 categories:
     - Oyun
 tags:
@@ -24,7 +24,7 @@ CD Projekt RED’in uzun süredir üzerinde çalıştığı **Cyberpunk 2077**, 
 
 ## Oyun mağazadan kaldırıldı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/cyberpunk-2077-ps-store-dan-kalkti.jpg)</figure>Sony, Cyberpunk 2077’yi PlayStation Store’dan kaldırdı ve böylelikle, PS4 sahiplerinin oyuna erişimi ortadan kalktı. Şirket buna ek olarak mağazada, Cyberpunk 2077 için bütün oyuncuları kapsayan bir geri ödeme formu üzerinde çalıştığını da duyurdu. Sony, Cyberpunk 2077 oyununu satın alan hiçbir oyuncunun mağdur olmayacağını aktardı. Cyberpunk 2077’yi PlayStation Store’dan alan oyuncular iade alacaklar.
+<figure class="wp-block-image size-large">![](images/cyberpunk-2077-ps-store-dan-kalkti.jpg)</figure>Sony, Cyberpunk 2077’yi PlayStation Store’dan kaldırdı ve böylelikle, PS4 sahiplerinin oyuna erişimi ortadan kalktı. Şirket buna ek olarak mağazada, Cyberpunk 2077 için bütün oyuncuları kapsayan bir geri ödeme formu üzerinde çalıştığını da duyurdu. Sony, Cyberpunk 2077 oyununu satın alan hiçbir oyuncunun mağdur olmayacağını aktardı. Cyberpunk 2077’yi PlayStation Store’dan alan oyuncular iade alacaklar.
 
 Oyunun kaldırılmasıyla ilgili olarak şirket, ikinci bir duyuru yapacağını ve oyunun hayranlarının sakin kalması gerektiğini bildirdi.
 

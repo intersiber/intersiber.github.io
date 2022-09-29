@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '91'
-image: /wp-content/uploads/2020/01/nintendo-switch.jpg
+image: images/nintendo-switch.jpg
 categories:
     - Mobil
     - 'Öne Çıkan'
@@ -28,4 +28,4 @@ Nintendo Switch bir neslin hafızasında yer etmeyi başarmış ev konsolu SNES�
 
 Nintendo satış söz konusu olduğunda bugüne kadarki başarılarıyla kendisini ispatlamış bir marka. Nintendo Switch 2017 yılında piyasaya sürüldüğünden bu yana 52.48 milyon adet satışa ulaştığını açıkladı. Bu sayı tüm modellerin toplamını ifade ediyor. Orijinal Nintendo Switch 47.3 milyon satış adetine ulaşırken, Switch Lite modeli ise 5 milyondan fazla satış adetine ulaştı. Bu sayede 3 yıl gibi kısa bir sürede SNES’i 3 milyon adetlik bir farkla geride bıraktı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/01/nintendo-snes-oyun-konsolu.jpeg)</figure>Nintendo 1991 yılında piyasaya sürdüğü ev konsolu SNES ile çıktığı günden bu yana toplam 49.1 milyon adet satış yapmıştı. Switch modeli ile birlikte geçmişteki başarılarını tekrarlayacak gibi görünüyor. Yıl bitmeden yeni rekorlar göreceğimizi söyleyebiliriz.
+<figure class="wp-block-image size-large">![](images/nintendo-snes-oyun-konsolu.jpeg)</figure>Nintendo 1991 yılında piyasaya sürdüğü ev konsolu SNES ile çıktığı günden bu yana toplam 49.1 milyon adet satış yapmıştı. Switch modeli ile birlikte geçmişteki başarılarını tekrarlayacak gibi görünüyor. Yıl bitmeden yeni rekorlar göreceğimizi söyleyebiliriz.

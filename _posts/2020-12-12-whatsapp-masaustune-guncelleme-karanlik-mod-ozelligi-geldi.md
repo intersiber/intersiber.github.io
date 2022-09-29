@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10007'
 permalink: /whatsapp-masaustune-guncelleme-karanlik-mod-ozelligi-geldi/
 post_views_count:
     - '21'
-image: /wp-content/uploads/2020/12/whatsapp-masaustune-guncelleme-karanlik-mod-ayari-geldi.jpg
+image: images/whatsapp-masaustune-guncelleme-karanlik-mod-ayari-geldi.jpg
 categories:
     - Mobil
 tags:
@@ -24,7 +24,7 @@ WhatsApp, masaüstü sürümü için getirdiği güncelleme ile, mobil tarafta i
 
 Gerek düşük ışıktan kaynaklı olarak gözleri daha az yorması gerekse pil ömrünü uzatması nedeniyle karanlık mod, son dönemde birçok uygulamada ve işletim sisteminde sunuluyordu. WhatsApp, yayınladığı yeni masaüstü sürümünde koyu tema özelliğini sundu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/whatsapp-web-karanlik-tema-nasil-kullanilir.png)</figure>Şirket, iOS ve Android mobil uygulamasında bu özelliği bir süre önce eklemişti.
+<figure class="wp-block-image size-large">![](images/whatsapp-web-karanlik-tema-nasil-kullanilir.png)</figure>Şirket, iOS ve Android mobil uygulamasında bu özelliği bir süre önce eklemişti.
 
 ## Çıkartmalarda seçenekler arttı
 

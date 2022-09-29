@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7290'
 permalink: /instagram-telifli-muzikler-icin-kullanicilara-uyari-gonderecek/
 post_views_count:
     - '144'
-image: /wp-content/uploads/2020/05/instagram-telifli-muzikler-icin-kullanicilara-uyari-gonderecek.jpg
+image: images/instagram-telifli-muzikler-icin-kullanicilara-uyari-gonderecek.jpg
 categories:
     - Genel
     - 'Sosyal Medya'
@@ -24,7 +24,7 @@ Popüler sosyal ağ, takipçilerine canlı yayın yapan kullanıcıları, arka p
 
 Yeni özellikle, canlı yayın esnasında ya da yüklenen video içeriklerinde, telif hakkı olan ses içerikleri tespit edildiğinde ve uzun süre kullanıldığı anlaşıldığında, **Instagram** kullanıcıya bildirim gönderecek. Bildirimde, Instagram kullanıcılarına bir ihlalde bulundukları ifade edilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/instagram-telif-hakki-uyarisi.png)</figure>## Instagram’da telif hakkı ihlal etmeden müzik seçmek
+<figure class="wp-block-image size-large">![](images/instagram-telif-hakki-uyarisi.png)</figure>## Instagram’da telif hakkı ihlal etmeden müzik seçmek
 
 **Instagram**, bununla birlikte kullanıcılarına, videolarında telif haklarını ihlal etmeden kullanabilecekleri müziklere ilişkin de bazı öneriler sundu. Instagram hikayeleri paylaşırken kullanılan müziklerin ihlale girmediğini söyleyen yetkililer, telif haklarının sadece **canlı yayın** ve video gönderiler için söz konusu olduğunu belirtiyor.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7247'
 permalink: /yandex-huaweinin-turkiyedeki-modellerinde-standart-arama-motoru-oldu/
 post_views_count:
     - '173'
-image: /wp-content/uploads/2020/05/yandex-huawei-nin-turkiye-deki-modellerinde-standart-arama-motoru-oldu.png
+image: images/yandex-huawei-nin-turkiye-deki-modellerinde-standart-arama-motoru-oldu.png
 categories:
     - Genel
 tags:
@@ -23,7 +23,7 @@ Huawei ile Yandex arasındaki anlaşma, yeni dönemde Huawei Mobil Servisleri’
 
 ## Yandex’in tüm hizmetlerine rahat ulaşım
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/yandex-huawei-nin-turkiye-deki-modellerinde-standart-arama-motoru-oldu-1.png)</figure>Huawei ve Yandex arasındaki anlaşma kapsamında, ana ekranda yer alan arama çubuğunda varsayılan arama motoru olan Yandex’in, AppGallery uygulaması üzerinden tüm Yandex hizmetlerine erişimin kolaylaşması da söz konusu oldu. Navigasyon ve arama hizmetinin yanı sıra, Yandex Mail gibi servislere de kolay erişim imkanı olacak.
+<figure class="wp-block-image size-large">![](images/yandex-huawei-nin-turkiye-deki-modellerinde-standart-arama-motoru-oldu-1.png)</figure>Huawei ve Yandex arasındaki anlaşma kapsamında, ana ekranda yer alan arama çubuğunda varsayılan arama motoru olan Yandex’in, AppGallery uygulaması üzerinden tüm Yandex hizmetlerine erişimin kolaylaşması da söz konusu oldu. Navigasyon ve arama hizmetinin yanı sıra, Yandex Mail gibi servislere de kolay erişim imkanı olacak.
 
 ## Yandex, arama motoru ile Türkiye’de ayda 10 milyon tekil kullanıcıya ulaşıyor
 

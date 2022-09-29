@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8096'
 permalink: /google-iranli-ve-cinli-hackerlar-trump-ve-bidenin-kampanya-ekibini-hedef-aldi/
 post_views_count:
     - '96'
-image: /wp-content/uploads/2020/06/google-iranli-ve-cinli-hackerlarlarin-biden-ve-trump-i-hedef-aldigini-soyled.jpg
+image: images/google-iranli-ve-cinli-hackerlarlarin-biden-ve-trump-i-hedef-aldigini-soyled.jpg
 categories:
     - Güvenlik
 tags:
@@ -28,6 +28,6 @@ Bir **Google** sözcüsü, yaptığı açıklamada hackerların girişimlerinin 
 
 ## ABD siyaseti hackerların hedefinde
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/trump-kampanyasi-hackerlarin-hedefinde-1600x1119.jpg)</figure>**Biden** ve **Trump** kampanya ekibi, bu tip siber saldırıları beklediklerini ve bunlara karşı hazır olduklarını söyledi. Yaşananlar, İranlı ve diğer yabancı hackerların ABD’li siyasetçileri hedef aldığı ilk olay değil. **Microsoft**, geçen yıl Fosfor, APT 35 ve Charming Kitten olarak bilinen İranlı bir hacker grubunun da başkanlık kampanyasını hedef aldığını açıklamıştı.
+<figure class="wp-block-image size-large">![](images/trump-kampanyasi-hackerlarin-hedefinde-1600x1119.jpg)</figure>**Biden** ve **Trump** kampanya ekibi, bu tip siber saldırıları beklediklerini ve bunlara karşı hazır olduklarını söyledi. Yaşananlar, İranlı ve diğer yabancı hackerların ABD’li siyasetçileri hedef aldığı ilk olay değil. **Microsoft**, geçen yıl Fosfor, APT 35 ve Charming Kitten olarak bilinen İranlı bir hacker grubunun da başkanlık kampanyasını hedef aldığını açıklamıştı.
 
 2016 yılında ise Rus hackerlar, Demokratik Ulusal Komite’ye başarılı bir kimlik avı saldırısı ile birçok e-postaya erişmiş ve ABD siyasi kampanyaları sürecinde ciddi tartışmalar yaşanmıştı.

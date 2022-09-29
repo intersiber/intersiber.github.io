@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/02/netflix-1-aylik-ucretsiz-kullanim-turkiye-kaldirildi.jpeg
+image: images/netflix-1-aylik-ucretsiz-kullanim-turkiye-kaldirildi.jpeg
 categories:
     - Genel
     - 'Öne Çıkan'

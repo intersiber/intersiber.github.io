@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8191'
 permalink: /sertifikasyon-bilgileri-ortaya-cikti-samsung-galaxy-watch-3-hangi-ozellikleri-sunacak/
 post_views_count:
     - '80'
-image: /wp-content/uploads/2020/06/sertifikasyon-bilgiler-ortaya-cikti-samsung-galaxy-watch-hangi-ozellikleri-sunacak.jpg
+image: images/sertifikasyon-bilgiler-ortaya-cikti-samsung-galaxy-watch-hangi-ozellikleri-sunacak.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -20,7 +20,7 @@ tags:
 
 ## Sertifikasyon bilgileri ortaya çıktı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/samsung-galaxy-watch-3-sertifikasyon-bilgileri.png)</figure>NBTC (National Broadcasting and Telecommunications Commission) sitesinde yer alan veriler, Samsung’un akıllı saatinde hangi özelliklerin yer alacağını gösterdi.
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-watch-3-sertifikasyon-bilgileri.png)</figure>NBTC (National Broadcasting and Telecommunications Commission) sitesinde yer alan veriler, Samsung’un akıllı saatinde hangi özelliklerin yer alacağını gösterdi.
 
 Sitede yer alan bilgilere göre **SM**–**RF855F** seri numarasına sahip olacak Samsung **Galaxy** **Watch 3**, SIM kart desteği sunacak. 41mm ekranla gelecek olan akıllı saat, SIM kart desteğinden ötürü internete bağlı olmak için bir wifi bağlantısı ya da akıllı telefona gerek bırakmayacak.
 

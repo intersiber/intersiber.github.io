@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/06_Desktop.jpg
+image: images/06_Desktop.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -26,6 +26,6 @@ Elektrikli pickup olarak kullanıcılara sunulan Tesla’nın Cybertruck modelin
 
 Tasarım açısından sınırları zorlayan Cybertruck modeli arkadan itişli olarak satışa sunulacak. İlk olarak 400 km menzile sahip olacak olan Cybertruck, yapılan geliştirmelerle birlikte bu mesafenin uzatılabileceği belirtildi. 6.5 saniyede 0-100 km/s hıza çıkabilen sıra dışı tasarımlı aracın en yakın rakibi olan Volkswagen Amarok’tan daha hızlı ivmelendiği görülüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/2549473_810x458.jpg)</figure>## Fiyatı Açıklandı
+<figure class="wp-block-image size-large">![](images/2549473_810x458.jpg)</figure>## Fiyatı Açıklandı
 
 **Tesla Cybertruck** modeli için daha şimdiden 200 bin ön sipariş geldiği açıklandı. Musk yaptığı açıklamasında bu siparişlerin yalnızca 3 günde geldiğini ifade etti. 2021 yılının sonlarına doğru piyasaya çıkması beklenen Cybertruck için heyecanlı bekleyiş sürüyor. Menzile göre değişiklik gösteren fiyatlar 50 bin ile 70 bin dolar arasında değişiklik gösteriyor.

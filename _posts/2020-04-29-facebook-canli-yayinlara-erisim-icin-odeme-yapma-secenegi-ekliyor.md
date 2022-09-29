@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6158'
 permalink: /facebook-canli-yayinlara-erisim-icin-odeme-yapma-secenegi-ekliyor/
 post_views_count:
     - '63'
-image: /wp-content/uploads/2020/04/facebook-canli-yayinlara-erisim-icin-odeme-yapma-secenegi-ekliyor.jpeg
+image: images/facebook-canli-yayinlara-erisim-icin-odeme-yapma-secenegi-ekliyor.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -19,7 +19,7 @@ tags:
 
 Sosyal ağ tarafından yapılan açıklamada, “İçerik oluşturucuları ve küçük işletmeleri desteklemek için, Facebook’ta canlı videolarla yapılan etkinliklere erişim için ücret alma olanağı eklemeyi planlıyoruz. Bu etkinlikler, online performanslardan profesyonel konferanslara kadar birçok etkinliği kapsıyor” ifadelerine yer verildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/facebook-live-ucretli.png)</figure>Facebook’un canlı yayınlarda ücret seçeneği ile ilgili henüz çok fazla bilgi bulunmuyor. Geçtiğimiz günlerde **Facebook’un**, **Zoom** benzeri videolu görüşme özelliğini duyurmasının ardından bu hamlesiyle dikkat çekti. Kullanıcıların, canlı yayın etkinliklerinde ücret alabilmesine olanak tanıyan düzenlemenin ne zaman hayata geçeceği konusunda bir bilgi yok ancak bu özelliğin, birkaç hafta içinde yayına alınabileceği ifade ediliyor.
+<figure class="wp-block-image size-large">![](images/facebook-live-ucretli.png)</figure>Facebook’un canlı yayınlarda ücret seçeneği ile ilgili henüz çok fazla bilgi bulunmuyor. Geçtiğimiz günlerde **Facebook’un**, **Zoom** benzeri videolu görüşme özelliğini duyurmasının ardından bu hamlesiyle dikkat çekti. Kullanıcıların, canlı yayın etkinliklerinde ücret alabilmesine olanak tanıyan düzenlemenin ne zaman hayata geçeceği konusunda bir bilgi yok ancak bu özelliğin, birkaç hafta içinde yayına alınabileceği ifade ediliyor.
 
 Facebook, özelliği kimlerin kullanabileceğine ilişkin bir sınır olup olmadığı, ya da hangi ülkelerde uygulanacağına dair de bir açıklama yapmadı.
 

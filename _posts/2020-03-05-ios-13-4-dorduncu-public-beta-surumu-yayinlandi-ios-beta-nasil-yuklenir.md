@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/ios-13-4-beta-nasıl-yuklenir.jpeg
+image: images/ios-13-4-beta-nasil-yuklenir.jpeg
 categories:
     - Apple
 tags:
@@ -45,7 +45,7 @@ Geçmişte Apple herkese açık beta sürümüne zaten katıldıysanız, iOS 13�
 
 Kaydolduktan ve oturum açtıktan sonra indirmeye başlamanın zamanı geldi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ios13beta2.jpg)</figure>## iPhone’unuzu iOS 13 Herkese Açık Beta Sürümüne Kaydetme
+<figure class="wp-block-image size-large">![](images/ios13beta2.jpg)</figure>## iPhone’unuzu iOS 13 Herkese Açık Beta Sürümüne Kaydetme
 
 Sadece dokunup indirmeye başladığınız normal iOS güncellemelerinden farklı olarak Apple, iOS 13 genel beta cihazlarını doğrulamak için yapılandırma profillerini kullanıyor. Yönergeleri takip ederek yükleyebilirsiniz.
 

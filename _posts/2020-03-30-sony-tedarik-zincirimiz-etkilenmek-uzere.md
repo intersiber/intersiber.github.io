@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/sony.jpg
+image: images/sony.jpg
 categories:
     - Genel
 tags:
@@ -25,6 +25,6 @@ Güney Koreli teknoloji üreticisi **Sony**, bugün yeni bir açıklama yaptı. 
 
 Bir süre önce Türkiye’de indirimlerle ilgili olarak gelen tepkiler üzerinde geçtiğimiz günlerde açıklama yapan Sony PlayStation, bu konuda bazı indirimlerin ülke ve bölgelere özel olduğunu açıklamış ve büyük tepki çekmişti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Sony-PlayStation-2.jpg)</figure>Bazı ülkelerde indirimlerin verilemeyebileceğini belirten şirket, aynı zamanda Türkiye’nin bahar indirimleri adı altında yapılacak indirimlerden yararlanacak olduğu bilgisini paylaşmıştı.
+<figure class="wp-block-image size-large">![](images/Sony-PlayStation-2.jpg)</figure>Bazı ülkelerde indirimlerin verilemeyebileceğini belirten şirket, aynı zamanda Türkiye’nin bahar indirimleri adı altında yapılacak indirimlerden yararlanacak olduğu bilgisini paylaşmıştı.
 
 Sony başta oyun konsolu olmak üzere kamera üretimi konusunda henüz tedarik zincirinin bozulmadığını açıklasa da şirketin daha fazla sorunlar yaşamaması için üretimi artırması gerekebilir.

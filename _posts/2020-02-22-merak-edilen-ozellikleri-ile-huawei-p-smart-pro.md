@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/Huawei-P-Smart-Pro.png
+image: images/Huawei-P-Smart-Pro.png
 categories:
     - Mobil
 tags:
@@ -25,11 +25,11 @@ tags:
 
 16 megapiksellik otomatik selfie **pop-up** kamerası ile de kullanıcısına AI arka ışıklandırma ve AI portre güzelleştirme gibi özellikler ile ideal selfie çekimleri yapabilmesine olanak sağlıyor.
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![](https://intersiber.com/wp-content/uploads/2020/02/huawei-p-smart-pro-128gb-z.jpg)</figure></div>Multi-Frame Noise Reduction özelliğiyle çarpıcı gece modu, 6 saniyeye kadar elle çekilen gece fotoğraflarındaki kırmızı göz, gren veya bulanıklık gibi istenmeyen efektleri fotoğraftan otomatik olarak kaldırabiliyor. Huawei P smart Pro, Sahne Tanımlama algoritması ile mimari, gün doğumu, portre gibi 500’den fazla sahneyi tanıyıp kamera ayarlarını buna göre optimize edebiliyor.
+<div class="wp-block-image"><figure class="aligncenter size-large">![](images/huawei-p-smart-pro-128gb-z.jpg)</figure></div>Multi-Frame Noise Reduction özelliğiyle çarpıcı gece modu, 6 saniyeye kadar elle çekilen gece fotoğraflarındaki kırmızı göz, gren veya bulanıklık gibi istenmeyen efektleri fotoğraftan otomatik olarak kaldırabiliyor. Huawei P smart Pro, Sahne Tanımlama algoritması ile mimari, gün doğumu, portre gibi 500’den fazla sahneyi tanıyıp kamera ayarlarını buna göre optimize edebiliyor.
 
 **4000 mAh**‘lık güçlü bir batarya ile donatılan Huawei P Smart Pro, 40 saat boyunca sürekli arama yapmayı, 80 saat boyunca müzik dinlemeyi ve 9 saat boyunca video çekmeyi destekliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/huawei-p-smart-pro-ekran-on-kisim.png)</figure>## Huawei P Smart Pro Fiyatı
+<figure class="wp-block-image size-large">![](images/huawei-p-smart-pro-ekran-on-kisim.png)</figure>## Huawei P Smart Pro Fiyatı
 
 Gelişmiş ekran yanı parmak izi okuyucusu ile 0.3 saniyede telefon kilidinin açılmasına imkan veriyor. Ayrıca, ses asistanı tuşuna uzun süre basıldığında tuşu uyandırmak sadece 1 saniye sürüyor ve cihazı kapatmak için 3 saniye basılı tutmak yeterli oluyor.
 

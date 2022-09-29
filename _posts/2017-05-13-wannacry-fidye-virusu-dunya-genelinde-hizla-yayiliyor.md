@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=843'
 permalink: /wannacry-fidye-virusu-dunya-genelinde-hizla-yayiliyor/
 post_views_count:
     - '763'
-image: /wp-content/uploads/2017/05/ransomware.jpg
+image: images/ransomware.jpg
 categories:
     - Genel
     - Güvenlik
@@ -29,7 +29,7 @@ Bugün tüm dünyada çok hızlı bir şekilde yayılan bir fidye virüsü ortay
 
 Söz konusu fidye virüsü, WannaCry, Wana Decrypt0r, WannaCryptor ve WCRY isimleriyle de tanınan WannaCry varyasyonu olarak tanımlandı.
 
-![](https://www.intersiber.com/wp-content/uploads/2017/05/wannacry-decryptor-ransomware-attack.png)
+![](https://www.intersiber.comimages/wannacry-decryptor-ransomware-attack.png)
 
 **WannaCry**, diğer fidye virüsleri gibi eriştiği bilgisayarların dosya sistemlerini ele geçirerek dosyaların ve sistemin kullanım dışı kalmasına sebep oluyor.
 

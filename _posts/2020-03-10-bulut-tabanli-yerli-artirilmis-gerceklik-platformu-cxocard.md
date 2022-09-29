@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '81'
-image: /wp-content/uploads/2020/03/cxocard.png
+image: images/cxocard.png
 categories:
     - Girişim
 tags:
@@ -26,7 +26,7 @@ Akıllı telefonların hayatımıza girmesi ve teknolojinin gelişmesiyle hayat�
 
 Hayatımıza giren bu teknolojik gelişmeyle birlikte **CxoCard** isimli Artırılmış Gerçeklik ve Bulut Depolama sistemine sahip yerli bir girişim hayata geçti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/cxocard.jpg)</figure>CxoCard, temelinde bulunan görüntü işleme teknolojisi sayesinde, kartvizitler, kitap kapakları, kataloglar gibi çeşitli materyallerin yüzeylerini tanıyabiliyor ve tanınan yüzeyi bir video ile eşleştirebiliyor. CxoCard kullanımı oldukça kolay. Uygulama marketlerinden kolayca ulaşabilen CxoCard ile internet bağlantınız olduğu sürece dilediğiniz yüzeyi tanımlayabilirsiniz.
+<figure class="wp-block-image size-large">![](images/cxocard.jpg)</figure>CxoCard, temelinde bulunan görüntü işleme teknolojisi sayesinde, kartvizitler, kitap kapakları, kataloglar gibi çeşitli materyallerin yüzeylerini tanıyabiliyor ve tanınan yüzeyi bir video ile eşleştirebiliyor. CxoCard kullanımı oldukça kolay. Uygulama marketlerinden kolayca ulaşabilen CxoCard ile internet bağlantınız olduğu sürece dilediğiniz yüzeyi tanımlayabilirsiniz.
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" src="https://www.youtube.com/embed/im9TFWUJPHo?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" width="640"></iframe></span></div></figure>CxoCard işinizde kullanabileceğiniz yenilikçi fikirler için demo kullanım sunuyor. Dilediğiniz broşür, katalog, el ilanı, billboard afişi, gazete, dergi veya kitaba ait, tanımlamak istediğiniz yüzeyi ve eşleştirmek istediğiniz videoyu CxoCard’a ulaştırarak Artırılmış Gerçeklik ve CxoCard deneyimine ortak olabilirsiniz.
 

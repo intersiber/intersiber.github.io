@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=848'
 permalink: /microsoft-desteklemedigi-surumleri-icin-wanna-cry-yamasi-yayinladi/
 post_views_count:
     - '1071'
-image: /wp-content/uploads/2017/05/microsoft-wanna-cry-patch.gif
+image: images/microsoft-wanna-cry-patch.gif
 categories:
     - Genel
     - Güvenlik
@@ -30,7 +30,7 @@ WannaCry fidye virüsü, Microsoft tarafından Mart ayında düzeltilen SMB prot
 
 Microsoft, Windows XP, Vista, Windows 8, Windows Server 2003, Windows Server 2008 sürümleri dahil olmak üzere daha önce desteği kestiği işletim sistemleri için acil güvenlik yaması yayınlayadı.
 
-![](https://www.intersiber.com/wp-content/uploads/2017/05/windows-wannacry-smb-patch-update-xp-vista.png)
+![](https://www.intersiber.comimages/windows-wannacry-smb-patch-update-xp-vista.png)
 
 WannaCry’ın şaşırtıcı derecede başarıya ulaşmasından anlaşılacağı üzere, Microsoft kullanıcılarının önemli sayılabilecek kadar büyük bir kısmı Mart ayındaki güvenlik yamasını (MS17-010) yüklememiş durumda.
 

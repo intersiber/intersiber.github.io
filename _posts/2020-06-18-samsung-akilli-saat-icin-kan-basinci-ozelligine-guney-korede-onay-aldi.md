@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8534'
 permalink: /samsung-akilli-saat-icin-kan-basinci-ozelligine-guney-korede-onay-aldi/
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/06/samsung-akilli-saat-icin-kan-basinci-ozelligine-guney-kore-de-onay-aldi.jpg
+image: images/samsung-akilli-saat-icin-kan-basinci-ozelligine-guney-kore-de-onay-aldi.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -24,6 +24,6 @@ Galaxy Watch Active 2, geleneksel bir tansiyon ölçüm cihazının yerine geçm
 
 ## EKG desteği de geliyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/samsung-kan-basinci-ozelligi.jpg)</figure>Samsung’dan yapılan açıklamada Sağlık Monitörü uygulamasının bu yılın üçüncü çeyreğinden itibaren EKG (elektrokardiyogram) kalp takibini de yapabileceğini söyledi. Bu özellik, Apple Watch tarafından 2018 yılında sunulsa da, kan basıncı özelliği yer almıyordu.
+<figure class="wp-block-image size-large">![](images/samsung-kan-basinci-ozelligi.jpg)</figure>Samsung’dan yapılan açıklamada Sağlık Monitörü uygulamasının bu yılın üçüncü çeyreğinden itibaren EKG (elektrokardiyogram) kalp takibini de yapabileceğini söyledi. Bu özellik, Apple Watch tarafından 2018 yılında sunulsa da, kan basıncı özelliği yer almıyordu.
 
 Akıllı saat ile tansiyon ölçümü özelliğinin, **Güney** **Kore** dışındaki ülkelerde ne zaman yayına alınabileceğine ilişkin net bir bilgi yok. Bunun nedeni, her ülkenin yetkili birimlerinin onayından geçmek zorunda olması.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7762'
 permalink: /gerginlik-yukseliyor-twitter-trumpin-tweetini-siddeti-yuceltme-notu-ile-kisitladi/
 post_views_count:
     - '37'
-image: /wp-content/uploads/2020/05/gerginlik-yukseliyor-twitter-trump-in-tweetini-siddeti-yuceltme-notu-ile-kisitladi.png
+image: images/gerginlik-yukseliyor-twitter-trump-in-tweetini-siddeti-yuceltme-notu-ile-kisitladi.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ Twitter, **Trump’ın**, göstericilerle ilgili olarak “Bu ‘thugs’, Georg
 
 İşte o tweet:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/twitter-trump-in-tweetini-kisitladi.png)</figure>Tweet, doğrudan profilde görüldüğünde bir kısıtlı bir şekilde, erişilemiyor ve içeriği görmek için tıklamak gerekiyor. Tweetin üzerinde, “*Bu Tweet, şiddeti yüceltme hakkındaki Twitter Kuralları’nı ihlal etti. Ancak Twitter, Tweetin erişime açık kalmasının kamu yararına olabileceğini belirledi*” uyarısı bulunuyor.
+<figure class="wp-block-image size-large">![](images/twitter-trump-in-tweetini-kisitladi.png)</figure>Tweet, doğrudan profilde görüldüğünde bir kısıtlı bir şekilde, erişilemiyor ve içeriği görmek için tıklamak gerekiyor. Tweetin üzerinde, “*Bu Tweet, şiddeti yüceltme hakkındaki Twitter Kuralları’nı ihlal etti. Ancak Twitter, Tweetin erişime açık kalmasının kamu yararına olabileceğini belirledi*” uyarısı bulunuyor.
 
 ## Trump, Twitter için ‘Elimde olsa kapatırdım’ dedi
 

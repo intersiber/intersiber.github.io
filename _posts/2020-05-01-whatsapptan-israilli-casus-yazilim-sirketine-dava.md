@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6269'
 permalink: /whatsapptan-israilli-casus-yazilim-sirketine-dava/
 post_views_count:
     - '18'
-image: /wp-content/uploads/2020/05/whatsapp-tan-israilli-casus-yazilim-sirketine-dava-scaled.jpg
+image: images/whatsapp-tan-israilli-casus-yazilim-sirketine-dava-scaled.jpg
 categories:
     - Güvenlik
 tags:
@@ -23,7 +23,7 @@ Bin 400 **Whatsapp** kullanıcısının hacklendiği skandalın ardından Whatsa
 
 ## Pegasus isimli casus yazılım, hedeftekileri nasıl avladı?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/casus-yazilim-sirketi-nso-group-israil-1600x1000.jpg)</figure>Whatsapp, NSO Group tarafından geliştirilen **Pegasus** isimli **yazılım**ın, hedefindeki isimlerin bilgilerine nasıl erişildiğini de aktardı. Şirket, hack kurbanlarının Pegasus’tan etkilenmesi için telefon görüşmeleri aldığını söyledi. Whatsapp açıklamasında, “İsrailli şirket, Pegasus’u kullanıcıların cihazlarına yükledikten sonra güncellemek için bir ağ kullandı. NSO tarafından kontrol edilen bilgisayarlar operasyonu yönetti” ifadesini kullandı.
+<figure class="wp-block-image size-large">![](images/casus-yazilim-sirketi-nso-group-israil-1600x1000.jpg)</figure>Whatsapp, NSO Group tarafından geliştirilen **Pegasus** isimli **yazılım**ın, hedefindeki isimlerin bilgilerine nasıl erişildiğini de aktardı. Şirket, hack kurbanlarının Pegasus’tan etkilenmesi için telefon görüşmeleri aldığını söyledi. Whatsapp açıklamasında, “İsrailli şirket, Pegasus’u kullanıcıların cihazlarına yükledikten sonra güncellemek için bir ağ kullandı. NSO tarafından kontrol edilen bilgisayarlar operasyonu yönetti” ifadesini kullandı.
 
 Whatsapp’ın, “**yetkisiz erişim**” elde etmekle suçladığı yazılım şirketi, verdiği yasal yanıtta “müşterilerin bu araçları nasıl kullandığına dair bir fikri olmadığını” yineledi. Şirket, ürünlerinin terörizmi durdurmak ve suçları azaltmak” amacı ile geliştirildiğini ifade etti.
 

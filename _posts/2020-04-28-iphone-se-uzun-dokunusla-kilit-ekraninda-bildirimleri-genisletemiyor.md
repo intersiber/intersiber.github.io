@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6102'
 permalink: /iphone-se-uzun-dokunusla-kilit-ekraninda-bildirimleri-genisletemiyor/
 post_views_count:
     - '63'
-image: /wp-content/uploads/2020/04/iphone-se-uzun-dokunusla-kilit-ekraninda-bildirimleri-genisletemiyor.png
+image: images/iphone-se-uzun-dokunusla-kilit-ekraninda-bildirimleri-genisletemiyor.png
 categories:
     - Apple
 tags:
@@ -20,7 +20,7 @@ Lansmanın ardından geçtiğimiz Cuma günü sevkiyatına başlanan, Apple’ı
 
 MacRumors tarafından tespit edilen eksiklik, The Verge tarafından da doğrulandı. **iPhone SE**’de, uygulamayı açmadan e-postaları arşivleme gibi özellikler sunan bu özelliği göremeyeceğiz. **Haptic Touch** özelliği, telefonun kilidi açıkken ekranın üstünde gelen bildirimlerde de çalışıyordu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/iphone-haptic-touch-nedir.jpg)</figure>Bazıları tarafından ‘ihmal’ olarak yorumlanan bu durum, iPhone’lar için alışılmadık bir detay. Zira **Haptic Touch** ile, kilit ekranında bildirimleri yönetme ve içeriğini genişletme durumuna alışıksanız, **iPhone SE**’nin bu yönü hoşunuza gitmeyebilir. Bu durum, herhangi bir teknik hata olarak düşünülmezken, bazı teknoloji analistleri ince bir ayar hatası olmadığını ve telefonun “istendiği gibi çalıştığını” ifade etti.
+<figure class="wp-block-image size-large">![](images/iphone-haptic-touch-nedir.jpg)</figure>Bazıları tarafından ‘ihmal’ olarak yorumlanan bu durum, iPhone’lar için alışılmadık bir detay. Zira **Haptic Touch** ile, kilit ekranında bildirimleri yönetme ve içeriğini genişletme durumuna alışıksanız, **iPhone SE**’nin bu yönü hoşunuza gitmeyebilir. Bu durum, herhangi bir teknik hata olarak düşünülmezken, bazı teknoloji analistleri ince bir ayar hatası olmadığını ve telefonun “istendiği gibi çalıştığını” ifade etti.
 
 Bildirimlere uzun bir şekilde dokunma anlamına gelen Haptic Touch, 2015’te piyasaya çıkan iPhone 6S’ten bu yana iPhone bildirimlerini genişletmenin bir yolu. iPhone SE’nin öncül modeli olan iPhone 8’in 3D Touch özelliği vardı ancak iPhone SE’de bu özelikle de yok.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6516'
 permalink: /microsoft-calisanlarinin-evden-calisma-suresi-ekime-uzatildi/
 post_views_count:
     - '67'
-image: /wp-content/uploads/2020/05/microsoft-calisanlarinin-evden-calisma-suresi-ekim-e-uzatildi.jpg
+image: images/microsoft-calisanlarinin-evden-calisma-suresi-ekim-e-uzatildi.jpg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ Evden çalışma sürecini Eylül sonuna uzatan **Microsoft**, dünya çapındak
 
 ## Amazon da evden çalışmayı uzatma kararı almıştı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/amazon-koronavirus-evden-calisma.jpg)</figure>E-ticaret devi Amazon da, geçtiğimiz hafta yaptığı duyuruda, çalışanlarına 2 Ekim tarihine kadar evden çalışma izni vermişti. Her ne kadar, kritik departmanlarda çalışanlar, özellikle de depo gibi alanlarda görev alan saha çalışanları bu kapsamda yer almasa da, Amazon’un aldığı bu kadar sektör için önemli. Microsoft, aradan geçen bir haftanın ardından Amazon’la aynı döneme kadar evden çalışma sürecini uzattı.
+<figure class="wp-block-image size-large">![](images/amazon-koronavirus-evden-calisma.jpg)</figure>E-ticaret devi Amazon da, geçtiğimiz hafta yaptığı duyuruda, çalışanlarına 2 Ekim tarihine kadar evden çalışma izni vermişti. Her ne kadar, kritik departmanlarda çalışanlar, özellikle de depo gibi alanlarda görev alan saha çalışanları bu kapsamda yer almasa da, Amazon’un aldığı bu kadar sektör için önemli. Microsoft, aradan geçen bir haftanın ardından Amazon’la aynı döneme kadar evden çalışma sürecini uzattı.
 
 Bakalım teknolojinin diğer devleri, bu kararı takip edecek mi…

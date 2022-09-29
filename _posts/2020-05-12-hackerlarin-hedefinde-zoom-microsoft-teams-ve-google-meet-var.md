@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6806'
 permalink: /hackerlarin-hedefinde-zoom-microsoft-teams-ve-google-meet-var/
 post_views_count:
     - '43'
-image: /wp-content/uploads/2020/05/hackerlarin-hedefinde-zoom-microsoft-teams-ve-google-meet-var.png
+image: images/hackerlarin-hedefinde-zoom-microsoft-teams-ve-google-meet-var.png
 categories:
     - Güvenlik
 tags:
@@ -22,7 +22,7 @@ Hack Point Research’ın hazırladığı rapora göre bilgisayar korsanları, *
 
 ## Zoom ile ilgili 2500’e yakın alan adı kaydedildi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/zoom-hackerlarin-hedefinde-1600x1107.jpg)</figure>Rapora göre sadece son üç haftada, **Zoom** ile ilgili 2 bin 449 **alan adı** tescil ettirildi. Check Point Research’e göre bu alan adlarından 32’sinin kötü amaçlı olduğu tespit edilirken, 320’sininse şüpheli olduğu belirtildi.
+<figure class="wp-block-image size-large">![](images/zoom-hackerlarin-hedefinde-1600x1107.jpg)</figure>Rapora göre sadece son üç haftada, **Zoom** ile ilgili 2 bin 449 **alan adı** tescil ettirildi. Check Point Research’e göre bu alan adlarından 32’sinin kötü amaçlı olduğu tespit edilirken, 320’sininse şüpheli olduğu belirtildi.
 
 Kimlik avı denemelerinin birinde, bilgisayar korsanları Microsoft Teams’ten gelen resmi bir e-mail gibi hazırladıkları e-postada, kullanıcıların bilgisayarına kötü amaçlı yazılım indiren bir URL yerleştirdi.
 

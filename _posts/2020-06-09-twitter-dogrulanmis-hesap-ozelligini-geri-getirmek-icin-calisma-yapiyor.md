@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8251'
 permalink: /twitter-dogrulanmis-hesap-ozelligini-geri-getirmek-icin-calisma-yapiyor/
 post_views_count:
     - '75'
-image: /wp-content/uploads/2020/06/twitter-dogrulanmis-hesap-uygulamasini-geri-getirmek-icin-calisma-yapiyor-scaled.jpg
+image: images/twitter-dogrulanmis-hesap-uygulamasini-geri-getirmek-icin-calisma-yapiyor-scaled.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -28,7 +28,7 @@ Sosyal medya uygulamalarının getireceği yeni özellikleri, ters mühendislik 
 
 **Twitter**, Wong’un paylaşımını doğruladı ancak daha fazla detay vermedi. Doğrulanmış hesap programı, Twitter’da bir süredir beklemede ve yardım sayfasında, “şu anda yeni bir istek kabul etmiyoruz” açıklaması yer alıyor. Twitter’ın kullanıcılara ne zaman doğrulama özelliğini yeniden açacağı belli değil.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/twitter-hesap-dogrulama-sistemi.jpg)</figure>Twitter, geçmişte doğruladığı ve kamu yararına olduğunu düşündüğü hesapların yanında mavi bir **onay** **rozeti** ekliyordu. **Mavi** tik olarak da bilinen onay rozetlerinin şirket tarafından resmi bir onay anlamına gelmediğinin belirtilmesine rağmen, rozetin anlamı ile ilgili çeşitli tartışmalar yaşandı ve karışıklıklar oldu. Nitekim, Twitter’da **çevirmen** **rozetleri** de doğrulanmış hesap rozetlerine benzerlik gösteriyor.
+<figure class="wp-block-image size-large">![](images/twitter-hesap-dogrulama-sistemi.jpg)</figure>Twitter, geçmişte doğruladığı ve kamu yararına olduğunu düşündüğü hesapların yanında mavi bir **onay** **rozeti** ekliyordu. **Mavi** tik olarak da bilinen onay rozetlerinin şirket tarafından resmi bir onay anlamına gelmediğinin belirtilmesine rağmen, rozetin anlamı ile ilgili çeşitli tartışmalar yaşandı ve karışıklıklar oldu. Nitekim, Twitter’da **çevirmen** **rozetleri** de doğrulanmış hesap rozetlerine benzerlik gösteriyor.
 
 **Hesap** **doğrulama** uygulaması, ABD’de bir mitingde öldürülen Heather Heyer ile ilgili, ırkçı bir paylaşım yapan hesaba doğrulama rozeti verilmesinin ardından 2017’de tepkiler üzerine durduruldu.
 

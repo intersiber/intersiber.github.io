@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/150929-phones-feature-samsung-galaxy-fold-2-image1-xgcfewduat.jpg
+image: images/150929-phones-feature-samsung-galaxy-fold-2-image1-xgcfewduat.jpg
 categories:
     - Mobil
 tags:
@@ -26,7 +26,7 @@ Bilindiği üzere **Samsung** uzun zamandır katlanabilir telefonlar üzerine yo
 
 Akıllı telefon üreticilerinin en önemli isimlerinden biri olan Samsung, birkaç ay sonra tanıtımını yapmaya başlayacağı katlanabilir telefon modeli olan Galaxy Fold 2 hakkında ser verip sır vermiyordu. Ancak Galaxy Fold 2 özellikleri ile alakalı ilk bilgiler sızdırıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/samsung-galaxy-fold.jpg)</figure>## **Samsung Bir İlke Daha İmza Atıyor**
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-fold.jpg)</figure>## **Samsung Bir İlke Daha İmza Atıyor**
 
 Twitter’da teknoloji devi Samsung ile yakınlığı bilinen bu bir kullanıcı, Galaxy Fold 2 hakkında çok önemli açıklamalarda bulundu. Twitter hesabı üzerinden yaptığı [açıklamada](https://twitter.com/DSCCRoss/status/1229043564513906688), Galaxy Fold 2’nin ekran altı kamerasına sahip olacağını belirtti. Bilindiği üzere ekran altı kamera sistemi, akıllı telefon modellerinde şimdiye kadar hiç kullanılmadı. Bu yüzden Samsung’un yine bir ilke imza atacağı düşünülüyor.
 

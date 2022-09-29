@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/diablo-iv-4-icin-resmi-aciklama-yapildi.png
+image: images/diablo-iv-4-icin-resmi-aciklama-yapildi.png
 categories:
     - Oyun
 tags:
@@ -30,6 +30,6 @@ Diablo serisinin merakla beklenen yeni oyunu hakkında **Blizzard** tarafından 
 
 Geliştirme görevini üstlenen Blizzard, oyunda yapılan yenilikler hakkında açıklamalarda bulundu. Yamyamlar isminde yeni bir canavar türünün eklendiğini açıklayan yetkililer, bu türün çok daha güçlü ve karanlık olduğunun altını çizdi. Ancak Diablo IV’te yapılan yenilikler bununla sınırlı değil.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/diablo-iv-4-icin-resmi-aciklama-yapildi-2-1600x863.jpg)</figure>Oyunun arayüzünde de oldukça geniş değişikliklerin yapılmış. Özellikle arka plan simgelerinde yapılan yeniliklerle birlikte artık çok daha parlak ve canlı bir görünüm elde edilmiş. Oyun içinde yapılan en önemli değişiklik ise envanter kısmında görülüyor. Envanter sınırlarına eklenen yeni dekorasyonlar birlikte envanterlerin düzeni değiştirildi. Böylece envanter kısmı çok daha derli toplu görünecek.
+<figure class="wp-block-image size-large">![](images/diablo-iv-4-icin-resmi-aciklama-yapildi-2-1600x863.jpg)</figure>Oyunun arayüzünde de oldukça geniş değişikliklerin yapılmış. Özellikle arka plan simgelerinde yapılan yeniliklerle birlikte artık çok daha parlak ve canlı bir görünüm elde edilmiş. Oyun içinde yapılan en önemli değişiklik ise envanter kısmında görülüyor. Envanter sınırlarına eklenen yeni dekorasyonlar birlikte envanterlerin düzeni değiştirildi. Böylece envanter kısmı çok daha derli toplu görünecek.
 
 Son olarak ise Coop modu hakkında bilgi verildi. Bilindiği üzere Diablo III’te, envantere girildiği zaman oyuna ara verilirdi. **Diablo IV Coop** modunda yapılan düzenlemelerde artık envantere girildiğinde oyuna ara verilmeyecek.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10019'
 permalink: /google-masaustu-aramalari-icin-karanlik-modu-test-ediyor/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/12/google-masaustu-aramalari-icin-karanlik-modu-test-ediyor.png
+image: images/google-masaustu-aramalari-icin-karanlik-modu-test-ediyor.png
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ tags:
 
 ## Google Arama’nın karanlık modu nasıl görünecek?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/google-karanlik-mod-ozelligi-1600x900.png)</figure>9to5Google’ın ulaştığı ekran görüntülerinde, **Google**’ın **karanlık** **mod** testlerinde arka planın koyu siyah-gri bir tona büründüğü, logonun ise beyaz olduğu görülüyor. Buna ek olarak karanlık modda butonların rengi de mavi olarak belirlenmiş.
+<figure class="wp-block-image size-large">![](images/google-karanlik-mod-ozelligi-1600x900.png)</figure>9to5Google’ın ulaştığı ekran görüntülerinde, **Google**’ın **karanlık** **mod** testlerinde arka planın koyu siyah-gri bir tona büründüğü, logonun ise beyaz olduğu görülüyor. Buna ek olarak karanlık modda butonların rengi de mavi olarak belirlenmiş.
 
 Google’ın **karanlık** **mod** testleri sürerken, sürecin ne zaman sona ereceği ve bu özelliğin tüm kullanıcılara sunulacağı henüz bilinmiyor. Beklenen ise, birkaç ay içinde bu özelliğin herkese sunulması.
 

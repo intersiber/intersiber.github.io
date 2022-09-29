@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Netflix.jpg
+image: images/Netflix.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ tags:
 
 Çok sayıda dolandırıcı bugünlerde 1.7 milyar insanın evde kendisini karantinaya alması ve dış dünyadan izole etmesi sonucunda Netflix aboneliğini ücretsiz veya çok daha düşük fiyatlarla verdikleri iddiasını öne sürerek kullanıcıları dolandırma eylemi içerisine girdiler.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Netflix-2.jpg)</figure>## Bedava Netflix Yok!
+<figure class="wp-block-image size-full">![](images/Netflix-2.jpg)</figure>## Bedava Netflix Yok!
 
 Netflix’in herhangi bir şekilde Türkiye’de ve bazı ülkelerde [ücretsiz](https://intersiber.com/netflix-1-aylik-ucretsiz-deneme-surumunu-turkiyede-kullanimdan-kaldirdi/) – bedava – olarak kullanılması mümkün değil. Banka hesap bilgileri, kişisel bilgiler ve ev adresi gibi bilgileri isteyen dolandırıcıların sosyal medyada ihbar edilmesi, bu kimselere itibar edilmemesi büyük önem taşıyor.
 

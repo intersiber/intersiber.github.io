@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '13'
-image: /wp-content/uploads/2020/03/google-io-2020.png
+image: images/google-io-2020.png
 categories:
     - Etkinlik
 tags:
@@ -29,7 +29,7 @@ Dünyayı kasıp kavuran koronavirüs salgını nedeniyle ardı ardına gelen ip
 
 Dünyanın en büyük mobil teknoloji fuarı [Mobil Dünya Kongresi MWC20](https://intersiber.com/mobil-dunya-kongresi-mwc20-coronavirus-sebebiyle-resmen-iptal-edildi/)‘nin iptal edilmesiyle başlayan etkinlik iptalleri, [Facebook’un geliştirici konferansı F8](https://intersiber.com/facebook-f8-gelistirici-konferansi-coronavirus-salgini-nedeniyle-iptal-edildi/)‘in iptal haberi ve ardından [Cenevre Otomobil Fuarı](https://intersiber.com/cenevre-otomobil-fuari-coronavirus-sebebiyle-iptal-edildi/) iptal haberi ile devam etti. Google’ın her yıl düzenlediği I/O konferansı da koronavirüs salgınından nasibini aldı.
 
-<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/03/google-io-2019.jpg?fit=640%2C330&ssl=1)</figure>## Online etkinlik düzenlenecek
+<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.comimages/google-io-2019.jpg?fit=640%2C330&ssl=1)</figure>## Online etkinlik düzenlenecek
 
 Google’ın yeni ürün ve servislerini duyuracağı Google I/O 2020 konferansının iptal edilmesinin ardından online bir etkinlikle tanıtımlarını gerçekleştirecek.
 

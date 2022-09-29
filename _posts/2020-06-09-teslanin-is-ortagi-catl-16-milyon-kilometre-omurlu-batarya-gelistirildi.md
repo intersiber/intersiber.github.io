@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8298'
 permalink: /teslanin-is-ortagi-catl-16-milyon-kilometre-omurlu-batarya-gelistirildi/
 post_views_count:
     - '26'
-image: /wp-content/uploads/2020/06/tesla-is-ortagi-catl-1-6-milyon-kilometre-omurlu-batarya-gelistirildi.jpg
+image: images/tesla-is-ortagi-catl-1-6-milyon-kilometre-omurlu-batarya-gelistirildi.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -29,4 +29,4 @@ Yeni nesil bataryaların özelliği, geleneksel **elektrikli** **otomobil** bata
 
 ## Tesla’nın mevcut pilleri 250 bin kilometre garantili
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/tesla-bataryalari-nasil-gorunuyor.jpg)</figure>Tesla henüz **CATL’den**, yeni nesil piller için bir sipariş vermedi ancak şirketin kullandığı mevcut pillerin garantisi 250 bin kilometre ya da 8 yılı kapsıyor. Dış basında bazı kaynaklar, **Tesla** ile **CATL** arasında 800 in kilometre menzilli bataryalar konusunda bir çalışma yapıldığına yönelik iddiaların ortaya atılmasına neden olmuştu. 1,6 milyon kilometrelik bataryalarla ilgili Tesla ya da diğer elektrikli otomobil üreticilerinden bir adım gelecek mi, göreceğiz.
+<figure class="wp-block-image size-large">![](images/tesla-bataryalari-nasil-gorunuyor.jpg)</figure>Tesla henüz **CATL’den**, yeni nesil piller için bir sipariş vermedi ancak şirketin kullandığı mevcut pillerin garantisi 250 bin kilometre ya da 8 yılı kapsıyor. Dış basında bazı kaynaklar, **Tesla** ile **CATL** arasında 800 in kilometre menzilli bataryalar konusunda bir çalışma yapıldığına yönelik iddiaların ortaya atılmasına neden olmuştu. 1,6 milyon kilometrelik bataryalarla ilgili Tesla ya da diğer elektrikli otomobil üreticilerinden bir adım gelecek mi, göreceğiz.

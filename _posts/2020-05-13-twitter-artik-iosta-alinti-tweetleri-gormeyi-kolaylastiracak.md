@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6861'
 permalink: /twitter-artik-iosta-alinti-tweetleri-gormeyi-kolaylastiracak/
 post_views_count:
     - '67'
-image: /wp-content/uploads/2020/05/twitter-artik-iosta-alinti-tweetleri-gormeyi-kolaylastiracak.jpg
+image: images/twitter-artik-iosta-alinti-tweetleri-gormeyi-kolaylastiracak.jpg
 categories:
     - 'Sosyal Medya'
 tags:

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9558'
 permalink: /apple-watchta-ekran-isigi-otomatik-olarak-nasil-kapatilir/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/11/apple-watch-ta-ekran-isigi-otomatik-olarak-nasil-kapatilir.jpeg
+image: images/apple-watch-ta-ekran-isigi-otomatik-olarak-nasil-kapatilir.jpeg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -23,7 +23,7 @@ Sinema modunun etkinleştirilmesi, **Apple** **Watch’unuzdaki** Denetim Merkez
 
 Modu etkinleştirmek için tiyatro simgesine dokunun.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-watch-sinema-modu-nedir-nasil-acilir.png)</figure>Kestirmeler uygulamasını kullanarak her gün tiyatro modunu açıp kapatma işlemini yaparken kaybettiğiniz zamandan tasarruf edebilirsiniz. Sinema modunu belli zamanlarda otomatik etkinleştiren ya da devre dışı bırakan bir otomasyon oluşturabilirsiniz. Bu özellik, **watchOS** **7** ve sonraki sürümleri çalıştıran Apple Watch için kullanılabilir. iPhone tarafında, iOS 14 ve sonraki sürümleri kullanmanız gerekir.
+<figure class="wp-block-image size-large">![](images/apple-watch-sinema-modu-nedir-nasil-acilir.png)</figure>Kestirmeler uygulamasını kullanarak her gün tiyatro modunu açıp kapatma işlemini yaparken kaybettiğiniz zamandan tasarruf edebilirsiniz. Sinema modunu belli zamanlarda otomatik etkinleştiren ya da devre dışı bırakan bir otomasyon oluşturabilirsiniz. Bu özellik, **watchOS** **7** ve sonraki sürümleri çalıştıran Apple Watch için kullanılabilir. iPhone tarafında, iOS 14 ve sonraki sürümleri kullanmanız gerekir.
 
 ## Apple Watch’ta sinema modunu otomatik olarak açma
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/PLAYSTATİON-5.png
+image: images/playstation-5.png
 categories:
     - Konsol
 tags:
@@ -24,7 +24,7 @@ tags:
 
 **Sony** tarafından yakın zamanda tanıtılması beklenen ve hakkında çok uzun zamandır tartışmaların sürdüğü **PlayStation 5** modelinden yeni bilgiler geldi. Asyalı teknoloji üreticisi Sony, PlayStation 5 modelinde beklendiği gibi daha yüksek özellikler, daha sessiz fan ve daha güçlü görüntü işleyiciler kullanacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/PLAYSTATİON-5-2.jpg)</figure>Bugün kaynağı bilinmeyen yeni bir sızıntı internette PlayStation 5 bekleyenleri heyecanlandırdı.
+<figure class="wp-block-image size-large">![](images/PLAYSTATİON-5-2.jpg)</figure>Bugün kaynağı bilinmeyen yeni bir sızıntı internette PlayStation 5 bekleyenleri heyecanlandırdı.
 
 Cihazın teknik olarak gelişmiş özelliklere sahip olacağı, SSD ile çalışacağı ve bu sayede çok daha hızlı ve oyunlarda çok daha performanslı olacağı iddia edildi.
 

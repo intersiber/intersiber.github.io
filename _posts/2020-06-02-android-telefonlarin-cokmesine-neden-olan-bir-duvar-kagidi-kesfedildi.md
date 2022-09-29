@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7946'
 permalink: /android-telefonlarin-cokmesine-neden-olan-bir-duvar-kagidi-kesfedildi/
 post_views_count:
     - '107'
-image: /wp-content/uploads/2020/06/android-telefonlarin-cokmesine-neden-olan-bir-duvar-kagidi-kesfedildi.jpg
+image: images/android-telefonlarin-cokmesine-neden-olan-bir-duvar-kagidi-kesfedildi.jpg
 categories:
     - Mobil
 tags:
@@ -19,7 +19,7 @@ Akıllı telefonda kimi zaman çok küçük bir detay, telefonun çökmesine ned
 
 ## Telefonun yeniden başlatılması sorunu çözmüyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/android-telefonlarin-cokmesine-neden-olan-duvar-kagidi-bug.jpg)</figure>Duvar kağıdı açığından etkilenen telefonlar, sistemin kullanılmaz bir hale gelmesine neden oluyor. Gelen bilgilere göre telefonun yeniden başlatılması da o an için sorunu çözmüyor. **9to5Google**, böyle bir durumda güvenli modda yeniden başlatma yapılması gerektiğini ve görüntü dosyasının silinebileceğini aktardı. **Android** **Authority** ise, telefonun normale dönmesi için fabrika ayarlarına geri dönmesi gerektiğini aktardı.
+<figure class="wp-block-image size-large">![](images/android-telefonlarin-cokmesine-neden-olan-duvar-kagidi-bug.jpg)</figure>Duvar kağıdı açığından etkilenen telefonlar, sistemin kullanılmaz bir hale gelmesine neden oluyor. Gelen bilgilere göre telefonun yeniden başlatılması da o an için sorunu çözmüyor. **9to5Google**, böyle bir durumda güvenli modda yeniden başlatma yapılması gerektiğini ve görüntü dosyasının silinebileceğini aktardı. **Android** **Authority** ise, telefonun normale dönmesi için fabrika ayarlarına geri dönmesi gerektiğini aktardı.
 
 Söylemeye gerek var mı bilmiyoruz ancak, bunu kesinlikle kendi telefonunuzda denemeyin.
 

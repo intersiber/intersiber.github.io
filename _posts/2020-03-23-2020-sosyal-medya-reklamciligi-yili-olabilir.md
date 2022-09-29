@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/sosyal-medya.jpeg
+image: images/sosyal-medya.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -29,7 +29,7 @@ Instagram, görünüşe göre bazı kullanıcılar üzerindeki olumsuz etkilerin
 
 Bu tartışmanın devam eden etkileri ve bir düzenleme çağına kaçınılmaz bir kaymayı izlemenin yanı sıra, bu yıl ele alınması gereken başka önemli konular da var.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/sosyal-medya-facebook-instagram-twitter.jpeg)</figure>## Facebook’un Video Standartlarının Gelişmesi Gerekiyor
+<figure class="wp-block-image size-large">![](images/sosyal-medya-facebook-instagram-twitter.jpeg)</figure>## Facebook’un Video Standartlarının Gelişmesi Gerekiyor
 
 2017’de Facebook’un ikinci çeyrek kazanç raporu, platformun haber beslemesinde reklam alanının tükendiğini gösterdi. O zaman, bu şirket için önemli bir konu olarak kabul edildi. Tarihinde ilk kez, reklam harcamalarındaki büyüme yavaşlıyordu.
 
@@ -39,7 +39,7 @@ Bu tartışmanın devam eden etkileri ve bir düzenleme çağına kaçınılmaz 
 
 Facebook’un ikinci kararı olan ‘önce video’ modeline geçme, işi sonsuza dek değiştirdi ve dünyanın en büyük ticari çevrimiçi video platformlarından biri haline getirdi. Bugün, şirketin en büyük sorunu, platformdaki video reklamlarla tüketici etkileşiminin kalitesi olarak görünüyor. **Facebook** uzun vadede etkin bir şekilde rekabet edecekse, videoya yaklaşımı gelişmek zorunda.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/sosyal-medya-begeni.jpeg)</figure>### TikTok’un Yükselişi
+<figure class="wp-block-image size-full">![](images/sosyal-medya-begeni.jpeg)</figure>### TikTok’un Yükselişi
 
 TikTok artık önemli bir sosyal platform ve Kasım 2019’da küresel olarak 1,5 milyar kez indirilmişti. Çinli teknoloji şirketi ByteDance’in sahibi olduğu **TikTok**, 15 saniyelik müzik videoları oluşturmak ve paylaşıldığı bir mobil uygulama olarak büyümeye devam ediyor.
 

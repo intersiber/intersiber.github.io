@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6779'
 permalink: /slack-yeni-guncellemesini-duyurdu/
 post_views_count:
     - '39'
-image: /wp-content/uploads/2020/05/slack-yeni-guncellemesini-duyurdu.png
+image: images/slack-yeni-guncellemesini-duyurdu.png
 categories:
     - Genel
 tags:
@@ -22,6 +22,6 @@ Slack, **App Store** güncelleme notlarında “Daha önce, insanların mobil ci
 
 App Store’dan, yeniden tasarımın nasıl göründüğüne dair bazı ekran görüntüler paylaşıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/slack-ios-update-1600x800.jpeg)</figure>Şirket, notlarında “Şimdi sağa kaydırmak çalışma alanınızı ve tercihlerinizi ortaya çıkaracakken ve sola kaydırmakta sizi son konuşmanıza geri götürecektir” açıklamasını yaptı.
+<figure class="wp-block-image size-large">![](images/slack-ios-update-1600x800.jpeg)</figure>Şirket, notlarında “Şimdi sağa kaydırmak çalışma alanınızı ve tercihlerinizi ortaya çıkaracakken ve sola kaydırmakta sizi son konuşmanıza geri götürecektir” açıklamasını yaptı.
 
 Güncellemenin tüm yeni özellikleri şimdilik uygulamanın **iPhone** sürümüne özgü görünüyor, yani **iPad** sürümü şimdilik aynı kalıyor. Muhtemelen güncelleme daha geniş bir süre içerisinde tüm platformlarda kullanıma sunulacak gibi görünüyor.

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/tiktokabd-1-scaled.jpg
+image: images/tiktokabd-1-scaled.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -29,7 +29,7 @@ TikTok tarafından açıklanan konsey, birkaç ayda bir görüşler vermek ve i�
 
 Pekin merkezli teknoloji devi ByteDance’in sahibi olduğu **TikTok** bu hamlesiyle, veri güvenliği uygulamaları konusunda ABD milletvekillerinden incelemeyle karşı karşıya kaldığı ve Çin hükümetinin emriyle sansür yaptığı endişeleriyle şeffaflığı artırmaya çalışacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/tiktokabd-2.jpg)</figure>Şirket, ABD kullanıcı verilerinin ABD’de depolandığını ve Çin’in Çin dışındaki içerikler üzerinde yetki sahibi olmadığını söyledi. **TikTok**, İçerik Danışma Konseyi’nin yaklaşık bir düzine üye sayısına çıkacağını da açıkladı.
+<figure class="wp-block-image size-large">![](images/tiktokabd-2.jpg)</figure>Şirket, ABD kullanıcı verilerinin ABD’de depolandığını ve Çin’in Çin dışındaki içerikler üzerinde yetki sahibi olmadığını söyledi. **TikTok**, İçerik Danışma Konseyi’nin yaklaşık bir düzine üye sayısına çıkacağını da açıkladı.
 
 Konseyin Mart ayının sonundaki ilk toplantısında yanlış bilgilendirme ve seçim müdahalesine karşı politikalar da dahil olmak üzere platform bütünlüğü konuları ele alınacak.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6717'
 permalink: /boston-dynamics-robotu-sosyal-mesafeye-uymayanlari-uyaracak/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/05/boston-dynamics-robotu-sosyal-mesafeye-uymayanlari-uyaracak.jpg
+image: images/boston-dynamics-robotu-sosyal-mesafeye-uymayanlari-uyaracak.jpg
 categories:
     - Genel
 tags:
@@ -28,7 +28,7 @@ Her ne kadar köpek robot, son derece kibar bir şekilde uyarılarda bulunsa da,
 
 ## Zorunlu durumlar haricinde sokağa çıkma yasağı uygulanıyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/boston-dynamics-spot-robot-ozellikleri.jpg)</figure>6 milyona yakın nüfusa sahip olan Singapur’da, 20 binin üzerinde **koronavirüs** vakası tespit edildi. **Singapur** yönetimi, Mayıs ayı boyunca marketlerden alışveriş gibi zorunlu ihtiyaçlar haricinde, sokağa çıkma yasağı uyguluyor. Buna ek olarak tüm Singapur vatandaşları, maske takarak dışarı çıkmak zorunda.
+<figure class="wp-block-image size-large">![](images/boston-dynamics-spot-robot-ozellikleri.jpg)</figure>6 milyona yakın nüfusa sahip olan Singapur’da, 20 binin üzerinde **koronavirüs** vakası tespit edildi. **Singapur** yönetimi, Mayıs ayı boyunca marketlerden alışveriş gibi zorunlu ihtiyaçlar haricinde, sokağa çıkma yasağı uyguluyor. Buna ek olarak tüm Singapur vatandaşları, maske takarak dışarı çıkmak zorunda.
 
 ## Robot parkta kaç kişi olduğunu analiz edecek
 

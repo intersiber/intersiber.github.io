@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9939'
 permalink: /bill-gates-koronavirus-2021-baharina-kadar-kontrol-altina-alinacak/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/12/bill-gates-koronavirus-2021-baharina-kadar-kontrol-altina-alinacak.png
+image: images/bill-gates-koronavirus-2021-baharina-kadar-kontrol-altina-alinacak.png
 categories:
     - Genel
 tags:

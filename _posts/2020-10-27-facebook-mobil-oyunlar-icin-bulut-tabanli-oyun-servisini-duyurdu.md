@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9405'
 permalink: /facebook-mobil-oyunlar-icin-bulut-tabanli-oyun-servisini-duyurdu/
 post_views_count:
     - '52'
-image: /wp-content/uploads/2020/10/facebook-mobil-oyunlar-icin-bulut-tabanli-oyun-servisini-duyurdu.png
+image: images/facebook-mobil-oyunlar-icin-bulut-tabanli-oyun-servisini-duyurdu.png
 categories:
     - Oyun
 tags:
@@ -26,7 +26,7 @@ Facebook’un bulut tabanlı oyun ekosistemine girmesinin nedeni, sunabileceği 
 
 ## Bulut tabanlı modele geçilmesi, daha iddialı oyunlar sunacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/facebook-gaming-mobil-icin-bulut-oyun-servisi.png)</figure>Rubin, Facebook’un bulut tabanlı platformun, çok daha gelişmiş oyunlar sunmayı planladığını aktardı. Bu adımla HTML5 oyunlar ortadan kalkmayacak, Facebook uygulaması içindeki yeni bulut tabanlı oyunlar yer alacak. Facebook’un, geçtiğimiz yıl İspanya merkezli PlayGiga’yı satın aldığı da unutulmamalı.
+<figure class="wp-block-image size-large">![](images/facebook-gaming-mobil-icin-bulut-oyun-servisi.png)</figure>Rubin, Facebook’un bulut tabanlı platformun, çok daha gelişmiş oyunlar sunmayı planladığını aktardı. Bu adımla HTML5 oyunlar ortadan kalkmayacak, Facebook uygulaması içindeki yeni bulut tabanlı oyunlar yer alacak. Facebook’un, geçtiğimiz yıl İspanya merkezli PlayGiga’yı satın aldığı da unutulmamalı.
 
 Rubin konuyla ilgili, “Platform, 300 milyon oyuncuya sevdikleri oyunları oynama imkanı sunacak.” dedi. Ücretsiz bulut oyunları içinde, Facebook’ta bugünden itibaren beta sürümü piyasya çıkacak oyunlar arasında üç boyutlu yarış oyunu Asphalt 9, rpg oyunu Mobile Legends: Adventure gibi seçenekler yer alacak.
 

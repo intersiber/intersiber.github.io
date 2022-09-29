@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7955'
 permalink: /bu-ay-tanitilmasi-bekleniyor-ios-14-hangi-iphone-modelleri-icin-sunulacak/
 post_views_count:
     - '58'
-image: /wp-content/uploads/2020/06/bu-ay-tanitilmasi-bekleniyor-ios-14-hangi-iphone-modelleri-icin-sunulacak.jpg
+image: images/bu-ay-tanitilmasi-bekleniyor-ios-14-hangi-iphone-modelleri-icin-sunulacak.jpg
 categories:
     - Apple
 tags:
@@ -26,7 +26,7 @@ Apple kaynaklarına dayandırılan bilgiye göre iOS 14, halihazırda iOS 13 yü
 
 ## iOS 14 güncellemesi alacak iPhone modelleri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/ios-14-ozellikleri-neler.jpg)</figure>Verifier’ın aktardığı bilgiye göre iOS 14, iOS 13’te olduğu gibi iPhone 6S ve birinci nesil iPhone SE modellerinden itibaren sunulacak. Verifier, bu güncellemenin, iPhone 6S, iPhone 6s Plus ve iPhone SE için gelen son güncelleme olduğunu aktardı.
+<figure class="wp-block-image size-large">![](images/ios-14-ozellikleri-neler.jpg)</figure>Verifier’ın aktardığı bilgiye göre iOS 14, iOS 13’te olduğu gibi iPhone 6S ve birinci nesil iPhone SE modellerinden itibaren sunulacak. Verifier, bu güncellemenin, iPhone 6S, iPhone 6s Plus ve iPhone SE için gelen son güncelleme olduğunu aktardı.
 
 Apple kaynaklarına göre, **iOS 14** kullanılabilecek **iPhone** **modelleri** şu şekilde:
 

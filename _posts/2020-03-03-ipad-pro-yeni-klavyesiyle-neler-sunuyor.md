@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/ipadpro.jpg
+image: images/ipadpro.jpg
 categories:
     - Apple
 tags:
@@ -29,7 +29,7 @@ Apple uzun bir süredir iPad Pro modelini her geçen gün biraz daha geliştiriy
 
 Tüm bunları bir dokunmatik ekran ve isteğe bağlı akıllı klavye ile yapabilirsiniz, ancak entegre bir **trackpad** bunu çok daha kolay hale getirecektir. Bu hala sadece bir söylenti, ama aynı zamanda mantıklı bir söylenti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ipadpro2.jpg)</figure>Yaklaşık 5 yıl önce, Apple’ın kurucusu Steve Jobs , dokunmatik ekranlarda **Apple Pencil** kullanımını meşhur etti ve Apple her zaman dokunmatik bir **MacBook’a** hayır dedi .
+<figure class="wp-block-image size-large">![](images/ipadpro2.jpg)</figure>Yaklaşık 5 yıl önce, Apple’ın kurucusu Steve Jobs , dokunmatik ekranlarda **Apple Pencil** kullanımını meşhur etti ve Apple her zaman dokunmatik bir **MacBook’a** hayır dedi .
 
 iPad Pro’nun yeni klavyesiyle birlikte geleceği iddia edilen trackpad, dizüstü bilgisayar kullanım alışkanlığını değiştirecek gibi görünüyor. Yeni iPad Pro klavyesinin tuşlarının arka aydınlatmalı olacağı da söylentiler arasında.
 

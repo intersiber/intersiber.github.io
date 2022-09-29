@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/macbook-.jpg
+image: images/macbook-.jpg
 categories:
     - 'Dizüstü Bilgisayar'
     - 'Ne Nasıl?'
@@ -38,7 +38,7 @@ Macbook modelinizde eğer pil eskisine göre daha çabuk bitiyorsa hemen endişe
 
 Zaten olası bir durumda pil belirli devir sayısını geçtiğinde veya herhangi bir problem yaşandığında Macbook üst bar bölümünde yer alan pil simgesinin üzerine tıkladığınızda “pili kontrol ettirin!” yazısı ile karşılaşıyorsunuz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/macbook-batarya.jpg)</figure>Bu yazıyla karşılaştıktan sonra çoğu zaman için pil ömrünün büyük oranda bitmiş olabileceğinden söz etmek mümkün ve bundan sonra cihazın daha az ekran süresi, farklı zamanlarda beklenmedik bir şekilde kapanma gibi sorunlarla karşı karşıya kalmanız mümkün olabileceği anlamına geliyor.
+<figure class="wp-block-image size-large">![](images/macbook-batarya.jpg)</figure>Bu yazıyla karşılaştıktan sonra çoğu zaman için pil ömrünün büyük oranda bitmiş olabileceğinden söz etmek mümkün ve bundan sonra cihazın daha az ekran süresi, farklı zamanlarda beklenmedik bir şekilde kapanma gibi sorunlarla karşı karşıya kalmanız mümkün olabileceği anlamına geliyor.
 
 Eskisine göre daha az gidiyorsa bile pil uyarısı yer almadıkça Macbook modellerinin pilinde sorun olduğundan söz etmek doğru olmasa da bazen beklenmedik zamanlarda ısı değişimleri ve aşırı soğuklarda kalması gibi sebepler ile cihazın hiç kullanılmamasına bağlı Macbook modellerinde doğası gereği Lityum pillerin ömrü azalabiliyor veya sorunlar çıkabiliyor.
 
@@ -48,7 +48,7 @@ Eğer Macbook modelinizin bataryası %50, %30 veya daha farklı değerlerde iken
 
 Burada bir uyarı yer almıyorsa bu sorunun geçici olabileceğini varsayarak cihazınızı %100’e kadar şarj edin ve tekrardan bu sorunun olup olmadığını gözlemleyin.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/macbook-batarya-2-1600x900.jpg)</figure>Bazı Macbook modellerinde şarj girişinin yanında eğer ki metal veya sinyal verici cihazlar varsa cihaz kapanmış gibi görünebilir ve açılmayabilir. Örneğin Macbook Air modelinizin şarj girişine yakın yere AirPods Pro kutusunu değdirirseniz cihazın ekranı bir anda kapanır ve cihaz hiçbir şekilde tepki vermez.
+<figure class="wp-block-image size-large">![](images/macbook-batarya-2-1600x900.jpg)</figure>Bazı Macbook modellerinde şarj girişinin yanında eğer ki metal veya sinyal verici cihazlar varsa cihaz kapanmış gibi görünebilir ve açılmayabilir. Örneğin Macbook Air modelinizin şarj girişine yakın yere AirPods Pro kutusunu değdirirseniz cihazın ekranı bir anda kapanır ve cihaz hiçbir şekilde tepki vermez.
 
 Bu sebeple eğer cihaz bir kere daha aynı sorunu gösterirse bilgisayarın sol tarafında yer alan USB’leri çıkarın ve cihazı farklı bir yerde konumlandırarak bu sorunun tekrar edip etmediğini test edin.
 
@@ -58,7 +58,7 @@ Tüm bunlara rağmen sorun giderilemedi ise Macbook modelinize göre Apple’ın
 
 Yine cihazınızı test edin ve sorunun çözülüp çözülmediğine bakın. Sonucunda yine cihazda sorunlar devam ediyorsa bu durumda Coconut Battery Macbook uygulamasını indirin ve kalan pil ömrüne bakın. Eğer pil ömrünüz %90 ve altına düştü ise bu nedenle cihazınızda bu sorunlar meydana geliyor olabilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/macbook-4.jpg)</figure>Genelde bir anda kapanma sorunu pil ömrü %80 altına düşmediği sürece olmayacak olsa da böylesi bir gösterge varsa cihazın servis zamanı ve pil değişim zamanı gelmiş demektir. Apple, Macbook modelinizin pilini koşullar ve duruma göre ücretsiz olarak değiştirebilir.
+<figure class="wp-block-image size-large">![](images/macbook-4.jpg)</figure>Genelde bir anda kapanma sorunu pil ömrü %80 altına düşmediği sürece olmayacak olsa da böylesi bir gösterge varsa cihazın servis zamanı ve pil değişim zamanı gelmiş demektir. Apple, Macbook modelinizin pilini koşullar ve duruma göre ücretsiz olarak değiştirebilir.
 
 Eğer uygulamada batarya normal görünüyor ise Macbook modelinizin tamamen sıfırlama yapılması sonucunda sorununuz çözülebilir.
 

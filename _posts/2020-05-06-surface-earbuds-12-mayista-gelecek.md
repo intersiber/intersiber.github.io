@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6494'
 permalink: /surface-earbuds-12-mayista-gelecek/
 post_views_count:
     - '26'
-image: /wp-content/uploads/2020/05/surface-earbuds-12-mayista-gelecek.png
+image: images/surface-earbuds-12-mayista-gelecek.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -20,7 +20,7 @@ Microsoft, Ekim ayında bir çift benzersiz görünümlü kablosuz kulaklıklar�
 
 Microsoft’un ofiste gün boyu müzik, çağrı ve hatta sunumlarla çalışan profesyoneller için bir aksesuar olarak gördüğü **Surface Earbuds**‘lar, **Office 365** yazılımıyla entegrasyon özelliğine sahip. Bunları özelliği PowerPoint slaytlarınızda altyazı oluşturmak, Word veya Outlook’ta belgeleri ve e-postaları dikte etmek ve ayrıca gelen iletilerinizin Outlook’tan size okunmasını sağlamak için kullanabilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/surface_earbuds-1600x900.jpg)</figure>Bir Android cihazla eşleştirildiğinde, Yüzey Kulaklıkları daha derin **Spotify** kontrolleri sunuyor. Böylece her iki kulağa da üç kez hafifçe dokunulduğunda Android telefonlarda Spotify otomatik olarak başlatılabiliyor.
+<figure class="wp-block-image size-large">![](images/surface_earbuds-1600x900.jpg)</figure>Bir Android cihazla eşleştirildiğinde, Yüzey Kulaklıkları daha derin **Spotify** kontrolleri sunuyor. Böylece her iki kulağa da üç kez hafifçe dokunulduğunda Android telefonlarda Spotify otomatik olarak başlatılabiliyor.
 
 Microsoft’un Yüzey Kulaklıkları, Omnisonic hoparlörler, benzersiz dokunsal kaydırma hareketleri, çift mikrofon dizisi ve **24** saate kadar çalma sağlayan **Type-C** şarj kutusu ile mükemmel ses kalitesi sunmak için baştan aşağı üretilmiştir.
 

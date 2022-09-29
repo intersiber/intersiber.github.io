@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/2019-yilinin-en-cok-guvenlik-acigi-olan-isletim-sistemi-android.jpg
+image: images/2019-yilinin-en-cok-guvenlik-acigi-olan-isletim-sistemi-android.jpg
 categories:
     - Güvenlik
 tags:
@@ -29,6 +29,6 @@ Teknoloji, yazılım ve donanım üreticisi **Google**, her geçen gün yoluna d
 
 ## İlk 10 Arasında 1. Sırada
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Ulusal-Standartlar-ve-Teknoloji-Enstitüsü.jpg)</figure>Google’ın Android işletim sistemi **Ulusal Standartlar ve Teknoloji Enstitüsü** tarafından yayınlanan listeye göre 10 en büyük güvenlik açığına sahip olan işletim sistemi listesinde 414 güvenlik açığı ile **1. sırada** yer almış durumda.
+<figure class="wp-block-image size-large">![](images/Ulusal-Standartlar-ve-Teknoloji-Enstitüsü.jpg)</figure>Google’ın Android işletim sistemi **Ulusal Standartlar ve Teknoloji Enstitüsü** tarafından yayınlanan listeye göre 10 en büyük güvenlik açığına sahip olan işletim sistemi listesinde 414 güvenlik açığı ile **1. sırada** yer almış durumda.
 
 Ancak işletim sisteminin buna rağmen dünyanın en güvenilir 2. en iyi mobil işletim sistemi olduğu bilinmekte. 1. ise Apple iOS mobil işletim sistemi.

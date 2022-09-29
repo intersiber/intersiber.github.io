@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/chrome.jpg
+image: images/chrome.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Google’dan geçtiğimiz günlerde yapılan açıklamalarda Chrome için 82 gü
 
 Olası çökmeler ve problemlerin önüne geçmek adına bu kararı verdiklerini bildiren arama motoru devi Google’ın **Chrome 83** için çalışmaları sürdürdüğü açıklandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/chrome-3.png)</figure>Chrome’un 83 güncellemesinin ne zaman yayınlanacak olduğu ile ilgili kullanıcılara herhangi bir açıklama yapılmazken, yeni güncellemenin COVID-19’un etkisi sona ermeye başladıktan sonra olabileceği tahmin ediliyor.
+<figure class="wp-block-image size-large">![](images/chrome-3.png)</figure>Chrome’un 83 güncellemesinin ne zaman yayınlanacak olduğu ile ilgili kullanıcılara herhangi bir açıklama yapılmazken, yeni güncellemenin COVID-19’un etkisi sona ermeye başladıktan sonra olabileceği tahmin ediliyor.
 
 ## Google’dan Yeni Adım!
 

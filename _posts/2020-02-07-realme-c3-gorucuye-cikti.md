@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/realme-c3.jpg
+image: images/realme-c3.jpg
 categories:
     - Mobil
 tags:
@@ -23,7 +23,7 @@ tags:
 
 **Realme C3** tanıtıldı ve özellikleri resmi olarak açıklandı. Realme yeni modeli Realme C3 ile yeniden dikkatleri üzerine çekti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/realme-c3-ozellikleri-fiyati-alinir-mi.jpg)</figure>## **Realme C3 Özellikleri ve Fiyatı**
+<figure class="wp-block-image size-large">![](images/realme-c3-ozellikleri-fiyati-alinir-mi.jpg)</figure>## **Realme C3 Özellikleri ve Fiyatı**
 
 Tanıtım etkinlikleri kapsamında **Realme C3** özellikleri resmi olarak açıklandı. 6.5 inçlik damla çentikli ekran, Realme 5i gibi **720 x 1600** piksel ekran çözünürlüğü ile dikkat çekiyor. Ağırlığı 195 gram olan Realme C3’ün boyutları ise 164,4 x 75 x 8,95 mm.
 

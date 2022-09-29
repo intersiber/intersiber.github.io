@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6277'
 permalink: /bluetooth-sig-sertifikali-yeni-redmibooks-ve-mi-dizustu-bilgisayarlari/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/05/xiaomi-mi.jpg
+image: images/xiaomi-mi.jpg
 categories:
     - 'Dizüstü Bilgisayar'
 tags:
@@ -21,7 +21,7 @@ Xiaomi, **Bluetooth SIG** sertifikası alan modellerini genişletti. Bazıları 
 
 Görünüşe göre, Xiaomi mobil PC portföyünü altı yeni dizüstü bilgisayar modeliyle genişletmeyi planlıyor ve bunlardan ikisi **AMD**‘nin en yeni **Ryzen 4000 APU’**ları tarafından destekleniyor gibi görünüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/bluetooth-sigde-yeni-redmibooks-ve-mi-dizustu-bilgisayarlari-1600x900.jpg)</figure>Geçen yıl piyasaya sürülen 14 inç modelin yenilenmiş bir versiyonu olan RedmiBook 14 Ryzen Edition 2.Nesil ve 16 inç RedmiBook 16 Ryzen Edition modelleri iki giriş seviyesi dizüstü bilgisayarı olarak sertifika alan modellerden.
+<figure class="wp-block-image size-large">![](images/bluetooth-sigde-yeni-redmibooks-ve-mi-dizustu-bilgisayarlari-1600x900.jpg)</figure>Geçen yıl piyasaya sürülen 14 inç modelin yenilenmiş bir versiyonu olan RedmiBook 14 Ryzen Edition 2.Nesil ve 16 inç RedmiBook 16 Ryzen Edition modelleri iki giriş seviyesi dizüstü bilgisayarı olarak sertifika alan modellerden.
 
 Diğer dört model, Mi mobil 13.3 / 14 / 16.1 ve Xiaomi mobil PC portföyüne yepyeni bir ek olan Mi Notebook 14’ü içeriyor. Bu dört cihazın da **Ryzen CPU**‘ları alıp almayacağı henüz belli değil.
 

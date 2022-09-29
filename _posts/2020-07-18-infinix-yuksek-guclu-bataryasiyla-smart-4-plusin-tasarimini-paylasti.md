@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9107'
 permalink: /infinix-yuksek-guclu-bataryasiyla-smart-4-plusin-tasarimini-paylasti/
 post_views_count:
     - '56'
-image: /wp-content/uploads/2020/07/infinix-yuksek-guclu-bataryasiyla-smart-4-plusin-tasarimini-paylasti.jpg
+image: images/infinix-yuksek-guclu-bataryasiyla-smart-4-plusin-tasarimini-paylasti.jpg
 categories:
     - Mobil
 tags:
@@ -21,6 +21,6 @@ tags:
 
 **Infinix Smart 4 Plus**, iddialı bataryası ile kullanıcılara 23 saat video oynatma, 44 saat müzik dinleme, 15 saat oyun oynama, 23 saat internette gezinme, 38 saat 4G konuşma süresi sunuyor.
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![](https://intersiber.com/wp-content/uploads/2020/07/InfinixSmart4Plus-1.jpg)</figure></div>Bekleme modunda **31 gün** batarya ömrü vaat edecek **Infinix Smart 4 Plus**, sekiz çekirdekli **MediaTek Helio P22** işlemciden güç alacak. **Android 10** işletim sistemi ile gelecek olan cihaz **3 GB RAM**‘e sahip olacak.
+<div class="wp-block-image"><figure class="aligncenter size-large">![](images/InfinixSmart4Plus-1.jpg)</figure></div>Bekleme modunda **31 gün** batarya ömrü vaat edecek **Infinix Smart 4 Plus**, sekiz çekirdekli **MediaTek Helio P22** işlemciden güç alacak. **Android 10** işletim sistemi ile gelecek olan cihaz **3 GB RAM**‘e sahip olacak.
 
 Arkasında **üçlü** kamera ve **LED** flaş bulunduran cihazın **parmak izi okuyucu sensörü** de arkasında bulunuyor.

@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '103'
-image: /wp-content/uploads/2020/03/twitter-hikaye-ozelligi-fleets-nedir-nasil-kullanilir.png
+image: images/twitter-hikaye-ozelligi-fleets-nedir-nasil-kullanilir.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -29,7 +29,7 @@ Sosyal ağlarla birlikte hayatımıza giren “hikaye” kavramı, her geçen g�
 
 Twitter ürün lideri **Kayvon Beykpour** tarafından yapılan [paylaşımda](https://twitter.com/kayvz/status/1235248857308487682), hikayeler konseptindeki yeni Twitter özelliği **Fleets** duyuruldu.
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/03/twitter-hikaye-ozelligi-fleets-nedir-nasil-kullanilir-2.png?fit=640%2C360&ssl=1)</figure>## 24 saat sonra kaybolacak ve Retweet edilemeyecek
+<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.comimages/twitter-hikaye-ozelligi-fleets-nedir-nasil-kullanilir-2.png?fit=640%2C360&ssl=1)</figure>## 24 saat sonra kaybolacak ve Retweet edilemeyecek
 
 Twitter Fleets özelliği ile yapılan paylaşımların ömrü **24 saat** olacak. Paylaşımda tweetlerde olduğu gibi **280 karakter sınırı** bulunuyor. Yapılan paylaşım herhangi bir şekilde retweet edilemeyecek ve beğenilemeyecek. Yalnızca emojilerle direkt mesaj olarak ifade bırakılabilecek.
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/google-wikipedia-olan-bagimliligini-azaltiyor.jpg
+image: images/google-wikipedia-olan-bagimliligini-azaltiyor.jpg
 categories:
     - Genel
 tags:
@@ -30,7 +30,7 @@ Google üzerinden arama yaptığınızda sağ tarafta bazı bilgi kartlarının 
 
 Yeni gelecek arama kartları ile kişilerin hayatları hakkında kısa bilgi, doğum tarihleri, ölüm tarihleri, doğum ve ölüm yerleri, şu an ki durumu, yaşları ve meslekleri hakkında bilgiler verilecek. Google yapacağı yeniliklerin başlıca amacının farklı kaynaklara bağımlılığı azaltmak olduğunu açıkladı. Bilgi kartları konusunda Wikipedia veya farklı platformlara bağlılığın azaltılması gündemde.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/google-wikipedia-bagimliligini-azaltiyor.jpg)</figure>## Sadece Kişilere Özgü Değil
+<figure class="wp-block-image size-large">![](images/google-wikipedia-bagimliligini-azaltiyor.jpg)</figure>## Sadece Kişilere Özgü Değil
 
 Google, arama kartlarını sadece kişilere özgü olarak getirmeyeceğini açıkladı. Bazı kavramlar hakkında da bilgilendirici yazıların paylaşılacağı bilgi kartlarında kapasitenin artması planlanıyor. Her türlü konuda bilgi kartları oluşturmayı amaçlayan Google’ın Wikipedia’ya bağlılığı ciddi bir biçimde azalacak.
 

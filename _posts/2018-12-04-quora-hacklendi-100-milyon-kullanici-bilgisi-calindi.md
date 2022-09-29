@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '394'
-image: /wp-content/uploads/2018/12/quora-logo.jpg
+image: images/quora-logo.jpg
 categories:
     - 'Öne Çıkan'
     - 'Veri Sızıntıları'

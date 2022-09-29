@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6744'
 permalink: /qualcomm-yeni-islemcisi-snapdragon-768gyi-tanitti-ozellikleri-neler/
 post_views_count:
     - '70'
-image: /wp-content/uploads/2020/05/qualcomm-yeni-islemcisi-snapdragon-768g-yi-tanitti-ozellikleri-neler.jpg
+image: images/qualcomm-yeni-islemcisi-snapdragon-768g-yi-tanitti-ozellikleri-neler.jpg
 categories:
     - Donanım
 tags:
@@ -24,10 +24,10 @@ Tanıtılan Xiaomi **Redmi K30 5G Racing Edition**’ın özelliklerine gelirsek
 
 ## Snapdragon 768G neler sağlıyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/qualcomm-768g-islemcisi-ozellikleri-nelerdir.jpg)</figure>Telefonun elbette ki en heyecan verici yönü, barındırdığı son model Snapdragon işlemci. **Snapdragon 768G**, Kryo 475 çekirdekle çalışıyor ve 2.8GHz temel frekans hızı barındırıyor. Bu hız, günümüzde akıllı telefonlarda oynanabilecek tüm oyunların duyduğu yüksek işlemci gücünü, çok rahatlıkla karşılayabilir. Önceki işlemcilerle karşılaştırmak gerekirse, **Snapdragon** **768G**, geçen yıl çıkan 765G modeline nazaran 15 kat daha iyi bir işlemci performansına sahip.
+<figure class="wp-block-image size-large">![](images/qualcomm-768g-islemcisi-ozellikleri-nelerdir.jpg)</figure>Telefonun elbette ki en heyecan verici yönü, barındırdığı son model Snapdragon işlemci. **Snapdragon 768G**, Kryo 475 çekirdekle çalışıyor ve 2.8GHz temel frekans hızı barındırıyor. Bu hız, günümüzde akıllı telefonlarda oynanabilecek tüm oyunların duyduğu yüksek işlemci gücünü, çok rahatlıkla karşılayabilir. Önceki işlemcilerle karşılaştırmak gerekirse, **Snapdragon** **768G**, geçen yıl çıkan 765G modeline nazaran 15 kat daha iyi bir işlemci performansına sahip.
 
 Bunun yanı sıra, Qualcomm’un yeni işlemcisinde GPU hızında da ciddi bir fark bizi bekliyor. Önceki modele göre 15 kata yakın bir grafik işlemci hızı artışı sunan model, 1080p çözünürlüklü ekranlarda, 120Hz ekran yenileme hızını çok rahatlıkla kaldırabilecek kapasitede.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/xiaomi-redmi-k30-5g-racing-edition-bataryasi.jpg)<figcaption>Redmi K30 5G Racing Edition, 4500 mAh iddialı bir batarya ile geliyor.</figcaption></figure>Oyun performansının yanı sıra, 5G bağlantısı desteği de sunan Snapdragon 768G işlemcisi, 3.7Gbps indirme hızının yanı sıra, 1.6Gbps yükleme hızı da sunuyor.
+<figure class="wp-block-image size-large">![](images/xiaomi-redmi-k30-5g-racing-edition-bataryasi.jpg)<figcaption>Redmi K30 5G Racing Edition, 4500 mAh iddialı bir batarya ile geliyor.</figcaption></figure>Oyun performansının yanı sıra, 5G bağlantısı desteği de sunan Snapdragon 768G işlemcisi, 3.7Gbps indirme hızının yanı sıra, 1.6Gbps yükleme hızı da sunuyor.
 
 Telefonunuzda yüksek performans ile, kusursuz bir oyun deneyimi arıyorsanız, Snapdragon 768G işlemcisi, aradığınız kaliteyi ve etkileyici kullanımı fazlasıyla vaat edecek.

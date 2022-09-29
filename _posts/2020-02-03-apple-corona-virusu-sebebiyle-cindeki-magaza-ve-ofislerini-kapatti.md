@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/02/apple-corona-virus-sebebiyle-cin-magaza-ve-ofislerini-kapatti.jpeg
+image: images/apple-corona-virus-sebebiyle-cin-magaza-ve-ofislerini-kapatti.jpeg
 categories:
     - Apple
     - 'Öne Çıkan'

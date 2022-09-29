@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9751'
 permalink: /iphone-ve-ipadde-bluetooth-isminizi-nasil-degistirebilirsiniz/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/11/iphone-ve-ipad-de-bluetooth-ismi-nasil-degistirilir.jpeg
+image: images/iphone-ve-ipad-de-bluetooth-ismi-nasil-degistirilir.jpeg
 categories:
     - 'Ne Nasıl?'
 tags:
@@ -25,7 +25,7 @@ Bluetooth, iPhone ve iPad’lerde kablosuz dosya aktarımı ve kablosuz aksesuar
 - Ayarlar’da “Genel”e gidin ve “Hakkında”ya dokunun.
 - Hakkında menüsünde ekranın üst kısmında, cihazınızın mevcut adını göreceksiniz, bu ad, cihazınızın diğer cihazlar tarafından bağlantı kurulmaya çalışıldığında görülen addır. Bunu değiştirmek için “Ad”a dokunun.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/iphone-bluetooth-ismi-nasil-degistirilir.jpg)</figure>- İlgili ekranda yeni bir Bluetooth ismi girdikten sonra, “Bitti”ye dokunun.
+<figure class="wp-block-image size-large">![](images/iphone-bluetooth-ismi-nasil-degistirilir.jpg)</figure>- İlgili ekranda yeni bir Bluetooth ismi girdikten sonra, “Bitti”ye dokunun.
 - Bunun ardından Ayarlar’dan çıkın. iPhone ya da iPad’iniz, Bluetooth aygıtları listesinde yeni ismi ile yer alacaktır.
 
 Bluetooth ismi değiştirilmediğinde, cihazların marka ve model ismi varsayılan Bluetooth ismi olarak yer alır. Özellikle kalabalık ortamlarda cihazınızla bağlantı kurmaya çalışırken, bu karışık ve zor durumlar yaratabilir. Bu nedenle Bluetooth için cihaza belirlediğiniz özel bir isim verme, işleri kolaylaştırır.

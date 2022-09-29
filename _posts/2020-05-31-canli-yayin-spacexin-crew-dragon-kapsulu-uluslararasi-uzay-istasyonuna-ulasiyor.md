@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7854'
 permalink: /canli-yayin-spacexin-crew-dragon-kapsulu-uluslararasi-uzay-istasyonuna-ulasiyor/
 post_views_count:
     - '82'
-image: /wp-content/uploads/2020/05/canli-yayin-spacex-in-crew-dragon-kapsulu-uluslararasi-uzay-istasyonuna-ulasiyor.png
+image: images/canli-yayin-spacex-in-crew-dragon-kapsulu-uluslararasi-uzay-istasyonuna-ulasiyor.png
 categories:
     - Uzay
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## Crew Dragon, içerdiği kamera ve sensörlerle ISS’e otomatik kenetleniyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/space-x-kapsulu-crew-dragon.jpg)</figure>**SpaceX’in** uzay kapsülü **Crew** **Dragon**, ISS’e ulaşma sürecinde, bağlantı noktasına sorunsuz bir şekilde ulaşmak adına bir dizi sensör ve kamerayı kullanarak otomatik şekilde kenetleniyor. Geçtiğimiz yıl **SpaceX**, mürettabatsız bir şekilde bunu test etti. Ancak bu defa kapsül, iki astronot taşıyor.
+<figure class="wp-block-image size-large">![](images/space-x-kapsulu-crew-dragon.jpg)</figure>**SpaceX’in** uzay kapsülü **Crew** **Dragon**, ISS’e ulaşma sürecinde, bağlantı noktasına sorunsuz bir şekilde ulaşmak adına bir dizi sensör ve kamerayı kullanarak otomatik şekilde kenetleniyor. Geçtiğimiz yıl **SpaceX**, mürettabatsız bir şekilde bunu test etti. Ancak bu defa kapsül, iki astronot taşıyor.
 
 ## Astronotlar, Uluslararası Uzay İstasyonu’na 200 metre kala kapsülü manuel kontrol edecek
 

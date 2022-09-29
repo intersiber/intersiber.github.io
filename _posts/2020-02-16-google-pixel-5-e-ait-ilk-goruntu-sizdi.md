@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '217'
-image: /wp-content/uploads/2020/02/google-pixel-4.jpg
+image: images/google-pixel-4.jpg
 categories:
     - Mobil
 tags:
@@ -25,7 +25,7 @@ Google’ın akıllı telefon serisinin en yeni üyesi olacak olan **Pixel 5**�
 
 Google’ın bir süredir üzerinde çalıştığı Pixel 5 modeli ile ilgili bugüne kadar herhangi bir bilgi veya görüntü yayınlanmadı. Pixel 5’in özellikleri ve tasarımı uzun süredir merak konusu. Ancak bugün ilk kez, Front Page Tech isimli Youtube kanalında, Pixel 5’e ait olduğu öne sürülen ve güvenilir bir kaynaktan elde edildiği belirtilen bir render görüntüsü [paylaşıldı](https://www.youtube.com/watch?v=3IjfnI_8vH0).
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/google-pixel-5-tasarimi-sizdi.jpg)</figure>## Üçlü Kamera Sistemi
+<figure class="wp-block-image size-large">![](images/google-pixel-5-tasarimi-sizdi.jpg)</figure>## Üçlü Kamera Sistemi
 
 Paylaşılan render görüntüsünde, Pixel 5’in arka tarafı görünüyor. Görüntüye göre Google; Pixel 5 modelinde **üçlü kamera sistemi** kullanmış ve kamera bölümü bir hayli büyük.
 

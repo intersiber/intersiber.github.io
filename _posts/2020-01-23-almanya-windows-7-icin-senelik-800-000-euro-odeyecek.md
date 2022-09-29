@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '128'
-image: /wp-content/uploads/2020/01/almanya-windows-7-icin-800000-euro-odeyecek.jpg
+image: images/almanya-windows-7-icin-800000-euro-odeyecek.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

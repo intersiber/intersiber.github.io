@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8958'
 permalink: /halo-3-14-temmuzda-pcye-geliyor/
 post_views_count:
     - '34'
-image: /wp-content/uploads/2020/07/2562CD83-6170-42B7-B2D4-F62DD2A18643.jpeg
+image: images/2562CD83-6170-42B7-B2D4-F62DD2A18643.jpeg
 categories:
     - Oyun
 tags:

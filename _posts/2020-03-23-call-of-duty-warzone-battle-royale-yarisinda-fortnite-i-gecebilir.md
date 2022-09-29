@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/callofdutywarzone1.jpg
+image: images/callofdutywarzone1.jpg
 categories:
     - Oyun
 tags:
@@ -32,7 +32,7 @@ Activision, geçtiğimiz hafta PC, PS4 ve Xbox One’da oynaması ücretsiz Warz
 
 Apex Legends’tan PUBG’ye kadar birçok oyun, 2017’de çıkışından bu yana en karlı oyunlardan biri olmaya devam eden **Fortnite**‘ın yerini almaya çalıştı. Fortnite’a olan ilgi her geçen gün azalırken, battle royale türündeki oyunlara yenileri eklenmeye devam ediyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/warzone2.jpg)</figure>Oyunun geliştiricisi **Infinity Ward**, Fortnite’yi devirebilecek bir oyun yaratmış gibi görünüyor. Warzone ekibi, 2018’de Call of Duty battle royale oyunu **Blackout** girişiminde yapılan hatalardan ders çıkarmış gibi görünüyor, ancak elbette kesin bir başarı garantisi yok.
+<figure class="wp-block-image size-large">![](images/warzone2.jpg)</figure>Oyunun geliştiricisi **Infinity Ward**, Fortnite’yi devirebilecek bir oyun yaratmış gibi görünüyor. Warzone ekibi, 2018’de Call of Duty battle royale oyunu **Blackout** girişiminde yapılan hatalardan ders çıkarmış gibi görünüyor, ancak elbette kesin bir başarı garantisi yok.
 
 Uzmanlara göre; Call Of Duty:Warzone eğer gerçek bir başarı elde etmek istiyorsa oyuncuların öneri ve tavsiyelerini dinlemeli, pc ve konsollar arasındaki çapraz oynamayı azaltmalı, yeni içerik ve haritalar yayınlamaya devam etmeli ve en önemlisi profesyonel etkinliklere büyük destek vermeli.
 

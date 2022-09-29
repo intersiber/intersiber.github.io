@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7708'
 permalink: /zuckerberg-trumpi-kizdiran-twitteri-elestirdi-sosyal-medya-platformlari-gercegin-yargici-olmamali/
 post_views_count:
     - '36'
-image: /wp-content/uploads/2020/05/zuckerberg-trump-i-kizdiran-twitter-i-elestirdi-sosyal-medya-platformlari-gercegin-yargici-olmamali.jpg
+image: images/zuckerberg-trump-i-kizdiran-twitter-i-elestirdi-sosyal-medya-platformlari-gercegin-yargici-olmamali.jpg
 categories:
     - Genel
     - 'Sosyal Medya'
@@ -30,4 +30,4 @@ Twitter kurucusu ve CEO’su **Jack** **Dorsey**, tartışmada Trump’tan yana 
 
 ## Neler yaşandı?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/trump-in-tweetinde-twitterin-uyarisi.jpg)</figure>**Twitter’ı** en yoğun kullanan politikacılardan ABD Başkanı Trump, ABD’de posta yolu ile oy kullanma işleminin riskli olduğu ve hile karıştırılabileceğine ilişkin paylaşımlar yaptı. Twitter, Trump’ın paylaşımının altına “**bilgiyi** **doğrula**” uyarısı koydu. Uyarıya tıklayan kullanıcılar, Trump’ın iddiasının gerçeği yansıtmadığına ilişkin haberlerin yer aldığı bir sayfaya gitti. Detaylar için haberimize [göz atın.](https://intersiber.com/twitter-trumpin-tweetlerine-bilgiyi-dogrula-uyarisi-koydu/)
+<figure class="wp-block-image size-large">![](images/trump-in-tweetinde-twitterin-uyarisi.jpg)</figure>**Twitter’ı** en yoğun kullanan politikacılardan ABD Başkanı Trump, ABD’de posta yolu ile oy kullanma işleminin riskli olduğu ve hile karıştırılabileceğine ilişkin paylaşımlar yaptı. Twitter, Trump’ın paylaşımının altına “**bilgiyi** **doğrula**” uyarısı koydu. Uyarıya tıklayan kullanıcılar, Trump’ın iddiasının gerçeği yansıtmadığına ilişkin haberlerin yer aldığı bir sayfaya gitti. Detaylar için haberimize [göz atın.](https://intersiber.com/twitter-trumpin-tweetlerine-bilgiyi-dogrula-uyarisi-koydu/)

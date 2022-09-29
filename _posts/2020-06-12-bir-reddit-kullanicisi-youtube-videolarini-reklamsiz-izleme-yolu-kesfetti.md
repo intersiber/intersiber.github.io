@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8389'
 permalink: /bir-reddit-kullanicisi-youtube-videolarini-reklamsiz-izleme-yolu-kesfetti/
 post_views_count:
     - '99'
-image: /wp-content/uploads/2020/06/bir-reddit-kullanicisi-youtube-videolarini-reklamsiz-izlemenin-yolunu-kesfetti.jpg
+image: images/bir-reddit-kullanicisi-youtube-videolarini-reklamsiz-izlemenin-yolunu-kesfetti.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -20,7 +20,7 @@ Dünyanın en popüler sosyal ağlarından Reddit’te, bir kullanıcı **Youtub
 
 ## Reklam atlamaya gerek bırakmayan ‘nokta’
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/reklamsiz-youtube-videosu-izleme-teknigi.jpg)</figure>Youtube’u şu anda reklamsız olarak kullanmak için, **Youtube** **Premium** üyesi olmanız gerekiyor. **Premium** aboneliğiniz yoksa, maalesef tüm videolarda, belli yerlerde otomatik reklamlarla karşılaşmanız söz konusu. Reddit’te yayınlanan reklamsız **Youtube** videosu izleme ‘açığı’, video öncesi reklamları kaldırmanın yanı sıra, video ortasındaki reklamları da kaldırıyor.
+<figure class="wp-block-image size-large">![](images/reklamsiz-youtube-videosu-izleme-teknigi.jpg)</figure>Youtube’u şu anda reklamsız olarak kullanmak için, **Youtube** **Premium** üyesi olmanız gerekiyor. **Premium** aboneliğiniz yoksa, maalesef tüm videolarda, belli yerlerde otomatik reklamlarla karşılaşmanız söz konusu. Reddit’te yayınlanan reklamsız **Youtube** videosu izleme ‘açığı’, video öncesi reklamları kaldırmanın yanı sıra, video ortasındaki reklamları da kaldırıyor.
 
 Unicorn4sale kullanıcı adına sahip kişi, **Youtube’u** **reklamsız** izleme yöntemini, **Youtube** videosu linkinin hemen ardından. com ifadesinden sonra bir nokta koyma olarak açıkladı. Bu durum, web sitelerinin ana bilgisayar normalleştirmesini unutarak içeriği sunması olarak ifade edildi.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9980'
 permalink: /spacex-starship-roketi-inis-esnasinda-patladi-video/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/12/spacex-starship-roketi-inis-esnasinda-patladi-video.png
+image: images/spacex-starship-roketi-inis-esnasinda-patladi-video.png
 categories:
     - Uzay
 tags:

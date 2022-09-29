@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/honor-view-30-pro-ozellikleri-fiyati.png
+image: images/honor-view-30-pro-ozellikleri-fiyati.png
 categories:
     - Mobil
 tags:
@@ -27,9 +27,9 @@ Huawei’in alt markası **Honor**, dün akşam Barcelona’da düzenlediği etk
 
 Cam arka yüzeyinde bulunan Aurora Nano Kaplamasıyla oldukça dikkat çeken ürün tasarım olarak rakiplerini geride bıraktı. Işık altında farklı açılardan bakıldığında kullanıcılara farklı efektler sunan tasarımın yanı sıra akıllı telefonun yan tarafına yerleştirilmiş parmak izi sensörü de yer alıyor.
 
-<figure class="wp-block-gallery columns-3 is-cropped">- <figure>[![](https://intersiber.com/wp-content/uploads/2020/02/honor-view-30-pro-tanitildi-iste-fiyat-ve-ozellikleri-1.jpg)](https://intersiber.com/wp-content/uploads/2020/02/honor-view-30-pro-tanitildi-iste-fiyat-ve-ozellikleri-1.jpg)</figure>
-- <figure>[![](https://intersiber.com/wp-content/uploads/2020/02/1582581220__ID_Photo__HONOR_View30_Pro_Ocean_Blue_12.jpg)](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/02/1582581220__ID_Photo__HONOR_View30_Pro_Ocean_Blue_12.jpg?fit=800%2C800&ssl=1)</figure>
-- <figure>[![](https://intersiber.com/wp-content/uploads/2020/02/1582581220__ID_Photo__HONOR_View30_Pro_Ocean_Blue_09.jpg)](https://intersiber.com/wp-content/uploads/2020/02/1582581220__ID_Photo__HONOR_View30_Pro_Ocean_Blue_09.jpg)</figure>
+<figure class="wp-block-gallery columns-3 is-cropped">- <figure>[![](images/honor-view-30-pro-tanitildi-iste-fiyat-ve-ozellikleri-1.jpg)](images/honor-view-30-pro-tanitildi-iste-fiyat-ve-ozellikleri-1.jpg)</figure>
+- <figure>[![](images/1582581220__ID_Photo__HONOR_View30_Pro_Ocean_Blue_12.jpg)](https://i0.wp.com/intersiber.comimages/1582581220__ID_Photo__HONOR_View30_Pro_Ocean_Blue_12.jpg?fit=800%2C800&ssl=1)</figure>
+- <figure>[![](images/1582581220__ID_Photo__HONOR_View30_Pro_Ocean_Blue_09.jpg)](images/1582581220__ID_Photo__HONOR_View30_Pro_Ocean_Blue_09.jpg)</figure>
 
 </figure>Kablolu **40W**, kablosuz **27W**‘lık şarj özellikleriyle performans ve kolaylığı bir arada sunan Honor View 30 Pro, kablosuz olarak uyumlu cihazları da şarj edebilme yeteneğine sahip.
 

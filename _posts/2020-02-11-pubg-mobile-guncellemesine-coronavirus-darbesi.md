@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/pubg-mobile-pc-indir-1024x576-1.jpg
+image: images/pubg-mobile-pc-indir-1024x576-1.jpg
 categories:
     - Mobil
 tags:
@@ -29,6 +29,6 @@ Tüm dünyayı kasıp kavuran Battle Royale tarzı bir oyun olan **PUBG Mobile**
 
 PUBG Mobile, oyundaki bazı hataların düzeltilmesi ve yeni özelliklerle ilgili olarak yeni bir güncellemenin yapılacağını açıklamıştı. Şirket yetkilileri tarafından yapılan açıklama da 12 Şubat 2020 tarihinde 0.17.0 güncellemesinin yayınlanacağı duyurulmuştu. Coronavirus salgını yüzünden yapılan erteleme sonrası henüz resmi bir açıklama yapılmadı. Fakat güncellemenin yeni tarihi için tüm işaretler 3 Mart 2020 tarihini gösteriyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/5ce5927cec10bb3f8431e817.jpg)</figure>## **PUBG Yeni Güncelleme ile İlgili Bazı Bilgiler**
+<figure class="wp-block-image size-large">![](images/5ce5927cec10bb3f8431e817.jpg)</figure>## **PUBG Yeni Güncelleme ile İlgili Bazı Bilgiler**
 
 0.17.0 güncellemesi ile birlikte artık nasıl öldürüldüğünüzü “**Death Cam**” ile izleyebileceksiniz. Ancak bu özelliğin şimdilik bilgisayar versiyonlarında olacağını hatırlatalım. Bununla birlikte **Extreme Cold** isminde yeni bir mod bizleri bekliyor. Adından da anlaşılacağı üzere çok soğuk ve karlı bir tema geliyor. Bu mod ile birlikte artık öldürücü soğuklara karşı da direnmeye çalışacağız.

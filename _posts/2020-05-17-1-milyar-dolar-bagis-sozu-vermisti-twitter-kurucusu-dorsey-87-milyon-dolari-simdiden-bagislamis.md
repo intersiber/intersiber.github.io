@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7052'
 permalink: /1-milyar-dolar-bagis-sozu-vermisti-twitter-kurucusu-dorsey-87-milyon-dolari-simdiden-bagislamis/
 post_views_count:
     - '23'
-image: /wp-content/uploads/2020/05/1-milyar-dolar-bagis-sozu-vermisti-twitter-kurucusu-dorsey-87-milyon-dolari-simdiden-bagislamis-scaled.jpg
+image: images/1-milyar-dolar-bagis-sozu-vermisti-twitter-kurucusu-dorsey-87-milyon-dolari-simdiden-bagislamis-scaled.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Dorsey, koronavirüs salgınına karşı mücadele adına, ilk olarak yardıma o
 
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>**Twitter** **CEO’su**, şimdiye kadar yaptığı bağışlarla ilgili bir e-tablo yayınladı. Tabloda bağışların ne kadar olduğu ve nerede yapıldığı aktarıldı. Elektronik tabloda Dorsey, koronavirüsün yanı sıra **HIV/AIDS**, mülteciler, mahkumların savunuculuğu ve aile içi şiddetle mücadele gibi konularla mücadele eden organizasyonlara destek verdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/jack-dorsey-kimdir.jpg)</figure>Dorsey, **koronavirüs** salgınının **HIV’i** nasıl etkilediğini tespit etmek adına, HIV taraması yapacak iki kuruluş için 1,3 milyon dolardan fazla bağış yaptı. Uzmanlar, salgın nedeniyle HIV gibi bulaşıcı hastalıkların yayılmasını engellemek ve tedavi geliştirmek adına mücadele ediyor.
+<figure class="wp-block-image size-large">![](images/jack-dorsey-kimdir.jpg)</figure>Dorsey, **koronavirüs** salgınının **HIV’i** nasıl etkilediğini tespit etmek adına, HIV taraması yapacak iki kuruluş için 1,3 milyon dolardan fazla bağış yaptı. Uzmanlar, salgın nedeniyle HIV gibi bulaşıcı hastalıkların yayılmasını engellemek ve tedavi geliştirmek adına mücadele ediyor.
 
 Bulaşıcı hastalıkların yanı sıra, sokağa çıkma kısıtlamalarının gölgesinde, aile içi şiddette de bir artış görülüyor. Büyük şehirlerde, yardım hatlarına yapılan şiddet çağrılarının, karantina döneminde arttığı belirlendi. Dorsey, 2,2 milyon dolarlık bağışı, aile içi şiddetle mücadele için ayırdı.
 

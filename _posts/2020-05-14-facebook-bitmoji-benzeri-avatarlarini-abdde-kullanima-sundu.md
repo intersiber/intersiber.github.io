@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6892'
 permalink: /facebook-bitmoji-benzeri-avatarlarini-abdde-kullanima-sundu/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/05/facebook-bitmoji-benzeri-avatarlarini-abdde-kullanima-sundu.jpg
+image: images/facebook-bitmoji-benzeri-avatarlarini-abdde-kullanima-sundu.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -20,6 +20,6 @@ Geçen Haziran ayında Avustralya’da görücüye çıkan **Facebook**’un ava
 
 Facebook’un **Fidji Simo**‘suna göre **Avatarlar** yorumlarda, hikayelerde, Messenger’da kullanılabiliyor ve yakında arka plana sahip metin gönderilerinde de kullanılabilecek. Ayrıca Facebook oyun profillerinde de görüntülenebilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/Facebook-avatar-1600x900.jpg)</figure>**Simo**, “Bugünlerde etkileşimlerimizin çoğu **çevrimiçi** olarak gerçekleşiyor. Bu yüzden kendinizi Facebook’ta kişisel olarak ifade edebilmeniz her zamankinden daha önemli. **Avatarınızı** kişiselleştirebilmeniz de bizim için oldukça önemli. Avatarınız benzersiz, özgün benliğinizi temsil eder. Bu yüzden uygulamaya yeni saç stilleri, ten rengi ve kıyafetler gibi yeni özelleştirmeler de ekliyoruz.” dedi.
+<figure class="wp-block-image size-large">![](images/Facebook-avatar-1600x900.jpg)</figure>**Simo**, “Bugünlerde etkileşimlerimizin çoğu **çevrimiçi** olarak gerçekleşiyor. Bu yüzden kendinizi Facebook’ta kişisel olarak ifade edebilmeniz her zamankinden daha önemli. **Avatarınızı** kişiselleştirebilmeniz de bizim için oldukça önemli. Avatarınız benzersiz, özgün benliğinizi temsil eder. Bu yüzden uygulamaya yeni saç stilleri, ten rengi ve kıyafetler gibi yeni özelleştirmeler de ekliyoruz.” dedi.
 
 **Facebook** veya **Messenger**‘daki yorum oluşturucusuna gidip gülen yüz düğmesine, ardından etiket sekmesine dokunup “**Avatarınızı oluşturun**”u seçerek bir avatar yapmaya başlayabilirsiniz.

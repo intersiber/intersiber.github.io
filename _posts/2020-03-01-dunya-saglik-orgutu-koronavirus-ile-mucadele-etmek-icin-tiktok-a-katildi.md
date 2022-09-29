@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/dunya-saglik-orgutu.png
+image: images/dunya-saglik-orgutu.png
 categories:
     - Genel
 tags:
@@ -32,7 +32,7 @@ Birleşmiş Milletler’in uzmanlaşmış bir halk sağlığı ajansı olan **DS
 
 Dünya Sağlık Örgütü’nün ilk videosunda, enfeksiyon önleme ve kontrolünün teknik lideri **Benedetta Allegranzi**, insanların kendilerini yeni **koronavirüsten** korumak için alabilecekleri önlemleri açıklıyor ve ek bilgi için onları kuruluşun web sitesine yönlendiriyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/koronavirüswho-1600x1592.jpg)</figure>## Sosyal ağlarda yanlış bilgiler yayılıyor
+<figure class="wp-block-image size-large">![](images/koronavirüswho-1600x1592.jpg)</figure>## Sosyal ağlarda yanlış bilgiler yayılıyor
 
 TikTok, son birkaç hafta içinde yeni koronavirüs hakkında mizahi içeriklerle dolup taşmış ve bazı kullanıcılar virüs bulaşmış gibi davranıyor.
 

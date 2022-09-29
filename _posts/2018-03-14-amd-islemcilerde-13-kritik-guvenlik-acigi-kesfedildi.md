@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '342'
-image: /wp-content/uploads/2018/03/amd-flaws-2.jpg
+image: images/amd-flaws-2.jpg
 categories:
     - Analiz
     - Genel
@@ -37,7 +37,7 @@ Keşfedilen güvenlik açıkları Ryzenfall, Fallout, Chimera, Masterkey olmak �
 
 Araştırmacılar ayrıca, Ryzen çipleri üzerinde üretici tarafından kötü niyetli kodların çalıştırılmasını sağlayabilecek iki arka kapı olduğunu iddia etti.
 
-![](https://intersiber.com/wp-content/uploads/2018/03/amd-flaws.png)
+![](images/amd-flaws.png)
 
 **Ryzenfall**
 
@@ -45,7 +45,7 @@ Bu açık yalnızca AMD’nin Ryzen çiplerini etkiliyor. Bu sayede kötü amaç
 
 Saldırganlar bu açık ile birlikte Windows Kimlik Güvencesini -Hassas verilerin normal şartlarda erişilemeyen, işletim sisteminin korunan bir bölümünde saklanmasını sağlayan özellik- aşabilirse, bir ağ içindeki diğer aygıtlara da saldırmak için kullanabilir.
 
-![](https://intersiber.com/wp-content/uploads/2018/03/amd-ryzenfall.png)
+![](images/amd-ryzenfall.png)
 
 **MasterKey**
 
@@ -53,7 +53,7 @@ Bir bilgisayar başlatıldığı zaman, güvenli önyükleme işleminden geçer.
 
 EPYC ve RYzen işlemecilerdeki bu açık sayesinde ise, saldırganlar işlemcinin bu doğrulamaları yapmasını engelleyebilir. Dahası işlemciye kötü amaçlı yazılımların yüklenmesi ve başlangıçta hangi yazılımların çalıştırılmasına izin verileceğinin kontrolünün saldırganların eline geçmesini sağlayabilir.
 
-![](https://intersiber.com/wp-content/uploads/2018/03/amd-masterkey.png)
+![](images/amd-masterkey.png)
 
 **Fallout**
 
@@ -67,7 +67,7 @@ Bu güvenlik açığı AMD’nin Prozotory çipleri içinde arka kapı olarak bu
 
 Yine çip üzerinden akan USB trafiğini dinleyerek, saldırganların bu sayede her şeyi görmesini sağlayan keyloggerlar üretebileceğini söyledi.
 
-![](https://intersiber.com/wp-content/uploads/2018/03/amd-ryzen.jpg)
+![](images/amd-ryzen.jpg)
 
 Araştırmacılar bu açıkları 21 farklı AMD işlemcisi üzerinde başarılı bir şekilde test etti ve 11 işlemcinin de bu sorunlara karşı savunmasız olduğuna inanıyorlar.
 

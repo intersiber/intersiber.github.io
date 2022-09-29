@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '1725'
-image: /wp-content/uploads/2018/03/turkiye-vpn-engel.jpg
+image: images/turkiye-vpn-engel.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

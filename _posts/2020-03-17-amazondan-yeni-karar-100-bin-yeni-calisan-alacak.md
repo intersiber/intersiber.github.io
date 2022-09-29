@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/amazon-2.jpeg
+image: images/amazon-2.jpeg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ tags:
 
 Nisan ayı sonuna kadar yaşanan yoğunluk ve çalışanlarının yaşayabilecekleri olumsuzluklar nedeniyle saatlik ücretlerde 2 dolar artışa gideceklerini belirten şirket, çalışan sayısının artması ile yaşanacak **hijyen** sorunu konusunda da açıklama yaptı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/amazon.jpg)</figure>Sürekli olarak hijyene önem gösterdiklerini belirten Amazon, çalışanlarının **dezenfektan** konusunda sorunlar yaşamadığını, şirketin bu konularda üst düzey önlemler almayı sürdürdüğünü açıkladı.
+<figure class="wp-block-image size-full">![](images/amazon.jpg)</figure>Sürekli olarak hijyene önem gösterdiklerini belirten Amazon, çalışanlarının **dezenfektan** konusunda sorunlar yaşamadığını, şirketin bu konularda üst düzey önlemler almayı sürdürdüğünü açıkladı.
 
 Amazon, Flex için geçtiğimiz hafta yaptığı açıklamada çalışanlarına corona virüsüne yakalanmaları durumunda ödeme yapmayacağını [açıklamıştı](https://intersiber.com/amazon-koronaviruslu-flex-calisanlarina-maas-odemeyecek/).

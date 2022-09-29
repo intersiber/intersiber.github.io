@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/elektrikli-otomobil-sarj-istasyon-verimlilik.jpeg
+image: images/elektrikli-otomobil-sarj-istasyon-verimlilik.jpeg
 categories:
     - Otomobil
 tags:
@@ -27,6 +27,6 @@ tags:
 
 Dünya çapında her geçen gün elektrikli araçların kullanımı ve temini artıyor. Buna paralel olarak elektrikli araçlar için şarj istasyonlarının sayısı da yine her geçen gün artış gösteriyor. Ülkemizde de elektrikli yerli otomobilin tanıtılmasından sonra elektrikli araçlara yönelik ilgi ve merak her geçen gün büyüyor. Elde edilen bilgilere göre Türkiye’de 1500’den fazla elektrikli otomobilin kullanıldığı ve 700’de şarj istasyonunun olduğu belirtiliyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/02/xtrlarge-avrupa-yol-elektrikli-araba-1.jpg)</figure>## Maaliyeti 1200 ile 20 Bin Euro Arasında Değişiyor
+<figure class="wp-block-image size-full">![](images/xtrlarge-avrupa-yol-elektrikli-araba-1.jpg)</figure>## Maaliyeti 1200 ile 20 Bin Euro Arasında Değişiyor
 
 Elektrikli şarj istasyonlarının maliyeti ise bölgedeki altyapı ile istasyonun gücüne bağlı olarak değişiklik gösteriyor. Tek çıkışlı bir ünitenin maliyetinin 1200 Euro civarında. Bunun yanında **hızlı şarj** edebilme gibi özelliklerin bulunduğu istasyonların kurulumları ise 20 bin Euro’ya kadar çıkabiliyor.

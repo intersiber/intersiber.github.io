@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5830'
 permalink: /samsungun-akilli-saati-galaxy-active-2-tansiyon-olcumu-yapacak/
 post_views_count:
     - '47'
-image: /wp-content/uploads/2020/04/samsung-un-akilli-saati-galaxy-active-2-tansiyon-olcumu-yapacak.png
+image: images/samsung-un-akilli-saati-galaxy-active-2-tansiyon-olcumu-yapacak.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -25,6 +25,6 @@ Samsung, **Galaxy Active 2** için Güney Kore’de yasal zemini hazırlamış o
 
 Kullanıcıların **tansiyon** ölçümünün yapılabilmesi için, uygulamayı her hafta kalibre etmeleri gerekecek ve her kalibrasyonda, doğruluk için üç ayrı okuma gerekecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/samsung-galaxy-active-2-tansiyon-olcumu.png)</figure>Uygulamanın kan basıncını ölçüm tekniği, kalp hızı izleme sensörü ve nabız dalga analizi ile, verilerin ilişkisinin ölçümü.
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-active-2-tansiyon-olcumu.png)</figure>Uygulamanın kan basıncını ölçüm tekniği, kalp hızı izleme sensörü ve nabız dalga analizi ile, verilerin ilişkisinin ölçümü.
 
 Uygulama, her ne kadar ilk etapta yalnızca Güney Kore içinde onay alsa da, Samsung için büyük bir adım. Uygulama sayesinde anlık takip edilebilecek olan kan basıncı, tansiyon hastaları için faydalı olabilir. Şirketin üst düzey yetkililerinden Taejong Jay, Samsung Health Monitor uygulamasının, dünya çapında yüksek tansiyon hastalığından etkilenen milyonlarca insana yardım etme potansiyelinin bulunduğunu ifade etti.

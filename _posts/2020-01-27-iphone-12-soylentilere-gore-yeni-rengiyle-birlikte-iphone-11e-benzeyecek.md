@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '126'
-image: /wp-content/uploads/2020/01/iphone-12-navy-blue-mavi-yeni-renk.jpg
+image: images/iphone-12-navy-blue-mavi-yeni-renk.jpg
 categories:
     - Mobil
     - 'Öne Çıkan'
@@ -30,4 +30,4 @@ iPhone 12’nin iPhone 4’e benzeyecek yeni bir tasarımla geleceği uzun süre
 
 iPhone 12’nin 5,4 6,1 ve 6,7 inç olarak üç farklı ekran boyutunda olması bekleniyor. Bu boyutlardaki en büyük iPhone 12’nin, iPhone 11 pro max modelinden daha uzun ve ince olması bekleniyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/01/iphone-11-serisi.jpg)</figure>iPhone 12’nin yeni renginin ise “Navy Blue” olacağı söylentiler arasında. iPhone 11 serisi ile birlikte gelen “Midnight Green” renginin ardından bu senenin moda rengi “Navy Blue” iPhone 12 ile birlikte daha da moda olacak gibi görünüyor.
+<figure class="wp-block-image size-large">![](images/iphone-11-serisi.jpg)</figure>iPhone 12’nin yeni renginin ise “Navy Blue” olacağı söylentiler arasında. iPhone 11 serisi ile birlikte gelen “Midnight Green” renginin ardından bu senenin moda rengi “Navy Blue” iPhone 12 ile birlikte daha da moda olacak gibi görünüyor.

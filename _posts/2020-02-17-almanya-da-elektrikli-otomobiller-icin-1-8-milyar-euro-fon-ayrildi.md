@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/mercedes-vision-eqs-100919-1.jpg
+image: images/mercedes-vision-eqs-100919-1.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -26,6 +26,6 @@ Ekonomik açıdan en güçlü ülkeler arasında yer alan **Almanya**, ülkedeki
 
 Almanya’da daha fazla elektrikli otomobil görmek istediklerini belirten Altmaier, elektrikli otomobillerin Almanya’nın yararına olacağını belirtti. 2021 ile 2024 yıllarında elektrikli otomobiller için bütçeden de 1,8 milyar Euro ayırdıklarını dile getirdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/24635.jpg)</figure>## İklim Koruma Paketi Kapsamında Teşvikler Arttı
+<figure class="wp-block-image size-large">![](images/24635.jpg)</figure>## İklim Koruma Paketi Kapsamında Teşvikler Arttı
 
 İklim koruma paketi kapsamında Alman hükümeti şubat ayından itibaren teşvik vermeye başladı. 40 bin Euro’ya kadar olan elektrikli otomobillerin satın alımında verilen 4 bin Euroluk teşvik primi 6 bin Euro’ya yükseltildi. Aynı zamanda hibrit motorlu araçların satın alınmasında verilen 3 bin Euroluk teşvik primi ise 4 bin 500 Euro’ya yükseltildi. 2016 senesinden itibaren devam eden teşvik sisteminde primlerin yarısını Alman hükümeti diğer yarısını da otomobil üreticileri karşılıyor.

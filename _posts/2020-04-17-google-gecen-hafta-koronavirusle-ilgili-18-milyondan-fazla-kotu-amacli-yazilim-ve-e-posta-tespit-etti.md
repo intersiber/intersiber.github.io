@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/google-gecen-hafta-koronavirusle-ilgili-18-milyondan-fazla-kotu-amacli-yazilim-ve-e-posta-tespit-etti.jpeg
+image: images/google-gecen-hafta-koronavirusle-ilgili-18-milyondan-fazla-kotu-amacli-yazilim-ve-e-posta-tespit-etti.jpeg
 categories:
     - Güvenlik
 tags:
@@ -25,7 +25,7 @@ Siber korsanlar ve kimlik hırsızları ise, koronavirüs endişelerinden yararl
 
 Kimlik hırsızlığı saldırılarında siber korsanlar, kullanıcının bir yanıt vermesi için aciliyet oluşturuyor. Bu aciliyeti hem finansal teşviklerle hem de korku öğeleri ile sağlıyorlar. İçinde bulunduğumuz pandemi de, siber korsanların yarlandığı bir durum oldu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/koronavirus-ile-ilgili-bir-spam-mail.png)</figure>Yapılan siber saldırılar içinde Dünya Sağlık Örgütü gibi kurumların adını kullanarak bağış isteme, devlet kuruluşlarını taklit etmek ve teşvik ödemeleri hakkında bilgi sahibi gibi davranmak ve kötü amaçlı yazılımların indirilmesi için teşvikte bulunmak yer alıyor. Uzaktan çalışmanın yaygınlaştığı günlerde, diğer bir yaygın siber saldırı da uzaktan çalışanların kimlik bilgilerini almaya çalışmak.
+<figure class="wp-block-image size-large">![](images/koronavirus-ile-ilgili-bir-spam-mail.png)</figure>Yapılan siber saldırılar içinde Dünya Sağlık Örgütü gibi kurumların adını kullanarak bağış isteme, devlet kuruluşlarını taklit etmek ve teşvik ödemeleri hakkında bilgi sahibi gibi davranmak ve kötü amaçlı yazılımların indirilmesi için teşvikte bulunmak yer alıyor. Uzaktan çalışmanın yaygınlaştığı günlerde, diğer bir yaygın siber saldırı da uzaktan çalışanların kimlik bilgilerini almaya çalışmak.
 
 **Google**, kötü amaçlı yazılımların ve **kimlik avı** tekniklerinin yeni olmadığını ancak, **Covid-19** salgınının ortaya çıkardığı korku ve kaostan yararlanmak için güncellendiğini ifade ediyor.
 

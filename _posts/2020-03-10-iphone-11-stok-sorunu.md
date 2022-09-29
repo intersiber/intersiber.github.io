@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/iphone-11-stok-sorunu.png
+image: images/iphone-11-stok-sorunu.png
 categories:
     - Mobil
 tags:
@@ -28,4 +28,4 @@ iPhone 11 modellerinde Apple’ın New York ve diğer bölgelerde stok sorunlar�
 
 Bir süre önce başlayan ve Çin’i karantina ülkesi haline çeviren koronavirüs salgınından dolayı iPhone 11 modellerinin üretiminde rekor düzeyde azalma yaşandı. Bu durumun kısa vadede ABD’li teknoloji devi Apple’ın perakende satıcılara iPhone 11 modellerini sevkiyatı konusunda sorunlarla yüz yüze bıraktığı açıklandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/iphone-11-stok-sorunu-2.jpeg)</figure>iPhone 11 modellerinin yakın zamanda üretiminin Çin dışında farklı ülkelere aktarılması konusunda Apple’ın bu adımlardan sonra harekete geçebileceği, özellikle Başkan Trump’ın istediği gibi üretimin büyük bir kısmının ABD’ye kaydırılmasının da gelecek dönemde mümkün hale gelebileceğinden söz edilmeye başlandı.
+<figure class="wp-block-image size-large">![](images/iphone-11-stok-sorunu-2.jpeg)</figure>iPhone 11 modellerinin yakın zamanda üretiminin Çin dışında farklı ülkelere aktarılması konusunda Apple’ın bu adımlardan sonra harekete geçebileceği, özellikle Başkan Trump’ın istediği gibi üretimin büyük bir kısmının ABD’ye kaydırılmasının da gelecek dönemde mümkün hale gelebileceğinden söz edilmeye başlandı.

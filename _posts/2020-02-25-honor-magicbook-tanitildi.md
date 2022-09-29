@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/huawei-honor-magicbook-ozellikleri-fiyati.png
+image: images/huawei-honor-magicbook-ozellikleri-fiyati.png
 categories:
     - 'Dizüstü Bilgisayar'
 tags:
@@ -26,7 +26,7 @@ tags:
 
 Honor, dün gece İspanya’da yaptığı canlı yayında yeni ürünlerini tanıttı. Yeni ürünlerinin arasında bir ilk de vardı. Şirketin ilk dizüstü bilgisayarı olan MagicBook 14 ve MagicBook 15 de canlı yayında tanıtıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/honor-magicbook.png)</figure>Uzay grisi ve mistik gümüş renkleriyle sunulan, ince ve hafif tasarımıyla dikkat çeken dizüstü bilgisayarlar 14 ve 15,6 inç boyutlarıyla kullanıcılarının karşısına çıktı. 1.38 kg ve 1.53 kg ağırlığına sahip laptoplarda, 180 derece açılabilme özelliği ile menteşelerde yaşanabilecek sorunların önüne geçilmiş.
+<figure class="wp-block-image size-large">![](images/honor-magicbook.png)</figure>Uzay grisi ve mistik gümüş renkleriyle sunulan, ince ve hafif tasarımıyla dikkat çeken dizüstü bilgisayarlar 14 ve 15,6 inç boyutlarıyla kullanıcılarının karşısına çıktı. 1.38 kg ve 1.53 kg ağırlığına sahip laptoplarda, 180 derece açılabilme özelliği ile menteşelerde yaşanabilecek sorunların önüne geçilmiş.
 
 ## 10 Saat Pil Ömrü
 
@@ -34,10 +34,10 @@ Gelişmiş grafikler ve ultra hızlı performans için güçlü bir çekirdeğe 
 
 Klavyede bulunan kamera tuşuna basıldığında pop-up kamerasının açılmasını sağlayan cihazlarda kameranın uzaktan ele geçirilmesine karşı önlem alındığı görüyoruz. Ayrıca bilgisayarlarda bulunan parmak izi sensörü de kullanıcılara güvenli giriş deneyimi sağlıyor.
 
-<figure class="wp-block-gallery columns-3 is-cropped">- <figure>[![](https://intersiber.com/wp-content/uploads/2020/02/honor-magicbook-ozellikleri-fiyati.png)](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/02/honor-magicbook-ozellikleri-fiyati.png?fit=800%2C800&ssl=1)</figure>
-- <figure>[![](https://intersiber.com/wp-content/uploads/2020/02/honor-magicbook-ozellikleri-fiyati-4.png)](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/02/honor-magicbook-ozellikleri-fiyati-4.png?fit=800%2C800&ssl=1)</figure>
-- <figure>[![](https://intersiber.com/wp-content/uploads/2020/02/honor-magicbook-ozellikleri-fiyati-3.png)](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/02/honor-magicbook-ozellikleri-fiyati-3.png?fit=800%2C800&ssl=1)</figure>
-- <figure>[![](https://intersiber.com/wp-content/uploads/2020/02/honor-magicbook-ozellikleri-fiyati-2.png)](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/02/honor-magicbook-ozellikleri-fiyati-2.png?fit=800%2C800&ssl=1)</figure>
+<figure class="wp-block-gallery columns-3 is-cropped">- <figure>[![](images/honor-magicbook-ozellikleri-fiyati.png)](https://i2.wp.com/intersiber.comimages/honor-magicbook-ozellikleri-fiyati.png?fit=800%2C800&ssl=1)</figure>
+- <figure>[![](images/honor-magicbook-ozellikleri-fiyati-4.png)](https://i2.wp.com/intersiber.comimages/honor-magicbook-ozellikleri-fiyati-4.png?fit=800%2C800&ssl=1)</figure>
+- <figure>[![](images/honor-magicbook-ozellikleri-fiyati-3.png)](https://i0.wp.com/intersiber.comimages/honor-magicbook-ozellikleri-fiyati-3.png?fit=800%2C800&ssl=1)</figure>
+- <figure>[![](images/honor-magicbook-ozellikleri-fiyati-2.png)](https://i2.wp.com/intersiber.comimages/honor-magicbook-ozellikleri-fiyati-2.png?fit=800%2C800&ssl=1)</figure>
 
 </figure>## Ne Zaman Satışa Çıkacak?
 

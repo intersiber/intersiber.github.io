@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7384'
 permalink: /tasarimcilar-tesla-cybertrucki-bastan-yaratti-birbirinden-ilginc-konsept-cybertruck-tasarimlari/
 post_views_count:
     - '93'
-image: /wp-content/uploads/2020/05/tasarimcilar-tesla-cybertruck-i-bastan-yaratti-birbirinden-ilginc-tesla-cybertruck-tasarimlari.jpg
+image: images/tasarimcilar-tesla-cybertruck-i-bastan-yaratti-birbirinden-ilginc-tesla-cybertruck-tasarimlari.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -22,8 +22,8 @@ En ucuz modelinin 39 bin 900 dolara mal olması beklenen **Cybertruck** için ş
 
 Aralarında yarış arabası, polis arabası, Domino’s Pizza dağıtım aracı, ambulans ve taksi gibi konseptlerin olduğu birçok farklı **Tesla** **Cybertruck** **tasarımına** göz atın…
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-cybertruck-askeri-arac-tasarimi.png)<figcaption>Jan Peisert</figcaption></figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-cybertruck-askeri-kargo-araci.png)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-cybertruck-silahli-askeri-arac.png)</figure>## Yarış arabası konseptli Cybertruck
+<figure class="wp-block-image size-large">![](images/tesla-cybertruck-askeri-arac-tasarimi.png)<figcaption>Jan Peisert</figcaption></figure><figure class="wp-block-image size-large">![](images/tesla-cybertruck-askeri-kargo-araci.png)</figure><figure class="wp-block-image size-large">![](images/tesla-cybertruck-silahli-askeri-arac.png)</figure>## Yarış arabası konseptli Cybertruck
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-cybertruck-yaris-araci-tasarimi.png)<figcaption>Jon Sibal</figcaption></figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-cybertruck-off-road-arac-tasarimi.png)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-cybertruck-iron-man-konsept-tasarim.png)</figure>## ve diğer ‘ilginç’ tasarımlarla Cybertruck…
+<figure class="wp-block-image size-large">![](images/tesla-cybertruck-yaris-araci-tasarimi.png)<figcaption>Jon Sibal</figcaption></figure><figure class="wp-block-image size-large">![](images/tesla-cybertruck-off-road-arac-tasarimi.png)</figure><figure class="wp-block-image size-large">![](images/tesla-cybertruck-iron-man-konsept-tasarim.png)</figure>## ve diğer ‘ilginç’ tasarımlarla Cybertruck…
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/bugatti-veryron-konseptli-cybertruck.png)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/vw-beetle-konseptli-cybertruck.png)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/domino-s-pizza-konseptli-cybertruck.png)</figure><figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/ups-kargo-tesla-cybertruck.png)</figure>
+<figure class="wp-block-image size-large">![](images/bugatti-veryron-konseptli-cybertruck.png)</figure><figure class="wp-block-image size-large">![](images/vw-beetle-konseptli-cybertruck.png)</figure><figure class="wp-block-image size-large">![](images/domino-s-pizza-konseptli-cybertruck.png)</figure><figure class="wp-block-image size-large">![](images/ups-kargo-tesla-cybertruck.png)</figure>

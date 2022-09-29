@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7473'
 permalink: /bezos-ve-zuckerberg-koronavirus-surecinde-iki-ayda-servetlerine-60-milyar-dolar-ekledi/
 post_views_count:
     - '56'
-image: /wp-content/uploads/2020/05/bezos-ve-zuckerberg-koronavirus-surecinde-iki-ayda-servetlerine-60-milyar-dolar-ekledi.jpg
+image: images/bezos-ve-zuckerberg-koronavirus-surecinde-iki-ayda-servetlerine-60-milyar-dolar-ekledi.jpg
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ Amerikalılar İçin Vergi Adaleti ve Politika Araştırmaları Enstitüsü’n�
 
 ## Bezos dünyanın en zengini konumunu koruyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/dunyanin-en-zengin-insanı-jeff-bezos-kimdir-1600x1067.jpg)<figcaption>BEVERLY HILLS, CA – JANUARY 06: Amazon CEO Jeff Bezos attends the Amazon Prime Video’s Golden Globe Awards After Party at The Beverly Hilton Hotel on January 6, 2019 in Beverly Hills, California. (Photo by Emma McIntyre/Getty Images)</figcaption></figure>**Amazon** **CEO’su** **Bezos**, 147,5 milyar dolar servetiyle hala **dünyanın en zengin insanı** olma ünvanını koruyor. İkinci sıradaki Bill Gates ise 106 milyar dolar servete sahip.
+<figure class="wp-block-image size-large">![](images/dunyanin-en-zengin-insanı-jeff-bezos-kimdir-1600x1067.jpg)<figcaption>BEVERLY HILLS, CA – JANUARY 06: Amazon CEO Jeff Bezos attends the Amazon Prime Video’s Golden Globe Awards After Party at The Beverly Hilton Hotel on January 6, 2019 in Beverly Hills, California. (Photo by Emma McIntyre/Getty Images)</figcaption></figure>**Amazon** **CEO’su** **Bezos**, 147,5 milyar dolar servetiyle hala **dünyanın en zengin insanı** olma ünvanını koruyor. İkinci sıradaki Bill Gates ise 106 milyar dolar servete sahip.
 
 Bu süreçte, ABD’li milyarderlerin serveti iki ayda ortalama yüzde 15 artışla, 434 milyar dolar arttı. Bu dönemde 38 milyon Amerikalı ise işsizlik maaşı için devlete başvurdu.
 

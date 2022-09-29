@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '75'
-image: /wp-content/uploads/2020/01/microsoft-250-milyon-kullanici-destek-kaydi-sizdi.jpg
+image: images/microsoft-250-milyon-kullanici-destek-kaydi-sizdi.jpg
 categories:
     - 'Öne Çıkan'
     - 'Veri Sızıntıları'

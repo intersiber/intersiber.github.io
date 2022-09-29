@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9842'
 permalink: /plustoken-ponzi-sorusturmasi-cin-42-milyar-dolarlik-kripto-paraya-el-koydu/
 post_views_count:
     - '19'
-image: /wp-content/uploads/2020/11/plustoken-ponzi-sorusturmasi-cin-4-2-milyar-dolarlik-kripto-paraya-el-koydu.jpg
+image: images/plustoken-ponzi-sorusturmasi-cin-4-2-milyar-dolarlik-kripto-paraya-el-koydu.jpg
 categories:
     - Genel
 tags:
@@ -34,7 +34,7 @@ PlusToken ponzi soruşturmasında yetkililer, ele geçirilen dijital varlıklar�
 
 ## PlusToken nedir?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/plustoken-nedir.png)</figure>PlusToken Ponzi bir borsa ve cüzdan sağlayıcısı olarak biliniyor ve en az 500 dolar değerinde BTC yatırımı yapanlara günlük yüksek kar ödemeleri teklif edildi. Ponzi, yani alt üyelik gelir paylaşımına dayanan sistemle, 3 bin 293 seviyede 2,6 milyon üye kazanıldı. Süreç boyunca PlusToken Ponzi kullanıcılarından 314 bin BTC olmak üzere, dönemin değerine göre 2,2 milyar dolarlık kripto para alındı. Kripto paranın bugünkü değeri ise 11 milyar dolar oldu.
+<figure class="wp-block-image size-large">![](images/plustoken-nedir.png)</figure>PlusToken Ponzi bir borsa ve cüzdan sağlayıcısı olarak biliniyor ve en az 500 dolar değerinde BTC yatırımı yapanlara günlük yüksek kar ödemeleri teklif edildi. Ponzi, yani alt üyelik gelir paylaşımına dayanan sistemle, 3 bin 293 seviyede 2,6 milyon üye kazanıldı. Süreç boyunca PlusToken Ponzi kullanıcılarından 314 bin BTC olmak üzere, dönemin değerine göre 2,2 milyar dolarlık kripto para alındı. Kripto paranın bugünkü değeri ise 11 milyar dolar oldu.
 
 PlusToken Ponzi, 2019’un Haziran ayında bakım gerekçesi ile kapatıldı, olayın ardından birçok kişi tutuklandı.
 

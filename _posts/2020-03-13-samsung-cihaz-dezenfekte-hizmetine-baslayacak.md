@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/samsung-scaled.jpg
+image: images/samsung-scaled.jpg
 categories:
     - Mobil
 tags:
@@ -29,6 +29,6 @@ Tüm dünyada paniğe neden olan ve Dünya Sağlık Örgütü tarafından pandem
 
 Samsung UV ışınları kullanarak yapılacak dezenfekte işlemlerinin cihazlara herhangi bir etkisinin – zararının – olup olmadığı konusunda soru işaretlerine yanıt bulabilmek için şirket bünyesinde yer alan test cihazları ile bu konuyu test ettiğini ve herhangi bir problemin görülmediğini açıkladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/samsung_galaxy_sanitizing_service.jpg)</figure>## Hangi ülkelerde sunulacak**?**
+<figure class="wp-block-image size-large">![](images/samsung_galaxy_sanitizing_service.jpg)</figure>## Hangi ülkelerde sunulacak**?**
 
 Arjantin, Şili, Hırvatistan, Danimarka, Finlandiya, Japonya, Kore Cumhuriyeti, Malezya, Yeni Zelanda, Norveç, Pakistan, Peru, Polonya, Rusya, İspanya, İsveç, ABD, Ukrayna ve Vietnam’da. Yakında ise Avustralya, Avusturya, Kanada, Çekya, Fransa, Yunanistan, Hong Kong, Macaristan, Hindistan, Endonezya, İsrail, İtalya, Ürdün, Kazakistan, Letonya, Meksika, Hollanda, Panama, Filipinler, Romanya, Singapur, Tayvan, Tayland, Birleşik Arap Emirlikleri ve İngiltere’de sunulacak hizmetin kısa süre sonra Türkiye Cumhuriyeti’nde de sunulması mümkün.

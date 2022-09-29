@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8514'
 permalink: /korfez-ulkeleri-covid-19-temas-takip-uygulamalarini-toplu-gozetim-icin-kullaniyor/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/06/korfez-ulkeleri-covid-19-temas-takip-uygulamalarini-toplu-gozetim-icin-kullaniyor.jpeg
+image: images/korfez-ulkeleri-covid-19-temas-takip-uygulamalarini-toplu-gozetim-icin-kullaniyor.jpeg
 categories:
     - Genel
 tags:
@@ -21,4 +21,4 @@ Uluslararası Af Örgütü tarafından yürütülen **COVID-19** temas takip uyg
 
 Çalışmada, COVID-19 salgınına karşı önlem için geliştirilmiş uygulamalar sunan Cezayir, Bahreyn, Fransa, İzlanda, İsrail, Kuveyt, Lübnan, Norveç, Katar, Tunus ve BAE. Ancak düşük enerjili Bluetooth ile sinyal takip etmek yerine, kullanıcıların uydu konum verilerini toplayan üç uygulama tespit edildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/koronavirs-uygulamasi.jpg)</figure>Af Örgütü, Körfez ülkelerinin uygulamalarının, GPS verilerini topladığını, depoladığını ve devletin bir kullanıcının hesap bilgilerini kolayca tanımlayabileceğini keşfetti. Norveç’in uygulaması ise, merkezi bir sunucuda konum verilerini topladığı için işaretlendi. Norveç, Af Örgütü’nün uyarısının ardından Smittestopp adlı uygulamayı durduracağını açıkladı.
+<figure class="wp-block-image size-large">![](images/koronavirs-uygulamasi.jpg)</figure>Af Örgütü, Körfez ülkelerinin uygulamalarının, GPS verilerini topladığını, depoladığını ve devletin bir kullanıcının hesap bilgilerini kolayca tanımlayabileceğini keşfetti. Norveç’in uygulaması ise, merkezi bir sunucuda konum verilerini topladığı için işaretlendi. Norveç, Af Örgütü’nün uyarısının ardından Smittestopp adlı uygulamayı durduracağını açıkladı.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7150'
 permalink: /googlein-arama-uygulamasinin-artik-karanlik-mod-secenegi-var/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/05/googlein-arama-uygulamasinin-artik-karanlik-mod-secenegi-var.png
+image: images/googlein-arama-uygulamasinin-artik-karanlik-mod-secenegi-var.png
 categories:
     - Genel
 tags:
@@ -20,7 +20,7 @@ tags:
 
 **Google Arama** uygulamasının ayarlarında **Karanlık Modu** etkinleştirme yeteneği, **Android 10** ve **iOS 13** çalıştıran cihazların yanı sıra **iOS 12** kullanıcılarına da sunulacak. Güncellemeyi aldığınızda, Karanlık Modu etkinleştirmek için herhangi bir işlem yapmanıza gerek olmayacak. Ancak İOS 12 kullanıcısı iseniz özelliği **manuel** olarak açmanız gerekecek. Ayrıca **IOS** kullanıcıları iPhone’larını günün saatine bağlı olarak Açık ve Koyu modu arasında otomatik olarak değişecek şekilde ayarlayabilecekler.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/dark-mode-1600x1118.png)</figure>**Google arama ekibi**, aşağıdaki iki adımı uygulayarak **Android** cihazlarda karanlık moda nasıl erişileceğini açıkladı.
+<figure class="wp-block-image size-large">![](images/dark-mode-1600x1118.png)</figure>**Google arama ekibi**, aşağıdaki iki adımı uygulayarak **Android** cihazlarda karanlık moda nasıl erişileceğini açıkladı.
 
 - Android Google Uygulaması beta test kullanıcısı olun.
 - Android Google Uygulamasında Diğer&gt; Ayarlar&gt; Genel&gt; Tema’ya gidin ve Koyu veya Sistem Varsayılanı’nı seçin.

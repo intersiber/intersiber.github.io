@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/COVID-19.jpg
+image: images/COVID-19.jpg
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ tags:
 
 Twitter ve Facebook bu konuda doğru bilgileri toplamak ve oluşturmak için popüler haber kaynaklarını topladıkları bir veri sayfası oluştururken Twitter’da canlı yayınlar bölümünün sol tarafından COVID-19 ile ilgili güncel bilgileri sunuyor. Facebook keza yine aynı şekilde bu bilgileri sunuyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/COVID-19-2-1600x900.jpg)</figure>## Sosyal Medya Sizi Yanıltmasın
+<figure class="wp-block-image size-large">![](images/COVID-19-2-1600x900.jpg)</figure>## Sosyal Medya Sizi Yanıltmasın
 
 **T.C. Sağlık Bakanlığı** internet sitesi <https://covid19.saglik.gov.tr/> en güvenilir bilgilerin alınabileceği kaynaklar arasında 1. sırada yer alıyor.
 

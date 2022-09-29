@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/macbook-air-2020.jpg
+image: images/macbook-air-2020.jpg
 categories:
     - 'Dizüstü Bilgisayar'
 tags:
@@ -27,6 +27,6 @@ Bir süre önce tanıtılan ve yeni model bilgisayar arayan kullanıcıların en
 
 Tüm dünyada kargo taşımacılığında öncelik maske ve benzer sağlık ürünlerinin taşıma işlemlerine veriliyor. Bu sebeple salgın kaynaklı değişen öncelikler, teknoloji üreticilerinin taşımacılık konusunda sorunlar yaşamasına neden oldu.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/04/macbook-air-2020-2.jpg)</figure>ABD’li teknoloji devi Apple ise yeni modellerin üretilmiş olmasına rağmen Türkiye’ye girişi, tescillenmesi gibi nedenlerden dolayı ülkemize yeni modelleri 4 ila 5 hafta arasında göndereceğini resmi internet sitesinde belirtiyor.
+<figure class="wp-block-image size-full">![](images/macbook-air-2020-2.jpg)</figure>ABD’li teknoloji devi Apple ise yeni modellerin üretilmiş olmasına rağmen Türkiye’ye girişi, tescillenmesi gibi nedenlerden dolayı ülkemize yeni modelleri 4 ila 5 hafta arasında göndereceğini resmi internet sitesinde belirtiyor.
 
 Cihazın teknik özelliklerinden dolayı çok sayıda kullanıcı yeni modellerden bir tanesini satın almak isterken uzun bekleme süresinin Macbook Air 2020 satışlarını az da olsa etkilemesi bekleniyor.

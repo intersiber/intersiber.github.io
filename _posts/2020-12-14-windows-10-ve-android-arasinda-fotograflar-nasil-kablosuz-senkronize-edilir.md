@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10029'
 permalink: /windows-10-ve-android-arasinda-fotograflar-nasil-kablosuz-senkronize-edilir/
 post_views_count:
     - '16'
-image: /wp-content/uploads/2020/12/windows-10-ve-android-arasinda-fotograflar-nasil-kablosuz-senkronize-edilir.jpg
+image: images/windows-10-ve-android-arasinda-fotograflar-nasil-kablosuz-senkronize-edilir.jpg
 categories:
     - Mobil
 tags:
@@ -36,7 +36,7 @@ Bu iki izin verildikten sonra özellik kullanıma hazırdır. Windows PC’nizde
 
 Ardından, galeriden bir fotoğraf seçin. Yeni fotoğrafları kontrol etmek için, “Yenile”yi de tıklayabilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/android-windows-fotograf-senkronizasyonu.png)</figure>İpucu: “Fotoğraflar” sekmesinde herhangi bir fotoğraf görmezseniz, bu özelliği etkinleştirmek için “Fotoğrafları Göster”i tıklamanız yeterlidir.
+<figure class="wp-block-image size-large">![](images/android-windows-fotograf-senkronizasyonu.png)</figure>İpucu: “Fotoğraflar” sekmesinde herhangi bir fotoğraf görmezseniz, bu özelliği etkinleştirmek için “Fotoğrafları Göster”i tıklamanız yeterlidir.
 
 Bir fotoğraf açıldığında, ekranın üst kısmında aşağıdaki seçenekler yer alır:
 
@@ -46,7 +46,7 @@ Bir fotoğraf açıldığında, ekranın üst kısmında aşağıdaki seçenekle
 - **Paylaş**: Fotoğrafı doğrudan paylaşmak için bir yöntem seçebileceğiniz Windows Paylaş menüsünü açar.
 - **Üç** **noktalı** **menü**: Fotoğrafı farklı bir uygulamada açma seçeneği sunar.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/android-fotograflar-senkronize-etme-menusu.png)</figure>İşte hepsi bu kadar. Bu özellik, iyi bir internet bağlantınız olduğunda, fotoğrafları şaşırtıcı şekilde hızlı senkronize eder. Bulut depolama uygulamalarını sevmiyorsanız bu özellik, Android telefonunuz ile PC arasında hızlı bir dosya taşıma alternatifi.
+<figure class="wp-block-image size-large">![](images/android-fotograflar-senkronize-etme-menusu.png)</figure>İşte hepsi bu kadar. Bu özellik, iyi bir internet bağlantınız olduğunda, fotoğrafları şaşırtıcı şekilde hızlı senkronize eder. Bulut depolama uygulamalarını sevmiyorsanız bu özellik, Android telefonunuz ile PC arasında hızlı bir dosya taşıma alternatifi.
 
 Bu haberler de ilginizi çekebilir:
 

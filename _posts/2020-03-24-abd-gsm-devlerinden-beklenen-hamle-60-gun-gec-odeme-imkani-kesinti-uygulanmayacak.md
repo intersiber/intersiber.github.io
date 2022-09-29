@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/t-mobile.jpg
+image: images/t-mobile.jpg
 categories:
     - Mobil
 tags:
@@ -31,6 +31,6 @@ tags:
 
 Bu kapsamda **Verizon**, **T-Mobile** ve **AT&amp;T** kullanıcılarının 60 güne kadar fatura ödemelerini ertelemeleri ve 60 gün boyunca ödeme yapılmasa bile herhangi bir kesinti uygulanmamasına karar verdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/telekom.jpg)</figure>2 ay süre boyunca faturalarını ödemeyen Amerikan vatandaşlarının hizmetleri asla kesilmeyecek ve bu sebeple herhangi bir cezai bedel yansıtılmayacak. Ayrıca müşteri geçmişine herhangi bir olumsuz girdi girilmeyecek.
+<figure class="wp-block-image size-large">![](images/telekom.jpg)</figure>2 ay süre boyunca faturalarını ödemeyen Amerikan vatandaşlarının hizmetleri asla kesilmeyecek ve bu sebeple herhangi bir cezai bedel yansıtılmayacak. Ayrıca müşteri geçmişine herhangi bir olumsuz girdi girilmeyecek.
 
 Bu sayede Amerikan vatandaşları corona virüsün pik yapması beklenen 2 ay içerisinde ödeme zorluğu çekseler bile herhangi bir kesinti olmadan internet, SMS ve çağrı haklarından yararlanmaya devam edebilecek, aynı zamanda operatörlerden haklarını almayı sürdürebilecekler.

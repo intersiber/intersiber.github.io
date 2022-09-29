@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5371'
 permalink: /apollo-13-faciasi-50-yilinda-anildi/
 post_views_count:
     - '116'
-image: /wp-content/uploads/2020/04/apollo-13-faciasi-50-yilinda-tekrar-anildi.jpg
+image: images/apollo-13-faciasi-50-yilinda-tekrar-anildi.jpg
 categories:
     - Uzay
 tags:
@@ -19,8 +19,8 @@ tags:
 
 NASA, COVID-19 salgını nedeniyle olayı anmak için yüz yüze etkinlikler planlayamadığından, Apollo 13’ün resmi web sayfasında görevden transkriptler, video görüntüleri, ses kayıtlar gibi arşiv görüntüleri içeren bir belgesel yayınladı. Konuşmaların çoğu bu proje için ilk kez dijitalleştirildi.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/apopp-13-1600x1126.jpeg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/04/Apollo-13-Faciası-50.-Yılında-Anıldı.jpg)</figure>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](images/apopp-13-1600x1126.jpeg)</figure>
+- <figure>![](images/Apollo-13-Faciası-50.-Yılında-Anıldı.jpg)</figure>
 
 <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>**Kennedy Uzay Merkezi**‘nden üç astronotu aya göndermek üzere **11 Nisan 1970**‘te başlatılan görev sonucunda astronotlar güvenli bir şekilde aya gönderildi.. Ancak iki gün sonra, uzay aracındaki bir oksijen deposunda patlama meydana geldi. Mevcut oksijenin çoğu uzaya yayıldı. Dünya, görev kontrolü, geminin Güney Pasifik Okyanusu’na ulaşana kadar astronotları dört gün boyunca canlı tutmak için az miktarda mevcut oksijeni uzatmanın bir yolunu bulmak için çalışmaya başladılar.
 

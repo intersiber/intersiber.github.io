@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6171'
 permalink: /spotify-130-milyon-aboneye-ulasti/
 post_views_count:
     - '39'
-image: /wp-content/uploads/2020/04/spotify-130-milyon-aboneye-ulasti-scaled.jpg
+image: images/spotify-130-milyon-aboneye-ulasti-scaled.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Müzik şirketi yaptığı açıklamada, **Spotify’**ın Mart ayının sonunda
 
 Spotify, 31 Mart’ta sona eren üç aylık dönemin tahminlerini karşıladığını, koronavirüs pandemisinden şirketin neredeyse hiç etkilenmediğini ancak insanların günlük rutinlerinin değiştiğini belirtti. Şirket, “Sabah rutinleri önemli ölçüde değişti. Her gün artık haftasonu gibi görünüyor.” dedi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/spotify-1600x1066.jpg)</figure>Arabalarda, giyilebilir ürünlerde ve masaüstü tarayıcılarda erişim oranının çift haneli düşüşe uğradığını söyleyen şirket, TV ve oyun konsolları aracılığıyla platformu dinleyen kitlenin **%50**‘den fazla artışıyla bu boşluğu doldurduğunu belirtti.
+<figure class="wp-block-image size-large">![](images/spotify-1600x1066.jpg)</figure>Arabalarda, giyilebilir ürünlerde ve masaüstü tarayıcılarda erişim oranının çift haneli düşüşe uğradığını söyleyen şirket, TV ve oyun konsolları aracılığıyla platformu dinleyen kitlenin **%50**‘den fazla artışıyla bu boşluğu doldurduğunu belirtti.
 
 Kullanıcıların bu zor zamanlarda “**Chill**” ve enstrümantal şarkılardan oluşan çalma listeleriyle motivasyon temalı podcast’leri dinleyerek sakinleştirici şarkılara yöneldiğini ifade etti. Şirketin 2019’da satın aldığı podcast oluşturma platformu olan **Anchor** üzerinden pek çok kişi kendi karantinalarının podcast’ini kaydetmeye başladı.
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/samsung-galaxy-z-flip-video-yayinlandi.jpg
+image: images/samsung-galaxy-z-flip-video-yayinlandi.jpg
 categories:
     - Mobil
 tags:
@@ -25,7 +25,7 @@ Son zamanların en çok merak edilen telefonlarından biri olan **Samsung** Gala
 
 Dikey katlanabilir telefon yarışında yer alacak olan Galaxy Z Flip resmi olarak tanıtılmadan önce sızan fotoğrafları, render görselleri ve videolarıyla teknoloji meraklılarının hafızasında yer etmeyi başardı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/samsung-galaxy-z-flip-video.png)</figure>Telefona ait yayınlanan en son videoda, bir kullanıcı tarafından telefon başlatılıyor ve çeşitli uygulamalar arasında gezinerek deneyim sunuluyor. Telefonun başlangıcında görünen AT&amp;T logosuna bakılacak olursa, cihaz ABD’de satışa sunulacak cihazlardan birisi.
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-z-flip-video.png)</figure>Telefona ait yayınlanan en son videoda, bir kullanıcı tarafından telefon başlatılıyor ve çeşitli uygulamalar arasında gezinerek deneyim sunuluyor. Telefonun başlangıcında görünen AT&amp;T logosuna bakılacak olursa, cihaz ABD’de satışa sunulacak cihazlardan birisi.
 
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" src="https://www.youtube.com/embed/LkC2hnjwPPM?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" width="640"></iframe></span></div></figure>## **Galaxy Z Flip Özellikleri**
 

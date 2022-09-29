@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=887'
 permalink: /wpa2-wifi-aglari-uzerinde-krack-zafiyeti/
 post_views_count:
     - '722'
-image: /wp-content/uploads/2017/10/wifi-network.jpg
+image: images/wifi-network.jpg
 categories:
     - Genel
     - Güvenlik
@@ -29,7 +29,7 @@ tags:
     - 'wpa2 wifi ağlar'
 ---
 
-![](https://www.intersiber.com/wp-content/uploads/2017/10/krack-attack.png)
+![](https://www.intersiber.comimages/krack-attack.png)
 
 KRACK zafiyeti ile WPA2 protokolünü kullanan wi-fi ağlarının artık güvenli olmadığı ortaya çıktı. Bugüne kadar WPA2(Wi-Fi Protected Access II) ile wi-fi ağlarının güvenli olduğu düşünülüyordu. Ancak araştırmacılar KRACK(Key Reinstallation Attacks) zafiyeti ile bir wi-fi ağının parolasının bilinmeden dahi ağ trafiğinin izlenebileceğini ortaya çıkardı. Bu ilgili wi-fi ağının kapsama alanında olan bir saldırganın ağ trafiğini izleyebileceği anlamına geliyor.
 

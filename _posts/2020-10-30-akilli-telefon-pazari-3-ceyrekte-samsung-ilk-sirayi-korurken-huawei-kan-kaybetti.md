@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9425'
 permalink: /akilli-telefon-pazari-3-ceyrekte-samsung-ilk-sirayi-korurken-huawei-kan-kaybetti/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/10/akilli-telefon-pazari-3-ceyrekte-samsung-ilk-sirayi-korurken-huawei-kan-kaybetti.png
+image: images/akilli-telefon-pazari-3-ceyrekte-samsung-ilk-sirayi-korurken-huawei-kan-kaybetti.png
 categories:
     - Mobil
 tags:
@@ -28,7 +28,7 @@ IDC verilerine göre 3. çeyrekte toplamda 353 milyon akıllı telefon sevkiyat�
 
 ## Huawei’nin pazar payı yüzde 22 düştü
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/huawei-abd-ambargosu-nedir.png)</figure>Samsung’un ardından listede en üst sırada yer alan şirket Huawei. 51,9 milyon sevkiyatla ikinci sıradaki Huawei’nin pazar payı yüzde 14,7. Ancak geçen yılın aynı çeyreğinde şirket, yüzde 18,6 pazar payına sahipti. Koronavirüs krizinin yanı sıra ABD ambargosu, Çinli teknoloji devinin ciddi bir daralma yaşamasına neden oldu.
+<figure class="wp-block-image size-large">![](images/huawei-abd-ambargosu-nedir.png)</figure>Samsung’un ardından listede en üst sırada yer alan şirket Huawei. 51,9 milyon sevkiyatla ikinci sıradaki Huawei’nin pazar payı yüzde 14,7. Ancak geçen yılın aynı çeyreğinde şirket, yüzde 18,6 pazar payına sahipti. Koronavirüs krizinin yanı sıra ABD ambargosu, Çinli teknoloji devinin ciddi bir daralma yaşamasına neden oldu.
 
 ## Xiaomi’nin yükselişi
 
@@ -38,4 +38,4 @@ Xiaomi’yi yüzde 11,8 pay ile Apple, yüzde 8,9 ile vivo takip ediyor. Bu mark
 
 2020 3. çeyrek akıllı telefon pazarı detaylı tablosu şu şekilde:
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/akilli-telefon-pazar-paylari-2020-3-ceyrek.png)</figure>
+<figure class="wp-block-image size-large">![](images/akilli-telefon-pazar-paylari-2020-3-ceyrek.png)</figure>

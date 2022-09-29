@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Fitbit-2.jpg
+image: images/Fitbit-2.jpg
 categories:
     - Mobil
 tags:
@@ -29,7 +29,7 @@ Fitbit, **COVID-19**‘un etkileri dolayısı ile evlerinde spor yapmak, egzersi
 
 **Fitbit** uygulamasından 90 gün süre boyunca yeni abonelerin en ufak bir ücret ödemeden tamamen **ücretsiz** olarak yararlanmalarının mümkün olduğu açıklandı. Uygulamayı Android veya Apple iOS işletim sistemine sahip akıllı telefonlarına indirmelerinin ardından yeni üye olan tüm Fitbit hesap sahipleri 3 ay (90 gün) süre boyunca ücret ödemeden egzersiz, spor ve yemek tarifi gibi konularda destek alabilecek.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Fitbit-2.jpeg)</figure>## Milyonlarca Aktif Kullanan Var
+<figure class="wp-block-image size-full">![](images/Fitbit-2.jpeg)</figure>## Milyonlarca Aktif Kullanan Var
 
 Normal şartlarda ücretli olan Fitbit uygulamasının corona virüsünün etkilerinden ötürü ücretsiz olması çoğu kullanıcının hoşuna gidecek bir adım olmuşa benziyor.
 

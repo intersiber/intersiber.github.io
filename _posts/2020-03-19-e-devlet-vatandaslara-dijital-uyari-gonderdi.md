@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/e-devlet.png
+image: images/e-devlet.png
 categories:
     - Genel
 tags:
@@ -26,6 +26,6 @@ Türkiye’nin dijital alanda gerçekleştirdiği en büyük dönüşümlerden b
 
 Yayınlanan uyarıda, özellikle 60 yaş ve üzeri olan vatandaşların gerekmediği sürece evlerinde kalmaları belirtilirken, devlet işlerinin büyük bölümüne ise **e-Devlet** üzerinden hızlıca ulaşabilecek olduğu bir kez daha hatırlatıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/e-devlet.jpg)</figure>Bir süredir Cumhurbaşkanı Erdoğan başta olmak üzere hükümet yetkilileri vatandaşları sokağa çıkmamak konusunda uyarırken, özellikle de yaşlı nüfusun bu dönemde en fazla sokağa çıkan yaş grubu olduğu, İBB’nin verilerine göre metroların ve toplu taşıma araçlarının 60 yaş ve üzeri tarafından bu ortamda bile çok sık kullanıldığı duyurulmuştu.
+<figure class="wp-block-image size-large">![](images/e-devlet.jpg)</figure>Bir süredir Cumhurbaşkanı Erdoğan başta olmak üzere hükümet yetkilileri vatandaşları sokağa çıkmamak konusunda uyarırken, özellikle de yaşlı nüfusun bu dönemde en fazla sokağa çıkan yaş grubu olduğu, İBB’nin verilerine göre metroların ve toplu taşıma araçlarının 60 yaş ve üzeri tarafından bu ortamda bile çok sık kullanıldığı duyurulmuştu.
 
 e-Devlet üzerinden yapılan bu duyuruyla birlikte tekrardan tüm okuyucularımızı yetkili kanallardan gelen uyarıları dikkate almaları hususunda uyarıyoruz.

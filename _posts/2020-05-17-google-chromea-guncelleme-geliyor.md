@@ -10,7 +10,7 @@ post_views_count:
     - '49'
 amp-page-builder:
     - ''
-image: /wp-content/uploads/2020/05/Google-Chrome-Keşfet-özelliği.png
+image: images/google-chrome-kesfet-ozelligi.png
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ tags:
 
 Bu nedenle **Google**, bir kullanıcıyla etkileşimde bulunmadan önce görüntülü reklamın kullanabileceği kaynakları sınırlamaya karar verdi. Sınıra ulaşıldığında, reklamın çerçevesi kullanıcıyı reklamın çok fazla kaynak tükettiğini bildiren bir **hata sayfasına** yönlendirecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/browser_ntp-1600x1059.png)</figure>**Google,** reklamlar arasından daha fazla CPU veya ağ bant genişliği tüketen reklamları hedeflediğini söylüyor. Güncellemeden sonra, bu reklamlar herhangi bir 30 saniyelik süre içinde **4MB** ağ verisini veya CPU’yu 15 saniye boyunca kullanabilecek.
+<figure class="wp-block-image size-large">![](images/browser_ntp-1600x1059.png)</figure>**Google,** reklamlar arasından daha fazla CPU veya ağ bant genişliği tüketen reklamları hedeflediğini söylüyor. Güncellemeden sonra, bu reklamlar herhangi bir 30 saniyelik süre içinde **4MB** ağ verisini veya CPU’yu 15 saniye boyunca kullanabilecek.
 
 Chrome’un ürün müdürü **Marshall Vale**, güncellemenin Ağustos ayının sonuna doğru sunulmasını beklediğini söyledi. Vale, “Bu genişletilmiş sunumla niyetimiz, reklam oluşturucularına ve araç sağlayıcılarına bu eşikleri hazırlamaları ve iş akışlarına dahil etmeleri için uygun zaman vermektir. Reklam verenler bu müdahalenin reklamları üzerindeki etkisini anlamalarına yardımcı olmak için raporlara erişebilirler.” dedi.
 

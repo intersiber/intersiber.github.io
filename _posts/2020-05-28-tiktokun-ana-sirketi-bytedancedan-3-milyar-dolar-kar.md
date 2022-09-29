@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7737'
 permalink: /tiktokun-ana-sirketi-bytedancedan-3-milyar-dolar-kar/
 post_views_count:
     - '73'
-image: /wp-content/uploads/2020/05/tiktok-un-ana-sirketi-bytedance-dan-3-milyar-dolar-net-kar.jpg
+image: images/tiktok-un-ana-sirketi-bytedance-dan-3-milyar-dolar-net-kar.jpg
 categories:
     - Genel
     - 'Sosyal Medya'
@@ -21,7 +21,7 @@ Popüler sosyal medya uygulaması TikTok’un çatı şirketi ByteDance, rekor b
 
 ## Halka arz planlanıyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tiktok-un-ana-sirketi-bytedance-nedir.jpeg)</figure>Özellikle koronavirüs salgını sürecinde kullanıcı sayısını ciddi bir şekilde artıran ve gençler arasında oldukça popüler olan TikTok, 2019 yılı bilançosunu açıkladı. Şirket, geçtiğimiz yıl 17 milyar dolar gelir ve 3 milyar dolar net kâr elde etti. **TikTok’un** ana şirketi **ByteDance**, 2018 yılında 7,4 milyar dolar gelir elde etmişti.
+<figure class="wp-block-image size-large">![](images/tiktok-un-ana-sirketi-bytedance-nedir.jpeg)</figure>Özellikle koronavirüs salgını sürecinde kullanıcı sayısını ciddi bir şekilde artıran ve gençler arasında oldukça popüler olan TikTok, 2019 yılı bilançosunu açıkladı. Şirket, geçtiğimiz yıl 17 milyar dolar gelir ve 3 milyar dolar net kâr elde etti. **TikTok’un** ana şirketi **ByteDance**, 2018 yılında 7,4 milyar dolar gelir elde etmişti.
 
 Gelen bilgilere göre **ByteDance**, hızlı yükselişini bir halka arz ile taçlandırmayı planlıyor. Ancak şirketin arz sürecini acele ile yapmayacağı da belirtiliyor. Halka arzda, 150 ile 180 milyar dolar arasında bir değerlemenin söz konusu olacağı konuşuluyor.
 

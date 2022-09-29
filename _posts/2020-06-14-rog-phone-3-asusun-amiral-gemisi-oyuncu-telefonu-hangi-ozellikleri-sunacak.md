@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8439'
 permalink: /rog-phone-3-asusun-amiral-gemisi-oyuncu-telefonu-hangi-ozellikleri-sunacak/
 post_views_count:
     - '86'
-image: /wp-content/uploads/2020/06/rog-phone-3-asus-un-amiral-gemisi-oyuncu-telefonu-hangi-ozellikleri-sunacak.jpg
+image: images/rog-phone-3-asus-un-amiral-gemisi-oyuncu-telefonu-hangi-ozellikleri-sunacak.jpg
 categories:
     - Mobil
 tags:
@@ -18,7 +18,7 @@ tags:
 
 **ASUS Rog Phone 3**’e dair daha önce çeşitli platformlarda bilgiler yer almıştı. Temmuz ayında duyurulması beklenen **Rog Phone 3**, şirketin oyuncu telefonları alanında amiral gemisi modeli olarak yer alacak. Telefonun özellikleri, sertifikasyon sitesi EEC’de yer aldı…
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/asus-rog-phone-3-eec-sertifikasyon-bilgileri.jpg)</figure>## Hangi özellikleri sunacak?
+<figure class="wp-block-image size-large">![](images/asus-rog-phone-3-eec-sertifikasyon-bilgileri.jpg)</figure>## Hangi özellikleri sunacak?
 
 EEC sertifikasyon sitesinde, ASUS’un yeni modeli **ZS661KS** model numarasıyla yer aldı. Telefonun, sertifikasyon sayfasında yer alan özelliklerine baktığımızda, USB-C bağlantı kablosu desteği görülüyor.
 

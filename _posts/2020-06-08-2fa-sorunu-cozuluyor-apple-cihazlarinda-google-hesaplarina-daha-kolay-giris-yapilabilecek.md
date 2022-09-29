@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8195'
 permalink: /2fa-sorunu-cozuluyor-apple-cihazlarinda-google-hesaplarina-daha-kolay-giris-yapilabilecek/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/06/apple-cihazlarinda-google-hesaplarina-daha-kolay-giris-yapilabilecek.jpg
+image: images/apple-cihazlarinda-google-hesaplarina-daha-kolay-giris-yapilabilecek.jpg
 categories:
     - Apple
     - Güvenlik
@@ -22,7 +22,7 @@ tags:
 
 ## Apple cihazlarda 2FA kimlik doğrulama sorun çıkarıyordu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/2fa-nedir-apple-cift-faktorlu-kimlik-dogrulama.png)</figure>Hesabınıza başka birisinin erişmesi riskini minimize eden, güvenli bir yaklaşım sunan iki faktörlü kimlik doğrulama anahtarları, birçok kullanıcının güvendiği bir sistem. 2FA ile eşleşen cihazlarda kullanılabilen hesaplar, güvenlik anahtarı ile sadece sizin tarafınızdan erişilebilir oluyor. Ancak Apple cihazlarda, **Google** hesaplarına erişirken iki faktörlü kimlik doğrulama aşamasında bazı sorunlar söz konusu oluyordu. **SmartLock** uygulamasının, iPhone’lar ve diğer Apple cihazlarda, **2FA** güvenlik anahtarı oluşturulmasını zorlaması ile açıklanan bu durum, artık düzelecek.
+<figure class="wp-block-image size-large">![](images/2fa-nedir-apple-cift-faktorlu-kimlik-dogrulama.png)</figure>Hesabınıza başka birisinin erişmesi riskini minimize eden, güvenli bir yaklaşım sunan iki faktörlü kimlik doğrulama anahtarları, birçok kullanıcının güvendiği bir sistem. 2FA ile eşleşen cihazlarda kullanılabilen hesaplar, güvenlik anahtarı ile sadece sizin tarafınızdan erişilebilir oluyor. Ancak Apple cihazlarda, **Google** hesaplarına erişirken iki faktörlü kimlik doğrulama aşamasında bazı sorunlar söz konusu oluyordu. **SmartLock** uygulamasının, iPhone’lar ve diğer Apple cihazlarda, **2FA** güvenlik anahtarı oluşturulmasını zorlaması ile açıklanan bu durum, artık düzelecek.
 
 ## Google güvenlik anahtarı sürecini kolaylaştıracak
 

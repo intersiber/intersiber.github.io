@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7598'
 permalink: /acun-ilicalinin-canli-instagram-yayini-3-milyon-izleyici-ile-rekor-kirdi/
 post_views_count:
     - '62'
-image: /wp-content/uploads/2020/05/acun-ilicali-nin-canli-instagram-yayini-3-milyon-izleyici-ile-rekor-kirdi.png
+image: images/acun-ilicali-nin-canli-instagram-yayini-3-milyon-izleyici-ile-rekor-kirdi.png
 categories:
     - Genel
     - 'Sosyal Medya'
@@ -23,12 +23,12 @@ Geçtiğimiz günlerde, **Survivor** programında Instagram canlı yayını yapa
 
 Yapımcısı ve sunucusu olduğu Survivor programı için Dominik’te bulunan Acun Ilıcalı, **Instagram** hikayesinde bir rekor denemesi yapacaklarını paylaştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/ACUN-ilicali-survivor-instagram-rekoru.jpeg)</figure>**Canlı** **yayın** öncesinde **rekor** denemesinin duyurulmasının ardından, Acun Ilıcalı’nın hesabında başlayan yayın, **TV8** ekranlarından canlı aktarıldı.
+<figure class="wp-block-image size-large">![](images/ACUN-ilicali-survivor-instagram-rekoru.jpeg)</figure>**Canlı** **yayın** öncesinde **rekor** denemesinin duyurulmasının ardından, Acun Ilıcalı’nın hesabında başlayan yayın, **TV8** ekranlarından canlı aktarıldı.
 
 ## 5 dakika içinde 3 milyon izleyici
 
 Acun Ilıcalı’nın yayını, sadece 5 dakika içinde **3 milyona** ulaşarak, bu defa dünya rekoru kırmayı başardı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/acun-ilicali-instagram-rekoru-900x1600.jpg)</figure>Ilıcalı, canlı yayında NBA’de forma giyen **Cedi** **Osman** için de takipçilerinden destek istedi. Ilıcalı’nın izleyicilere Osman’ı takip etme önerisinin ardından basketbolcunun takipçi sayısı, kısa süre içinde 1,2 milyondan 1,8 milyona yükseldi.
+<figure class="wp-block-image size-large">![](images/acun-ilicali-instagram-rekoru-900x1600.jpg)</figure>Ilıcalı, canlı yayında NBA’de forma giyen **Cedi** **Osman** için de takipçilerinden destek istedi. Ilıcalı’nın izleyicilere Osman’ı takip etme önerisinin ardından basketbolcunun takipçi sayısı, kısa süre içinde 1,2 milyondan 1,8 milyona yükseldi.
 
 Popüler TV yayınlarından **Survivor**, zaman zaman dijital mecralarla entegre yayınlar yapıyor. **Acun** **Ilıcalı’nın** **Instagram’da** kırdığı bu rekor, hem programın popülerliğinin hem de Türk Instagram kullanıcısının geldiği noktanın bir özeti.

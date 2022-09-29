@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '104'
-image: /wp-content/uploads/2020/02/tesla-model-s-scaled.jpg
+image: images/tesla-model-s-scaled.jpg
 categories:
     - 'Elektrikli Otomobil'
     - 'Öne Çıkan'
@@ -30,4 +30,4 @@ Günümüz teknoloji dünyasının önemli isimlerinden **Elon Musk** Tesla **Mo
 
 **Elektrikli otomobil** üreticileri her geçen gün araç menzillerini artırmaya devam ediyor. Elon Musk yaptığı [açıklamasıyla](https://ww.electrek.co/2020/01/30/tesla-400-mile-electric-car-elon-musk/) Model S’in menzilinin artacağını söyledi. Şu an Tesla Model S, en büyük pil opsiyonuyla 600 km menzile sahip durumda. Yeni Model S ise **640 km’ye kadar menzil**e sahip olacak. Bunun için hem yazılım hem de pil tarafında iyileştirmeler yapılıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/tesla-roadster.jpg)</figure>**Tesla Roadster** ise menzil konusunda çok daha iyi durumda. Yeni Tesla Roadster 2020’de yollarda yerini alacak. Yeni Tesla Roadster 100 Km hıza 1.9 saniyede ulaşabiliyor. Aracın maksimum hızı **400 km/s** ve **1.000 km menzile** sahip. Araç 250.000 dolar fiyatıyla satışa çıkacak ancak şimdiden çok sayıda sipariş almış durumda.
+<figure class="wp-block-image size-large">![](images/tesla-roadster.jpg)</figure>**Tesla Roadster** ise menzil konusunda çok daha iyi durumda. Yeni Tesla Roadster 2020’de yollarda yerini alacak. Yeni Tesla Roadster 100 Km hıza 1.9 saniyede ulaşabiliyor. Aracın maksimum hızı **400 km/s** ve **1.000 km menzile** sahip. Araç 250.000 dolar fiyatıyla satışa çıkacak ancak şimdiden çok sayıda sipariş almış durumda.

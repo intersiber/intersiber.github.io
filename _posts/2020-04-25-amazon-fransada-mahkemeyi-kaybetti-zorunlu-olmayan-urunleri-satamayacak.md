@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5987'
 permalink: /amazon-fransada-mahkemeyi-kaybetti-zorunlu-olmayan-urunleri-satamayacak/
 post_views_count:
     - '32'
-image: /wp-content/uploads/2020/04/amazon-fransa-da-mahkemeyi-kaybetti-zorunlu-olmayan-urunleri-satamayacak.jpeg
+image: images/amazon-fransa-da-mahkemeyi-kaybetti-zorunlu-olmayan-urunleri-satamayacak.jpeg
 categories:
     - Genel
 tags:
@@ -28,4 +28,4 @@ Mahkeme kararı, koronavirüs salgını sürecinde Amazon’a sadece hijyen ür�
 
 ## Her teslimat ihlalinde 100 bin euro ceza
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/amazon-fransa-da-mahkemeden-uyari-aldi.jpeg)</figure>Temyiz mahkemesi, **Amazon**’un kararı ihlal etmesi durumunda, yasal koşulları ihlal eden her teslimat için 100 bin euro para cezasına çarptırılacağını söyledi. Mahkeme, Amazon’un bu konudaki ilerleyişini, önümüzdeki ay tekrar değerlendireceğini belirtti.
+<figure class="wp-block-image size-large">![](images/amazon-fransa-da-mahkemeden-uyari-aldi.jpeg)</figure>Temyiz mahkemesi, **Amazon**’un kararı ihlal etmesi durumunda, yasal koşulları ihlal eden her teslimat için 100 bin euro para cezasına çarptırılacağını söyledi. Mahkeme, Amazon’un bu konudaki ilerleyişini, önümüzdeki ay tekrar değerlendireceğini belirtti.

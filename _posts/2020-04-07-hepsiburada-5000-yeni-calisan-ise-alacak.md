@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/hepsiburada.png
+image: images/hepsiburada.png
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ Hepsiburada’dan yapılan açıklamada Türk e-Ticaret devinin 2020 yılı sonu
 
 COVID-19 koronavirüs salgını ile mücadele için 500 bin maske bağışı ile gündeme gelen Hepsiburada’nın bu adımı ile beraber çok sayıda kullanıcısının dikkatini çekeceği, özellikle teslim sürelerinde iyileştirme yapacağı ve bu sayede daha fazla müşteri kazanacağı öngörülüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/hepsiburada-3.jpg)</figure>Alışveriş devinden yapılan açıklama şu şekilde:
+<figure class="wp-block-image size-large">![](images/hepsiburada-3.jpg)</figure>Alışveriş devinden yapılan açıklama şu şekilde:
 
 *“Bu zorlu dönemde, müşterilerimizin ihtiyaç duydukları ürün ve hizmetlere daha kolay, hızlı ve güvenli bir şekilde ulaşabilmesi için, ekstra çözümler üretmeye de özen gösteriyoruz. Örneğin, son dönemde, Hepsiexpress ile hizmet ağımızı genişleterek taze gıda, sebze, meyve, süt, et, balık gibi tüm günlük süpermarket ihtiyaçlarını müşterilerimizin kapılarına tercih ettikleri saat aralıklarında teslim etmeye başladık. Düzenli olarak yürüttüğümüz kampanyaların yanı sıra, müşterilerimizin rahatlıkla tüm alışverişlerini yapabilmeleri için, anında online tüketici kredisi ve çoklu kredi kartı ile ödeme kolaylığı gibi finansal çözümleri de sunmaya devam ediyoruz. Ülke olarak COVID-19 salgınıyla mücadele verdiğimiz bu dönemde, T.C. Sağlık Bakanlığı’mızın rehberliği doğrultusunda, önce hijyen ve sağlık bakış açısıyla hareket ediyoruz.”*

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5564'
 permalink: /tiktok-ebeveynlerin-cocuklarinin-hesabinda-kisitlama-yapmasina-izin-veriyor/
 post_views_count:
     - '117'
-image: /wp-content/uploads/2020/04/tiktok-ebeveynlerin-cocuklarinin-hesabini-kontrol-etmesine-izin-veriyor.jpeg
+image: images/tiktok-ebeveynlerin-cocuklarinin-hesabini-kontrol-etmesine-izin-veriyor.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,6 +21,6 @@ tags:
 
 ## TikTok’ta Aile Eşleştirme nasıl yapılır?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/tiktok-gencler-arasinda-en-populer-uygulamalardan-1600x1200.png)</figure>Yeni güncelleme, çocukların kullanımını ebeveynler tarafında çok daha fazla kontrol edilebilir hale getiriyor. **TikTok**‘da Aile Eşleştirme özelliğini kullanmanız için, çocuğunuzun hesabı ile kendi hesabınızı eşleştirmeniz gerekiyor. Geçmişte, çocuğunuzun hesabı üzerinden yapabildiğiniz kontrolleri, eşleşmenin ardından doğrudan kendiniz yapabilirsiniz. **Eşleştirme** QR kodu taraması üzerinden yapılıyor. Çocuklar her ne kadar bazı özellikleri devre dışı bırakma imkanına sahip olsalar da, bu durumda ebeveynlere bir bildirim gidecek.
+<figure class="wp-block-image size-large">![](images/tiktok-gencler-arasinda-en-populer-uygulamalardan-1600x1200.png)</figure>Yeni güncelleme, çocukların kullanımını ebeveynler tarafında çok daha fazla kontrol edilebilir hale getiriyor. **TikTok**‘da Aile Eşleştirme özelliğini kullanmanız için, çocuğunuzun hesabı ile kendi hesabınızı eşleştirmeniz gerekiyor. Geçmişte, çocuğunuzun hesabı üzerinden yapabildiğiniz kontrolleri, eşleşmenin ardından doğrudan kendiniz yapabilirsiniz. **Eşleştirme** QR kodu taraması üzerinden yapılıyor. Çocuklar her ne kadar bazı özellikleri devre dışı bırakma imkanına sahip olsalar da, bu durumda ebeveynlere bir bildirim gidecek.
 
 TikTok’un bugün yaptığı diğer bir önemli değişiklik de, 16 yaşından küçük kullanıcılar için mesajlaşmanın kapatılması oldu. Bu önlem, uygulamada çocuk istismarının önüne geçilmesi için iyi bir adım olarak değerlendirilebilir.

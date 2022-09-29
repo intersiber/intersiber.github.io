@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6528'
 permalink: /spotify-iki-youtube-yildizi-ile-video-podcastlerini-test-ediyor/
 post_views_count:
     - '54'
-image: /wp-content/uploads/2020/05/spotify-iki-youtube-yildizi-ile-video-podcastlerini-test-ediyor.jpg
+image: images/spotify-iki-youtube-yildizi-ile-video-podcastlerini-test-ediyor.jpg
 categories:
     - Genel
 tags:
@@ -20,6 +20,6 @@ Karantina sürecinde kullanımı oldukça artan bu nedenle hizmetlerine yenileri
 
 Videolar, ses akışı ile senkronize edilecek ve dinleyiciler telefonlarını kilitlese bile oynatılmaya devam edecek ve reklam noktaları yine de oynatılacak, ancak video tek bir statik çekim olarak gösterilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/spotify-video-shows.jpg)</figure>Bu videolar yalnızca **dil podcast**‘lerinin kaydına yüklenecek. Bu nedenle Spotify bunları küresel bir kitle için çevirmeyecek. Bu özellik masaüstü ve mobil Spotify uygulamalarında kullanılabilecek.
+<figure class="wp-block-image size-large">![](images/spotify-video-shows.jpg)</figure>Bu videolar yalnızca **dil podcast**‘lerinin kaydına yüklenecek. Bu nedenle Spotify bunları küresel bir kitle için çevirmeyecek. Bu özellik masaüstü ve mobil Spotify uygulamalarında kullanılabilecek.
 
 Şirket yaptığı açıklamada “**Spotify**‘da, kullanıcı deneyimimizi geliştirmek için rutin olarak bir dizi test yapıyoruz. Bu testlerden bazıları daha geniş kullanıcı deneyimimizin yolunu açıyor ve diğerleri sadece önemli bir öğrenme işlevi görüyor. Şu anda paylaşacağımız başka bir haberimiz yok.” ifadelerini kullandı.

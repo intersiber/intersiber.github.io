@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=936'
 permalink: /macos-high-sierra-da-yeni-bir-parola-acigi-kesfedildi/
 post_views_count:
     - '516'
-image: /wp-content/uploads/2018/01/macos-high-sierra-password-bug.png
+image: images/macos-high-sierra-password-bug.png
 categories:
     - Apple
     - Genel

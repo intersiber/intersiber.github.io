@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8435'
 permalink: /tesla-model-3-araclara-usb-c-baglanti-noktasi-ve-kablosuz-sarj-ekleyecek/
 post_views_count:
     - '55'
-image: /wp-content/uploads/2020/06/tesla-model-3-araclara-usb-c-baglanti-ve-kablosuz-sarj-ekleyecek.png
+image: images/tesla-model-3-araclara-usb-c-baglanti-ve-kablosuz-sarj-ekleyecek.png
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -18,7 +18,7 @@ tags:
 
 **Tesla’nın**, **Fremont** fabrikasında ürettiği Model 3 serisi araçlarına kablosuz şarj ve USB-C bağlantı noktası eklemeye başladığı bildirildi. Bu özellikler, Tesla Model Y’de mevcuttu ancak otomobil üreticisi, geçtiğimiz aydan itibaren Çin yapımı **Model 3**’lerine de bu özellikleri ekledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/tesla-model-3-usb-c-baglanti-noktasi-1600x670.jpg)</figure>Mart ayında ABD’li müşterilere sunulan **Model Y**, Qi kablosuz telefon şarj sistemi ile geliyor ancak Model 3’lerde, satış sonrası bir eklenti olarak kullanılabiliyordu.
+<figure class="wp-block-image size-large">![](images/tesla-model-3-usb-c-baglanti-noktasi-1600x670.jpg)</figure>Mart ayında ABD’li müşterilere sunulan **Model Y**, Qi kablosuz telefon şarj sistemi ile geliyor ancak Model 3’lerde, satış sonrası bir eklenti olarak kullanılabiliyordu.
 
 ## Koronavirüs nedeniyle ilk çeyrekte düşük talep
 

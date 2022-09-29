@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6814'
 permalink: /instagram-toplu-yorum-silme-ve-sabit-yorumlari-test-ediyor/
 post_views_count:
     - '57'
-image: /wp-content/uploads/2020/05/instagram-toplu-yorum-silme-ve-sabit-yorumlari-test-ediyor.png
+image: images/instagram-toplu-yorum-silme-ve-sabit-yorumlari-test-ediyor.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -22,7 +22,7 @@ Instagram, platformu daha pozitif bir mecra haline getirme amacıyla, bir dizi �
 
 ## Sabit yorum özelliği geliyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/instagram-yorum-sabitleme-nasil-yapilir.png)</figure>Yeni özellikler arasında, bir gönderinin üzerinde yorum sabitleme seçeneği de olacak. **Instagram** kullanıcıları bu özellikle, gönderilerinin altında, Youtube’da olduğu gibi bazı yorumlarını sabit bir şekilde takipçilerine göstermek isteyebilir. Yeni özellik, içerik oluşturucuların takipçileri ile daha güçlü bir iletişim kurmasına, etkileşimi artırmasına neden olabilir.
+<figure class="wp-block-image size-large">![](images/instagram-yorum-sabitleme-nasil-yapilir.png)</figure>Yeni özellikler arasında, bir gönderinin üzerinde yorum sabitleme seçeneği de olacak. **Instagram** kullanıcıları bu özellikle, gönderilerinin altında, Youtube’da olduğu gibi bazı yorumlarını sabit bir şekilde takipçilerine göstermek isteyebilir. Yeni özellik, içerik oluşturucuların takipçileri ile daha güçlü bir iletişim kurmasına, etkileşimi artırmasına neden olabilir.
 
 ## Son 2 çeyrekte 1 buçuk milyondan fazla gönderi kaldırıldı
 

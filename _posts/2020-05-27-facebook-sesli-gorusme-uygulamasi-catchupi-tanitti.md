@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7660'
 permalink: /facebook-sesli-gorusme-uygulamasi-catchupi-tanitti/
 post_views_count:
     - '25'
-image: /wp-content/uploads/2020/05/facebook-sesli-gorusme-uygulamasi-catchup-i-tanitti.png
+image: images/facebook-sesli-gorusme-uygulamasi-catchup-i-tanitti.png
 categories:
     - Girişim
 tags:
@@ -22,7 +22,7 @@ tags:
 
 CatchUp uygulaması, video konferans uygulaması **Houseparty** benzeri bazı özelliklere de sahip. Sesli görüşme uygulamasında kullanıcılar, uygulamadaki durumlarını ayarlayarak ne zaman konuşmak için müsait olduklarını belirleyebiliyorlar. Bu da Houseparty’de öne çıkan bir özellik. CatchUp’ta da benzer şekilde, ana ekranın üstünde “konuşmaya hazır” olan müsait kullanıcılar listeleniyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/sesli-gorusme-uygulamasi-catchup-nedir.png)</figure>**Facebook’a** göre **CatchUp’ın** amacı, insanların artık eskisi kadar sık telefon görüşmeleri yapmamaların en önemli nedenlerinden biri olan, “kimin ne zaman müsait olduğunun bilinmemesi”. Görüntülü sohbet trendi, **Zoom** gibi uygulamalarla birlikte yükselirken, herkesin her an video görüşme için müsait olmaması iç görüsünden yola çıkan **CatchUp**, ekranın önünde hazır olma stresinden ziyade, sesli görüşme için birçok insanın her an daha uygun olabileceği yaklaşımına sahip.
+<figure class="wp-block-image size-large">![](images/sesli-gorusme-uygulamasi-catchup-nedir.png)</figure>**Facebook’a** göre **CatchUp’ın** amacı, insanların artık eskisi kadar sık telefon görüşmeleri yapmamaların en önemli nedenlerinden biri olan, “kimin ne zaman müsait olduğunun bilinmemesi”. Görüntülü sohbet trendi, **Zoom** gibi uygulamalarla birlikte yükselirken, herkesin her an video görüşme için müsait olmaması iç görüsünden yola çıkan **CatchUp**, ekranın önünde hazır olma stresinden ziyade, sesli görüşme için birçok insanın her an daha uygun olabileceği yaklaşımına sahip.
 
 **CatchUp’a** giriş yaptığınızda, listenizde yer alan insanların hangilerinin bir telefon görüşmesi için müsait olup olmadığını görebiliyor ve buna göre görüşme ayarlayabiliyorsunuz. Diğer sohbet uygulamalarında olduğu gibi CatchUp’ta da, aile ya da arkadaş gibi farklı gruplar oluşturmak mümkün.
 

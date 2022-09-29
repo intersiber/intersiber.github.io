@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/black-shark-3-ve-black-shark-3-pro-tanitildi.jpg
+image: images/black-shark-3-ve-black-shark-3-pro-tanitildi.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ Oyun telefonu olarak karşımıza çıkan **Black Shark 3** ve daha gelişmiş v
 
 Black Shark 3 serisi, her ne kadar kalın bir telefon olsa da modern bir görünüm ile göze hitap etmeyi başarıyor. Ayrıca bu model için görüntüden daha çok donanımsal fonksiyonlarının üzerinde durulduğu için muhteşem özellikler barındırıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/black-shark-3-ve-black-shark-3-pro-tanitildi-ozellikleri-fiyati.jpg)</figure>## Black Shark 3 Özellikleri
+<figure class="wp-block-image size-large">![](images/black-shark-3-ve-black-shark-3-pro-tanitildi-ozellikleri-fiyati.jpg)</figure>## Black Shark 3 Özellikleri
 
 Black Shark 3 Pro modeli **7,1 inç AMOLED** ekrana sahip. Tablet ölçülerinde olan telefon **3120 x 1440 piksel** çözünürlük sunuyor. Black Shark 3 modeli ise **6,67 inç** ekranın yanında **2400 x 1080 piksel** bir çözünürlük sunuyor. Her iki modelin ekranı **FHD+ OLED** ve **90 Hz** yenileme hızına sahip.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7187'
 permalink: /easyjet-hacklendi-9-milyon-yolcunun-bilgileri-calindi/
 post_views_count:
     - '77'
-image: /wp-content/uploads/2020/05/easyjet-hacklendi-9-milyon-yolcunun-bilgileri-calindi.jpg
+image: images/easyjet-hacklendi-9-milyon-yolcunun-bilgileri-calindi.jpg
 categories:
     - Güvenlik
 tags:
@@ -23,6 +23,6 @@ Saldırıyı ‘son derece sofistike’ olarak yorumlayan **EasyJet**, bilgileri
 
 ## Bilgileri çalınan müşteriler risk altında
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/easyjet-e-siber-saldiri-yolcularin-bilgileri-hacklendi.jpg)</figure>Uzmanlar, EasyJet’in 9 milyon müşterisinin çeşitli kimlik avı girişimlerine maruz kalabileceğini aktardı. Bir yolcunun EasyJet müşterisi olup olmadığını bilecek siber korsanlar, şirketin e-postalarını taklit edebilir ve sahte bilgi içeren maillerle onlara ulaşabilir. EasyJet, gelebilecek e-postalar konusunda tüm müşterilerini dikkatli olmaya davet etti.
+<figure class="wp-block-image size-large">![](images/easyjet-e-siber-saldiri-yolcularin-bilgileri-hacklendi.jpg)</figure>Uzmanlar, EasyJet’in 9 milyon müşterisinin çeşitli kimlik avı girişimlerine maruz kalabileceğini aktardı. Bir yolcunun EasyJet müşterisi olup olmadığını bilecek siber korsanlar, şirketin e-postalarını taklit edebilir ve sahte bilgi içeren maillerle onlara ulaşabilir. EasyJet, gelebilecek e-postalar konusunda tüm müşterilerini dikkatli olmaya davet etti.
 
 Şirket CEO’su **Johan** **Lundgren**, yaptığı açıklamada “Bu olaydan etkilenen müşterilerden özür dilemek istiyoruz. Seyahat bilgilerine erişilen müşterilerle temasa geçiyoruz ve şüpheli bir iletişim talebi gelirse, daha dikkatli olmalarını öneriyoruz” dedi.

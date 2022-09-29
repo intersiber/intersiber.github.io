@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8604'
 permalink: /apple-bugun-ios-14-yeni-macos-tvos-ve-watchosi-duyuracak-wwdc-nasil-izlenir/
 post_views_count:
     - '52'
-image: /wp-content/uploads/2020/06/apple-bugun-ios-14-yeni-macos-tvos-ve-watchos-i-duyuracak-wwdc-nasil-izlenir.png
+image: images/apple-bugun-ios-14-yeni-macos-tvos-ve-watchos-i-duyuracak-wwdc-nasil-izlenir.png
 categories:
     - Apple
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ## 26 Haziran’a kadar sürecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-etkinligi-ios-14-tanitilacak.png)</figure>Bu yıl ilk kez online olacak **WWDC** etkinliğinin 26 Haziran’a kadar sürmesi bekleniyor. Apple, bu süreçte milyonlarca **Apple** kullanıcısını yakından ilgilendiren yenilikleri de tanıtacak. Etkinlikte tanıtılacak işletim sistemlerinin, milyonlarca **Apple** kullanıcısına birkaç ay içinde sunulacak.
+<figure class="wp-block-image size-large">![](images/apple-etkinligi-ios-14-tanitilacak.png)</figure>Bu yıl ilk kez online olacak **WWDC** etkinliğinin 26 Haziran’a kadar sürmesi bekleniyor. Apple, bu süreçte milyonlarca **Apple** kullanıcısını yakından ilgilendiren yenilikleri de tanıtacak. Etkinlikte tanıtılacak işletim sistemlerinin, milyonlarca **Apple** kullanıcısına birkaç ay içinde sunulacak.
 
 Apple’ın yeni işletim sistemlerini tanıtacağı WWDC etkinliğini takip etmek istiyorsanız, aşağıdaki bağlantılara gidebilirsiniz. Online düzenlenecek olan etkinlik, geniş bir kesime ulaşılabilmesi adına farklı kanallardan yayınlanacak.
 

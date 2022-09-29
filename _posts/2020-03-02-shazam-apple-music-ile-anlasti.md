@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/shazam-apple-music-ile-anlasti.jpg
+image: images/shazam-apple-music-ile-anlasti.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ Dünyanın en popüler şarkı bulma uygulaması **Shazam**, **Apple Music** ile
 
 Bilmediğiniz bir şarkıyı dinlerken şarkının ne olduğunu bulmak için Shazam’a şarkıyı dinletmeniz yeterli. Uygulama sadece birkaç saniye içerisinde size şarkı ile ilgili bilgiler veriyor. Shazam geçtiğimiz yıllarda Spotify ile anlaşıp Spotify içerisinde bulunan şarkıları da kolayca kullanıcılarına sunmaya başlamıştı.
 
-<figure class="wp-block-image">![](https://intersiber.com/wp-content/uploads/2020/03/Shazam-Apple-Music-ile-Anlaştı.png)</figure>Yeni yapılan açıklamalara göre Shazam, Spotify’ın rakibi Apple Music ile de anlaşma yaptı. Shazam’ın ilerleyen günlerde tam olarak ne yapacağı ile ilgili açıklama yapması bekleniyor. Apple Music ile anlaşmasının ardından **Spotify** ile ilgili anlaşmanın ne olacağı henüz belli değil.
+<figure class="wp-block-image">![](images/Shazam-Apple-Music-ile-Anlaştı.png)</figure>Yeni yapılan açıklamalara göre Shazam, Spotify’ın rakibi Apple Music ile de anlaşma yaptı. Shazam’ın ilerleyen günlerde tam olarak ne yapacağı ile ilgili açıklama yapması bekleniyor. Apple Music ile anlaşmasının ardından **Spotify** ile ilgili anlaşmanın ne olacağı henüz belli değil.
 
 ## **Hem Spotify Hem Apple Music**
 

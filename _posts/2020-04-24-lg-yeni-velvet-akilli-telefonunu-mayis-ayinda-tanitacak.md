@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5915'
 permalink: /lg-yeni-velvet-akilli-telefonunu-mayis-ayinda-tanitacak/
 post_views_count:
     - '22'
-image: /wp-content/uploads/2020/04/lg-yeni-velvet-akilli-telefonunu-mayis-ayinda-tanitacak.jpg
+image: images/lg-yeni-velvet-akilli-telefonunu-mayis-ayinda-tanitacak.jpg
 categories:
     - Mobil
 tags:

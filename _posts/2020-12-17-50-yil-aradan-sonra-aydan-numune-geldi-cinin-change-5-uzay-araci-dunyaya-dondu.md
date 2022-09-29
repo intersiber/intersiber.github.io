@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10066'
 permalink: /50-yil-aradan-sonra-aydan-numune-geldi-cinin-change-5-uzay-araci-dunyaya-dondu/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/12/50-yil-aradan-sonra-ay-dan-tas-geldi-cin-in-chang-e-5-uzay-araci-dunya-ya-dondu.png
+image: images/50-yil-aradan-sonra-ay-dan-tas-geldi-cin-in-chang-e-5-uzay-araci-dunya-ya-dondu.png
 categories:
     - Uzay
 tags:
@@ -29,7 +29,7 @@ Bir süredir Ay’daki çalışmalarını sürdüren Chang’e 5 aracı, 16 Aral
 
 Çin, **Chang’e 5**’i, Ay’ın Fırtınalar Okyanusu olarak adlandırılan bölgesinden numune toplama amacıyla gönderdi. Görev kapsamında hedef, 2 kilogram numune toplamaktı ve Çin, başarıyla sonuçlanan görevin ardından ABD ve SSCB’nin ardından Ay’dan numune alan 3. ülke olmayı başardı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/cin-chang-e-5-uzay-araci-ay-gorevi.jpeg)<figcaption>Chang’e 5 Ay yüzeyinde.</figcaption></figure>Çin’den yapılan açıklamada numunelerin dünya çapında birçok bilim insanı ile paylaşılacağı aktarıldı. Öte yandan **Çin**, 2022’ye kadar uzayda, kendi mürettebatından oluşan bir istasyon kurmayı ve Ay’a astronot indirmeyi de planlıyor.
+<figure class="wp-block-image size-large">![](images/cin-chang-e-5-uzay-araci-ay-gorevi.jpeg)<figcaption>Chang’e 5 Ay yüzeyinde.</figcaption></figure>Çin’den yapılan açıklamada numunelerin dünya çapında birçok bilim insanı ile paylaşılacağı aktarıldı. Öte yandan **Çin**, 2022’ye kadar uzayda, kendi mürettebatından oluşan bir istasyon kurmayı ve Ay’a astronot indirmeyi de planlıyor.
 
 Bu haberler de ilginizi çekebilir:
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9997'
 permalink: /samsung-gamedriver-oyunlarda-daha-yuksek-performans-geliyor/
 post_views_count:
     - '25'
-image: /wp-content/uploads/2020/12/samsung-gamedriver-uygulamasi-ile-oyunlrda-daha-yuksek-performans-sunacak.png
+image: images/samsung-gamedriver-uygulamasi-ile-oyunlrda-daha-yuksek-performans-sunacak.png
 categories:
     - Mobil
     - Oyun

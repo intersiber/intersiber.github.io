@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8554'
 permalink: /apple-facebookun-yeni-oyun-uygulamasina-izin-vermiyor/
 post_views_count:
     - '38'
-image: /wp-content/uploads/2020/06/apple-facebook-un-iphone-lardaki-yeni-oyun-uygulamasina-izin-vermiyor.jpg
+image: images/apple-facebook-un-iphone-lardaki-yeni-oyun-uygulamasina-izin-vermiyor.jpg
 categories:
     - Apple
     - Oyun
@@ -23,7 +23,7 @@ The New York Times’ta yer alan habere göre Facebook’un yeni uygulaması Fac
 
 Akıllı telefon kullanıcıların, gündelik olarak tercih ettikleri oyunları içeren Facebook Gaming’in, uygulamanın ana amacının ‘mağaza politikalarına aykırı’ olması nedeniyle beş kez reddedildiği öğrenildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/facebook-gaming-nedir.jpg)</figure>Uno gibi oyunların yer aldığı **Facebook** uygulaması, şu anda Google Play Store’da mevcut.
+<figure class="wp-block-image size-large">![](images/facebook-gaming-nedir.jpg)</figure>Uno gibi oyunların yer aldığı **Facebook** uygulaması, şu anda Google Play Store’da mevcut.
 
 ## Apple mağaza satın alımlarından ciddi gelir elde ediyor
 

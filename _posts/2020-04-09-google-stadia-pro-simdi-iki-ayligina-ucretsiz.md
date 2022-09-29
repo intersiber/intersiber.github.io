@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5266'
 permalink: /google-stadia-pro-simdi-iki-ayligina-ucretsiz/
 post_views_count:
     - '105'
-image: /wp-content/uploads/2020/04/google-stadia-pro-simdi-iki-ayligina-ucretsiz.jpg
+image: images/google-stadia-pro-simdi-iki-ayligina-ucretsiz.jpg
 categories:
     - Oyun
 tags:
@@ -21,6 +21,6 @@ Mevcut koronavirüs krizi sırasında, kendilerini karantinaya alan birçok insa
 
 Google, 14 ülkede erişimi olan **Google Stadia Pro** uygulamasına üye olan kullanıcılarına **iki ay ücretsiz erişim** imkanı sağlayacağını duyurdu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/google-stadia-pro-1600x1066.jpg)</figure>Hizmete kaydolan herkes Stadia Pro’yu iki ay boyunca ücretsiz olarak kullanabilecek. Böylece üyeler **GRID**, **Destiny 2: The Collection** ve **Thumper** dahil olmak üzere Stadia Pro aboneliğinde yer alan dokuz oyuna erişebilecek. İki ay sonunda, hizmet aylık 9,99 dolar olarak devam edecek. Abonelik herhangi bir zamanda iptal edilebiliyor. Stadia mağazasından oyunlar satın alınabiliyor ve Pro aboneliği iptal edilirse oyuncular bunlara erişmeye devam edebiliyor. Şu anda Stadia Pro abonesi olan kullanıcılar ise önümüzdeki iki ay için ücretlendirilmeyecek.
+<figure class="wp-block-image size-large">![](images/google-stadia-pro-1600x1066.jpg)</figure>Hizmete kaydolan herkes Stadia Pro’yu iki ay boyunca ücretsiz olarak kullanabilecek. Böylece üyeler **GRID**, **Destiny 2: The Collection** ve **Thumper** dahil olmak üzere Stadia Pro aboneliğinde yer alan dokuz oyuna erişebilecek. İki ay sonunda, hizmet aylık 9,99 dolar olarak devam edecek. Abonelik herhangi bir zamanda iptal edilebiliyor. Stadia mağazasından oyunlar satın alınabiliyor ve Pro aboneliği iptal edilirse oyuncular bunlara erişmeye devam edebiliyor. Şu anda Stadia Pro abonesi olan kullanıcılar ise önümüzdeki iki ay için ücretlendirilmeyecek.
 
 Şu anda **Türkiye**‘de hizmet vermeyen Google Stadia’yı, **VPN** aracılığıyla kullanabilirsiniz.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9648'
 permalink: /apple-silicon-geekbench-incelemesi-en-iyi-tek-cekirdekli-islemci/
 post_views_count:
     - '43'
-image: /wp-content/uploads/2020/11/apple-silicon-geekbench-incelemesi-en-iyi-tek-cekirdekli-islemci.png
+image: images/apple-silicon-geekbench-incelemesi-en-iyi-tek-cekirdekli-islemci.png
 categories:
     - Apple
 tags:
@@ -35,8 +35,8 @@ Apple’ın kendi üretimi işlemcileri kullanmaya karar verip, Intel işlemcile
 
 Bu puanların ne kadar iddialı olduğunu görmek için aşağıdaki tabloya bakıp, tek çekirdekli segmentinde diğer işlemcilerin sonuçlarını görebilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-silicon-m1-ve-amd-ryzen-intel-core-islemcisi-geekbench-puani-karsilastirmasi.png)</figure>**M1** **işlemcisi**, **Apple’ın** kesinlikle önemli bir adım attığını, ciddi bir başarıya imza attığını gösteriyor. Ancak cevaplanması gereken sorular var.
+<figure class="wp-block-image size-large">![](images/apple-silicon-m1-ve-amd-ryzen-intel-core-islemcisi-geekbench-puani-karsilastirmasi.png)</figure>**M1** **işlemcisi**, **Apple’ın** kesinlikle önemli bir adım attığını, ciddi bir başarıya imza attığını gösteriyor. Ancak cevaplanması gereken sorular var.
 
 **Apple** **Silicon** **Geekbench** **sonuçları**, kusursuz dünya koşullarına göre yapıldı ve performans, insanlar işlemciyi her gün kullanmaya başladığında farklı olacak. Bunun yanı sıra, Intel çipler için tasarlanan yazılımın, Apple Silicon’da nasıl çalışacağına dair sorular da var.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-silicon-m1-islemcisi-ozellikleri.jpg)<figcaption>Apple Silicon M1, birçok yeni özellikle birlikte geldi.</figcaption></figure>**Apple** **Silicon** Geekbench sonuçlarından büyük övgüyle söz eden birçok kişi olmasına karşın, M1 muhalifleri de var. İlk veriler, işlemcinin oldukça iddialı olduğunu gösteriyor. Ancak hem Catalina ve Mojave gibi eski Mac sürümleri, hem de bugünlerde dağıtımına başlanan [**macOS** **Big** **Sur**](https://intersiber.com/macbooklar-iphone-hizinda-acilacak-apple-macos-big-suru-tanitti/) ile Apple Silicon’un ortaya koyduğu uyumu ve performansı görünce, son sözü söyleyebileceğiz.
+<figure class="wp-block-image size-large">![](images/apple-silicon-m1-islemcisi-ozellikleri.jpg)<figcaption>Apple Silicon M1, birçok yeni özellikle birlikte geldi.</figcaption></figure>**Apple** **Silicon** Geekbench sonuçlarından büyük övgüyle söz eden birçok kişi olmasına karşın, M1 muhalifleri de var. İlk veriler, işlemcinin oldukça iddialı olduğunu gösteriyor. Ancak hem Catalina ve Mojave gibi eski Mac sürümleri, hem de bugünlerde dağıtımına başlanan [**macOS** **Big** **Sur**](https://intersiber.com/macbooklar-iphone-hizinda-acilacak-apple-macos-big-suru-tanitti/) ile Apple Silicon’un ortaya koyduğu uyumu ve performansı görünce, son sözü söyleyebileceğiz.

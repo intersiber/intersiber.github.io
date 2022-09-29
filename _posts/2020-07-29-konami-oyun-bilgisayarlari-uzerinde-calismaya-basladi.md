@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9254'
 permalink: /konami-oyun-bilgisayarlari-uzerinde-calismaya-basladi/
 post_views_count:
     - '55'
-image: /wp-content/uploads/2020/07/CF25D000-A898-4DCE-B287-B5ABC22EF0EC.jpeg
+image: images/CF25D000-A898-4DCE-B287-B5ABC22EF0EC.jpeg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Metal Gear, PES ve Silent Hill serisi gibi Japon oyununlarının geliştiricisi 
 
 **Arespear C300**, **Arespear C700** ve **Arespear C700+** olarak adlandırılan bilgisayarların fiyatları **1.750$** ile **3.200$** arasında değişecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/07/1FD32887-98F0-48BE-8F76-830EB9D8870B-1600x688.jpeg)</figure>Şirketin giriş seviyesi bilgisayarı **Intel i5-9400F işlemci** ile çalışan, **GTX 1650** ekran kartına sahip olan **Arespear C300**, **8** GB RAM ve **512** GB SSD ile donatılmış. Bilgisayar **1.750$** olarak piyasaya sürülecek.
+<figure class="wp-block-image size-large">![](images/1FD32887-98F0-48BE-8F76-830EB9D8870B-1600x688.jpeg)</figure>Şirketin giriş seviyesi bilgisayarı **Intel i5-9400F işlemci** ile çalışan, **GTX 1650** ekran kartına sahip olan **Arespear C300**, **8** GB RAM ve **512** GB SSD ile donatılmış. Bilgisayar **1.750$** olarak piyasaya sürülecek.
 
 İkinci model olan **Arespear C700** ise, **Intel i7-9700** işlemci ve **RTX 2070 Super** ekran kartı ile geliyor. **16** GB RAM’e ve **512** GB’lik M.2 SSD‘ye sahip olan bilgisayarın depolama alanı **1** TB kapasiteli bir HDD ile genişletmiş. Ayrıca su soğutma sistemine sahip olan **C700**’ün **3.000$**‘a yakın fiyatla satışa sunulması bekleniyor.
 

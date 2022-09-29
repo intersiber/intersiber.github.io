@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '58'
-image: /wp-content/uploads/2020/01/byte-app-sosyal-ag.jpg
+image: images/byte-app-sosyal-ag.jpg
 categories:
     - Mobil
     - 'Öne Çıkan'

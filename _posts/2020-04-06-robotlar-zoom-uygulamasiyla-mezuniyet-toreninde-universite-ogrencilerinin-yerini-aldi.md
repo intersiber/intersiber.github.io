@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5086'
 permalink: /robotlar-zoom-uygulamasiyla-mezuniyet-toreninde-universite-ogrencilerinin-yerini-aldi/
 post_views_count:
     - '105'
-image: /wp-content/uploads/2020/04/Robotlar-Zoom-Uygulamasıyla-Mezuniyet-Töreninde-Üniversite-Öğrencilerinin-Yerini-Aldı.png
+image: images/robotlar-zoom-uygulamasiyla-mezuniyet-toreninde-universite-ogrencilerinin-yerini-aldi.png
 categories:
     - Genel
 tags:
@@ -21,6 +21,6 @@ Koronavirüs nedeniyle hayatınızın önemli anlarında bulunamıyor musunuz? S
 
 Koronavirüs nedeniyle geleneksel bir mezuniyet törenine izin verilmeyen Tokyo’daki **Business Breakthrough (BBT) Üniversitesi**, lisansüstü öğrencilerinin yerlerini alması için **Newme telepresence** robotlarını (avatar robotları olarak da adlandırılır) kullandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/japan-uni_.jpg)</figure>Öğrenciler mezuniyet törenine **Zoom** konferans çağrısını kullanarak uzaktan katılım sağladılar. Robotlara mezuniyet töreni için siyah şapka ve önlük giydirildi. Kafalarına dijital tabletler bağlanan robotlar törene katılan mezun öğrenciler tarafından kontrol edildi. Törende öğrenciler yerine robotlar olmasına rağmen üniversite başkanı geleneksel konuşmasını yaptı. Etkinlik 28 Mart’ta Tokyo’daki **Hotel Grand Palace**‘da gerçekleşti.
+<figure class="wp-block-image size-large">![](images/japan-uni_.jpg)</figure>Öğrenciler mezuniyet törenine **Zoom** konferans çağrısını kullanarak uzaktan katılım sağladılar. Robotlara mezuniyet töreni için siyah şapka ve önlük giydirildi. Kafalarına dijital tabletler bağlanan robotlar törene katılan mezun öğrenciler tarafından kontrol edildi. Törende öğrenciler yerine robotlar olmasına rağmen üniversite başkanı geleneksel konuşmasını yaptı. Etkinlik 28 Mart’ta Tokyo’daki **Hotel Grand Palace**‘da gerçekleşti.
 
 Öğrencilerden biri 31 Mart’ta yaptığı açıklamada, “Kaydolduğumda, avatarımı kullanacağımı ve mezuniyet törenime bu şekilde katılacağımı hiç düşünmemiştim. Ancak, halka açık bir diploma almak yeni bir deneyim.”dedi.

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/tesla-model-x.png
+image: images/tesla-model-x.png
 categories:
     - Otomobil
 tags:
@@ -27,6 +27,6 @@ Son zamanlarda otomobil sektöründe adından sıkça söz ettirmeyi başaran ve
 
 Tesla’nın en ünlü modellerinden biri olan ve SUV sınıfında en çok tercih edilen elektrikli araçlardan olan **Model X**‘in, Kuzey Amerika’da satılan 15 bin civarı aracında problem tespit edildi. Yapılan açıklamada Tesla; Kuzey Amerika’da satışı yapılan Model X araçlarının **hidrolik** direksiyonlarında problem tespit ettiklerini ve bu araçları geri çağırdıklarını ifade etti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/yakindan-bakis-tesla-model-x_89a9a.jpg)</figure>## Ücretsiz Bir Şekilde Değişecek
+<figure class="wp-block-image size-large">![](images/yakindan-bakis-tesla-model-x_89a9a.jpg)</figure>## Ücretsiz Bir Şekilde Değişecek
 
 2016 yılının Ekim ayında hayata geçirilen Model X projesinin birçoğunda direksiyon hidroliği probleminin olduğu tespit edildi. Araçta can kaybına sebep olacak herhangi bir durumun olmadığını belirten yetkililer, problemin ücretsiz bir şekilde çözüleceğini dile getirdi. ABD’nin en ünlü elektrikli otomobil üreticisi olan Tesla, geçen sene de direksiyon hidroliği problemi sebebiyle tam 123 bin aracını geri çağırmıştı.

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/microsoft.jpg
+image: images/microsoft.jpg
 categories:
     - Windows
 tags:
@@ -29,6 +29,6 @@ tags:
 
 **Windows 10** dahil tüm Windows işletim sistemine sahip yazılımların sadece çok önemli ve sisteme doğrudan etkisi olmayan güvenlik güncellemelerini alacağı, asla yeni özellik ve farklı düzenlemeler içeren yeni sürüm yazılım güncellemelerinin verilmeyeceği açıklandı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Windows-2.jpg)</figure>Olası sistem çökmeleri ve benzer sorunlar durumunda kapalı olan teknik servisler ve Microsoft ofislerinden ötürü **güncelleme** kaynaklı herhangi bir sorun olmaması adına bu kararın alındığı tahmin ediliyor.
+<figure class="wp-block-image size-full">![](images/Windows-2.jpg)</figure>Olası sistem çökmeleri ve benzer sorunlar durumunda kapalı olan teknik servisler ve Microsoft ofislerinden ötürü **güncelleme** kaynaklı herhangi bir sorun olmaması adına bu kararın alındığı tahmin ediliyor.
 
 Corona virüs salgınından dolayı [Google](https://intersiber.com/google-chrome-ve-chrome-os-guncellemelerine-covid-19-darbesi/) ve diğer birçok şirket yeni yazılım güncellemesi vermezken, Apple ise dün yeni işletim sistemi güncellemelerini yayınlamıştı.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8456'
 permalink: /almanya-koronavirus-temas-takip-uygulamasinin-hazir-oldugunu-duyurdu/
 post_views_count:
     - '22'
-image: /wp-content/uploads/2020/06/almanya-koronavirus-temas-takip-uygulamasinin-hazir-oldugunu-duyurdu.jpg
+image: images/almanya-koronavirus-temas-takip-uygulamasinin-hazir-oldugunu-duyurdu.jpg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Koronavirüs salgını, birçok şirket ve ülkenin, COVID-19 pozitif insanlarla
 
 ## Düşük enerjili Bluetooth kullanılıyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/koronavirus-temas-takip-uygulamasi.jpeg)</figure>**Koronavirüs** kaynaklı teması analiz eden hemen hemen tüm uygulamalar, düşük enerjili **Bluetooth** (BLE) olarak bilinen, kısa mesafeli Bluetooth sistemini kullanıyor. Almanya’nın koronavirüs takip uygulaması da, BLE altyapılı. Uygulama, koronavirüse yakalanmış biri ile temas kurup kurmadığınızı tespit ediyor.
+<figure class="wp-block-image size-large">![](images/koronavirus-temas-takip-uygulamasi.jpeg)</figure>**Koronavirüs** kaynaklı teması analiz eden hemen hemen tüm uygulamalar, düşük enerjili **Bluetooth** (BLE) olarak bilinen, kısa mesafeli Bluetooth sistemini kullanıyor. Almanya’nın koronavirüs takip uygulaması da, BLE altyapılı. Uygulama, koronavirüse yakalanmış biri ile temas kurup kurmadığınızı tespit ediyor.
 
 ## AB ülkeleri için seyahat kısıtlamaları gevşetilecek
 

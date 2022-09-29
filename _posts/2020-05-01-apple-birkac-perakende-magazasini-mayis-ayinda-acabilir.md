@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6260'
 permalink: /apple-birkac-perakende-magazasini-mayis-ayinda-acabilir/
 post_views_count:
     - '15'
-image: /wp-content/uploads/2020/05/apple-birkac-perakende-magazasini-mayis-ayinda-acabilir.jpeg
+image: images/apple-birkac-perakende-magazasini-mayis-ayinda-acabilir.jpeg
 categories:
     - Apple
     - Genel
@@ -25,7 +25,7 @@ Kararın, söz konusu şehirlerdeki koşullara bağlı olarak değişebileceğin
 
 ## Çin dışındaki mağazalar Mart’tan beri kapalı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-in-kac-magazasi-var-1600x1068.jpeg)</figure>**Apple**, **koronavirüs** salgınının ciddi bir artış gösterdiği Mart ayında aldığı kararla, Çin dışındaki tüm mağazalarını kapatma kararı almıştı. Mağazaların bir sonraki duyuruya kadar kapalı olacağı belirtildi ve bir tarih verilmedi. Nisan ayı ortasında ise, salgının kontrol altında alındığı Güney Kore’de bir mağaza yeniden açıldı.
+<figure class="wp-block-image size-large">![](images/apple-in-kac-magazasi-var-1600x1068.jpeg)</figure>**Apple**, **koronavirüs** salgınının ciddi bir artış gösterdiği Mart ayında aldığı kararla, Çin dışındaki tüm mağazalarını kapatma kararı almıştı. Mağazaların bir sonraki duyuruya kadar kapalı olacağı belirtildi ve bir tarih verilmedi. Nisan ayı ortasında ise, salgının kontrol altında alındığı Güney Kore’de bir mağaza yeniden açıldı.
 
 Apple perakende şefi Deirdre O’Brien, Bloomberg’e verdiği demeçte Mayıs ayında “daha pek çok” mağazanın açılmasının söz konusu olduğunu ifade etti. Apple, salgının ortaya çıktığı Çin’de Şubat ayında tüm mağazalarını kapatmış ve Mart ayının ortasında mağazaların yeniden açılma sürecine başlamıştı.
 

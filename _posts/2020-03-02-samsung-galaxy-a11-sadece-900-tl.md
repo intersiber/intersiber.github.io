@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/samsung-galaxy-a11-fiyati.png
+image: images/samsung-galaxy-a11-fiyati.png
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ tags:
 
 140 Dolardan satışa sunulacak olan A11’e yurtdışından yaklaşık 900 TL ödeyerek sahip olabilirsiniz. Türkiye’de yer alan ek gümrük vergileri ve diğer vergilerle birlikte fiyatının 1440 TL civarlarında olması da muhtemel duruyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/Samsung-Galaxy-A11-Sadece-900-TL-2.jpg)</figure>Pazardaki fiyatların oldukça altında bir fiyatta satışa sunulacak olan A11’in özellikleri de fiyat performans açısından bir hayli iyi görünüyor. 128 GB dahili depolama hafızasının bulunması beklenen A11 ile diğer akıllı telefonların kapasitesi hemen hemen aynı.
+<figure class="wp-block-image size-large">![](images/Samsung-Galaxy-A11-Sadece-900-TL-2.jpg)</figure>Pazardaki fiyatların oldukça altında bir fiyatta satışa sunulacak olan A11’in özellikleri de fiyat performans açısından bir hayli iyi görünüyor. 128 GB dahili depolama hafızasının bulunması beklenen A11 ile diğer akıllı telefonların kapasitesi hemen hemen aynı.
 
 ## **Galaxy A11 Özellikleri**
 

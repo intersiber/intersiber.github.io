@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=692'
 permalink: /acer-hacklendi/
 post_views_count:
     - '633'
-image: /wp-content/uploads/2016/06/acer-logo-banner.jpg
+image: images/acer-logo-banner.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7116'
 permalink: /bircok-mecrada-kullaniliyor-facebookun-giphyi-satin-almasinin-etkileri-buyuk-olabilir/
 post_views_count:
     - '47'
-image: /wp-content/uploads/2020/05/bircok-mecrada-kullaniliyor-facebook-un-giphy-i-satin-almasinin-etkileri-buyuk-olabilir.jpg
+image: images/bircok-mecrada-kullaniliyor-facebook-un-giphy-i-satin-almasinin-etkileri-buyuk-olabilir.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ Giphy ile entegrasyonunu sağlamış ve uzun yıllardır bunu sürdüren interne
 
 **Facebook**, “İnsanlar yine GIF yükleyebilecek, geliştiriciler ve API iş ortakları Giphy’nin API’larına aynı erişime sahip olmaya devam edecek” açıklamasıyla insanlara, geçmişte olduğu gibi platforma güvenebileceklerini belirtti ancak, yine de internet devleri artık bu servise biraz şüpheyle yaklaşabilir. Telegram kaynaklarına göre Giphy arama terimlerini görebilir. GIF’lerde izleme pikseli ya da çerez, ya da farklı takip mekanizmaları bulunmuyor ancak bu, ileride eklenmeyeceği anlamına da gelmiyor. Peki internet devleri Giphy ile bu zamana kadar nasıl çalışıyordu?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/facebook-giphy-yi-400-milyon-dolara-satin-aldi.jpg)</figure>## iMessage
+<figure class="wp-block-image size-large">![](images/facebook-giphy-yi-400-milyon-dolara-satin-aldi.jpg)</figure>## iMessage
 
 Apple’ın mesajlaşma servisi iMessage, iOS’ta yerleşik bulunan bir uygulama. Uygulama ile bir GIF gönderdiğinizde bu GIF’lerın bazıları Giphy’den alınıyor. Apple’ın, güvenlik ve gizlilik alanındaki duruşunu dikkate alırsak, Facebook satın almasından sonra Giphy entegrasyonu yeniden değerlendirilebilir.
 

@@ -14,17 +14,17 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '385'
-image: /wp-content/uploads/2018/03/akilli-klimalar-gercekten-akilli-mi.jpg
+image: images/akilli-klimalar-gercekten-akilli-mi.jpg
 categories:
     - İnceleme
     - 'Öne Çıkan'
 ---
 
-Son yıllarda tüm dünyada oldukça popüler olan adını sıkça duyduğumuz bir kavram ***Nesnelerin interneti*** (Internet of Things, kısaca IoT). İlk olarak **1999** yılında Britanyalı **Kevin Ashton** tarafından kullanılan ve günümüzde ismi sıkça telaffuz edilen bu kavram, bazı teknoloji şirketleri tarafından nesnelerin başına “**Akıllı**” kelimesi getirelerek evrimleştirildi. Peki bu, doğru bir yaklaşım mıydı, yoksa ürünlerin albenisini arttırmak için kullanılan bir reklam stratejisi mi?![](https://intersiber.com/wp-content/uploads/2018/03/amazon-iot-1200x900.jpg)**“Nesnelerin İnterneti” nedir?**
+Son yıllarda tüm dünyada oldukça popüler olan adını sıkça duyduğumuz bir kavram ***Nesnelerin interneti*** (Internet of Things, kısaca IoT). İlk olarak **1999** yılında Britanyalı **Kevin Ashton** tarafından kullanılan ve günümüzde ismi sıkça telaffuz edilen bu kavram, bazı teknoloji şirketleri tarafından nesnelerin başına “**Akıllı**” kelimesi getirelerek evrimleştirildi. Peki bu, doğru bir yaklaşım mıydı, yoksa ürünlerin albenisini arttırmak için kullanılan bir reklam stratejisi mi?![](images/amazon-iot-1200x900.jpg)**“Nesnelerin İnterneti” nedir?**
 
 En basit haliyle “nesnelerin interneti”, fiziksel nesnelerin birbirleriyle veya daha büyük sistemlerle bağlantılı olduğu iletişim ağı olarak tanımlanabilir ancak bu tanımın, yalnızca cihazların internete bağlanması olarak anlaşılması yanlıştır. RFID benzeri algılayıcıların ve tanımlayıcıların bazı cihazlar ile bilgi üretmeleri de bu kavramın içerisindedir.
 
-Nesnelerin interneti kavramına bir örnek vermemiz gerekirse, Google tarafından 2014 yılının Ocak ayında 3.2 milyar dolara satın alınan Nest ile evinizin veya ofisinin sıcaklığını dışarıdan kontrol edebiliyorsunuz. Ayrıca Nest’te duman dedektörü de bulunuyor ve herhangi bir acil durumda sizi uygulama üzerinden haberdar ediyor.![](https://intersiber.com/wp-content/uploads/2018/03/google-home-1200x800.jpg)**Peki bu nesneler(cihazlar) “akıllı” mıdır?**
+Nesnelerin interneti kavramına bir örnek vermemiz gerekirse, Google tarafından 2014 yılının Ocak ayında 3.2 milyar dolara satın alınan Nest ile evinizin veya ofisinin sıcaklığını dışarıdan kontrol edebiliyorsunuz. Ayrıca Nest’te duman dedektörü de bulunuyor ve herhangi bir acil durumda sizi uygulama üzerinden haberdar ediyor.![](images/google-home-1200x800.jpg)**Peki bu nesneler(cihazlar) “akıllı” mıdır?**
 
 Bir cihaza “akıllı” diyebilmemiz için o cihazın bir yapay zekaya sahip olması ve bu yapay zeka sayesinde dışarıdan bir müdahale olmadan kendi kendine bazı işlemler yapıyor/yapabiliyor olması gerekir.
 

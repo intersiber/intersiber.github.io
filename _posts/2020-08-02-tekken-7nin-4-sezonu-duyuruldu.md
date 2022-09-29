@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9282'
 permalink: /tekken-7nin-4-sezonu-duyuruldu/
 post_views_count:
     - '34'
-image: /wp-content/uploads/2020/08/tekken-7nin-4-sezonu-duyuruldu.jpg
+image: images/tekken-7nin-4-sezonu-duyuruldu.jpg
 categories:
     - Oyun
 tags:

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6435'
 permalink: /super-mario-64un-pc-versiyonu-yayinlandi/
 post_views_count:
     - '67'
-image: /wp-content/uploads/2020/05/super-mario-64un-pc-versiyonu-yayinlandi-1.jpg
+image: images/super-mario-64un-pc-versiyonu-yayinlandi-1.jpg
 categories:
     - Oyun
 tags:

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8632'
 permalink: /ios-14un-androidden-esinlendigi-ozellikler-widget-destegi-bisiklet-yol-tarifi-ve-daha-fazlasi/
 post_views_count:
     - '98'
-image: /wp-content/uploads/2020/06/ios-14-un-android-den-esinlendigi-ozellikler-widget-destegi-bisiklet-yol-tarifi-ve-daha-fazlasi.png
+image: images/ios-14-un-android-den-esinlendigi-ozellikler-widget-destegi-bisiklet-yol-tarifi-ve-daha-fazlasi.png
 categories:
     - Apple
 tags:
@@ -34,6 +34,6 @@ iOS 14’le öne çıkan diğer bir özellik de, bisikletler için yol tarifi. A
 
 ## Özel çeviri uygulaması
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-translate-ozelligi.png)</figure>Apple’ın iOS 14’te tanıttığı diğer bir yenilik de özel çeviri uygulaması. **Apple** **Translate** adı ile sunulan uygulama, Google Translate’e bir alternatif olacak. Apple Translate’in şu anda 11 dil desteği sunacağı aktarılıyor.
+<figure class="wp-block-image size-large">![](images/apple-translate-ozelligi.png)</figure>Apple’ın iOS 14’te tanıttığı diğer bir yenilik de özel çeviri uygulaması. **Apple** **Translate** adı ile sunulan uygulama, Google Translate’e bir alternatif olacak. Apple Translate’in şu anda 11 dil desteği sunacağı aktarılıyor.
 
 Destek verilen diller içinde Türkçe yok.

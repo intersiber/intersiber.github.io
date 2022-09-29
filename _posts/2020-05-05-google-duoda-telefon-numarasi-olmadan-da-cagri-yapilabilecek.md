@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6426'
 permalink: /google-duoda-telefon-numarasi-olmadan-da-cagri-yapilabilecek/
 post_views_count:
     - '54'
-image: /wp-content/uploads/2020/05/google-duo-da-telefon-numarasi-olmadan-da-cagri-yapilabilecek.jpeg
+image: images/google-duo-da-telefon-numarasi-olmadan-da-cagri-yapilabilecek.jpeg
 categories:
     - Genel
     - Mobil
@@ -21,7 +21,7 @@ Arkadaşlarınız ya da ailenizle video görüşmesi yapmak için en pratik uygu
 
 ## Google Duo, e-mail ile kayıta izin verecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-duo-nedir.jpg)</figure>Tespit edilen değişikliğe göre Google Duo’da, telefon alternatifi olarak e-mail ile iletişime olanak tanınıyor. Duo’ya mail ile kayıt esnasında sunulan opsiyonel özellikler henüz net olmasa da, telefonla kayıt için bir alternatife sahip olmak birçok kullanıcı için güzel bir opsiyon. Google, web platformunda, Ocak ayında yaptığı düzenlemeyle mail ile kayıtta arama yapmaya izin veriyordu ancak mobil cihazlardaki bu uygulamada, akıllı telefonlarıda telefon ile kayıt seçeneği devam etmişti.
+<figure class="wp-block-image size-large">![](images/google-duo-nedir.jpg)</figure>Tespit edilen değişikliğe göre Google Duo’da, telefon alternatifi olarak e-mail ile iletişime olanak tanınıyor. Duo’ya mail ile kayıt esnasında sunulan opsiyonel özellikler henüz net olmasa da, telefonla kayıt için bir alternatife sahip olmak birçok kullanıcı için güzel bir opsiyon. Google, web platformunda, Ocak ayında yaptığı düzenlemeyle mail ile kayıtta arama yapmaya izin veriyordu ancak mobil cihazlardaki bu uygulamada, akıllı telefonlarıda telefon ile kayıt seçeneği devam etmişti.
 
 ## Koronavirüs salgınındaki artış Duo’yu da etkiledi
 

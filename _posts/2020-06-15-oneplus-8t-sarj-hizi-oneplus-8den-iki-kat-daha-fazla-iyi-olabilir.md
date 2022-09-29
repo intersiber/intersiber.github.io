@@ -10,7 +10,7 @@ spay_email:
     - ''
 post_views_count:
     - '73'
-image: /wp-content/uploads/2020/06/ONE-plus-8t-sarj-hizi-oneplus-8-den-iki-kat-daha-fazla-olabilir.png
+image: images/ONE-plus-8t-sarj-hizi-oneplus-8-den-iki-kat-daha-fazla-olabilir.png
 categories:
     - Mobil
 tags:
@@ -24,7 +24,7 @@ OnePlus’ın en yeni telefonları, **Android 11** beta sürümü için kullanı
 
 OnePlus’ın yeni telefonlarında, 2019 yılında çıkan birçok telefonun desteklediği 30W’a kadar hızlı şarj olabilme özelliği mevcut. Ortaya çıkan bilgiler, şarj cihazının aldığı sertifikasyonda da ortaya çıktığı gibi, 65W şarj destekleyebilir. Oneplus 8T modelinin de, **65W hızlı şarjı** desteklemesi bekleniyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/oneplus-hizli-sarj.jpeg)</figure>Oppo Find X2 Pro ve Realme X50 Pro gibi amiral gemisi modeller de 65W hızlı şarjı destekliyor. OnePlus da, bu telefonların tedarikçileriyle yakın bir işbirliğinde olan bir marka olarak, gelecek modellerde hızlı şarj konseptini sunabilir.
+<figure class="wp-block-image size-large">![](images/oneplus-hizli-sarj.jpeg)</figure>Oppo Find X2 Pro ve Realme X50 Pro gibi amiral gemisi modeller de 65W hızlı şarjı destekliyor. OnePlus da, bu telefonların tedarikçileriyle yakın bir işbirliğinde olan bir marka olarak, gelecek modellerde hızlı şarj konseptini sunabilir.
 
 Yüksek şarj hızı, ayrı ayrı şarj edilen çift hücreli bir pil teknolojisine dayanıyor, ancak uzun vadede pil sağlığını olumsuz etkileme riski var.
 

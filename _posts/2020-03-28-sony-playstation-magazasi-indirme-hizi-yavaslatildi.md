@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Sony-PlayStation.jpg
+image: images/Sony-PlayStation.jpg
 categories:
     - Oyun
 tags:
@@ -24,7 +24,7 @@ tags:
 
 Gooogle, Netflix ve ardından Sony sistemlerinde veri trafiğini azaltacak yeni adımlar attılar. ABD ve Avrupa’da bugünden itibaren Sony PlayStation mağazasından indirilecek olan her bir oyunun çok daha geç indirilebileceği, bunun sebebinin ise mevcut internet altyapısının son haftalarda daha fazla aktif kullanılıyor olması gösterildi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Sony-PlayStation-2.jpg)</figure>İnternet altyapısının çökmesini önlemek adına bu konuda karar verdiklerini ve Avrupa ile ABD’de internet trafiğini rahatlatmak istediklerini ifade eden Sony yöneticisi, bu durumun geçici olacağını açıkladı.
+<figure class="wp-block-image size-full">![](images/Sony-PlayStation-2.jpg)</figure>İnternet altyapısının çökmesini önlemek adına bu konuda karar verdiklerini ve Avrupa ile ABD’de internet trafiğini rahatlatmak istediklerini ifade eden Sony yöneticisi, bu durumun geçici olacağını açıkladı.
 
 ## Mecbur Kaldılar
 

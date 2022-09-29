@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/iPhone-12-2-1.jpg
+image: images/iPhone-12-2-1.jpg
 categories:
     - Mobil
 tags:
@@ -30,7 +30,7 @@ Apple’ın en yeni modeli olacak olan iPhone 12 ile ilgili söylentiler gelmeye
 
 Bazı kaynaklar gündemde tuttukları iPhone 12 iddiaları arasına, şimdilerde **4 arka kamera** beklentisini ekledi. Bazı kaynaklara göre ise 3 farklı model olarak satışa sunulması beklenen iPhone 12 serisinin sadece en üst modeli olan iPhone 12 Pro Max modelinde 4 kamera olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/iPhone-12-3.jpg)</figure>ABD ve tüm dünyada birçok Apple kullanıcısının beklediği yeni nesil iPhone 12 modellerinin bu sene sonuna kadar dünyanın birçok ülkesinde satışa sunulmuş olması bekleniyor.
+<figure class="wp-block-image size-large">![](images/iPhone-12-3.jpg)</figure>ABD ve tüm dünyada birçok Apple kullanıcısının beklediği yeni nesil iPhone 12 modellerinin bu sene sonuna kadar dünyanın birçok ülkesinde satışa sunulmuş olması bekleniyor.
 
 Çok sayıda kullanıcının yeni modellerden en büyük beklentisi **8K video** çekebilecek dörtlü arka kamera sistemi, 5G bağlantı desteği, ekran altından parmak izi okuyucu, Face ID’nin ekrandan parmak izi ile aynı zamanda kullanılabilmesi ve beraberinde cihazların daha iyi bir bekleme süresine sahip olması yönünde.
 

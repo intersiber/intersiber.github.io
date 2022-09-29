@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7732'
 permalink: /facebooktan-video-olusturma-uygulamasi-collab/
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/05/collab.jpg
+image: images/collab.jpg
 categories:
     - Genel
 tags:
@@ -20,7 +20,7 @@ tags:
 
 **Collab**‘da kullanıcılar, orijinal müzik videoları oluşturmak için içerik oluşturucularla ortak çalışabiliyor veya enstrümanlarını kaydedebiliyorlar. Ayrıca kullanıcılar videolarını başkalarının videolarıyla karıştırabiliyor ve eşleştirebiliyorlar. Ortak çalışmaların uzunluğu en fazla 15 saniye olabiliyor ve kullanıcılar ortak çalışma ortamı oluşturduktan sonra, başkalarının izlemesi, karıştırması ve eşleştirmesi için oluşturdukları videoyu yayınlayabiliyorlar.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/anyconvcom-facebook-collab-2_pf3c-1600x1032.jpg)</figure>Collab’ın **TikTok** ile yakın bir benzerliği var, ancak **Facebook** uygulamayı kullanıcıların kayıtlarını ekleyerek müzik düzenlemeleri oluşturup **orijinal** **müzik videoları** yapmaları için tasarlamış gibi görünüyor.
+<figure class="wp-block-image size-large">![](images/anyconvcom-facebook-collab-2_pf3c-1600x1032.jpg)</figure>Collab’ın **TikTok** ile yakın bir benzerliği var, ancak **Facebook** uygulamayı kullanıcıların kayıtlarını ekleyerek müzik düzenlemeleri oluşturup **orijinal** **müzik videoları** yapmaları için tasarlamış gibi görünüyor.
 
 Kullanıcılar bu kısa videoları yapmak için müzik konusunda profesyonel deneyime ihtiyaç duymayıp eğlence için video oluşturmak ve paylaşmak için bir enstrüman da çalabilirler. Ayrıca kullanıcılar kendilerinin veya başkalarının kreasyonlarını sadece birkaç dokunuşla **Instagram**, **Facebook Hikayeleri** veya başka bir platformda paylaşabiliyorlar.
 

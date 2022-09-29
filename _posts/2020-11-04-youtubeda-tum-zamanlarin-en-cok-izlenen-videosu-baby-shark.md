@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9508'
 permalink: /youtubeda-tum-zamanlarin-en-cok-izlenen-videosu-baby-shark/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/11/baby-shark-en-cok-izlenen-youtube-videosu-oldu.png
+image: images/baby-shark-en-cok-izlenen-youtube-videosu-oldu.png
 categories:
     - Genel
     - 'Sosyal Medya'

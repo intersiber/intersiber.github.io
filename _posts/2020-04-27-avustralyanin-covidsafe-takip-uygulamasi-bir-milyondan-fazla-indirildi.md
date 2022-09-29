@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6040'
 permalink: /avustralyanin-covidsafe-takip-uygulamasi-bir-milyondan-fazla-indirildi/
 post_views_count:
     - '12'
-image: /wp-content/uploads/2020/04/avustralya-nin-covidsafe-koronavirus-takip-uygulamasi-bir-milyondan-fazla-indirildi.png
+image: images/avustralya-nin-covidsafe-koronavirus-takip-uygulamasi-bir-milyondan-fazla-indirildi.png
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Koronavirüsle mücadele kapsamında birçok ülke, vatandaşlarını virüse ka
 
 Avustralya’nın uygulaması, Singapur merkezli **TraceTogether** yazılımını esas alan bir mantığa sahip. Bluetooth sistemini kullanan uygulama, depolanmış kişi verilerini analiz ediyor. Hükümet, uygulamanın konum verilerini toplamadığını ve virüs bulaşmış bir kişinin, bilgilerini paylaşmayı kabul etmesi gerektiğini söylüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/avustralya-nin-covidsafe-koronavirus-takip-uygulamasi-bir-milyondan-fazla-indirildi-1.png)</figure>Hükümet ayrıca, uygulamada depolanan verilere yalnızca sağlık yetkililerinin erişebileceğini ve diğer yetkililerin erişiminin yasal olarak mümkün olmadığını belirtiyor.
+<figure class="wp-block-image size-large">![](images/avustralya-nin-covidsafe-koronavirus-takip-uygulamasi-bir-milyondan-fazla-indirildi-1.png)</figure>Hükümet ayrıca, uygulamada depolanan verilere yalnızca sağlık yetkililerinin erişebileceğini ve diğer yetkililerin erişiminin yasal olarak mümkün olmadığını belirtiyor.
 
 ## Apple ve Google da harekete geçmişti
 

@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '54'
-image: /wp-content/uploads/2020/02/mwc-mobil-dunya-kongresi-2020-coronavirus-sebebiyle-iptal-edildi.jpeg
+image: images/mwc-mobil-dunya-kongresi-2020-coronavirus-sebebiyle-iptal-edildi.jpeg
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Barcelona’da 24 Şubat tarihinde başlayacak olan **Mobil Dünya Kongresi MWC2
 
 MWC20 normal şartlarda 24 Şubat tarihinde başlayacak ve Dünya’nın en büyük teknoloji üreticileri, şirketler ve teknoloji severleri bir araya getirecekti. Ancak Çin’de başlayan **coronavirus** salgını nedeniyle ardı ardına gelen katılım iptali haberleri hali hazırda MWC20’nin iptal edilebileceği söylentilerini beraberinde getirmişti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/mwc-mobil-dunya-kongresi-barcelona-coronavirus-iptal-edildi.jpg)</figure>Gelişmeler doğrultusunda, **GSMA** (GSM Birliği) ve Barcelona şehir yönetimi bir araya geldi. GSMA tarafından yapılan duyuruda, şehir yönetimi ile birlikte etkinliğin iptali konusunda fikir birliğine varıldığı ve etkinliğin resmi olarak iptal edildiği açıklandı. GSMA tarafından yapılan açıklamada MWC 2021’nin sabırsızlıkla beklendiği de ifade edildi.
+<figure class="wp-block-image size-large">![](images/mwc-mobil-dunya-kongresi-barcelona-coronavirus-iptal-edildi.jpg)</figure>Gelişmeler doğrultusunda, **GSMA** (GSM Birliği) ve Barcelona şehir yönetimi bir araya geldi. GSMA tarafından yapılan duyuruda, şehir yönetimi ile birlikte etkinliğin iptali konusunda fikir birliğine varıldığı ve etkinliğin resmi olarak iptal edildiği açıklandı. GSMA tarafından yapılan açıklamada MWC 2021’nin sabırsızlıkla beklendiği de ifade edildi.
 
 Her ne kadar Barcelona’da coronavirus vakasına rastlanılmamış olsa da, fuar katılımcılarının kayda değer bir kısmı Çin’den Barcelona’ya seyahat edecekti. Bu sebeple etkinliğin iptal edilmesi isabetli bir karar olmuş gibi görünüyor.
 

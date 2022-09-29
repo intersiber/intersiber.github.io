@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/huawei-fransadaki-5g-tesisi-icin-200-milyon-euro-harcayacak-scaled.jpg
+image: images/huawei-fransadaki-5g-tesisi-icin-200-milyon-euro-harcayacak-scaled.jpg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ Huawei Perşembe günü yaptığı açıklamada, arazi satın almak ve **Fransa�
 
 Çinli telekomünikasyon ekipman devi, tesisin büyük yoğunlukta iş sağlayacağını ve özellikle Avrupa pazarı için yılda 1 milyar euro değerinde ürün üreteceğini açıkladı. Huawei tarafından yapılan açıklamada aynı zamanda, **4G** ve **5G** ekipmanlarında uzmanlaşılacağı da belirtildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/huaweifransatesisi.jpg)</figure>Şirket, “Dünyanın en gelişmiş üretim merkezlerinden biri olarak Fransa, olgun endüstriyel altyapıya ve yüksek eğitimli bir iş havuzuna sahiptir ve coğrafi konumu **Huawei** için idealdir.” söylemlerinde bulundu.
+<figure class="wp-block-image size-large">![](images/huaweifransatesisi.jpg)</figure>Şirket, “Dünyanın en gelişmiş üretim merkezlerinden biri olarak Fransa, olgun endüstriyel altyapıya ve yüksek eğitimli bir iş havuzuna sahiptir ve coğrafi konumu **Huawei** için idealdir.” söylemlerinde bulundu.
 
 Tesisin, **Huawei’nin** Avrupa’daki entegre değer zincirine katkıda bulunması ve Avrupalı ​​müşterilere yaptığı teslimatların zamanında teslim edilmesiyle birlikte şirketin güvenilirliğini artırması bekleniyor.

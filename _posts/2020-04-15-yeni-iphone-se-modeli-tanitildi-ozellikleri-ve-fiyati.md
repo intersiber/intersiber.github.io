@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5519'
 permalink: /yeni-iphone-se-modeli-tanitildi-ozellikleri-ve-fiyati/
 post_views_count:
     - '61'
-image: /wp-content/uploads/2020/04/yeni-iphone-se-tanitildi-ozellikleri-ve-fiyati-ne-olacak.png
+image: images/yeni-iphone-se-tanitildi-ozellikleri-ve-fiyati-ne-olacak.png
 categories:
     - Apple
 tags:
@@ -24,7 +24,7 @@ Apple, bugün yenilenen uygun fiyatlı telefon modeli **iPhone SE**’yi tanıtt
 
 Yenilenen iPhone SE, 148 gram ağırlığında ve 7,3 mm kalınlığında. 4.7 inç IPS ekrana sahip iPhone SE, 1443 x 750 piksel çözünürlük sunuyor. Telefon, Apple’ın A13 Bionic işlemcisine sahip. Model, IP67 sertifikasına sahip ve toz ve suya karşı dayanıklı bir yapı sunuyor. Uygun fiyatlı segmentte olmasına rağmen **iPhone SE**, güçlü bir performans sunacak. Nitekim A13 işlemci, Apple’ın son modelleri olan iPhone 11 ve 11 Pro modellerinde de kullanılıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/yeni-iphone-se-tanitildi.png)<figcaption>Fotoğraf: Apple</figcaption></figure>## Touch ID teknolojisi geri döndü
+<figure class="wp-block-image size-large">![](images/yeni-iphone-se-tanitildi.png)<figcaption>Fotoğraf: Apple</figcaption></figure>## Touch ID teknolojisi geri döndü
 
 **Yeni iPhone SE**, ekranın alt kısmında yer alan home tuşunda Touch ID teknolojisini kullanıyor. Hafıza seçeneklerinde 64, 128 ve 256 GB’lık modeller içeren telefon, 12 megapiksellik tek arka kameraya sahip. iPhone SE ayrıca, kamerasında 5 kata kadar dijital zoom özelliği içeriyor. 7 MP olan ön kamera, portre modu sunuyor.
 

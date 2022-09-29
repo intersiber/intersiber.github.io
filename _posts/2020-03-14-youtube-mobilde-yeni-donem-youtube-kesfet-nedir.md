@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/youtube-yeni-donem.jpg
+image: images/youtube-yeni-donem.jpg
 categories:
     - Genel
 tags:
@@ -29,6 +29,6 @@ Bu karar ile beraber bundan sonra **YouTube** mobil kullanıcıları ekranın al
 
 Keşfet sekmesinin kademeli bir şekilde YouTube mobil kullanıcılarına sunulacağı açıklandı. Yeni ”keşfet” bölümü sayesinde her kategoriden milyonlarca video ve kanal daha ilgili ve daha kısa süre içerisinde görülebilecek.
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/03/YouTube.jpg?fit=640%2C410&ssl=1)</figure>Google’ın mobil sürümde kaldırdığı sekmenin yerini alacak olan ”keşfet” sekmesinin eskisine göre daha fazla beğenileceği kesin. Eğer YouTube mobil uygulamasını güncellediyseniz ve henüz yeni sekmeyi göremiyorsanız bir süre daha beklemeniz gerekebilir.
+<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.comimages/YouTube.jpg?fit=640%2C410&ssl=1)</figure>Google’ın mobil sürümde kaldırdığı sekmenin yerini alacak olan ”keşfet” sekmesinin eskisine göre daha fazla beğenileceği kesin. Eğer YouTube mobil uygulamasını güncellediyseniz ve henüz yeni sekmeyi göremiyorsanız bir süre daha beklemeniz gerekebilir.
 
 \*Güncelleme sunucu tarafından cihazlara otomatik olarak dağıtılmaktadır. Cihazlarınızda son sürüm YouTube güncellemesi yüklü ve yeni ”keşfet” sekmesini göremiyorsanız bir süre beklemeniz önerilir.

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/applekadınlargünü.jpg
+image: images/apple-kadinlar-gunu.jpg
 categories:
     - Video
 tags:

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/samsung-galaxy-a11.png
+image: images/samsung-galaxy-a11.png
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ tags:
 
 Bugüne kadar onlarca alt-orta model akıllı cep telefonu tanıtan, aynı seriden farklı birkaç modeli satışa sunan Samsung, şimdi ise A10 modeline benzeyen ve biraz geliştirilmiş devam versiyonu olan Samsung Galaxy A11 modelini tanıttı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/samsung-galaxy-a11-ozellikleri-fiyati.png)</figure>## Samsung Galaxy A11 Fiyatı ve Özellikleri
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-a11-ozellikleri-fiyati.png)</figure>## Samsung Galaxy A11 Fiyatı ve Özellikleri
 
 Cihazın Türkiye’de ne kadar fiyatla ve ne zaman satışa sunulacak olduğu ile ilgili bilgi paylaşılmazken, kısa süre içerisinde cihazın özellikle alt gelir düzeyine sahip ülkelerde çok fazla alıcı bulacağı düşünülüyor.
 

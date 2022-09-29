@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=853'
 permalink: /zomato-nun-17-milyon-kullanici-bilgisi-calindi/
 post_views_count:
     - '1209'
-image: /wp-content/uploads/2017/05/zomato.jpg
+image: images/zomato.jpg
 categories:
     - Genel
     - Güvenlik
@@ -32,13 +32,13 @@ Zomato, bugün yayınlanan blog yazısında 120 milyon kullanıcı hesabının y
 
 Zomato veritabanından çalınan hesap bilgileri, kullanıcıların e-posta adreslerini ve şifrelenmiş parolalarını içeriyor.
 
-![](https://www.intersiber.com/wp-content/uploads/2017/05/zomato-hacked-blog-announcement.png)
+![](https://www.intersiber.comimages/zomato-hacked-blog-announcement.png)
 
 Zomato, veritabanındaki kullanıcı parolalarının şifrelendiğini, dolayısıyla decrypt edilemeyeceğini, bu sebeple kullanıcıların endişelenmemesi gerektiğini ifade etti. Zomato yayınladığı ilk blog içeriğindeki açıklamalarıyla, tehdidi pek önemesemiyor veya şifrelenmiş parolaların yüksek oranda başarıyla kısa zamanda çözülebileceğini bilmiyor gibi görünüyordu. Fakat Zomato’nun güncellediği blog içeriğinde, “*We hash passwords with a one-way hashing algorithm, with multiple hashing iterations and individual salt per password. This means your password cannot be easily converted back to plain text.*” açıklamasıyla parolaların yeterince güvenli şekilde şifrelendiğini ve çözülemez olduğunu açıkladı.
 
 Zomato’nun yaptığı açıklamanın diğer bir ayrıntısı ise; müşteri ödeme ve kredi kartı bilgilerinin yüksek güvenlik standartlarında saklandığı ve müşteri ödeme / kredi kartı bilgilerinin sızdırılmadığı/çalınmadığı oldu.
 
-![](https://www.intersiber.com/wp-content/uploads/2017/05/zomato-leaked-database-darkweb.png)
+![](https://www.intersiber.comimages/zomato-leaked-database-darkweb.png)
 
 HackRead’e göre, 17 Milyon Zomato kullanıcısının bilgilerini içeren veritabanı Dark Web pazaryerinde satışa sunuldu.
 

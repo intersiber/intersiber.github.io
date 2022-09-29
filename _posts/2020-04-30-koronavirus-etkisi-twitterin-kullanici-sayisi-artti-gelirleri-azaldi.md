@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6242'
 permalink: /koronavirus-etkisi-twitterin-kullanici-sayisi-artti-gelirleri-azaldi/
 post_views_count:
     - '10'
-image: /wp-content/uploads/2020/04/koronavirus-etkisi-twitter-in-kullanici-sayisi-artti-gelirleri-azaldi-scaled.jpg
+image: images/koronavirus-etkisi-twitter-in-kullanici-sayisi-artti-gelirleri-azaldi-scaled.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -22,7 +22,7 @@ Twitter’ın kullanıcı sayısı, geçtiğimiz yılın aynı çeyreğinde orta
 
 ## Büyüme, gelirlerdeki azalmayı dengeleyemedi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/twitter-kullanici-sayisi-ne-kadar-1600x1067.jpg)</figure>Popüler sosyal medya platformu, her ne kadar ciddi bir kullanıcı artışıyla gündeme gelse de, reklam gelirlerinde düşüş söz konusu. CEO Jack Dorsey ve hassas bir mali dengeyle ilerleyen şirketin yatırımcıları, ortaya çıkan bu tabloda oldukça tedirgin. Twitter’ın reklam gelirlerinde düşüş, Mart ayında başladı. Şirketin CFO’su Ned Segal, yatırımcılara sunduğu raporda 11-31 Mart arasında reklam gelirlerinin, yıllık bazda yüzde 27 düştüğünü ifade etti. Bu durum, yılın ikinci çeyreğine dair olumsuz beklentilerin oluşmasına neden oldu.
+<figure class="wp-block-image size-large">![](images/twitter-kullanici-sayisi-ne-kadar-1600x1067.jpg)</figure>Popüler sosyal medya platformu, her ne kadar ciddi bir kullanıcı artışıyla gündeme gelse de, reklam gelirlerinde düşüş söz konusu. CEO Jack Dorsey ve hassas bir mali dengeyle ilerleyen şirketin yatırımcıları, ortaya çıkan bu tabloda oldukça tedirgin. Twitter’ın reklam gelirlerinde düşüş, Mart ayında başladı. Şirketin CFO’su Ned Segal, yatırımcılara sunduğu raporda 11-31 Mart arasında reklam gelirlerinin, yıllık bazda yüzde 27 düştüğünü ifade etti. Bu durum, yılın ikinci çeyreğine dair olumsuz beklentilerin oluşmasına neden oldu.
 
 ## Twitter’ın sonraki hamlesi ne olacak?
 

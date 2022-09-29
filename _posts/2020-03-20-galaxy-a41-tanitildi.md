@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Galaxy-A41-2.jpg
+image: images/Galaxy-A41-2.jpg
 categories:
     - Mobil
 tags:
@@ -25,7 +25,7 @@ tags:
 
 **Samsung** her geçen ay Galaxy A serisini güçlendiriyor. Yeni tanıttığı **Galaxy A41** modeli ile orta seviye cihaz arayan kullanıcıların dikkatini üzerine çeken Güney Koreli şirket, Galaxy A51’e benzeyen Galaxy A41 modelinde kullanıcılara oldukça iyi özellikler sunacak.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Galaxy-A41.jpg)</figure>- **Ekran Özellikleri:** 6,1 inç Full HD+ Super AMOLED
+<figure class="wp-block-image size-full">![](images/Galaxy-A41.jpg)</figure>- **Ekran Özellikleri:** 6,1 inç Full HD+ Super AMOLED
 - **İşlemci:** Sekiz çekirdekli işlemci
 - **RAM:** 4 GB
 - **Depolama:** 64 GB İşletim sistemi Android 10

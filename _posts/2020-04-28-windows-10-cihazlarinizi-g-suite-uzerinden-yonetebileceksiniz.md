@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6118'
 permalink: /windows-10-cihazlarinizi-g-suite-uzerinden-yonetebileceksiniz/
 post_views_count:
     - '21'
-image: /wp-content/uploads/2020/04/windows-10-cihazlarinizi-g-suite-uzerinden-yonetebileceksiniz.jpeg
+image: images/windows-10-cihazlarinizi-g-suite-uzerinden-yonetebileceksiniz.jpeg
 categories:
     - Windows
 tags:
@@ -26,7 +26,7 @@ Yöneticiler, bu giriş işlemlerinin yanı sıra şifreleme gibi güvenlik işl
 
 Google, paylaştığı bir blog [gönderisinde](https://support.google.com/a/topic/9441473) bugünden itibaren bu özelliklerin artık **Windows 10** için de geçerli olacağını ifade etti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/g-suite-nedir.jpg)</figure>Bu özelliği kullanabilmek için bir Google hesabı üzerinden Windows 10’a giriş yapmak gerekiyor. Sonrasındaysa BitLocker şifrelemesini etkinleştirmek, sistemin ayarlarını uzaktan değiştirmek, kurumsal verileri silmek, bir ya da birden fazla Windows 10 cihazda Google hesaplarından çıkış yapmak mümkün olacak.
+<figure class="wp-block-image size-large">![](images/g-suite-nedir.jpg)</figure>Bu özelliği kullanabilmek için bir Google hesabı üzerinden Windows 10’a giriş yapmak gerekiyor. Sonrasındaysa BitLocker şifrelemesini etkinleştirmek, sistemin ayarlarını uzaktan değiştirmek, kurumsal verileri silmek, bir ya da birden fazla Windows 10 cihazda Google hesaplarından çıkış yapmak mümkün olacak.
 
 Google, uzun bir süredir G Suite üzerinden Windows 10 cihazları desteklemek için çalışma yapıyordu. Program, bu yılın başında ivme kazanmıştı.
 

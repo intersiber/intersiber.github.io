@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/amazon.png
+image: images/amazon.png
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Marketplace Pulse’nin kurucusu Juozas Kaziukenas, **Amazon**‘un **ABD**‘de
 
 Bir süredir devam eden **corona virüsü** salgını nedeniyle tüm dünyada internetten alışveriş patlama [yaşadı](https://intersiber.com/turkiyede-e-ticaret-satislari-artti/). Kargo şirketlerinin bir bölümü teslimatları durdururken, bir bölümü ise tam kapasite ile çalışmaya başladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/amazon-1.jpg)</figure>ABD’de yaşanan durum ise Amazon’un Flex adını verdiği teslimat sisteminin yeterli olmadığı, bazı çalışanların corona virüsü endişesiyle işe gitmiyor olması gibi gerekçelerden dolayı bir süre teslimatların gecikebilecek olduğu ifade ediliyor.
+<figure class="wp-block-image size-large">![](images/amazon-1.jpg)</figure>ABD’de yaşanan durum ise Amazon’un Flex adını verdiği teslimat sisteminin yeterli olmadığı, bazı çalışanların corona virüsü endişesiyle işe gitmiyor olması gibi gerekçelerden dolayı bir süre teslimatların gecikebilecek olduğu ifade ediliyor.
 
 ## Farklı Sitelere Yönelecekler
 

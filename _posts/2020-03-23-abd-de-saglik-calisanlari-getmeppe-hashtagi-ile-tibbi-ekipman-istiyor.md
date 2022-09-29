@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/covid19ekipman-2.jpg
+image: images/covid19ekipman-2.jpg
 categories:
     - Genel
 tags:
@@ -33,7 +33,7 @@ Twitter’da “iki küçük çocuğumuzu yetim bırakma” diye bir paylaşım 
 
 Griggs, hashtag’i kullanan ve koronavirüs pandemisi sırasında hastanelere koruyucu giysiler sağlamaya yardımcı olmak için devlet kurumları ve halk için sosyal medyaya yönelen yüzlerce sağlık çalışanından yalnızca biri.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/covid19ekipman-3.jpg)</figure>Dünya çapında ve ülkemizde hızlı bir şekilde yayılan koronavirüs salgını sebebiyle ABD’de binlerce tanı konulmuş durumda. Hastaneler bir yandan, **COVID-19** ile enfekte olan hastalara bakmak için uğraşırken, bir yandan da kendilerini güvende tutan ekipman konusunda eksikler yaşıyor.
+<figure class="wp-block-image size-large">![](images/covid19ekipman-3.jpg)</figure>Dünya çapında ve ülkemizde hızlı bir şekilde yayılan koronavirüs salgını sebebiyle ABD’de binlerce tanı konulmuş durumda. Hastaneler bir yandan, **COVID-19** ile enfekte olan hastalara bakmak için uğraşırken, bir yandan da kendilerini güvende tutan ekipman konusunda eksikler yaşıyor.
 
 ABD’nin New York ve Los Angeles şehirleri dahil olmak üzere ülke çapındaki sağlık çalışanları, N95 solunum maskelerini bir torbada tutarak daha sonra tekrar kullanmak zorunda kaldıklarını bildirdi.
 

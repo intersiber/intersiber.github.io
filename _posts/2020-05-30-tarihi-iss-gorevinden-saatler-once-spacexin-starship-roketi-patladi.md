@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7810'
 permalink: /tarihi-iss-gorevinden-saatler-once-spacexin-starship-roketi-patladi/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/05/tarihi-iss-gorevinden-saatler-once-spacex-in-starship-roketi-patladi.png
+image: images/tarihi-iss-gorevinden-saatler-once-spacex-in-starship-roketi-patladi.png
 categories:
     - Uzay
 tags:
@@ -29,4 +29,4 @@ Starship’in başarısızlığının, bugün 2. denemesi gerçekleşecek görev
 
 ## Patlayan roket, Ay ve Mars gibi hedefler için geliştiriliyordu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-starship-roketi-patladi.jpeg)</figure>Bugün patlayan roket prototipi, **Ay** ve **Mars** gibi uzak hedeflere, SpaceX’in gelecekte göndermeyi planladığı uzay aracı için kullanılacak. Şirket, Teksas eyaletindeki Boca Chica şehrindeki çalışma alanında, Starship prototiplerini test etmeyi sürdürüyor. Patlamanın ardından test alanında birçok araç da zarar gördü. Patlamada yaralı olup olmadığı bilinmemekle birlikte, SpaceX konuyla ilgili açıklama yapmadı.
+<figure class="wp-block-image size-large">![](images/tesla-starship-roketi-patladi.jpeg)</figure>Bugün patlayan roket prototipi, **Ay** ve **Mars** gibi uzak hedeflere, SpaceX’in gelecekte göndermeyi planladığı uzay aracı için kullanılacak. Şirket, Teksas eyaletindeki Boca Chica şehrindeki çalışma alanında, Starship prototiplerini test etmeyi sürdürüyor. Patlamanın ardından test alanında birçok araç da zarar gördü. Patlamada yaralı olup olmadığı bilinmemekle birlikte, SpaceX konuyla ilgili açıklama yapmadı.

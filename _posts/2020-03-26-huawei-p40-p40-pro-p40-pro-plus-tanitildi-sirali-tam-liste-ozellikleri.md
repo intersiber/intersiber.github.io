@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/huawei-p40-pro-ozellikleri-scaled.jpg
+image: images/huawei-p40-pro-ozellikleri-scaled.jpg
 categories:
     - Mobil
 tags:
@@ -30,7 +30,7 @@ Arka tasarımı açısından Samsung’un Galaxy S20 modellerine birebir benzeti
 
 ## Huawei P40 Özellikleri Ve Fiyatı
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/Huawei-P40-2-3.jpg)</figure>- **Ekran:** 6,58 inç 1080 x 2340 piksel, 19.5:9 en-boy oranı, 90/Hz yenileme hızı
+<figure class="wp-block-image size-full">![](images/Huawei-P40-2-3.jpg)</figure>- **Ekran:** 6,58 inç 1080 x 2340 piksel, 19.5:9 en-boy oranı, 90/Hz yenileme hızı
 - **İşlemci:** Huawei HiSilicon Kirin 990
 - **RAM:** 8 GB RAM
 - **Depolama:** 128 GB dahili depolamaya ek 256 microSD kart desteği
@@ -47,7 +47,7 @@ Arka tasarımı açısından Samsung’un Galaxy S20 modellerine birebir benzeti
 
 ## Huawei P40 Pro Plus Özellikleri Ve Fiyatı
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/huawei-p40-4.jpeg)</figure>- **Ekran:** 6,7 inç 1440 x 3160 piksel, 19.5:9 en boy oranı, 120 Hz yenilme hızı
+<figure class="wp-block-image size-full">![](images/huawei-p40-4.jpeg)</figure>- **Ekran:** 6,7 inç 1440 x 3160 piksel, 19.5:9 en boy oranı, 120 Hz yenilme hızı
 - **İşlemci:** Huawei HiSilicon Kirin 990
 - **RAM:** 12 GB RAM
 - **Depolama:** 512 GB dahili UFS 3.0, 256 microSD kart desteği
@@ -60,7 +60,7 @@ Arka tasarımı açısından Samsung’un Galaxy S20 modellerine birebir benzeti
 
 ## Huawei P40 Pro Fiyat Ve Özellikleri
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/huawei-p40-5.jpg)</figure>- **Ekran:** 6,58 inç 1200 x 2640 piksel, 19.5:9 en boy oranı, 90 Hz yenilme hızı
+<figure class="wp-block-image size-full">![](images/huawei-p40-5.jpg)</figure>- **Ekran:** 6,58 inç 1200 x 2640 piksel, 19.5:9 en boy oranı, 90 Hz yenilme hızı
 - **İşlemci:** Huawei HiSilicon Kirin 990
 - **RAM:** 8 GB RAM
 - **Depolama:** 128 GB – 256 GB dahili, 256 microSD kart desteği

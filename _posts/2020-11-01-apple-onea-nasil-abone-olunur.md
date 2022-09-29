@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9467'
 permalink: /apple-onea-nasil-abone-olunur/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/11/apple-one-a-nasil-abone-olunur.jpg
+image: images/apple-one-a-nasil-abone-olunur.jpg
 categories:
     - Apple
 tags:
@@ -25,7 +25,7 @@ tags:
 
 ## Apple One neler içeriyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-one-nedir-fiyati-ne-kadar.jpg)</figure>**Apple** **One** **abonelik** modeli, Apple’ın tüm servislerine tek bir abonelik çatısı altında erişilebilen, yeni bir özellik. Apple Music, Apple TV+, Apple Arcade’in yanı sıra, iCloud, Apple News+ ve çok yakında Fitness+ da, Apple One içinde yer alacak.
+<figure class="wp-block-image size-large">![](images/apple-one-nedir-fiyati-ne-kadar.jpg)</figure>**Apple** **One** **abonelik** modeli, Apple’ın tüm servislerine tek bir abonelik çatısı altında erişilebilen, yeni bir özellik. Apple Music, Apple TV+, Apple Arcade’in yanı sıra, iCloud, Apple News+ ve çok yakında Fitness+ da, Apple One içinde yer alacak.
 
 ## Apple One abonelik ücretleri
 
@@ -35,7 +35,7 @@ Apple, abonelik modelinde üç farklı hesap seçeneği sunuyor. Bireysel hesap,
 - **Aile** **paketi**: 19,95 Dolar/ay. 166 TL aylık abonelik ücreti sunan aile paketi, Apple Music, Apple TV+, Apple Arcade üyeliklerine ek olarak, 200 GB iCloud saklama alanı sunuyor.
 - **Premier** **paket**: 29,95 Dolar/ay. 250 TL aylık abonelik ücreti sunan premier paket, Apple Music, Apple TV+, Apple Arcade, Apple News+ ve Apple Fitness+ (bu yılın sonlarında piyasaya çıkacak) üyeliklerini içerecek. Sadece premier üyelik modeli News+ ve Fitness+ içeriyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-one-abonelik-planlari.png)</figure>## Apple One ücretsiz deneme sürümü nasıl kullanılır?
+<figure class="wp-block-image size-large">![](images/apple-one-abonelik-planlari.png)</figure>## Apple One ücretsiz deneme sürümü nasıl kullanılır?
 
 Apple’ın abonelik modelleri sizi heyecanlandırdıysa, Apple One’ı ücretsiz deneme sürümü ile kullanmaya başlayabilirsiniz. Bunun için aşağıdaki adımları takip edin:
 
@@ -46,7 +46,7 @@ Apple’ın abonelik modelleri sizi heyecanlandırdıysa, Apple One’ı ücrets
 
 Sonraki aşamada üç farklı abonelik modeli gösterilecektir. Her biri, bir aylık ücretsiz deneme ile birlikte gelir. Ancak Apple, mevcut aboneliklerin deneme için uygun olmadığı uyarısını verebilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-one-nasil-abone-olunur.png)</figure>Paketin, **abonelik** **ücretine** değmediğini düşünürseniz, **Apple** **One’ı** istediğiniz zaman ayarlarınızdaki abonelikler alanından iptal edebilirsiniz. Apple Card sahipleri, Apple One’a kayıtta kartlarını kullandıklarında yüzde 3 nakit geri ödeme alacaklar.
+<figure class="wp-block-image size-large">![](images/apple-one-nasil-abone-olunur.png)</figure>Paketin, **abonelik** **ücretine** değmediğini düşünürseniz, **Apple** **One’ı** istediğiniz zaman ayarlarınızdaki abonelikler alanından iptal edebilirsiniz. Apple Card sahipleri, Apple One’a kayıtta kartlarını kullandıklarında yüzde 3 nakit geri ödeme alacaklar.
 
 ## 100’den fazla ülkede sunulacak
 

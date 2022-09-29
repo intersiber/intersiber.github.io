@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5712'
 permalink: /avustralya-facebook-ve-googledan-haber-icerikleri-icin-odeme-yapmasini-talep-etti/
 post_views_count:
     - '33'
-image: /wp-content/uploads/2020/04/avustralya-hukumeti-facebook-ve-google-in-haber-sitelerine-odeme-yapmasini-istedi.jpg
+image: images/avustralya-hukumeti-facebook-ve-google-in-haber-sitelerine-odeme-yapmasini-istedi.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ ACCC, Avustralya’da 2019 yılında, dijital platformların medya ekosisteminde
 
 ## Yeni yasa Facebook ve Google dışında, Instagram ve Twitter’ı da kapsayacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/google-ve-facebook-haber-sitelerine-para-odeyebilir.jpg)</figure>Müzakereler başarısız sonuçlanmış ve ACCC, hükümete anlaşma olasılığının olmadığını söylemişti.
+<figure class="wp-block-image size-large">![](images/google-ve-facebook-haber-sitelerine-para-odeyebilir.jpg)</figure>Müzakereler başarısız sonuçlanmış ve ACCC, hükümete anlaşma olasılığının olmadığını söylemişti.
 
 Koronavirüs salgınının ardından birçok sektör gibi etkilenen **haber** sektörü ise, **reklam gelirleri**nin azaldığı bu dönemde yeniden masada. Hükümet, bu defa düzenlemenin gönüllü değil, zorunlu olmasını talep etti ve Temmuz sonuna kadar sürecin sonlanacağını duyurdu.
 

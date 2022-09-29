@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/android-ios-akilli-telefon-alirken-nelere-dikkat-edilmeli.jpg
+image: images/android-ios-akilli-telefon-alirken-nelere-dikkat-edilmeli.jpg
 categories:
     - Mobil
 tags:
@@ -28,7 +28,7 @@ Bir akıllı cep telefonu alacaksınız, ancak hangi markayı ve modelini alaca�
 
 Bugün bir gün içerisinde milyonlarca cep telefonu satışı yapılıyor. Dünyanın her yerinden insanlar yeni cep telefonları satın alıyor, ellerindeki cep telefonlarını bir üst modelleri ile değiştiriyor. Akıllı cep telefonu alırken nelere dikkat etmesi gerektiğini bilmeden cep telefonu satın alan kullanıcılar genelde sonradan pişman olurken, kısa süre içerisinde yeniden cep telefonu değiştirmek zorunda kalabiliyorlar.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/android-ios-akilli-telefon-alirken-nelere-dikkat-edilmeli-2.png)</figure>## Bütçe ve Beklentiler Önemli
+<figure class="wp-block-image size-full">![](images/android-ios-akilli-telefon-alirken-nelere-dikkat-edilmeli-2.png)</figure>## Bütçe ve Beklentiler Önemli
 
 Öncelikle bütçenizi belirlemek gerekiyor. Eğer belirli bir bütçeniz yoksa bu durumda daha kararsız kalabilirsiniz. 5.000 TL bütçe ile 13.000 TL’lik cep telefonlarına bakmak mantıklı bir hareket olmayacaktır.
 

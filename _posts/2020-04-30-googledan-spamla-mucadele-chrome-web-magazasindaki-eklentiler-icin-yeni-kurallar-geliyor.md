@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6246'
 permalink: /googledan-spamla-mucadele-chrome-web-magazasindaki-eklentiler-icin-yeni-kurallar-geliyor/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/04/google-dan-spamla-mucadele-chrome-web-magazasinda-eklentiler-icin-yeni-kurallar-geliyor.jpeg
+image: images/google-dan-spamla-mucadele-chrome-web-magazasinda-eklentiler-icin-yeni-kurallar-geliyor.jpeg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ tags:
 
 On binlerce uzantının yer aldığı **Google Chrome** Web Mağazası’nda denetimi arttırmak için Google yeni birkaç kural getirmeye karar verdi. Google’ın Chrome uzantısı geliştiricilere getirdiği yeni düzenlemeler, 200 binin üzerindeki uzantılarda, 27 Ağustos’a kadar değişiklik yapma süresi içeriyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/google-chrome-eklenti-magazasi.png)</figure>## Chrome uzantılarında hangi özelliklere izin verilmeyecek?
+<figure class="wp-block-image size-large">![](images/google-chrome-eklenti-magazasi.png)</figure>## Chrome uzantılarında hangi özelliklere izin verilmeyecek?
 
 - Geliştiriciler, aynı fonksiyona sahip birden fazla uzantı yayınlayamayacak
 - Uzantılarda yanıltıcı açıklamalar, geliştirici adlar, başlıklar, simgeler, ekran görüntüleri ve tanıtım içerikleri olamayacak

@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '30'
-image: /wp-content/uploads/2020/02/google-pixel-5.png
+image: images/google-pixel-5.png
 categories:
     - Mobil
 tags:
@@ -26,7 +26,7 @@ Google’ın akıllı telefon pazarında adından sıkça söz ettirmeyi başard
 
 Gelen bilgilere göre, Google’ın yeni akıllı telefon modellerinin ismi beklendiği gibi **Pixel 5** ve **Pixel 5 XL** olarak adlandırılacak. **Qualcomm Snapdragon 865** yonga setinden güç alacak cihazlar şimdiden heyecan uyandırmayı başardı. Zira Pixel 5’in sızan yeni görüntüleri daha önce [paylaşılan](https://intersiber.com/google-pixel-5-e-ait-ilk-goruntu-sizdi/) render görüntüleriyle örtüşüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/pixel-5-serisine-ait-yeni-bir-goruntu-sizdi.png)</figure>## Üçlü arka kamera sistemi
+<figure class="wp-block-image size-large">![](images/pixel-5-serisine-ait-yeni-bir-goruntu-sizdi.png)</figure>## Üçlü arka kamera sistemi
 
 Paylaşılan görüntüye göre, Pixel 5 serisi alışılmışın dışında bir kamera tasarımına sahip. Telefonun orta kısmında yer alan kamera bölümünde, yaklaşık 120 derecelik açılarla konumlandırılmış **üç adet kamera** bulunuyor. Kameraların merkezinde ise bir flaş yer alıyor.
 

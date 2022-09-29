@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/emui-10.jpg
+image: images/emui-10.jpg
 categories:
     - Mobil
 tags:
@@ -26,7 +26,7 @@ Huawei, kendi işletim sistemi üzerinde çalışmalarına devam ederken, teknol
 
 EMUI 10.1 güncellemesi alacak Huawei model akıllı telefonlar arasında en üst modeller ve orta seviye modeller yer alırken, birçok kullanıcı ise yeni güncellemenin ne zaman verileceğini merak ediyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/emui-10-1600x550.png)</figure>## EMUI 10.1 güncellemesi alacak telefonlar:
+<figure class="wp-block-image size-large">![](images/emui-10-1600x550.png)</figure>## EMUI 10.1 güncellemesi alacak telefonlar:
 
 Huawei Mate 30 Pro  
 Huawei Mate 30 Pro 5G  

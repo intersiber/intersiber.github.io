@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=677'
 permalink: /mitsubishi-outlander-hybrid-hacklendi/
 post_views_count:
     - '678'
-image: /wp-content/uploads/2016/06/mitsubishi-outlander-2015-2.jpg
+image: images/mitsubishi-outlander-2015-2.jpg
 categories:
     - Analiz
     - 'Ne Nasıl?'

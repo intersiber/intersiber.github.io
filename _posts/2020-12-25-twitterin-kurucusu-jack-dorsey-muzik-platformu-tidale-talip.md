@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10157'
 permalink: /twitterin-kurucusu-jack-dorsey-muzik-platformu-tidale-talip/
 post_views_count:
     - '16'
-image: /wp-content/uploads/2020/12/twitter-kurucusu-jack-dorsey-muzik-platformu-tidal-e-talip.jpg
+image: images/twitter-kurucusu-jack-dorsey-muzik-platformu-tidal-e-talip.jpg
 categories:
     - Girişim
 tags:
@@ -33,7 +33,7 @@ Tidal ya da Square tarafından resmi bir açıklama gelmezken, Tidal’in ortakl
 
 ## Tidal Jay-Z, Alicia Keys, Madonna gibi isimlerce destekleniyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/tidal-nedir.png)</figure>Spotify’ın doğrudan rakibi olsa da, ses kalitesi ile diğer tüm akış servislerinden ayrılan Tidal, Jay-Z ve Beyonce başta olmak üzere Alicia Keys, Madonna ve Nicki Minaj tarafından destekleniyor.
+<figure class="wp-block-image size-large">![](images/tidal-nedir.png)</figure>Spotify’ın doğrudan rakibi olsa da, ses kalitesi ile diğer tüm akış servislerinden ayrılan Tidal, Jay-Z ve Beyonce başta olmak üzere Alicia Keys, Madonna ve Nicki Minaj tarafından destekleniyor.
 
 Tidal’in Square’e satışı konusunda bir anlaşma sağlanacak mı, ilerleyen günlerde göreceğiz.
 

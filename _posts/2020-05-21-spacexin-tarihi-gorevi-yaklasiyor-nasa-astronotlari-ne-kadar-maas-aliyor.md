@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7317'
 permalink: /spacexin-tarihi-gorevi-yaklasiyor-nasa-astronotlari-ne-kadar-maas-aliyor/
 post_views_count:
     - '123'
-image: /wp-content/uploads/2020/05/spacex-in-tarihi-gorevi-yaklasiyor-nasa-astronotlari-ne-kadar-maas-aliyor.png
+image: images/spacex-in-tarihi-gorevi-yaklasiyor-nasa-astronotlari-ne-kadar-maas-aliyor.png
 categories:
     - Uzay
 tags:
@@ -23,7 +23,7 @@ tags:
 
 SpaceX kapsülü ile ISS’ye gidecek Bob Behnken ve Doug Hurley, tecrübeli astronotlar. ABD’de astronot programına katılmak için mühendislik, bilim ya da matematik alanlarına akredite bir üniversite diplomasının yanı sıra, bin saat pilotaj deneyiminin olması gerekiyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/spacex-crew-dragon-gorevi.jpg)</figure>**Harvard** **Üniversitesi’ne** girmekten 74 kat daha zor olan bir seçim sürecinden geçen astronotlar, her iki yılda bir alınıyor. NASA, 2017 yılında 18 bin başvuruda yalnızca 12 kişiyi programa kabul etmişti.
+<figure class="wp-block-image size-large">![](images/spacex-crew-dragon-gorevi.jpg)</figure>**Harvard** **Üniversitesi’ne** girmekten 74 kat daha zor olan bir seçim sürecinden geçen astronotlar, her iki yılda bir alınıyor. NASA, 2017 yılında 18 bin başvuruda yalnızca 12 kişiyi programa kabul etmişti.
 
 ## ABD astronotlara ne kadar maaş ödüyor?
 

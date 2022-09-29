@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/ios-14-1.jpg
+image: images/ios-14-1.jpg
 categories:
     - Mobil
 tags:
@@ -29,7 +29,7 @@ Apple iOS 14 işletim sistemi ile ana ekran değişebilir. Sızdırılan ekran g
 
 İnternete sızdırılan iOS 14 görüntülerinde cihazlarda yer alan **ana menü** tasarımının bundan sonra yalnızca alışılmış uygulama görünümüne ek olarak yukarıdan aşağıya ve her bir satırda tek bir uygulamanın listeleneceği bir seçenekle **listeleme özelliği** gelecek. Her bir bildirim için listeli görünümde ikonların yine bildirimleri göstermeye devam edeceği görülüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/ios-14-2-1.jpg)</figure>Apple tarafından bugüne kadar herhangi bir iOS 14 açıklaması veya tanıtımı yapılmazken, şirketin yaz aylarına kadar yeni iOS 14 işletim sistemini tanıtabileceği tahmin ediliyor.
+<figure class="wp-block-image size-large">![](images/ios-14-2-1.jpg)</figure>Apple tarafından bugüne kadar herhangi bir iOS 14 açıklaması veya tanıtımı yapılmazken, şirketin yaz aylarına kadar yeni iOS 14 işletim sistemini tanıtabileceği tahmin ediliyor.
 
 Birbiri ardına gelen etkinlik iptal haberlerinin ardından Apple’ın da tanıtım etkinliklerini iptal edebileceği yönünde haberler geliyor. Ancak Apple tarafından henüz tanıtım etkinlikleri ile ilgili resmi bir duyuru yapılmadı.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9587'
 permalink: /iphone-ve-ipadde-memoji-stickerlari-nasil-kullanilir/
 post_views_count:
     - '54'
-image: /wp-content/uploads/2020/11/iphone-ve-ipad-de-memoji-stickerlari-nasil-kullanilir.jpg
+image: images/iphone-ve-ipad-de-memoji-stickerlari-nasil-kullanilir.jpg
 categories:
     - Apple
 tags:
@@ -28,10 +28,10 @@ Başlamak için atmanız gereken ilk adım bir **Memoji** karakteri. iPhone’da
 - Mesajlar uygulamasına girdikten sonra, bir konuşmayı seçin.
 - Görüşmenin içinde, klavyenin üzerindeki araç çubuğunda “Memoji Çıkartmaları”nı göreceksiniz. Bu çıkartmalar, üzerinde kalp emojisi olan bir yüzü andırır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/memoji-nasil-gonderilir.png)</figure>- Simgeleri görmüyorsanız metin çubuğunun solundaki ve kamera simgesinin sağındaki simgeye dokunun. Artık tüm mevcut Memoji ve Animoji karakterlerini göreceksiniz. Kullanmak istediğiniz karakteri seçin.
+<figure class="wp-block-image size-large">![](images/memoji-nasil-gonderilir.png)</figure>- Simgeleri görmüyorsanız metin çubuğunun solundaki ve kamera simgesinin sağındaki simgeye dokunun. Artık tüm mevcut Memoji ve Animoji karakterlerini göreceksiniz. Kullanmak istediğiniz karakteri seçin.
 - Memoji çıkartmaları uygulamasını genişletmek için yukarı kaydırmanız yeterlidir. Tüm çıkartmaları kaydırın ve göndermek istediğiniz çıkartmayı seçin.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/memoji-stickeri-nasil-secilir.png)</figure>- Metin kutusuna yapıştırılmış çıkartmayı göreceksiniz. Göndermek için, “Gönder” butonuna dokunun.
+<figure class="wp-block-image size-large">![](images/memoji-stickeri-nasil-secilir.png)</figure>- Metin kutusuna yapıştırılmış çıkartmayı göreceksiniz. Göndermek için, “Gönder” butonuna dokunun.
 
 ## WhatsApp ve diğer üçüncü taraf uygulamalarda Memoji gönderme
 

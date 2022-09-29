@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/whatsapp-karanlik-mod.png
+image: images/whatsapp-karanlik-mod.png
 categories:
     - Mobil
 tags:
@@ -28,6 +28,6 @@ WhatsApp yeni bir adım attı ve bundan sonra Hindistan’da durum gönderilerin
 
 Bir süredir Netflix gibi büyük video platformları devletlerin talebi ile beraber çözünürlüğü [düşürmüştü](https://intersiber.com/netflix-koronavirus-sebebiyle-video-kalitesini-dusurebilir/).
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/whatsapp-bilgi-dogrulama.jpg)</figure>**WhatsApp’ta** bundan sonra **Hindistan**‘daki kullanıcılar en fazla 15 saniyelik durum videoları paylaşabilecekken, görsel veya diğer medya öğeleri için herhangi bir sınır olmayacak.
+<figure class="wp-block-image size-full">![](images/whatsapp-bilgi-dogrulama.jpg)</figure>**WhatsApp’ta** bundan sonra **Hindistan**‘daki kullanıcılar en fazla 15 saniyelik durum videoları paylaşabilecekken, görsel veya diğer medya öğeleri için herhangi bir sınır olmayacak.
 
 Aynı kısıtlamanın diğer farklı ülkelerde de kısa süre içerisinde uygulanabileceği iddia edilirken, WhatsApp’tan bu konuda kesin bir açıklama yapılmadı.

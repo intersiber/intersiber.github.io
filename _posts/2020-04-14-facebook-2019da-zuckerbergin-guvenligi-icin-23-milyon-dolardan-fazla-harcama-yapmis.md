@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5431'
 permalink: /facebook-2019da-zuckerbergin-guvenligi-icin-23-milyon-dolardan-fazla-harcama-yapmis/
 post_views_count:
     - '22'
-image: /wp-content/uploads/2020/04/facebook-2019-da-mark-zuckerberg-in-guvenligi-icin-23-milyon-dolardan-daha-fazla-harcama-yapmis.png
+image: images/facebook-2019-da-mark-zuckerberg-in-guvenligi-icin-23-milyon-dolardan-daha-fazla-harcama-yapmis.png
 categories:
     - Genel
 tags:
@@ -30,7 +30,7 @@ Ortaya çıkan rakam, Zuckerberg’in 2018 yılındaki 22,5 milyon dolarlık har
 
 ## Cambridge Analytica skandalı Facebook’u nasıl etkiledi?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/cambridge-analytica-skandali-nedir-1600x790.png)</figure>50 milyonun üzerinde Facebook kullanıcısının verilerinin çalındığı bir skandal olan **Cambridge Analytica**, **Facebook’un** ciddi bir soruşturma geçirmesine ve hisselerinin düşmesine neden olan bir olaydı.
+<figure class="wp-block-image size-large">![](images/cambridge-analytica-skandali-nedir-1600x790.png)</figure>50 milyonun üzerinde Facebook kullanıcısının verilerinin çalındığı bir skandal olan **Cambridge Analytica**, **Facebook’un** ciddi bir soruşturma geçirmesine ve hisselerinin düşmesine neden olan bir olaydı.
 
 ABD’li politikacı Ted Cruz’un seçim kampanyası ve Brexit sürecinde, insanları birtakım siyasi savlara ikna etmek için kullanıldığı öğrenilen verilerin, politik propagandaya aracı edildiği ortaya çıkınca birçok ülke ve şirket Facebook’a yaptırım uygulamıştı.
 

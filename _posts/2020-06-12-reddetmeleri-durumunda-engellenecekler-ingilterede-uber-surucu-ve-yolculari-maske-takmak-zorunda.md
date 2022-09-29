@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8400'
 permalink: /reddetmeleri-durumunda-engellenecekler-ingilterede-uber-surucu-ve-yolculari-maske-takmak-zorunda/
 post_views_count:
     - '26'
-image: /wp-content/uploads/2020/06/reddetmeleri-durumunda-engellenecekler-ingiltere-de-uber-surucu-ve-yolculari-maske-takmak-zorunda.jpeg
+image: images/reddetmeleri-durumunda-engellenecekler-ingiltere-de-uber-surucu-ve-yolculari-maske-takmak-zorunda.jpeg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## Maske takmayan yolcular hizmet alamayacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/uber-suruculeri-maske-takmak-zorunda-koronavirus-onlemi.jpg)</figure>**Uber** kullanıcıları **maske** takmamaları durumunda, sürücüler herhangi bir yaptırımla karşılaşmadan hizmet vermeme hakkına sahip olacak.
+<figure class="wp-block-image size-large">![](images/uber-suruculeri-maske-takmak-zorunda-koronavirus-onlemi.jpg)</figure>**Uber** kullanıcıları **maske** takmamaları durumunda, sürücüler herhangi bir yaptırımla karşılaşmadan hizmet vermeme hakkına sahip olacak.
 
 Sürücüler öte yandan, Londra’da maske taktıklarını kanıtlamak zorunda. Uber sürücülerin maske takıp takmadığını kontrol etmek için bir nesne tanıma özelliği kullanacağını açıkladı. Bir **Uber** sözcüsü, “Maske doğrulama aracımız, nesne tanıma teknolojisi kullanıyor. Sürücüler yalnızca maske taktığı algılandığında çevrimiçi olmalarına izin veriliyor” dedi. Sürücülerin incelenmesi için yolcuların gönderdiği geri bildirimlerin de dikkate alınacağı ifade edildi.
 

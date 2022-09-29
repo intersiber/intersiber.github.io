@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7296'
 permalink: /youtube-size-izlemeyi-birakip-uyumanizi-soyleyecek/
 post_views_count:
     - '44'
-image: /wp-content/uploads/2020/05/YouTube-can-tell-you-to-stop-watching-and-go-to-sleep.jpg
+image: images/YouTube-can-tell-you-to-stop-watching-and-go-to-sleep.jpg
 categories:
     - Genel
 tags:
@@ -20,6 +20,6 @@ Artık **YouTube**, videoları daha sonra izleyerek uyku düzeninizi bozmamanız
 
 Bu özellik sayesinde **ayarlar** menüsünden video izleme zamanınızın **başlangıç** ​​ve **bitiş** saatlerini belirleyebilecek, uyku zamanı hatırlatıcınızın bir video sırasında açılmasını isteyip istemediğinize karar verebilecek veya videonuz bitene kadar bekleyebileceksiniz. Ayrıca fikrinizi değiştirirseniz ve başka bir video daha izlemeye devam etmek isterseniz hatırlatıcıyı reddedebileceksiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/youtubekids7-100569543-orig-1600x900.png)</figure>**YouTube** son birkaç yıl içinde platformuna **dijital sağlık** odaklı bir sürü özellik ekledi. Bu özellikler ortalama günlük görüntüleme istatistiklerinizi ve geçen haftaki toplam izlenme süresini görme yollarını, tek bir günlük video bildirimlerini özetlemeyi, mola vermek için programlanmış hatırlatıcıları ve her gün belirli bir dönemde bildirim seslerini ve titreşimleri devre dışı bırakma seçeneğini içeriyor.
+<figure class="wp-block-image size-large">![](images/youtubekids7-100569543-orig-1600x900.png)</figure>**YouTube** son birkaç yıl içinde platformuna **dijital sağlık** odaklı bir sürü özellik ekledi. Bu özellikler ortalama günlük görüntüleme istatistiklerinizi ve geçen haftaki toplam izlenme süresini görme yollarını, tek bir günlük video bildirimlerini özetlemeyi, mola vermek için programlanmış hatırlatıcıları ve her gün belirli bir dönemde bildirim seslerini ve titreşimleri devre dışı bırakma seçeneğini içeriyor.
 
 Bunlara ek olarak eklediği en yeni özelliği **uyku saati hatırlatıcısı** bugün **iPhone** ve **Android**‘de kullanılmaya başlanacak. Bu özellik önümüzdeki birkaç gün içinde herkese sunulacak.

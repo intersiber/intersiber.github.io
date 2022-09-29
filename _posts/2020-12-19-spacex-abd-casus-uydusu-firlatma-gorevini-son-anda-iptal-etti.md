@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10090'
 permalink: /spacex-abd-casus-uydusu-firlatma-gorevini-son-anda-iptal-etti/
 post_views_count:
     - '17'
-image: /wp-content/uploads/2020/12/spacex-abd-casus-uydusu-firlatma-gorevini-son-anda-iptal-etti.png
+image: images/spacex-abd-casus-uydusu-firlatma-gorevini-son-anda-iptal-etti.png
 categories:
     - Uzay
 tags:

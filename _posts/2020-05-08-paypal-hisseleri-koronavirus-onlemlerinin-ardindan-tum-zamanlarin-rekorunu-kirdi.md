@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6615'
 permalink: /paypal-hisseleri-koronavirus-onlemlerinin-ardindan-tum-zamanlarin-rekorunu-kirdi/
 post_views_count:
     - '66'
-image: /wp-content/uploads/2020/05/paypal-hisseleri-koronavirus-kisitlamalarinin-ardindan-tum-zamanlarin-rekorunu-kirdi.jpeg
+image: images/paypal-hisseleri-koronavirus-kisitlamalarinin-ardindan-tum-zamanlarin-rekorunu-kirdi.jpeg
 categories:
     - Genel
 tags:
@@ -19,7 +19,7 @@ tags:
 
 **PayPal** **hisseleri**, 2019 yılının Şubat ayındaki 123,9 dolarlık rekor seviyesinin bir yıl sonrasında, 146 dolar düzeyini aşarak tüm zamanların rekorunu kırdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/paypal-hisseleri-rekor-kirdi.png)</figure>Şirketin işlem hacmi grafiği yükselerek devam ediyor olsa da, karlılık aynı oranda yükselmiyor. Son çeyrekte 7,4 milyon yeni kullanıcını kazanmasına rağmen, kazanç beklentilerinin altında kalan PayPal, koronavirüs salgınının ardından tekrar popüler bir hale geldi.
+<figure class="wp-block-image size-large">![](images/paypal-hisseleri-rekor-kirdi.png)</figure>Şirketin işlem hacmi grafiği yükselerek devam ediyor olsa da, karlılık aynı oranda yükselmiyor. Son çeyrekte 7,4 milyon yeni kullanıcını kazanmasına rağmen, kazanç beklentilerinin altında kalan PayPal, koronavirüs salgınının ardından tekrar popüler bir hale geldi.
 
 Şirket, yalnızca 84 milyon dolarlık net gelir elde etti ve 2019’un aynı çeyreği ile kıyaslandığında o dönem elde edilen 667 milyon dolarlık gelirin çok altında.
 
@@ -35,6 +35,6 @@ Yatırımcılarla yapılan görüşmede şirket, “Görünüşe göre, dünya g
 
 **PayPal** dışında, Twitter kurucu ve CEO’su **Jack** **Dorsey’in** fintek girişimi Square de büyümeye devam ediyor. Square hisseleri, 20 Mart’ta 40 doların altında işlem görürken, son haftalardaki yükselişi ile 70 doların üzerine çıktı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/square-nedir-square-hisseleri.png)</figure>Brüt ödeme hacmi, son çeyrek için 25 milyar doları geçen **Square**, 2019’un son çeyreğindeki işlem hacminin 3 milyar dolar altında bir düzeye geldi.
+<figure class="wp-block-image size-large">![](images/square-nedir-square-hisseleri.png)</figure>Brüt ödeme hacmi, son çeyrek için 25 milyar doları geçen **Square**, 2019’un son çeyreğindeki işlem hacminin 3 milyar dolar altında bir düzeye geldi.
 
 Square hesaplarında yer alan toplam fon ise, son çeyrekte 945 milyon dolardan 1,3 milyar dolara ulaştı.

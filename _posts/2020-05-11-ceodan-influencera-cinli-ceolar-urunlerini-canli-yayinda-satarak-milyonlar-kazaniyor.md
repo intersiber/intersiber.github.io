@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6757'
 permalink: /ceodan-influencera-cinli-ceolar-urunlerini-canli-yayinda-satarak-milyonlar-kazaniyor/
 post_views_count:
     - '63'
-image: /wp-content/uploads/2020/05/ceo-dan-influencer-a-cinli-ceolar-urunlerini-canli-yayinda-satarak-milyonlar-kazaniyor.png
+image: images/ceo-dan-influencer-a-cinli-ceolar-urunlerini-canli-yayinda-satarak-milyonlar-kazaniyor.png
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ CEO’ların canlı yayınlarda boy göstermesi, bazı şirketler için cidden o
 
 ## Canlı yayınlar Çin’de hayatın bir parçası haline geldi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/cinli-e-ticaret-siteleri-canli-yayin-modeli.png)</figure>Özellikle **koronavirüs** salgının etkisiyle darbe yiyen klasik perakendeye karşı, canlı yayın satışları çok ciddi bir kanal haline geldi. Yayınlar genellikle, **TikTok’un** Çince versiyonu olan **Douyin** üzerinden gerçekleşiyor. Çeşitli sektörlerde faaliyet gösteren satıcılar, her gün canlı yayın videoları ile müşterilere ulaşıyor ve satış yapıyor.
+<figure class="wp-block-image size-large">![](images/cinli-e-ticaret-siteleri-canli-yayin-modeli.png)</figure>Özellikle **koronavirüs** salgının etkisiyle darbe yiyen klasik perakendeye karşı, canlı yayın satışları çok ciddi bir kanal haline geldi. Yayınlar genellikle, **TikTok’un** Çince versiyonu olan **Douyin** üzerinden gerçekleşiyor. Çeşitli sektörlerde faaliyet gösteren satıcılar, her gün canlı yayın videoları ile müşterilere ulaşıyor ve satış yapıyor.
 
 iiMedia Research adlı şirket tarafından hazırlanan rapora göre, Çin’de canlı yayınlar üzerinden yapılan e-ticaretin hacmi, 2019 yılında 61 milyar dolara ulaştı. Koronavirüs nedeniyle birçok şehirde yaşanan kısıtlamaların ve kapanan mağazaların ardından, raporda 2020 yılı için ‘**canlı yayın e-ticareti**’ piyasasının büyüklüğü 129 milyar dolara ulaşacak. Açıklanan tahmin, ortaya çıkan sonuçları destekliyor. Nitekim, Çin’de perakende canlı akış platformu **Taobao**, satıcı sayısının 7 katına çıktığını duyurdu.
 

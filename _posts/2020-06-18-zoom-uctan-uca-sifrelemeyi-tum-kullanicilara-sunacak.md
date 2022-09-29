@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8538'
 permalink: /zoom-uctan-uca-sifrelemeyi-tum-kullanicilara-sunacak/
 post_views_count:
     - '69'
-image: /wp-content/uploads/2020/06/zoom-uctan-uca-sifrelemeyi-tum-kullanicilara-sunacak.jpeg
+image: images/zoom-uctan-uca-sifrelemeyi-tum-kullanicilara-sunacak.jpeg
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## Zoom, istismar gibi durumlar dışında bilgi paylaşmıyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/zoom-video-konferans.jpg)</figure>Bir şirket sözcüsü, yatırımcılarla yakın tarihte düzenlenen bir görüşmede, **Zoom’un** toplantı içeriklerini takip etmediğini ve çocuğa cinsel istismar gibi durumlar haricinde kolluk kuvvetleri ile bilgi paylaşılmadığını söyledi. Sözcü, uçtan uca şifrelemeyi kimliğinin doğrulanabildiği kişilere sunduklarını ve sadece bir mail ile kayıt olan ücretsiz kullanıcılara uçtan uca şifreleme sunmanın zorluğunu savunmuştu.
+<figure class="wp-block-image size-large">![](images/zoom-video-konferans.jpg)</figure>Bir şirket sözcüsü, yatırımcılarla yakın tarihte düzenlenen bir görüşmede, **Zoom’un** toplantı içeriklerini takip etmediğini ve çocuğa cinsel istismar gibi durumlar haricinde kolluk kuvvetleri ile bilgi paylaşılmadığını söyledi. Sözcü, uçtan uca şifrelemeyi kimliğinin doğrulanabildiği kişilere sunduklarını ve sadece bir mail ile kayıt olan ücretsiz kullanıcılara uçtan uca şifreleme sunmanın zorluğunu savunmuştu.
 
 ## Sert eleştirilerle karşı karşıya
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9515'
 permalink: /sure-sona-erdi-turkiyede-temsilcilik-acmayan-sosyal-medya-sirketlerine-10-milyon-tl-ceza/
 post_views_count:
     - '33'
-image: /wp-content/uploads/2020/11/sure-sona-erdi-turkiye-de-temsilcilik-acmayan-sosyal-medya-sitelerine-10-milyon-tl-ceza.png
+image: images/sure-sona-erdi-turkiye-de-temsilcilik-acmayan-sosyal-medya-sitelerine-10-milyon-tl-ceza.png
 categories:
     - Genel
     - 'Sosyal Medya'

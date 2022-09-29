@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/internet-2.jpg
+image: images/internet-2.jpg
 categories:
     - Genel
 tags:
@@ -26,4 +26,4 @@ Bilgi Teknolojileri Ve İletişim Kurumu (**BTK**) tarafından Türkiye’de ope
 
 Trafik yönetimi, güvenlik ve daha birçok konuda gerekli adımların atılmaya devam edilmesi yönünde uyarıda bulunan Bilgi Teknolojileri Ve İletişim Kurumu (BTK), operatörlerin alması gereken güvenlik önlemlerine dikkat çekti.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/internet.jpg)</figure>Bir süredir AB üyesi ülkelerde YouTube ve Netflix gibi servislerin kısıtlamalar sonucunda görüntü kalitesi ve içeriklerle ilgili düzenlemeler [yapılırken](https://intersiber.com/youtube-video-kalitesini-dusurecek/), Türkiye’de ise internet trafiği ile ilgili herhangi bir kısıtlama olup olmayacak olduğu hakkında açıklama yapılmış değil.
+<figure class="wp-block-image size-full">![](images/internet.jpg)</figure>Bir süredir AB üyesi ülkelerde YouTube ve Netflix gibi servislerin kısıtlamalar sonucunda görüntü kalitesi ve içeriklerle ilgili düzenlemeler [yapılırken](https://intersiber.com/youtube-video-kalitesini-dusurecek/), Türkiye’de ise internet trafiği ile ilgili herhangi bir kısıtlama olup olmayacak olduğu hakkında açıklama yapılmış değil.

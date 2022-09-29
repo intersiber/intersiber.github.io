@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8460'
 permalink: /apple-iphone-12-ekranlari-icin-samsungu-tercih-edebilir/
 post_views_count:
     - '82'
-image: /wp-content/uploads/2020/06/apple-iphone-12-ekranlari-icin-samsung-u-tercih-edebilir.jpeg
+image: images/apple-iphone-12-ekranlari-icin-samsung-u-tercih-edebilir.jpeg
 categories:
     - Apple
     - Mobil
@@ -25,7 +25,7 @@ tags:
 
 ## iPhone 12 ekranlarını Samsung üretebilir
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/iphone-12-ekrani-ureticisi.jpeg)</figure>Gelen bilgilere göre **Apple**, BOE’nin OLED ekranlarından memnun olmadı ve yapılan testlerde ekranlar sınıfta kaldı. Şirket, ekran çözümleri konusunda Samsung’u tercih edebilir. Apple’ın, iPhone 12 ekranlarında istediği standartları yalnızca Samsung ekranlarının karşıladığı belirtildi.
+<figure class="wp-block-image size-large">![](images/iphone-12-ekrani-ureticisi.jpeg)</figure>Gelen bilgilere göre **Apple**, BOE’nin OLED ekranlarından memnun olmadı ve yapılan testlerde ekranlar sınıfta kaldı. Şirket, ekran çözümleri konusunda Samsung’u tercih edebilir. Apple’ın, iPhone 12 ekranlarında istediği standartları yalnızca Samsung ekranlarının karşıladığı belirtildi.
 
 BOE ekranları yerine daha pahalı olan Samsung OLED ekranlarını kullanması beklenen Apple’ın, BOE ekranlarının yeni testlerde başarı göstermesi durumunda iPhone 12’nin yalnızca ilk partisinde Samsung ekranlarını kullanabileceği ifade ediliyor.
 

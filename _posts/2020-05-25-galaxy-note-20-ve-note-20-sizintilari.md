@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7522'
 permalink: /galaxy-note-20-ve-note-20-sizintilari/
 post_views_count:
     - '60'
-image: /wp-content/uploads/2020/05/galaxy-note-20-ve-note-20-sizintilari-1-scaled.jpg
+image: images/galaxy-note-20-ve-note-20-sizintilari-1-scaled.jpg
 categories:
     - Mobil
 tags:
@@ -25,6 +25,6 @@ tags:
 
 Galaxy Note20 ve Note20+’ın **Snapdragon 865** veya **Exynos 990**‘ı çalıştıran Galaxy S20 serisiyle aynı dahili cihazlarla gelmesi bekleniyor. Cihazlar sırasıyla **4000 mAh** ve **4500 mAh** pil güçlerine sahip olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/s20-screen-1600x900.jpg)</figure>**Samsung** cihazların çıkış tarihi ile ilgili kesin bir tarih belirlemedi. Ancak şirket, yılın ikinci yarısında şirketin yeni katlanabilir ve **Note** modellerinin lansmanı ile premium segmentte farklı ürünler sunmaya devam edeceğini belirten resmi bir açıklama yaptı.
+<figure class="wp-block-image size-large">![](images/s20-screen-1600x900.jpg)</figure>**Samsung** cihazların çıkış tarihi ile ilgili kesin bir tarih belirlemedi. Ancak şirket, yılın ikinci yarısında şirketin yeni katlanabilir ve **Note** modellerinin lansmanı ile premium segmentte farklı ürünler sunmaya devam edeceğini belirten resmi bir açıklama yaptı.
 
 Korea Herald, **Galaxy Note 20** lansman etkinliğinin sadece **çevrimiçi** olacağını bildirdi.

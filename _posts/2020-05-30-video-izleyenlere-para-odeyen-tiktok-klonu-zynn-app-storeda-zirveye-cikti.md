@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7819'
 permalink: /video-izleyenlere-para-odeyen-tiktok-klonu-zynn-app-storeda-zirveye-cikti/
 post_views_count:
     - '137'
-image: /wp-content/uploads/2020/05/video-izleyenlere-para-odeyen-tiktok-klonu-zynn-app-store-da-zirveye-cikti.png
+image: images/video-izleyenlere-para-odeyen-tiktok-klonu-zynn-app-store-da-zirveye-cikti.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -20,7 +20,7 @@ Popüler video paylaşım platformu **Tiktok**, ilginç bir rakiple karşı kar�
 
 ## Video izleyip para kazanma şansı sunuyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/video-izleyip-para-kazandiran-uygulama-zynn.png)</figure>Tiktok klonu **Zynn** uygulamasının, Tiktok’tan ayrışan en önemli yönü kullanıcılara video izlemelerini teşvik etmek için kullandığı yöntem. Zynn’de video izlerken, dolar ikonu ile karşınıza çıkan geri sayım sayacı, size nakit para ya da hediye çeki sunuyor. **Zynn** kullanıcılarından şu ana kadar birçok kişi, aldığı **ödeme** **kanıtlarını** Youtube’da paylaştı.
+<figure class="wp-block-image size-large">![](images/video-izleyip-para-kazandiran-uygulama-zynn.png)</figure>Tiktok klonu **Zynn** uygulamasının, Tiktok’tan ayrışan en önemli yönü kullanıcılara video izlemelerini teşvik etmek için kullandığı yöntem. Zynn’de video izlerken, dolar ikonu ile karşınıza çıkan geri sayım sayacı, size nakit para ya da hediye çeki sunuyor. **Zynn** kullanıcılarından şu ana kadar birçok kişi, aldığı **ödeme** **kanıtlarını** Youtube’da paylaştı.
 
 Çin’deki video uygulamaları içindeki rekabete katılan **Zynn**, ülkedeki en iyi finanse edilen video uygulamalarından birinin yaratıcısı. Kurucu **Kuaishou**, Çin’de hızlı bir büyüme göstermek için izleyicilere ödeme yapma yöntemini kullanarak, diğerlerinden ayrıştı. Şirket, reklam vererek büyüme yerine kullanıcılara ödeme yaparak agresif bir şekilde büyümeye doğru gitti.
 

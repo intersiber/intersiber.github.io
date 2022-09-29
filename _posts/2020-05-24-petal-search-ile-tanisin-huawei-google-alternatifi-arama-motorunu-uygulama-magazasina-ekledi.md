@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7483'
 permalink: /petal-search-ile-tanisin-huawei-google-alternatifi-arama-motorunu-uygulama-magazasina-ekledi/
 post_views_count:
     - '298'
-image: /wp-content/uploads/2020/05/petal-search-ile-tanisin-huawei-google-alternatifi-arama-motorunu-uygulama-magazasina-ekledi.jpg
+image: images/petal-search-ile-tanisin-huawei-google-alternatifi-arama-motorunu-uygulama-magazasina-ekledi.jpg
 categories:
     - Genel
 tags:
@@ -19,7 +19,7 @@ tags:
 
 ABD’de kara listeye girmesinin ardından Google servislerini kullanamayan Huawei, Google’ın arama hizmetine alternatif olan arama motorunu mağazaya ekledi. ABD’li şirketlerden hizmet alması engellenen Çinli teknoloji devi, **Huawei** **Mobil** **Servisleri** (HMS) ile kullanıcılarına hizmet vermeyi sürdürüyor. Bu hizmetlerin bir parçası olan Petal Search, AppGallery’de yerini aldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/huawei-search-petal-search-oldu.jpg)</figure>## Petal Search neler sunuyor?
+<figure class="wp-block-image size-large">![](images/huawei-search-petal-search-oldu.jpg)</figure>## Petal Search neler sunuyor?
 
 Huawei’nin uygulama mağazasında yer alan Petal Search, sadece klasik arama motoru işlevini yerine getirmiyor. Uygulama bunun yanı sıra haberleri tarıyor ve hava durumu tahminlerini aktarıyor. Video izleme ve müzik dinleme olanağı sunan arama motoru, dilediğinizde otel rezervasyonu dahi yapabiliyor. **Huawei**, bu özellikler dışında, Petal Search’ü yeni özelliklerle geliştireceğini vaat etti.
 

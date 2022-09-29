@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/2b77a7b9googleheadquartersofficemountainviewss1920-1.jpg
+image: images/2b77a7b9googleheadquartersofficemountainviewss1920-1.jpg
 categories:
     - Genel
 tags:
@@ -29,6 +29,6 @@ tags:
 
 Hastaneler, doktorlar ve akıl sağlığı profesyonelleri artık sanal bakım hizmetleriyle ilgili ayrıntıları Arama ve Haritalar’daki İşletme Profillerine ekleyebilecek ve bir hasta onları aradığında, daha fazla bilgi vererek web sitesine yönlendirilip bir “**çevrimiçi bakım al**” seçeneği sunulacak. Oradan hastalar sanal bir randevu planlayabilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/coronavirus-covid-19.jpeg)</figure>Yeni özellikler başlangıçta ABD’de yayınlanacak. Kullanıcılar “**acil bakım**” gibi arama sorgularını kullandığında sanal bakım platformlarını göstermeye başlayacak. Arama sonuçları sayfası artık sanal bakım seçeneklerini de sunacak.
+<figure class="wp-block-image size-large">![](images/coronavirus-covid-19.jpeg)</figure>Yeni özellikler başlangıçta ABD’de yayınlanacak. Kullanıcılar “**acil bakım**” gibi arama sorgularını kullandığında sanal bakım platformlarını göstermeye başlayacak. Arama sonuçları sayfası artık sanal bakım seçeneklerini de sunacak.
 
 Buna ek olarak, Google şimdi otomatik olarak bir sağlık hizmeti sağlayıcısından COVID-19 sayfasına bir bağlantı göstermeye çalışacak; örneğin, gömülü ziyaretler veya çalışma saatlerindeki güncellemeler için kendi politikalarını vurgulayabilirler.

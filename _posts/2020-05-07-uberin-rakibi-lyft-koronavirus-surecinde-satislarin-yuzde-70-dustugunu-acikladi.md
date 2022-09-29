@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6551'
 permalink: /uberin-rakibi-lyft-koronavirus-surecinde-satislarin-yuzde-70-dustugunu-acikladi/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/05/uber-in-rakibi-lyft-koronavirus-surecinde-satislarin-yuzde-70-dustugunu-acikladi.jpeg
+image: images/uber-in-rakibi-lyft-koronavirus-surecinde-satislarin-yuzde-70-dustugunu-acikladi.jpeg
 categories:
     - Girişim
 tags:
@@ -22,6 +22,6 @@ Salgının en çok etkilediği ülkeler arasında yer alan ABD’deki sert kıs�
 
 ## Bin çalışanını işten çıkardı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/lyft-nedir-lyft-koronavirus-kazanc-raporu.jpeg)</figure>**Lyft**, içinde bulunduğu zor durumda ayakta kalmak adına yaklaşık bin çalışanını işten çıkarma kararı aldı. Bu sayı, Lyft’in iş gücünün yaklaşık yüzde 17’sine tekabül ediyor.
+<figure class="wp-block-image size-large">![](images/lyft-nedir-lyft-koronavirus-kazanc-raporu.jpeg)</figure>**Lyft**, içinde bulunduğu zor durumda ayakta kalmak adına yaklaşık bin çalışanını işten çıkarma kararı aldı. Bu sayı, Lyft’in iş gücünün yaklaşık yüzde 17’sine tekabül ediyor.
 
 Şirket, 2020’nin ilk çeyrek kazanç raporunda geçtiğimiz yılın ilk çeyreğine göre yüzde 23 artışla 955 milyon dolar gelir sağlamış olsa da, 398 milyon dolar net zarar etti. Ancak birçok şirket için geçerli olan durum, Lyft için de geçerli. En kötüsü henüz gelmedi ve yılın 2. çeyreği çok daha acımasız bir mali tablo sunabilir. **Lyft’in** **kullanıcı** **sayısı** geçen yıla göre yüzde 3 arttı ancak bu durum, zararı engelleyemedi.

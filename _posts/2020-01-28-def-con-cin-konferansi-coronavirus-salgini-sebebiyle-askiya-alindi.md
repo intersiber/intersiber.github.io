@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '40'
-image: /wp-content/uploads/2020/01/defcon-konferansi-cin-coronavirus.jpg
+image: images/defcon-konferansi-cin-coronavirus.jpg
 categories:
     - Genel
     - 'Öne Çıkan'
@@ -33,6 +33,6 @@ DEF CON Çin’de düzenlenecek olan siber güvenlik konferansı, Coronavirus 20
 
 Günümüzün en prestijli güvenlik konferanslarından olan DEF CON her sene Ağustos ayında Las Vegas’ta düzenleniyor. Bu yıl Çin’de ikincisi gerçekleştirilecek olan konferans, DEF CON forumlarında yapılan [açıklamaya göre](https://forum.defcon.org/node/230589) şimdilik askıya alındı.
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![](https://intersiber.com/wp-content/uploads/2020/01/defcon-cin-coronavirus-askiya-alindi.jpg)</figure></div>Açıklamada konferansın resmi olarak iptal edilmediği, Çin’deki durumun iyileşmesinin umut edildiği ve etkinliğin gerçekleştirilmesi için çalışıldığı belirtildi. Etkinliğin planlandığı tarihte gerçekleştirilmesi veya ileri bir tarih için planlama yapılacağı düşünülüyor.
+<div class="wp-block-image"><figure class="aligncenter size-large">![](images/defcon-cin-coronavirus-askiya-alindi.jpg)</figure></div>Açıklamada konferansın resmi olarak iptal edilmediği, Çin’deki durumun iyileşmesinin umut edildiği ve etkinliğin gerçekleştirilmesi için çalışıldığı belirtildi. Etkinliğin planlandığı tarihte gerçekleştirilmesi veya ileri bir tarih için planlama yapılacağı düşünülüyor.
 
 Çin’in Wuhan kentinden yayılmaya başladığı düşünülen Coronavirus 2019-nCoV salgını tüm Dünya’da paniğe yol açmış durumda. Uzmanlar salgınla ilgili resmi makamların açıklamaları haricinde bir açıklamanın dikkate alınmaması gerektiğini söylüyor. Özellikle internetten elde edilen bilgilerle teşhis koyulmaması ve sahte haberlere dikkat edilmesi önem arz ediyor.

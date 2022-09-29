@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5999'
 permalink: /coursera-isini-kaybedenlere-3-bin-800-online-kursu-ucretsiz-verecek/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/04/coursera-isini-kaybedenlere-3800-kursu-ucretsiz-verecek.jpeg
+image: images/coursera-isini-kaybedenlere-3800-kursu-ucretsiz-verecek.jpeg
 categories:
     - Genel
     - Girişim
@@ -29,7 +29,7 @@ Blog açıklamasında ‘Devlet için Coursera’ programı, “kurumların, top
 
 ## ABD’de son 5 haftada 26 milyon işsizlik başvurusu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/abd-de-bir-ayda-26-milyon-kisi-issizlik-basvurusu-yapti.jpg)</figure>1 milyona yakın koronavirüs vakasının görüldüğü, salgının merkezi konumundaki ABD’de ekonomide ortaya çıkan durgunluk, ciddi bir işsizlik dalgası yarattı. ABD’de son 5 haftada işsizlik başvurusunda bulunanların sayısı 26 milyon.
+<figure class="wp-block-image size-large">![](images/abd-de-bir-ayda-26-milyon-kisi-issizlik-basvurusu-yapti.jpg)</figure>1 milyona yakın koronavirüs vakasının görüldüğü, salgının merkezi konumundaki ABD’de ekonomide ortaya çıkan durgunluk, ciddi bir işsizlik dalgası yarattı. ABD’de son 5 haftada işsizlik başvurusunda bulunanların sayısı 26 milyon.
 
 Coursera’daki kurslar Google ve IBM gibi iş ortaklarından şirkete özel eğitim programların yanı sıra bulut bilişim, makine öğrenmesi ve büyük veri gibi yenilikçi teknolojilere dair, ciddi bir içeriğe sahip.
 

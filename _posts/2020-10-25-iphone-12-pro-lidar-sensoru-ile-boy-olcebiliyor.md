@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9379'
 permalink: /iphone-12-pro-lidar-sensoru-ile-boy-olcebiliyor/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/10/iphone-12-pro-lidar-sensoru-ile-boy-olcebiliyor.png
+image: images/iphone-12-pro-lidar-sensoru-ile-boy-olcebiliyor.png
 categories:
     - Mobil
 tags:
@@ -29,7 +29,7 @@ iPhone ile boy ölçebilmeniz için, **LiDAR** **sensörü** bulunan bir modele 
 
 ## LiDAR sensörü nedir, ne için kullanılır?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/lidar-sensoru-nedir-nasil-calisir-1600x1280.jpg)</figure>Apple’ın son iPhone serisindeki modellerinde sunduğu **LiDAR** **sensörü**, geniş bir kullanım alanına sahip. Bir ortamın üç boyutlu haritasını çıkarabilen sensör, bunu ek bir uygulama ile değil, doğrudan kamerada yapabiliyor. Apple’a göre sensör, bir kişi ayakta olmasa dahi, otururken de boy ölçümünü yapabiliyor.
+<figure class="wp-block-image size-large">![](images/lidar-sensoru-nedir-nasil-calisir-1600x1280.jpg)</figure>Apple’ın son iPhone serisindeki modellerinde sunduğu **LiDAR** **sensörü**, geniş bir kullanım alanına sahip. Bir ortamın üç boyutlu haritasını çıkarabilen sensör, bunu ek bir uygulama ile değil, doğrudan kamerada yapabiliyor. Apple’a göre sensör, bir kişi ayakta olmasa dahi, otururken de boy ölçümünü yapabiliyor.
 
 Günümüzde, başta haritalandırma olmak üzere otonom otomobil, su altı araştırmaları, mimarlık ve şehir planlaması gibi alanlarda kullanılan LiDAR, ışığın salınımını ölçerek, aldığı frekans değişimi ile yüzey hakkında bilgi veren bir teknolojidir. Uçaklarda da kullanılan LiDAR sensörü, bazı akıllı telefon modellerinde de kullanılmaya başladı.
 

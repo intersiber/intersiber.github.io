@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5663'
 permalink: /deliveri-online-teslimat-arama-verilerini-mahalle-bazinda-sunuyor/
 post_views_count:
     - '69'
-image: /wp-content/uploads/2020/04/deliveri-mahalle-bazinda-online-teslimat-arama-verilerini-sunuyor.png
+image: images/deliveri-mahalle-bazinda-online-teslimat-arama-verilerini-sunuyor.png
 categories:
     - Girişim
 tags:
@@ -24,6 +24,6 @@ Gerçek zamanlı arama verileri sunan Deliveri, gerçek zamanlı arama verilerin
 
 ## Mahalle bazında arama verileri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/deliveri-online-teslimat-fiyat-karsilastirma-1600x758.png)</figure>Ideasoft verileri il bazında aktarılırken, Deliveri.app ise sunduğu veriler içinde illerin yanı sıra mahallelerin verilerini de paylaşıyor. Türkiye’de rekabetin her geçen gün arttığı online teslimat pazarında nelerin arandığını daha kolay takip etme şansına sahip oluyorsunuz.
+<figure class="wp-block-image size-large">![](images/deliveri-online-teslimat-fiyat-karsilastirma-1600x758.png)</figure>Ideasoft verileri il bazında aktarılırken, Deliveri.app ise sunduğu veriler içinde illerin yanı sıra mahallelerin verilerini de paylaşıyor. Türkiye’de rekabetin her geçen gün arttığı online teslimat pazarında nelerin arandığını daha kolay takip etme şansına sahip oluyorsunuz.
 
 Koronavirüs salgınının ardından birçok sektörde ciddi değişim yaşanırken, verinin öneminin daha da ön plana çıktığı farklı girişimler göreceğiz gibi görünüyor.

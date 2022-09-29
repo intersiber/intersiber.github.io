@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/coronavirus-3.jpeg
+image: images/coronavirus-3.jpeg
 categories:
     - Genel
 tags:
@@ -28,6 +28,6 @@ Sağlık Bakanı **Fahrettin Koc**a, gece saat 00.54 sularında yaptığı açı
 
 Ancak kısa süre sonra marketler online siparişlerde anında stok fiyatlarını güncellemeye başladı. **Koronavirüs** vakasının Türkiye’de görülmesi üzerine, eldiven, el ve cilt dezenfektanı, çamaşır suyu, maske, kolonya fiyatlarında %200’e varan fiyat artışları görüldü.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/coronavirus-2.jpg)</figure>Özellikle büyük ve 3. parti satıcıların aktif olduğu **e-Ticaret** sitelerinde fiyatları saniyeler içerisinde yükselten satıcılar, ucuz fiyata verilen siparişleri ise onaylamak yerine iptal ederek yeniden alım yapılmasını istediler.
+<figure class="wp-block-image size-large">![](images/coronavirus-2.jpg)</figure>Özellikle büyük ve 3. parti satıcıların aktif olduğu **e-Ticaret** sitelerinde fiyatları saniyeler içerisinde yükselten satıcılar, ucuz fiyata verilen siparişleri ise onaylamak yerine iptal ederek yeniden alım yapılmasını istediler.
 
 Bazı e-Ticaret siteleri ise bu tür ürünleri kısa süreliğine satıştan kaldırırken, vatandaşlar buna rağmen market raflarına ve online alışverişlerde başta tuvalet kağıdı olmak üzere birçok ürüne daha çok ilgi göstermeye başladı.

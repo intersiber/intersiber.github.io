@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5914'
 permalink: /facebook-whatsappa-reklam-koymayi-planliyor/
 post_views_count:
     - '35'
-image: /wp-content/uploads/2020/04/facebook-whatsappa-reklam-koymayi-planliyor.jpg
+image: images/facebook-whatsappa-reklam-koymayi-planliyor.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ tags:
 
 Facebook’un **kullanıcı gizliliği** konusundaki kötü şöhreti göz önüne alındığında, şirket yoğun bir incelemeye tabi tutulduğu zamanlarda reklamlar bu durumda şirkete kesinlikle yardımcı olmazdı. Bu nedenle planlarını erteleyen şirket tekrar reklamlar üzerine çalışmaya başladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/whatsapp-2-1600x1158.jpg)</figure>Uygulamayı Facebook’a satmadan önce, **WhatsApp’ın içerik oluşturucuları** reklamları eleştirmiş ve bunları sohbet uygulamasına getirmemeyi taahhüt etmişti. Bu durum WhatsApp’ın kurucuları **Jan Koum** ve **Brian Acton** tarafından da eleştirildi. Bu tür özelliklerin eklenmesinin, uçtan uca şifrelenmiş WhatsApp’ın **güvenliğinin** zayıflatılmasını gerektireceğini iddia ettiler.
+<figure class="wp-block-image size-large">![](images/whatsapp-2-1600x1158.jpg)</figure>Uygulamayı Facebook’a satmadan önce, **WhatsApp’ın içerik oluşturucuları** reklamları eleştirmiş ve bunları sohbet uygulamasına getirmemeyi taahhüt etmişti. Bu durum WhatsApp’ın kurucuları **Jan Koum** ve **Brian Acton** tarafından da eleştirildi. Bu tür özelliklerin eklenmesinin, uçtan uca şifrelenmiş WhatsApp’ın **güvenliğinin** zayıflatılmasını gerektireceğini iddia ettiler.
 
 Facebook, **Facebook Messenger**‘da bulunan bir özellik olan WhatsApp aracılığıyla işletmelerin müşterilere mesaj göndermesine odaklanacağını bildirdi. Şirket şu anda “işletmelerin müşterilerle iletişim kurmasına ve bu kişileri düzenlemesine izin vermek” için araçlara odaklandığını belirtti.
 

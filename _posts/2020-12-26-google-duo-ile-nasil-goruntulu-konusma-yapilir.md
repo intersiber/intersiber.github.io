@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10173'
 permalink: /google-duo-ile-nasil-goruntulu-konusma-yapilir/
 post_views_count:
     - '16'
-image: /wp-content/uploads/2020/12/google-duo-ile-nasil-goruntulu-konusma-yapilir.jpg
+image: images/google-duo-ile-nasil-goruntulu-konusma-yapilir.jpg
 categories:
     - 'Ne Nasıl?'
 tags:

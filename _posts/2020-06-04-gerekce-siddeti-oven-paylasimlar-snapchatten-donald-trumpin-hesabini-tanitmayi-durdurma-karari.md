@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8054'
 permalink: /gerekce-siddeti-oven-paylasimlar-snapchatten-donald-trumpin-hesabini-tanitmayi-durdurma-karari/
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/06/snap-inc-snapchat-sirketi.jpg
+image: images/snap-inc-snapchat-sirketi.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -26,4 +26,4 @@ Trump’ın **Snapchat’teki** takipçi sayısı 1 buçuk milyonun üzerinde. A
 
 Snap’in bu hareketi, **ABD’de** **George** **Floyd** adlı vatandaşın polis şiddeti nedeniyle hayatını kaybetmesinin ardından ortaya çıkan tepkilerin bir ifadesi. Twitter, geçtiğimiz günlerde Donald Trump’ın bir tweeti için, şiddeti yüceltme uyarısı koymuştu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/gerekce-siddeti-oven-tweetler-snapchat-ten-donald-trump-in-hesabini-tanitmayi-durdurma-karari-1.jpg)</figure>**Snap’in** bu kararı, Trump’ın Twitter’da, “Protestocular şimdiye kadar gördüğüm en kötü köpekler ve uğursuz silahlarla karşılanacak” paylaşımının ardından geldi. Trump kampanyasının başkanı **Brad** **Parscale**, yaptığı açıklamada Snap’i, rakip başkan aday adayı **Joe** **Biden’ı** öne çıkarmakla suçladı.
+<figure class="wp-block-image size-large">![](images/gerekce-siddeti-oven-tweetler-snapchat-ten-donald-trump-in-hesabini-tanitmayi-durdurma-karari-1.jpg)</figure>**Snap’in** bu kararı, Trump’ın Twitter’da, “Protestocular şimdiye kadar gördüğüm en kötü köpekler ve uğursuz silahlarla karşılanacak” paylaşımının ardından geldi. Trump kampanyasının başkanı **Brad** **Parscale**, yaptığı açıklamada Snap’i, rakip başkan aday adayı **Joe** **Biden’ı** öne çıkarmakla suçladı.

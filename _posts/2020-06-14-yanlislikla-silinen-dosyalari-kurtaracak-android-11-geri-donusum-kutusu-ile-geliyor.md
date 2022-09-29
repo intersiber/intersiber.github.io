@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8447'
 permalink: /yanlislikla-silinen-dosyalari-kurtaracak-android-11-geri-donusum-kutusu-ile-geliyor/
 post_views_count:
     - '103'
-image: /wp-content/uploads/2020/06/yanlislikla-silinen-dosyalari-kurtaracak-android-11-geri-donusum-kutusu-ile-geliyor.jpg
+image: images/yanlislikla-silinen-dosyalari-kurtaracak-android-11-geri-donusum-kutusu-ile-geliyor.jpg
 categories:
     - Mobil
 tags:
@@ -20,7 +20,7 @@ tags:
 
 Geri dönüşüm kutusu, Şubat ayında geliştiricilere açılan **Android** **11** test sürümünde belli olmuştu ancak şu ana kadar ciddi bir detay içermiyordu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/android-11-ozellikleri.jpg)</figure>Özellik, **Windows’un** klasik geri dönüşüm kutusu ya da macOS çöp kutusu mantığı ile çalışıyor. Silinen dosyalar 30 gün boyunca telefondan kaldırılmıyor ve silinen dosyalarınızı geri getirmek istediğinizde, geri dönüşüm kutusundan dosyayı geri getirme şansınız oluyor.
+<figure class="wp-block-image size-large">![](images/android-11-ozellikleri.jpg)</figure>Özellik, **Windows’un** klasik geri dönüşüm kutusu ya da macOS çöp kutusu mantığı ile çalışıyor. Silinen dosyalar 30 gün boyunca telefondan kaldırılmıyor ve silinen dosyalarınızı geri getirmek istediğinizde, geri dönüşüm kutusundan dosyayı geri getirme şansınız oluyor.
 
 Depolama alanından silinen dosyaların hemen silinmesi ve yedek alan olmadığı sürece kurtarma imkanının olmadığı **Android’de**, geri dönüşüm kutusu önemli bir özellik. Artık, yanlışlıkla sildiğiniz ancak işinize yarayan dosyalar için artık üzülmenize gerek yok.
 

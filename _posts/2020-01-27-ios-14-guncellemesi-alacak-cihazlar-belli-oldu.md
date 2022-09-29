@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '140'
-image: /wp-content/uploads/2020/01/ios-14-destekleyen-cihazlar.jpg
+image: images/ios-14-destekleyen-cihazlar.jpg
 categories:
     - Apple
     - Mobil
@@ -29,7 +29,7 @@ Apple iOS 14 güncellemesinin hangi cihazlar tarafından destekleneceği belli o
 
 Apple şirket politikası olarak, neredeyse tüm cihazlarına uzun süreli güncelleme desteği sunuyor. Nispeten eski model cihazlara sahip kullanıcılar için güncelleme almak ise her zaman mümkün olmuyor.
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.com/wp-content/uploads/2020/01/ios-14-guncelleme-cihazlar.jpg?fit=640%2C293&ssl=1)</figure>Apple’ın iOS 14 güncellemesi alacak cihazları [gelen bilgilere göre](https://iphonesoft.fr/2020/01/26/ios-14-ipados-14-liste-iphone-ipad-compatibles) şöyle olacak;
+<figure class="wp-block-image size-large">![](https://i0.wp.com/intersiber.comimages/ios-14-guncelleme-cihazlar.jpg?fit=640%2C293&ssl=1)</figure>Apple’ın iOS 14 güncellemesi alacak cihazları [gelen bilgilere göre](https://iphonesoft.fr/2020/01/26/ios-14-ipados-14-liste-iphone-ipad-compatibles) şöyle olacak;
 
 - iPhone 11 Pro Max
 - iPhone 11 Pro

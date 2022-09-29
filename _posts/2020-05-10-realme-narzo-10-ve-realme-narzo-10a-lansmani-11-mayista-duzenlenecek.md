@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6706'
 permalink: /realme-narzo-10-ve-realme-narzo-10a-lansmani-11-mayista-duzenlenecek/
 post_views_count:
     - '87'
-image: /wp-content/uploads/2020/05/realme-narzo-10-ve-realme-narzo-10a-lansmani-11-mayista-duzenlenecek.png
+image: images/realme-narzo-10-ve-realme-narzo-10a-lansmani-11-mayista-duzenlenecek.png
 categories:
     - Mobil
 tags:
@@ -21,11 +21,11 @@ tags:
 
 **Realme**, son birkaç haftada **Narzo 10 serisi** özelliklerini tanıtmaya başlamıştı. Tanıtımlara göre, **Realme Narzo 10** ve **Narzo 10A** akıllı telefonlar, hızlı şarjı destekleyen **5.000mAh** pil taşıyacak. Şirket ayrıca kutuda hızlı bir şarj cihazı da paketleyecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/realme-narzo-10-a.jpg)</figure>Realme iki telefonun da su damlası tarzı bir çentik ile **6.5** inçlik bir ekrana sahip olacağını belirtti. Ayrıca her iki telefonun da Android 10’da Realme UI ve HD+ (720×1.600 piksel) çözünürlüklü ekranlarla çalıştığı söyleniyor.
+<figure class="wp-block-image size-large">![](images/realme-narzo-10-a.jpg)</figure>Realme iki telefonun da su damlası tarzı bir çentik ile **6.5** inçlik bir ekrana sahip olacağını belirtti. Ayrıca her iki telefonun da Android 10’da Realme UI ve HD+ (720×1.600 piksel) çözünürlüklü ekranlarla çalıştığı söyleniyor.
 
 Narzo 10’un **MediaTek Helio G80 SoC** tarafından desteklendiği, 3GB ve **4GB** olmak üzere **iki RAM** seçeneğiyle geleceği söylenirken, Narzo 10A’nın **tek** bir **3GB RAM** seçeneğiyle **MediaTek Helio G70 SoC** kullanacağı bildiriliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/Realme-Narzo-10.jpg)</figure>Teaser görüntüleri Narzo 10A’da **üçlü** arka kameraların varlığını gösterirken, görüntülerden Narzo 10’un arkasının **dört kamera** ile donatıldığını görüyoruz. Realme Narzo 10’daki kamera kurulumu, 8 megapiksel ultra geniş açılı kamera, tek renkli bir sensör ve **48 megapiksel** ana atıcı dışında bir makro kamera içerecek şekilde tasarlanmış. Realme Narzo 10A’nın ise **12 megapiksel** ana atıcı taşıdığı söyleniyor.
+<figure class="wp-block-image size-large">![](images/Realme-Narzo-10.jpg)</figure>Teaser görüntüleri Narzo 10A’da **üçlü** arka kameraların varlığını gösterirken, görüntülerden Narzo 10’un arkasının **dört kamera** ile donatıldığını görüyoruz. Realme Narzo 10’daki kamera kurulumu, 8 megapiksel ultra geniş açılı kamera, tek renkli bir sensör ve **48 megapiksel** ana atıcı dışında bir makro kamera içerecek şekilde tasarlanmış. Realme Narzo 10A’nın ise **12 megapiksel** ana atıcı taşıdığı söyleniyor.
 
 ## Lansman Ne Zaman Olacak?
 

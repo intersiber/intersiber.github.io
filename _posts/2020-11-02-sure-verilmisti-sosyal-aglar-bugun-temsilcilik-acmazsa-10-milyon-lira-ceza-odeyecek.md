@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9487'
 permalink: /sure-verilmisti-sosyal-aglar-bugun-temsilcilik-acmazsa-10-milyon-lira-ceza-odeyecek/
 post_views_count:
     - '33'
-image: /wp-content/uploads/2020/11/sure-verilmisti-sosyal-aglar-bugun-temsilcilik-acmazsa-10-milyon-lira-ceza-odeyecek.jpg
+image: images/sure-verilmisti-sosyal-aglar-bugun-temsilcilik-acmazsa-10-milyon-lira-ceza-odeyecek.jpg
 categories:
     - 'Sosyal Medya'
 tags:

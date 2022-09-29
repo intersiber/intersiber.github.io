@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/02/cenevre-otomobil-fuari-coronavirus-sebebiyle-iptal-edildi-scaled.jpeg
+image: images/cenevre-otomobil-fuari-coronavirus-sebebiyle-iptal-edildi-scaled.jpeg
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ Coronavirus sebebiyle iptal edilen etkinliklere bir yenisi daha eklendi. Mobil D
 
 Yapılan açıklamada katılımcıların sağlığının her şeyden önemli olduğu belirtildi. Ayrıca fuar için büyük yatırımlar yapan üreticilerin büyük bir kayıp yaşayacaklarına ve bu kararı anlayışla karşılayacaklarına olan inanca vurgu yapıldı.
 
-<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/02/cenevre-otomobil-fuari-coronavirus-sebebiyle-iptal-edildi-2.jpg?fit=640%2C419&ssl=1)</figure>## İsviçre’de coronavirus alarmı
+<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.comimages/cenevre-otomobil-fuari-coronavirus-sebebiyle-iptal-edildi-2.jpg?fit=640%2C419&ssl=1)</figure>## İsviçre’de coronavirus alarmı
 
 İsviçre’de şu an için 15 kişiye coronavirus bulaşmış durumda. Ayrıca yaklaşık 100 kişi de karantina altında tutuluyor. **İsviçre** hükümeti 15 Mart’a kadar 1000’den fazla kişinin katılacağı toplantılara yasak getirmiş durumda.
 

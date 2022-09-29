@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/Apple-AirTags-2.jpg
+image: images/Apple-AirTags-2.jpg
 categories:
     - Apple
 tags:
@@ -27,6 +27,6 @@ Apple’ın kayıp ürün ve cihazları bulabilmek adına geliştirme aşamasın
 
 İnternet veya GPS olmadan çalışabileceği iddia edilen cihazın bluetooth sinyalleri ile çalışması, kullanıcısını belirli bir mesafeden sonra uyarması gibi özellikler ile cihaz ve ürün kaybının önüne geçebileceği iddia ediliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/Apple-AirTags.jpg)</figure>Ancak Apple’ın bu konuda henüz kesin bir doğrulaması yok. Teknoloji üreticisi şirketin bu cihazı ile ilgili bilgi sadece geçtiğimiz haftalarda ortaya çıkan bir “iPhone nasıl sıfırlanır?” videosu içerisinde yer almış ve iOS 13 sistem kodları arasında da AirTags ile ilgili bazı kod satırlarına ulaşılmıştı. Cihazın Haziran 2020’de tanıtılabileceğinden söz ediliyor.
+<figure class="wp-block-image size-large">![](images/Apple-AirTags.jpg)</figure>Ancak Apple’ın bu konuda henüz kesin bir doğrulaması yok. Teknoloji üreticisi şirketin bu cihazı ile ilgili bilgi sadece geçtiğimiz haftalarda ortaya çıkan bir “iPhone nasıl sıfırlanır?” videosu içerisinde yer almış ve iOS 13 sistem kodları arasında da AirTags ile ilgili bazı kod satırlarına ulaşılmıştı. Cihazın Haziran 2020’de tanıtılabileceğinden söz ediliyor.
 
 Apple’ın cihaz bulma uygulamaları ile iPhone ve diğer ürünleri bulma stratejisi başarılı olurken, bu cihazında çok fazla ilgi göreceği kesin.

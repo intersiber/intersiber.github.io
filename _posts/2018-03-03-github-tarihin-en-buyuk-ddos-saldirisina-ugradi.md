@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '210'
-image: /wp-content/uploads/2018/03/github-ddos-saldiri.jpg
+image: images/github-ddos-saldiri.jpg
 categories:
     - Genel
     - 'Öne Çıkan'
@@ -27,7 +27,7 @@ tags:
 
 Saldırganlar, saldırı için herhangi bir botnet ağı kullanmadılar, saldırı için yalnızca yanlış yapılandırılmış Memcached sunucularını kullandılar.
 
-![](https://intersiber.com/wp-content/uploads/2018/03/github-28-subat-ddos-memcrashed-memcached.png)
+![](images/github-28-subat-ddos-memcrashed-memcached.png)
 
 Popüler açık kaynaklı önbellekleme sistemi Memcached, yanlış yapılandırmaya sahip web sunucularını bir nevi botnet ağı haline getirdi. Geçen seneki [Mirai botnet](https://intersiber.com/mirainin-ev-routerlarina-yonelik-yeni-saldirisi/) saldırılarından sonra bu saldırı bir hayli diikkat çekti. [Github mühendislik blogunda](https://githubengineering.com/ddos-incident-report/) yapılan yayında, binlerce farklı uç noktadan binlerce farklı istek yapıldığını ve 1.35 Tbps zirve noktasıyla saniyede 126.9 milyon paketle saldırının gerçekleştirildiği açıklandı.
 

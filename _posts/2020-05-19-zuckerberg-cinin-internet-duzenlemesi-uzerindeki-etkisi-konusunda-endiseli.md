@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7146'
 permalink: /zuckerberg-cinin-internet-duzenlemesi-uzerindeki-etkisi-konusunda-endiseli/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/05/zuckerberg-cin-in-internet-duzenlemesi-uzerindeki-etkisi-konusunda-endiseli.jpg
+image: images/zuckerberg-cin-in-internet-duzenlemesi-uzerindeki-etkisi-konusunda-endiseli.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -23,7 +23,7 @@ Avrupa Birliği yetkilileri ile bir görüşme gerçekleştiren Facebook CEO’s
 
 **Mark** **Zuckerberg**, otoriter bir internet düzenlemesine sahip olan ve dünyaca ünlü birçok siteye erişimin engellendiği Çin’in internet düzenlemelerini daha önce de eleştirmişti. **Çin’in**, internetin geri kalanı için kuralları belirlemesine izin vermemenin önemli olduğunu söyleyen Zuckerberg, ifade özgürlüğüne vurgu yapmıştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/cin-de-hangi-internet-siteler-yasakli-1600x883.png)<figcaption>Çin’de erişim engeli bulunan web sitelerden bazıları. Kaynak: Wikipedi</figcaption></figure>**Zuckerberg**, AB’nin **Facebook**, **Twitter**, **Google** ve diğer internet devlerinin, AB’de kullanıcı verilerini toplama sürecindeki prosedürleri uygulayan GPDR yönetmeliğine ise övgüde bulundu.
+<figure class="wp-block-image size-large">![](images/cin-de-hangi-internet-siteler-yasakli-1600x883.png)<figcaption>Çin’de erişim engeli bulunan web sitelerden bazıları. Kaynak: Wikipedi</figcaption></figure>**Zuckerberg**, AB’nin **Facebook**, **Twitter**, **Google** ve diğer internet devlerinin, AB’de kullanıcı verilerini toplama sürecindeki prosedürleri uygulayan GPDR yönetmeliğine ise övgüde bulundu.
 
 ## Facebook’un koronavirüs tutumu
 

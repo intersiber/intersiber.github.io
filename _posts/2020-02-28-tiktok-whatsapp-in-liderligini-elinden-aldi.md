@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '70'
-image: /wp-content/uploads/2020/02/tiktok-intersiber.jpg
+image: images/tiktok-intersiber.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -28,7 +28,7 @@ Dünyanın en popüler sosyal ağlarından olan **TikTok** büyük bir başarı 
 
 TikTok 2019 yılının son ayında Facebook’u geride bırakarak dünyanın en popüler ikinci uygulaması olmuştu. Sensor Tower tarafından hazırlanan yeni bir rapora göre, TikTok ve Çince versiyonu Douyin 2020 yılının Ocak ayında **104 milyon** indirmeye ulaşarak birinci sıraya yükseldi. TikTok bu sayede dünyanın en popüler uygulaması ünvanını WhatsApp’ın elinden aldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/tiktok-whatsapp-birinciligini-elinden-aldi.png)</figure>## Toplam 1.82 milyar kez indirildi
+<figure class="wp-block-image size-large">![](images/tiktok-whatsapp-birinciligini-elinden-aldi.png)</figure>## Toplam 1.82 milyar kez indirildi
 
 TikTok dünya genelinde ise **1.82** milyardan fazla kez indirildi. Uygulamanın en çok indirildiği ülkeler ise sırasıyla %34.4, %10.4 ve %7.3 olarak **Hindistan**, **Brezilya** ve **ABD**.
 

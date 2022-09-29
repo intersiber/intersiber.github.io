@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6011'
 permalink: /huawei-telefonlari-googlein-covid-19-takibi-yazilim-guncellemesini-alacak/
 post_views_count:
     - '25'
-image: /wp-content/uploads/2020/04/huawei-telefonlari-google-in-covid-19-takip-yazilimi-guncellemesini-alacak.jpeg
+image: images/huawei-telefonlari-google-in-covid-19-takip-yazilimi-guncellemesini-alacak.jpeg
 categories:
     - Genel
     - Mobil
@@ -34,7 +34,7 @@ Google’ın Apple ile ortaklık kurarak geliştirdiği insan takip sisteminin M
 
 ## Eski telefonlar güncellemeyi alamayabilir
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/google-ve-apple-in-koronavirus-takip-projesi.png)</figure>Google ve Apple’ın covid-19 takip sistemi, kablosuz çipler üzerinden bir temas takibi yapacak. Bu özellik de, bazı eski telefonlarda bulunmuyor. Düşük güç tüketimli Bluetooth sürümü olan **Bluetooth Düşük Enerji (BLE)** sisteminin yer almadığı telefonlar, sisteme bağlanamayacak.
+<figure class="wp-block-image size-large">![](images/google-ve-apple-in-koronavirus-takip-projesi.png)</figure>Google ve Apple’ın covid-19 takip sistemi, kablosuz çipler üzerinden bir temas takibi yapacak. Bu özellik de, bazı eski telefonlarda bulunmuyor. Düşük güç tüketimli Bluetooth sürümü olan **Bluetooth Düşük Enerji (BLE)** sisteminin yer almadığı telefonlar, sisteme bağlanamayacak.
 
 The Financial Times, BLE olmayan akıllı telefonların sayısının dünya çapında 2 milyara yakın olabileceğini aktardı.
 

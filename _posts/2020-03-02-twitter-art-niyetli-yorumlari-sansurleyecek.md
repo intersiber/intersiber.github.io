@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/twitter-art-niyetli-yorumlari-sansurleyecek-2.png
+image: images/twitter-art-niyetli-yorumlari-sansurleyecek-2.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -27,6 +27,6 @@ tags:
 
 Twitter tarafından yapılan açıklamada kısa bir zaman sonra devreye girecek olan sistemin özellikleri açıklandı. Buna göre artık hakaret ya da art niyet içerikli yorumlar, filtreden geçecek ve zararlı görülen yorumlar otomatik olarak gizlenecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/twitter-art-niyetli-yorumlari-sansurleyecek.png)</figure>## **Zararlılık Puanına Göre Yaptırım Uygulanacak**
+<figure class="wp-block-image size-large">![](images/twitter-art-niyetli-yorumlari-sansurleyecek.png)</figure>## **Zararlılık Puanına Göre Yaptırım Uygulanacak**
 
 Kullanıcıların paylaşımlara attığı yorumlar, zararlılık puanı sisteminden geçecek. Bu uygulamayla birlikte **Twitter** kullananlarda derin bir nefes alabilecek. Birçok kullanıcı, hakaret ya da art niyetli yorumlar sebebiyle paylaşım yapmamayı tercih ediyordu. Siber zorbalık olarak tanımlanan bu durum, Twitter tarafından geliştirilen bu yeni özellikle artık büyük bir oranda engellenebilecek.

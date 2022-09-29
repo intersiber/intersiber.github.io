@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '12304'
-image: /wp-content/uploads/2020/03/1890-yilinda-kaydedilen-paris-seyahati-yapay-zekayla-4k-cozunurluge-kavustu.jpg
+image: images/1890-yilinda-kaydedilen-paris-seyahati-yapay-zekayla-4k-cozunurluge-kavustu.jpg
 categories:
     - Genel
 tags:
@@ -32,7 +32,7 @@ Yapay zeka uygulama alanları her geçen gün daha ilgi çekici bir noktaya iler
 
 Video 4K çözünürlüğünde izlenebiliyor ancak 4K çözünürlüğü şu anda beta aşamasında. İlerleyen günlerde geliştirilmiş bir **4K Paris videosu** izleyebiliriz.
 
-<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.com/wp-content/uploads/2020/03/1890-yilinda-kaydedilen-paris-seyahati-yapay-zekayla-4k-cozunurluge-kavustu.png?fit=640%2C270&ssl=1)</figure>## Bu Vlog 130 yaşında
+<figure class="wp-block-image size-large">![](https://i2.wp.com/intersiber.comimages/1890-yilinda-kaydedilen-paris-seyahati-yapay-zekayla-4k-cozunurluge-kavustu.png?fit=640%2C270&ssl=1)</figure>## Bu Vlog 130 yaşında
 
 Paylaşılan video 1890’lardaki Paris sokaklarında geçiyor. Bir nevi vlog sayılabilecek video, dönemin Paris yaşantısı hakkında güzel detaylar barındırıyor.
 

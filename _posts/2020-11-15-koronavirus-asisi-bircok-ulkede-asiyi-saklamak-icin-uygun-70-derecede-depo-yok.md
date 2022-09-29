@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9672'
 permalink: /koronavirus-asisi-bircok-ulkede-asiyi-saklamak-icin-uygun-70-derecede-depo-yok/
 post_views_count:
     - '32'
-image: /wp-content/uploads/2020/11/koronavirus-asisi-bircok-ulkede-asiyi-saklamak-icin-eksi-70-derecede-depo-yok.jpg
+image: images/koronavirus-asisi-bircok-ulkede-asiyi-saklamak-icin-eksi-70-derecede-depo-yok.jpg
 categories:
     - Genel
 tags:

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/NVIDIA-GeForce-Now.jpg
+image: images/NVIDIA-GeForce-Now.jpg
 categories:
     - Oyun
 tags:
@@ -26,7 +26,7 @@ tags:
 
 Nvidia, GeForce Now ile büyük başarısını daha da arttırmaya yönelik çalışmalarına hız kesmeden devam ediyor. Bunun için büyük bir adım atarak, bekleme listesini ortadan kaldırdı. Böylece yeni kullanıcılarına anlık kayıt özelliği sunmuş oldu.
 
-<div class="wp-block-image"><figure class="aligncenter size-full">![](https://intersiber.com/wp-content/uploads/2020/02/nvidia-corporation-about-us-our-company-297-tm@2x.jpg)</figure></div>**Yetkililer GeForce Now Kullanıcı Sayısını Açıkladı**
+<div class="wp-block-image"><figure class="aligncenter size-full">![](images/nvidia-corporation-about-us-our-company-297-tm@2x.jpg)</figure></div>**Yetkililer GeForce Now Kullanıcı Sayısını Açıkladı**
 
 Şirket tarafından yapılan açıklama da elde ettikleri büyük başarının altını çizen yetkililer, an itibari ile 1 milyondan fazla kullanıcıya sahip olduklarını da duyurdu. Yeni kullanıcılar içinde bekleme listesini kaldırıp, 90 günlük ücretsiz Founders üyeliği ile beklemeden kayıt olma özelliğini aktif ettiklerini belirttiler. Buna ek olarak 90 günlük ücretsiz Founders üyeliği bitmeden de yayıncıların oyunları kaldırabileceği vurgulandı.
 

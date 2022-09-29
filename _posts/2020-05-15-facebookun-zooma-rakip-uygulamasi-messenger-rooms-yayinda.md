@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6956'
 permalink: /facebookun-zooma-rakip-uygulamasi-messenger-rooms-yayinda/
 post_views_count:
     - '41'
-image: /wp-content/uploads/2020/05/facebook-un-zoom-a-rakip-uygulamasi-messenger-rooms-yayinda.png
+image: images/facebook-un-zoom-a-rakip-uygulamasi-messenger-rooms-yayinda.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -19,7 +19,7 @@ Facebook, yaptığı açıklamada şirketin yeni görüntülü sohbet ürünü *
 
 ## Gizlilik ve güvenlik özellikleri ön planda
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/messenger-rooms-nasil-kullanilir.png)</figure>**Messenger** **Rooms’un** özelliklerini paylaşan **Facebook** yetkilileri, uygulamadaki video görüşmelere kimlerin katılıp katılamayacağı konusunda güçlü bir kontrolün olacağını vurguladı. Özellikle, çeşitli gizlilik sorunları ile gündeme gelen Zoom’un yanında Messenger Rooms, bu yönü ile ön plana çıkabilir. Şirket yetkilileri, blog paylaşımında “Konuşma odalarınızı **Facebook** haber akışı, gruplar ya da etkinlikler üzerinde paylaşabilirsiniz. Başka kimsenin katılmasını istemiyorsanız, odanızı kimlerin görebileceğini ve katılabileceğini seçebilir, odanızdaki kişileri çıkarabilir ve odayı kitleyebilirsiniz” ifadeleri ile, projeyi özetlemişti.
+<figure class="wp-block-image size-large">![](images/messenger-rooms-nasil-kullanilir.png)</figure>**Messenger** **Rooms’un** özelliklerini paylaşan **Facebook** yetkilileri, uygulamadaki video görüşmelere kimlerin katılıp katılamayacağı konusunda güçlü bir kontrolün olacağını vurguladı. Özellikle, çeşitli gizlilik sorunları ile gündeme gelen Zoom’un yanında Messenger Rooms, bu yönü ile ön plana çıkabilir. Şirket yetkilileri, blog paylaşımında “Konuşma odalarınızı **Facebook** haber akışı, gruplar ya da etkinlikler üzerinde paylaşabilirsiniz. Başka kimsenin katılmasını istemiyorsanız, odanızı kimlerin görebileceğini ve katılabileceğini seçebilir, odanızdaki kişileri çıkarabilir ve odayı kitleyebilirsiniz” ifadeleri ile, projeyi özetlemişti.
 
 Messenger, bireysel aramalar ve görüntülü sohbetler için kulanılmaya devam ediyor. Ancak şu anda uygulamada “kişiler” bölümüne dokununca, artık bir “oda oluşturma” seçeneğine de sahipsiniz. Odayı paylaşmak istediğiniz bir arkadaşınıza, bağlantıyı göndermeniz yeterli olacak. Dilerseniz Messenger listenizde, davet alacak kişileri belirleyebilirsiniz. Dilerseniz odayı tüm arkadaş listenize açık hale getirebilir, ya da herkese açık olarak da planlayabilirsiniz.
 

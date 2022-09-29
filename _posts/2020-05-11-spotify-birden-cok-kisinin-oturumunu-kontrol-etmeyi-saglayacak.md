@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6749'
 permalink: /spotify-birden-cok-kisinin-oturumunu-kontrol-etmeyi-saglayacak/
 post_views_count:
     - '82'
-image: /wp-content/uploads/2020/05/spotify-birden-cok-kisinin-oturumunu-kontrol-etmeyi-saglayacak.jpg
+image: images/spotify-birden-cok-kisinin-oturumunu-kontrol-etmeyi-saglayacak.jpg
 categories:
     - Genel
 tags:
@@ -19,7 +19,7 @@ Spotify, premium üyeliğe sahip kullanıcılarına ilginç bir özellik sunuyor
 
 ## Spotify grup oturumu nasıl açılır?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/spotify-grup-oturumu-nasil-acilir.jpg)</figure>Eğer siz de, DJ’lik hünerlerinizi göstermek istiyorsanız tek yapmanız gereken, uygulamada taranabilecek bir **Spotify** kodunu arkadaşlarınızla paylaşmak. **Grup** **oturumunun** yöneticisi, çalan şarkıları düzenleyebildiği gibi sıradaki şarkıları seçebilir, atlayabilir ve listeye kendi seçimlerini ekleyebilir.
+<figure class="wp-block-image size-large">![](images/spotify-grup-oturumu-nasil-acilir.jpg)</figure>Eğer siz de, DJ’lik hünerlerinizi göstermek istiyorsanız tek yapmanız gereken, uygulamada taranabilecek bir **Spotify** kodunu arkadaşlarınızla paylaşmak. **Grup** **oturumunun** yöneticisi, çalan şarkıları düzenleyebildiği gibi sıradaki şarkıları seçebilir, atlayabilir ve listeye kendi seçimlerini ekleyebilir.
 
 Oturumlar, bir saat süre boyunca bir işlem yapılmadığında otomatik olarak sona erecek. Şarkı sırası ise herkesin cihazında otomatik olarak güncellenecek. **Spotify** şu anda grup oturumlarına katılımcı sayısı ile ilgili bir detay vermedi. Ancak gelen bilgilere göre şirket, yeni ve heyecan verici bu özellikle ilgili, kullanıcılardan gelen geri bildirimleri dikkatle takip ederek, zaman içerisinde daha iyi bir deneyim sunmayı planlıyor.
 

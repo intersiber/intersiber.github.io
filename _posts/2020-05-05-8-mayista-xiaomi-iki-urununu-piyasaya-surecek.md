@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6450'
 permalink: /8-mayista-xiaomi-iki-urununu-piyasaya-surecek/
 post_views_count:
     - '47'
-image: /wp-content/uploads/2020/05/8-mayista-xiaomi-iki-urununu-piyasaya-surecek.jpg
+image: images/8-mayista-xiaomi-iki-urununu-piyasaya-surecek.jpg
 categories:
     - Mobil
 tags:

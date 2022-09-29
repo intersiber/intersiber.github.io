@@ -24,7 +24,7 @@ Uzun bir süredir Mac kullanıyorsanız, Intel işlemcili Mac modellerinde kurta
 
 Menü çubuğundaki Apple simgesine tıklayıp, Bu **Mac** **Hakkında’ya** giderek, Apple işlemcili bir bilgisayara sahip olduğunuzdan emin olduktan sonra, kurtarma moduna gitmek için aşağıdaki adımları izleyin.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/apple-silicon-lu-mac-modelleri-m1-islemcili-macbooklar.png)</figure>- İlk olarak Mac’i kapatın. Ardından MacBook’un güç düğmesine basılı tutun.
+<figure class="wp-block-image size-large">![](images/apple-silicon-lu-mac-modelleri-m1-islemcili-macbooklar.png)</figure>- İlk olarak Mac’i kapatın. Ardından MacBook’un güç düğmesine basılı tutun.
 - Ekranda, “Başlangıç seçeneklerini yükleme” ifadesini görene kadar güç düğmesini basılı tutmaya devam edin.
 - Birkaç saniye içinde, Mac önyükleme sürücünüzü ve bir “Seçenekler” düğmesini göreceksiniz. “Seçenekler” düğmesini seçin ve ardından “Devam et” düğmesine tıklayın.
 - Sonraki adımda Mac’iniz, sizden bir kullanıcı adı seçmenizi isteyecektir, seçtikten sonra İleri butonuna tıklayın.
@@ -35,7 +35,7 @@ Hesabın şifresini girdikten sonra artık Mac’in kurtarma modundasınız.
 
 Mac kurtarma modu, işletim sistemini yeniden yüklemenin yanı sıra, Time Machine üzerinden geri yükleme, Mac’i biçimlendirme gibi işlemleri yapabiliyor. Bu süreçlerin yönetimi, eski Mac modelleri ile aynı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/macbook-kurtarma-modu-nedir.jpeg)</figure>Kurtarma modunda işleminizi tamamladıktan sonra, menü çubuğundan Apple seçeneğine tıklayarak, yeniden başlatın.
+<figure class="wp-block-image size-large">![](images/macbook-kurtarma-modu-nedir.jpeg)</figure>Kurtarma modunda işleminizi tamamladıktan sonra, menü çubuğundan Apple seçeneğine tıklayarak, yeniden başlatın.
 
 Birkaç saniye içinde Mac’iniz yeniden başlayacak ve oturum açma ekranına gideceksiniz.
 

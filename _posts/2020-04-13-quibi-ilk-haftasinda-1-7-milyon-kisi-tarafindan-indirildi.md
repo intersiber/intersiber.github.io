@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5398'
 permalink: /quibi-ilk-haftasinda-1-7-milyon-kisi-tarafindan-indirildi/
 post_views_count:
     - '55'
-image: /wp-content/uploads/2020/04/quibi-ilk-haftasinda-1-7-milyon-kisi-tarafindan-indirildi.png
+image: images/quibi-ilk-haftasinda-1-7-milyon-kisi-tarafindan-indirildi.png
 categories:
     - Girişim
 tags:
@@ -23,7 +23,7 @@ tags:
 
 Android ve iOS uygulama mağazalarında yer alan Quibi uygulaması, kullanıcılara verdiği 90 günlük deneme süresi ile dikkat çekiyor. Analistler, ilk hafta için 1 ile 1 buçuk milyon arası indirme tahmin ederken, açıklanan 1,7 milyon rakamı yüksek görüldü. Her ne kadar, yeni bir uygulama için ciddi bir indirme sayısı olsa da, bu düzey Quibi’nin rakiplerine göre hala pastada küçük bir dilim. Disney Plus, lansman gününde 10 milyon kullanıcı ve 3.2 milyon uygulama indirmesini aşmıştı. Quibi, 90 günlük deneme süresinin ardından reklamları içeren abonelik planında ayda 4,99 dolar, reklamsız planda ise 7,99 dolar ücret alacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/quibi-indirme-sayisi-2-milyona-yaklasti.png)</figure>Whitman, yaptığı açıklamada analizlerine göre, bir programı izlemeye başlayan kullanıcıların yüzde 80’inin ilk bölümü bitirdiğini vurguladı. **Quibi** **içerikleri**, en fazla 10 dakikalık bölümlerden oluşuyor.
+<figure class="wp-block-image size-large">![](images/quibi-indirme-sayisi-2-milyona-yaklasti.png)</figure>Whitman, yaptığı açıklamada analizlerine göre, bir programı izlemeye başlayan kullanıcıların yüzde 80’inin ilk bölümü bitirdiğini vurguladı. **Quibi** **içerikleri**, en fazla 10 dakikalık bölümlerden oluşuyor.
 
 ## TV uygulaması önemli bir eksiklik
 

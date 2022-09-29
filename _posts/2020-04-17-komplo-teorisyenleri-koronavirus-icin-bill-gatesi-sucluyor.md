@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5582'
 permalink: /komplo-teorisyenleri-koronavirus-icin-bill-gatesi-sucluyor/
 post_views_count:
     - '52'
-image: /wp-content/uploads/2020/04/komplo-teorisyenleri-koronavirus-icin-bill-gates-i-sucluyor.jpeg
+image: images/komplo-teorisyenleri-koronavirus-icin-bill-gates-i-sucluyor.jpeg
 categories:
     - Genel
 tags:
@@ -34,7 +34,7 @@ Konuyu gündeme getiren The Times, Bill Gates’i hedef alan komplo teorilerinde
 
 ## Gates Vakfı koronavirüsle mücadele için 250 milyon dolar bağış yapacak
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/bill-gates-vakfi-koronavirus-bagis.jpg)</figure>**Bill Gates** ve eşi Melinda Gates tarafından kurulan Gates Vakfı, bir kısmı aşı geliştirme için olmak üzere **koronavirüsle** savaş konusunda 250 milyon dolarlık bir vaatte bulunmuştu. Salgınla ilgili TV’de de konuşan Gates, virüsle savaşma konusunda kendi düşüncelerini anlattı ve Başkan Donald Trump’ı eleştirdi.
+<figure class="wp-block-image size-large">![](images/bill-gates-vakfi-koronavirus-bagis.jpg)</figure>**Bill Gates** ve eşi Melinda Gates tarafından kurulan Gates Vakfı, bir kısmı aşı geliştirme için olmak üzere **koronavirüsle** savaş konusunda 250 milyon dolarlık bir vaatte bulunmuştu. Salgınla ilgili TV’de de konuşan Gates, virüsle savaşma konusunda kendi düşüncelerini anlattı ve Başkan Donald Trump’ı eleştirdi.
 
 ## Koronavirüs komplo teorilerinin tek hedefi Gates değil
 

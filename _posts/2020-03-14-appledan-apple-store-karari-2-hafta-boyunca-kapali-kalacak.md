@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/apple-store-2-scaled.jpg
+image: images/apple-store-2-scaled.jpg
 categories:
     - Apple
 tags:
@@ -26,7 +26,7 @@ Apple CEO’su **Tim Cook**, bugün yaptığı yazılı açıklamada Apple’ın
 
 Bugünden itibaren gelecek 2 hafta (14 gün) boyunca tüm **Apple Store**‘ların kapalı kalacağını açıklayan Cook, müşterilerin bu süreçte sorun yaşamaları durumunda Apple Store’lara ulaşamayacaklarını söyledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/tim-cook-apple-store.jpg)</figure>Çin’de perakende satış mağazaları dışında bugün itibariyle tüm Apple Store mağazaları kapatılırken, Türkiye’de de Apple Store’ların kapalı kalacağı süre boyunca şirketin ne kadar zarar edeceği bilinmiyor.
+<figure class="wp-block-image size-large">![](images/tim-cook-apple-store.jpg)</figure>Çin’de perakende satış mağazaları dışında bugün itibariyle tüm Apple Store mağazaları kapatılırken, Türkiye’de de Apple Store’ların kapalı kalacağı süre boyunca şirketin ne kadar zarar edeceği bilinmiyor.
 
 Apple, bu kararın ardından Apple Store çalışanlarının maaşlarında bir kesintiye gitmeyecek.
 

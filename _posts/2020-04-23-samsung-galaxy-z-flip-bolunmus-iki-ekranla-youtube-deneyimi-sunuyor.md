@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5842'
 permalink: /samsung-galaxy-z-flip-bolunmus-iki-ekranla-youtube-deneyimi-sunuyor/
 post_views_count:
     - '68'
-image: /wp-content/uploads/2020/04/samsung-galaxy-z-flip-bolunmus-ekranla-farki-bir-youtube-deneyimi-sunuyor.png
+image: images/samsung-galaxy-z-flip-bolunmus-ekranla-farki-bir-youtube-deneyimi-sunuyor.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -22,4 +22,4 @@ Telefon kısmen açıldığında, Samsung’un yeni **katlanabilir ekranlı tele
 
 Samsung, Flex Mode’u geliştirmek için bir süredir Google mühendisleri ile birlikte çalıştığını ve bölünmüş ekran özelliğinin, diğer uygulamalara entegre edilebileceğini söylüyor. Google, Şubat ayında Flex Mode özelliğinin Samsung’a özel olmadığını ve diğer telefonların da bu özelliği sunabileceğini doğrulamıştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/samsung-galaxy-z-flip-fiyati-ne-kadar.jpeg)</figure>**Galaxy Z Flip**, Şubat ayında 1380 dolar fiyat etiketiyle piyasaya çıktı. Telefonun Türkiye’deki etiketi ise 12-13 bin TL aralığında. Her ne kadar katlanabilir ekranlı bir telefonun piyasada nasıl bir talep göreceği hala soru işareti olsa da, Galaxy Z Flip incelemlerinde telefonun sağlamlık hissinin öne çıktığı aktarıldı ve iyi bir katlanabilir ekran deneyimi sunulduğu ifade edildi. Her şeye rağmen, pahalı bir deney diyebiliriz…
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-z-flip-fiyati-ne-kadar.jpeg)</figure>**Galaxy Z Flip**, Şubat ayında 1380 dolar fiyat etiketiyle piyasaya çıktı. Telefonun Türkiye’deki etiketi ise 12-13 bin TL aralığında. Her ne kadar katlanabilir ekranlı bir telefonun piyasada nasıl bir talep göreceği hala soru işareti olsa da, Galaxy Z Flip incelemlerinde telefonun sağlamlık hissinin öne çıktığı aktarıldı ve iyi bir katlanabilir ekran deneyimi sunulduğu ifade edildi. Her şeye rağmen, pahalı bir deney diyebiliriz…

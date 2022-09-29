@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/galaxya31-1.jpg
+image: images/galaxya31-1.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ tags:
 
 Galaxy A31 çift tonlu cilalı bir gövdeye sahip. Özel çift SIM ve microSD yuvaları ile birlikte gelen yeni Galaxy A31 USB Type-C ile 15W hızlı şarj destekli dev bir 5000mAh batarya özellikleriyle ön plana çıkıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/galaxya31-2.jpg)</figure>#### Samsung Galaxy A31 Teknik Özellikleri
+<figure class="wp-block-image size-large">![](images/galaxya31-2.jpg)</figure>#### Samsung Galaxy A31 Teknik Özellikleri
 
 - 2400 x 1080 piksel 6,4 inç (Full HD + Infinity-U Süper AMOLED ekran)
 - Sekiz Çekirdekli MediaTek Helio P65 (MT6768) (2x Cortex-A75 @ 2.0 GHz 6x Cortex-A55 @ 2.0 GHz) ARM Mali-G52 GPU ile 12nm işlemci

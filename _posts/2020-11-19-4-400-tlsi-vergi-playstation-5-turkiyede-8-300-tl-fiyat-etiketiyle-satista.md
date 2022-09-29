@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9720'
 permalink: /4-400-tlsi-vergi-playstation-5-turkiyede-8-300-tl-fiyat-etiketiyle-satista/
 post_views_count:
     - '33'
-image: /wp-content/uploads/2020/11/play-station-5-turkiye-satis-fiyati-ozellikleri-ve-oyunlari.png
+image: images/play-station-5-turkiye-satis-fiyati-ozellikleri-ve-oyunlari.png
 categories:
     - Oyun
 tags:
@@ -58,7 +58,7 @@ Sony, PS5’i Türkiye’de 8.299 TL tavsiye edilen satış fiyatı ile sundu. P
 
 ## PS5 DualSense özellikleri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/ps5-oyun-kolu-dualsense-ozellikleri.png)</figure>PS5’in diğer bir yeniliği de, gelişmiş özelliklerle gelen oyun kontrol cihazı DualSense. DualSense’in özelliklerinden bazıları ise şu şekilde:
+<figure class="wp-block-image size-large">![](images/ps5-oyun-kolu-dualsense-ozellikleri.png)</figure>PS5’in diğer bir yeniliği de, gelişmiş özelliklerle gelen oyun kontrol cihazı DualSense. DualSense’in özelliklerinden bazıları ise şu şekilde:
 
 - Oyunun amacına göre artan ve azalan gelişmiş sertlik hissi
 - Gelişmiş titreşim motoru

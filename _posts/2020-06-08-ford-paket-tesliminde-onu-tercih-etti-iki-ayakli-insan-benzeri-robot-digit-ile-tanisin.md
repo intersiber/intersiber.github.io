@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8224'
 permalink: /ford-paket-tesliminde-onu-tercih-etti-iki-ayakli-insan-benzeri-robot-digit-ile-tanisin/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/06/ford-paket-tesliminde-onu-secti-iki-ayakli-insan-benzeri-roboot-digit-ile-tanisin.jpg
+image: images/ford-paket-tesliminde-onu-secti-iki-ayakli-insan-benzeri-roboot-digit-ile-tanisin.jpg
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Paketleriniz bir gün, size yürüyen bir **robot** tarafından teslim edilebili
 
 ## Digit nasıl doğdu? 
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/teslimat-robotu-digit-ozellikleri.png)</figure>Agility Robotics, 2017 yılında ağırlıklı olarak araştırmalar için kullanılan iki ayaklı bir robot olan Cassie’yi geliştirdi.
+<figure class="wp-block-image size-large">![](images/teslimat-robotu-digit-ozellikleri.png)</figure>Agility Robotics, 2017 yılında ağırlıklı olarak araştırmalar için kullanılan iki ayaklı bir robot olan Cassie’yi geliştirdi.
 
 2019’da Digit adı verilen robota iki ayak, gövde ve kollar eklendi.
 

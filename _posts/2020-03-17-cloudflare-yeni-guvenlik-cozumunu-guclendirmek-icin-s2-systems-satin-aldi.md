@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/cloudflare1.jpg
+image: images/cloudflare1.jpg
 categories:
     - Girişim
     - Güvenlik
@@ -28,6 +28,6 @@ ABD web altyapısı ve güvenlik şirketi Cloudflare, Seattle merkezli teknoloji
 
 S2 Systems, 2018 yılında kurumsal teknolojide güçlü geçmişlere sahip eski üst düzey Microsoft çalışanları tarafından kuruldu. S2’nin 10 çalışanı satın alma işleminin ardından **Cloudflare**‘ın yeni Seattle ofisine taşınacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/cloudflare-s2-systems-security.png)</figure>Satın almanın ardından Cloudflare, S2’nin teknolojisini ve şirket çalışanlarını, **Cloudflare for Teams** isimli verileri korumak için tasarlanmış yeni bir güvenlik paketinin parçası olan Cloudflare Gateway’e eklemeyi planlıyor.
+<figure class="wp-block-image size-large">![](images/cloudflare-s2-systems-security.png)</figure>Satın almanın ardından Cloudflare, S2’nin teknolojisini ve şirket çalışanlarını, **Cloudflare for Teams** isimli verileri korumak için tasarlanmış yeni bir güvenlik paketinin parçası olan Cloudflare Gateway’e eklemeyi planlıyor.
 
 S2 Systems, tarayıcıyı bir kullanıcının cihazından ziyade bulut sunucularında çalıştıran tarayıcı yalıtım teknolojisin sahibi. Bu çözüm, yalnızca istemcinin tarayıcısına oluşturma talimatları göndererek cihazdaki güvenlik tehditlerini en aza indirmeye yarıyor. Kullanıcılar, herkese açık internet genelinde tehditlerin oluşturduğu riskleri en aza indirerek içeriklere göz atabilir ve gezinebilir.

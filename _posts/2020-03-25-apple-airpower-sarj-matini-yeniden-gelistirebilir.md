@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/airpower.png
+image: images/airpower.png
 categories:
     - Apple
 tags:
@@ -29,6 +29,6 @@ tags:
 
 **Apple**, AirPower konusunda çok hevesliydi, ancak böyle bir şarj matı geliştirme girişimlerinde karşılaşacağı engelleri fark etmedi. **AirPower**, kullanıcıların kablosuz şarjlı Apple ürünlerini üzerine bırakıldığından şarj edebilmesi için, matın tüm yüzeyine kablosuz şarj bobinleri yerleştirmek zorunda kalmıştı. Ancak şarj bobinlerinin üst üste binen tasarımı sebebiyle mat çok ısınıyordu. Çözülemeyen tasarım sorunları nedeniyle AirPower, ilanından 18 ay sonra, **Apple** tarafından resmi olarak iptal edilmişti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/airpower-2.jpg)</figure>Apple’ın iptal kararından neredeyse bir yıl sonra, Front Page Tech’in kurucusu **Jon Prosser** tarafından AirPower projesinin yeniden geliştirilmeye başladığı iddia edildi. Jon Prosser’ın paylaşımına göre, Apple’ın şu anki prototiplerinin hiçbiri **Apple Watch** ile çalışmıyor ve bu AirPower için şuan karşılaşılan en büyük zorluk.
+<figure class="wp-block-image size-large">![](images/airpower-2.jpg)</figure>Apple’ın iptal kararından neredeyse bir yıl sonra, Front Page Tech’in kurucusu **Jon Prosser** tarafından AirPower projesinin yeniden geliştirilmeye başladığı iddia edildi. Jon Prosser’ın paylaşımına göre, Apple’ın şu anki prototiplerinin hiçbiri **Apple Watch** ile çalışmıyor ve bu AirPower için şuan karşılaşılan en büyük zorluk.
 
 AirPower’ın yeniden geliştirilmeye başlandığı şimdilik sadece bir iddiadan ibaret. Apple tarafından henüz resmi bir açıklama yok.

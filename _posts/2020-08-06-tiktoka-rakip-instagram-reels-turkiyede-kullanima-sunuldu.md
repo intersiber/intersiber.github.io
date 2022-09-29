@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9334'
 permalink: /tiktoka-rakip-instagram-reels-turkiyede-kullanima-sunuldu/
 post_views_count:
     - '117'
-image: /wp-content/uploads/2020/08/tiktoka-rakip-instagram-reels-turkiyede-kullanima-sunuldu.png
+image: images/tiktoka-rakip-instagram-reels-turkiyede-kullanima-sunuldu.png
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ tags:
 
 **IOS** ve **Android** kullanıcıları için sunulan özellikte videolar kullanıcıların ana sayfasında gönderi olarak yer alıyor. Keşfette de **Reels** videoları görüntülenebiliyor. Ayrıca **Reels** butanonu tıklayınca **Reels** ana sayfası açılıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/08/instagram-reels-1600x1067.jpg)</figure>## Instagram Reels’de Nasıl Video Paylaşılır?
+<figure class="wp-block-image size-large">![](images/instagram-reels-1600x1067.jpg)</figure>## Instagram Reels’de Nasıl Video Paylaşılır?
 
 1. İlk olarak **Instagram** uygulamasının **Hikaye** oluşturma ekranını açın.
 2. Sonra ekranın altındaki kaydırmalı menüden **REELS**’e gelin.

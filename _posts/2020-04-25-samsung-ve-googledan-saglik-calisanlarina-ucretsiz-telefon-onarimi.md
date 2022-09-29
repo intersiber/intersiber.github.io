@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5941'
 permalink: /samsung-ve-googledan-saglik-calisanlarina-ucretsiz-telefon-onarimi/
 post_views_count:
     - '97'
-image: /wp-content/uploads/2020/04/samsung-ve-google-dan-saglik-calisanlarina-ucretsiz-telefon-onarimi.jpeg
+image: images/samsung-ve-google-dan-saglik-calisanlarina-ucretsiz-telefon-onarimi.jpeg
 categories:
     - Genel
 tags:
@@ -25,7 +25,7 @@ tags:
 
 ## ABD’de 500’den fazla noktada tamir mümkün
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/google-pixel-ucretsiz-telefon-tamiri.png)</figure>Google’ın **ücretsiz** Pixel **onarım** programı da, Samsung’un programı ile aynı. Basın bülteninde, “Bir Google Pixel akıllı telefon sahip acil müdahale ekibi çalışanı ya da sağlık uzmanıysanız, cihazın modeli ve hasar türüne bakılmaksızın ücretsiz onarım alabilirsiniz. **uBreakiFix’in** ABD’deki 500’den fazla şubesinde kimlik kartınızı sunmanız yeterlidir” ifadesine yer verildi.
+<figure class="wp-block-image size-large">![](images/google-pixel-ucretsiz-telefon-tamiri.png)</figure>Google’ın **ücretsiz** Pixel **onarım** programı da, Samsung’un programı ile aynı. Basın bülteninde, “Bir Google Pixel akıllı telefon sahip acil müdahale ekibi çalışanı ya da sağlık uzmanıysanız, cihazın modeli ve hasar türüne bakılmaksızın ücretsiz onarım alabilirsiniz. **uBreakiFix’in** ABD’deki 500’den fazla şubesinde kimlik kartınızı sunmanız yeterlidir” ifadesine yer verildi.
 
 **uBreakiFix** ayrıca, sosyal mesafenin korunumu ve koronavirüsün yayılmasını engellemek adına, evde onarım hizmeti de sunuyor. Buna ek olarak, ekstra temizlik ve güvenlik protokolleri uygulanıyor.
 

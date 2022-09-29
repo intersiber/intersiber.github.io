@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/nasauzaypatlaması-scaled.jpg
+image: images/nasa-uzay-patlamasi-scaled.jpg
 categories:
     - Uzay
 tags:
@@ -31,7 +31,7 @@ Uluslararası Radyo Astronomi Araştırma Merkezi’ndeki araştırmacılar , Bi
 
 Uluslararası Radyo Astronomi Araştırmaları Merkezi **Curtin Üniversitesi** profesörü ve yüklenen makalenin ortak yazarı **Melanie Johnston-Hollitt**, “Daha önce galaksilerin merkezlerinde patlamalar gördük, ama bu gerçekten çok büyük” dedi. Preprint arşivi bu ayın başlarında yaptığı açıklamada “Ve neden bu kadar büyük olduğunu bilmiyoruz.” dedi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/nasauzaypatlaması-1600x1196.jpg)</figure>Keşfi yapmak için araştırmacılar, NASA’nın **Chandra X-ray** Gözlemevi ve Avrupa Uzay Ajansı’nın **XMM-Newton X-ray** uzay gözlemevi de dahil olmak üzere dünya genelinde dört teleskop kullandılar.
+<figure class="wp-block-image size-large">![](images/nasauzaypatlaması-1600x1196.jpg)</figure>Keşfi yapmak için araştırmacılar, NASA’nın **Chandra X-ray** Gözlemevi ve Avrupa Uzay Ajansı’nın **XMM-Newton X-ray** uzay gözlemevi de dahil olmak üzere dünya genelinde dört teleskop kullandılar.
 
 Öyle şiddetli bir patlama oldu ki, kümenin plazmasında, kara delikleri çevreleyen sıcak gazda, kümenin X-ışını teleskop gözlemleriyle tespit edildiği gibi bir delik açmıştı.
 

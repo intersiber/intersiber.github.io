@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=699'
 permalink: /abd-savunma-bakanligi-hack-the-pentagon-programini-genisletiyor/
 post_views_count:
     - '843'
-image: /wp-content/uploads/2016/06/hack-the-pentagon-bug-bounty-program.jpg
+image: images/hack-the-pentagon-bug-bounty-program.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

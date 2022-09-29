@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9566'
 permalink: /abd-medyasina-gore-trump-secimleri-kaybetti-twitter-hesabi-kapatilabilir/
 post_views_count:
     - '44'
-image: /wp-content/uploads/2020/11/abd-medyasina-gore-secimleri-kaybetti-trump-in-twitter-hesabi-kapatilabilir.png
+image: images/abd-medyasina-gore-secimleri-kaybetti-trump-in-twitter-hesabi-kapatilabilir.png
 categories:
     - Genel
     - 'Sosyal Medya'
@@ -25,7 +25,7 @@ ABD Başkanı Trump ile, sık kullandığı sosyal ağ Twitter’ın yıldızı 
 
 **Twitter’ın**, Trump’ın tweetlerine “**yanıltıcı**” ve “**tartışmalı**” etiketlerini koyması, özellikle seçim günü bazı tweetlerinin erişimine engel olması gerginliği iyice artırdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/twitter-trump-tartismasi-tweetlere-uyari-konuldu.png)</figure>Trump’ın bu zamana kadar, “seçimleri ve diğer toplumsal konuları manipüle etme” amacıyla Twitter’ın kullanılamayacağına ilişkin politikayı birçok kez ihlal ettiği ifade ediliyor.
+<figure class="wp-block-image size-large">![](images/twitter-trump-tartismasi-tweetlere-uyari-konuldu.png)</figure>Trump’ın bu zamana kadar, “seçimleri ve diğer toplumsal konuları manipüle etme” amacıyla Twitter’ın kullanılamayacağına ilişkin politikayı birçok kez ihlal ettiği ifade ediliyor.
 
 ## Trump’ın Twitter hesabı kapatılabilir mi?
 

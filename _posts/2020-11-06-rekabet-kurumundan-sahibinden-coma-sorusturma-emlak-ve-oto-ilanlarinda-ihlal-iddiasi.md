@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9534'
 permalink: /rekabet-kurumundan-sahibinden-coma-sorusturma-emlak-ve-oto-ilanlarinda-ihlal-iddiasi/
 post_views_count:
     - '34'
-image: /wp-content/uploads/2020/11/rekabet-kurumu-ndan-sahibinden-com-a-sorusturma-emlak-ve-oto-ilanlarinda-ihlal-iddiasi.png
+image: images/rekabet-kurumu-ndan-sahibinden-com-a-sorusturma-emlak-ve-oto-ilanlarinda-ihlal-iddiasi.png
 categories:
     - Genel
 tags:

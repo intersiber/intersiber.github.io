@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7790'
 permalink: /sony-playstation-5in-ilk-oyunlarini-4-haziranda-aciklayacak/
 post_views_count:
     - '95'
-image: /wp-content/uploads/2020/05/sony-playstation-5in-ilk-oyunlarini-4-haziranda-aciklayacak.jpg
+image: images/sony-playstation-5in-ilk-oyunlarini-4-haziranda-aciklayacak.jpg
 categories:
     - Konsol
 tags:

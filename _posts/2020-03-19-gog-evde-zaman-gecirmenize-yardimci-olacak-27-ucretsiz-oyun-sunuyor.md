@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/gog-1.png
+image: images/gog-1.png
 categories:
     - Oyun
 tags:
@@ -31,7 +31,7 @@ Son zamanlarda evde çok daha fazla zaman harcıyoruz ve dışarı çıkmaya ve 
 
 Bu listedeki tüm oyunlar zaten ücretsizdi, ancak şimdi kolay erişim için tek bir yerde listelenmeye başladı. Bunlardan ayrı olarak, daha yeni oyunlar istiyorsanız, **GOG** bu ayın sonuna doğru indirimli bir bahar satışı yapacak, ve bu indirimlerden yararlanabilirsiniz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/gog-bio-menace.jpg)</figure>## GOG’un Ücretsiz Oyun Listesi
+<figure class="wp-block-image size-large">![](images/gog-bio-menace.jpg)</figure>## GOG’un Ücretsiz Oyun Listesi
 
 - Akalabeth: World of Doom
 - Alder’s Blood Prologue

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Xiaomi-Redmi-Note.jpeg
+image: images/Xiaomi-Redmi-Note.jpeg
 categories:
     - Mobil
 tags:
@@ -27,6 +27,6 @@ tags:
 
 Kullanıcıların bugüne kadar 110 milyon farklı Redmi Note serisi akıllı cep telefonu satın aldıkları açıklanırken, bu cihazların hangi ülkede ne kadar fazla sattığı ile ilgili bilgi ise paylaşılmadı.
 
-<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/03/Xiaomi-Redmi-Note-2.jpg?fit=640%2C559&ssl=1)</figure>Tweetin altına çok sayıda Redmi Note kullanıcısı hangi modeli kullandığını yazarken, bazı kullanıcılar ise cihazlarında yaşadıkları sorunları, yazılım güncellemesi desteği ile ilgili soru işaretleri ve garanti politikası konularını eleştirdiler.
+<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.comimages/Xiaomi-Redmi-Note-2.jpg?fit=640%2C559&ssl=1)</figure>Tweetin altına çok sayıda Redmi Note kullanıcısı hangi modeli kullandığını yazarken, bazı kullanıcılar ise cihazlarında yaşadıkları sorunları, yazılım güncellemesi desteği ile ilgili soru işaretleri ve garanti politikası konularını eleştirdiler.
 
 Xiaomi markasına ait cihazların son yıllarda Ortadoğu bölgesinde ve Türkiye’de düşük fiyat, yüksek liste özellikleri nedeniyle tercih edildiği biliniyor.

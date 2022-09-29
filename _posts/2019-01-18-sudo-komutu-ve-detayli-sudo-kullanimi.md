@@ -22,7 +22,7 @@ ampforwp_page_builder_enable:
     - 'yes'
 amp-page-builder:
     - '{"rows":[],"totalrows":"1","totalmodules":"1","settingdata":{"front_class":"","front_css":""}}'
-image: /wp-content/uploads/2019/01/sudo.png
+image: images/sudo.png
 categories:
     - Linux
     - 'Ne Nasıl?'
@@ -44,7 +44,7 @@ Yeni linux kullanıcıları genellikle sudo komutununu sadece ‘Permission Deni
 
 Sudo ile yaygın bir yanılgı, yalnızca sıradan bir kullanıcıya kök izinlerini sağlamak için kullanılmasıdır. Ama aslında, bu komut, varsayılan olarak root olan bir kullanıcı tarafından komut çalıştırmanıza izin verir.
 
-### ![](https://intersiber.com/wp-content/uploads/2019/01/Screenshot-from-2019-01-18-14-01-51.png)
+### ![](images/Screenshot-from-2019-01-18-14-01-51.png)
 
 ### **Kullanıcıya Sudo Kullanımı Yetkisi Nasıl Verilir ?** 
 

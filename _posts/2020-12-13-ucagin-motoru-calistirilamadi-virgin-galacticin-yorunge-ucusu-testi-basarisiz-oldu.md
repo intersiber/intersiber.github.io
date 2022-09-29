@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10015'
 permalink: /ucagin-motoru-calistirilamadi-virgin-galacticin-yorunge-ucusu-testi-basarisiz-oldu/
 post_views_count:
     - '19'
-image: /wp-content/uploads/2020/12/motoru-calistirilamadi-virgin-galactic-in-uzay-turizmi-testi-basarisiz-oldu.png
+image: images/motoru-calistirilamadi-virgin-galactic-in-uzay-turizmi-testi-basarisiz-oldu.png
 categories:
     - Uzay
 tags:
@@ -30,7 +30,7 @@ Test başarısızlıkla sonuçlanınca, VSS Unity, VMS Eve gövdesinde üsse ger
 
 ## Motor ve araç içindeki bilgisayarın bağlantısı koptu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/virgin-galactic-vss-unity.png)</figure>Şirketin CEO’su tarafından yapılan açıklamada, VSS Unity taşıyıcı araçtan ayrıldıktan sonra bilgisayar bağlantısının koptuğu aktarıldı. Şirket, aracı kontrol ederek yakın zamanda yeni bir test yapacağını belirtti.
+<figure class="wp-block-image size-large">![](images/virgin-galactic-vss-unity.png)</figure>Şirketin CEO’su tarafından yapılan açıklamada, VSS Unity taşıyıcı araçtan ayrıldıktan sonra bilgisayar bağlantısının koptuğu aktarıldı. Şirket, aracı kontrol ederek yakın zamanda yeni bir test yapacağını belirtti.
 
 Virgin Galactic, yörünge altı için kısa uçuşlarda uzay turizmi için, kişi başı 250 bin dolarlık fiyat sunuyor ve 2021 içinde 6 turisti yörüngeye çıkarmayı hedefliyor.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8596'
 permalink: /spotify-youtube-music-gibi-video-entegrasyonu-sunacak/
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/06/spotify-youtube-gibi-video-entegrasyonu-sunacak.jpg
+image: images/spotify-youtube-gibi-video-entegrasyonu-sunacak.jpg
 categories:
     - Genel
 tags:
@@ -26,4 +26,4 @@ Youtube Mucis kullanıcıların yakından bildiği video özelliğini, kullanıc
 
 **Spotify’ın** video özelliği, Twitter’da yaptığı paylaşımlarla bilinen, tersine mühendislik alanında çalışan Jane Wong tarafından paylaşıldı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/spotify-video-ozelligi.png)</figure>Özellik şu anda kullanmaya çalışıldığında **Spotify**, “Hala keşfediliyor” uyarısını veriyor.
+<figure class="wp-block-image size-large">![](images/spotify-video-ozelligi.png)</figure>Özellik şu anda kullanmaya çalışıldığında **Spotify**, “Hala keşfediliyor” uyarısını veriyor.

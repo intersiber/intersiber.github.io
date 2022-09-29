@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6022'
 permalink: /cin-tiktokun-sahibi-bytedancetan-feishu-uygulamasini-kaldirmasini-istedi/
 post_views_count:
     - '83'
-image: /wp-content/uploads/2020/04/tiktok-censorship-scaled.jpg
+image: images/tiktok-censorship-scaled.jpg
 categories:
     - Genel
 tags:
@@ -21,4 +21,4 @@ tags:
 
 Sosyal medya uygulaması TikTok’u da işleten **ByteDance**, Feishu’yu dahili bir uygulama olarak geliştirdi. Ardından 2019’da ticari kullanım için pazarladı. **Lark** adlı uygulamanın uluslararası bir sürümü olan uygulama Nisan 2019’da piyasaya sürüldü ve hala Japonya ve Singapur gibi pazarlarda faaliyet gösteriyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/Tiktok_screen.png)</figure>**Feishu**, koronavirüs salgını sırasında insanlar evden çalışmaya devam ederken Çin’de popüler hale geldi. Uygulamayı **Slack**, **Skype** ve **Google Dokümanlar’ın** bir kombinasyonu olarak tanımlanıyor. Çin’de **Feishu**, Alibaba’nın **DingTalk** ve Tencent’in **WeChat** uygulaması ile rekabet ediyor.
+<figure class="wp-block-image size-large">![](images/Tiktok_screen.png)</figure>**Feishu**, koronavirüs salgını sırasında insanlar evden çalışmaya devam ederken Çin’de popüler hale geldi. Uygulamayı **Slack**, **Skype** ve **Google Dokümanlar’ın** bir kombinasyonu olarak tanımlanıyor. Çin’de **Feishu**, Alibaba’nın **DingTalk** ve Tencent’in **WeChat** uygulaması ile rekabet ediyor.

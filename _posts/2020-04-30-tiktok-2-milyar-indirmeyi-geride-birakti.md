@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6238'
 permalink: /tiktok-2-milyar-indirmeyi-geride-birakti/
 post_views_count:
     - '94'
-image: /wp-content/uploads/2020/04/tiktok-2-milyar-indirmeyi-geride-birakti.jpeg
+image: images/tiktok-2-milyar-indirmeyi-geride-birakti.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -20,7 +20,7 @@ tags:
 
 ## Son çeyrekte 315 milyon yeni kullanıcı
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/tiktok-kullanici-sayisi-2-milyar-1600x1200.png)</figure>Uygulama, bu çeyrekte ise 315 milyon kişi tarafından indirildi ve bu sonuç yalnızca Google Play ve App Store’dan yapılan indirmeleri kapsıyor. Analiz şirketi, TikTok’un en çok indirildiği ülkeler arasında Hindistan, Çin ve ABD’nin zirvede olduğunu belirtti.
+<figure class="wp-block-image size-large">![](images/tiktok-kullanici-sayisi-2-milyar-1600x1200.png)</figure>Uygulama, bu çeyrekte ise 315 milyon kişi tarafından indirildi ve bu sonuç yalnızca Google Play ve App Store’dan yapılan indirmeleri kapsıyor. Analiz şirketi, TikTok’un en çok indirildiği ülkeler arasında Hindistan, Çin ve ABD’nin zirvede olduğunu belirtti.
 
 ## Koronavirüs salgını kullanım oranını artırdı
 

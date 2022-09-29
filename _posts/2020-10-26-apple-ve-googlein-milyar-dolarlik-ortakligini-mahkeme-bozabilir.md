@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9391'
 permalink: /apple-ve-googlein-milyar-dolarlik-ortakligini-mahkeme-bozabilir/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/10/APPLE-ve-google-in-milyar-dolarlik-ortakligini-mahkeme-bozabilir.png
+image: images/APPLE-ve-google-in-milyar-dolarlik-ortakligini-mahkeme-bozabilir.png
 categories:
     - Apple
 tags:
@@ -24,7 +24,7 @@ Google, bu anlaşma ile trafiğini artırırken, Apple’da çok ciddi gelir eld
 
 ## Google’a göre Apple, rakip arama motoru geliştirebilecek tek şirket
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/apple-ve-google-anlasmasi-nedi.jpg)</figure>Google çalışanları, Apple’ın Google’a rakip bir arama motoru geliştirebilecek tek şirket olduğu yönünde inanca sahip. İnternet arama pazarının yüzde 92’sinden fazlasına hükmeden Google, bu anlaşma ile trafiğini artırırken, aynı zamanda da en büyük rakibine bir nevi rüşvet vermiş oluyor.
+<figure class="wp-block-image size-large">![](images/apple-ve-google-anlasmasi-nedi.jpg)</figure>Google çalışanları, Apple’ın Google’a rakip bir arama motoru geliştirebilecek tek şirket olduğu yönünde inanca sahip. İnternet arama pazarının yüzde 92’sinden fazlasına hükmeden Google, bu anlaşma ile trafiğini artırırken, aynı zamanda da en büyük rakibine bir nevi rüşvet vermiş oluyor.
 
 ## ABD Adalet Bakanlığı anlaşmayı bozabilir
 

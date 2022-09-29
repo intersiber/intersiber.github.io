@@ -16,7 +16,7 @@ ampforwp-amp-on-off:
     - default
 td_post_theme_settings:
     - 'a:2:{s:16:"td_post_template";s:17:"single_template_4";s:14:"td_primary_cat";s:2:"80";}'
-image: /wp-content/uploads/2019/04/visit-tech.png
+image: images/visit-tech.png
 categories:
     - 'Öne Çıkan'
     - 'Veri Sızıntıları'

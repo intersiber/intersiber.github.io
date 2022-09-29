@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/snapchat-logo.jpg
+image: images/snapchat-logo.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -24,7 +24,7 @@ tags:
 
 Ülkemizde keyifli bir şekilde kullanılan ve oldukça ilgi gören **Snapchat**, Instagram tarafından hikaye özelliğinin eklenmesi ile birlikte eski ilgiyi göremiyor. 2019 yılının son dönemlerinde kullanıcı sayısında artış yaşanmasına rağmen hisseler değer kaybetmeye devam ediyor ve umutla beklenen dördüncü çeyrek raporları da Snapchat için bir umut olmadı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/snapchat-hisse.jpg)</figure>## **Halka Arz Kara Geçiremedi**
+<figure class="wp-block-image size-large">![](images/snapchat-hisse.jpg)</figure>## **Halka Arz Kara Geçiremedi**
 
 **Snapchat**, 2 yıl önce halka arz edilmesine rağmen aradan geçen iki yıla rağmen hala kara geçemedi. 2019 yılının dördüncü çeyreğinde % 44 artışla 560.8 milyon gelir elde etmesine rağmen hisse değerlerinde kayıplar devam ediyor. Şirketin değer kaybına yönelik çözüm arayışları devam ediyor.
 

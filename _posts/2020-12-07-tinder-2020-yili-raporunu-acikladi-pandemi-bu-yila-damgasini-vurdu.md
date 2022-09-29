@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9950'
 permalink: /tinder-2020-yili-raporunu-acikladi-pandemi-bu-yila-damgasini-vurdu/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/12/tinder-2020-yili-raporunu-acikladi-pandemi-bu-yila-damgasini-vurdu.png
+image: images/tinder-2020-yili-raporunu-acikladi-pandemi-bu-yila-damgasini-vurdu.png
 categories:
     - Genel
 tags:
@@ -29,4 +29,4 @@ Raporda ayrıca kültürel ve sosyal olayların Tinder’a etkisi de ifade edild
 
 Şirket, uygulamada 2020 yılında en çok paylaşılan emojileri de paylaştı. Emojilere bakıldığında, pandemi sürecinin kullanıcıları nasıl etkilediği açık bir şekilde görülüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/tinder-da-en-cok-kullanilan-emojiler.png)</figure>Tinder buna ek olarak, kullanıcıların biyografilerinde “karantina” kelimesini çok fazla kullandığını da belirtti.
+<figure class="wp-block-image size-large">![](images/tinder-da-en-cok-kullanilan-emojiler.png)</figure>Tinder buna ek olarak, kullanıcıların biyografilerinde “karantina” kelimesini çok fazla kullandığını da belirtti.

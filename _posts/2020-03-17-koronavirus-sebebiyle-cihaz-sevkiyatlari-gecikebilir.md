@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/foxcoon.jpg
+image: images/foxcoon.jpg
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Yükselen dolar kuru, yaşanan corona virüs salgını ve diğer sebepler sebebi
 
 Çok sayıda kişi yakın zamanda yeni teknoloji televizyon ürünlerinin satışa sunulup sunulmayacağına yanıt ararken, bir yandan da teknolojik ürünlerin sevkiyatında yaşanacak gecikmenin satıcıları zor durumda bırakıp bırakmayacağı merak konusu.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/tv.jpg)</figure>Yeni teknolojik ürünlerin Türkiye ve diğer ülkelere girişinin gecikmesinde en etkili sebeplerden biri olarak Çin’de üretim bantlarının çalışmaması, üretimin normal performansta yapılamıyor olması gerekçe olarak gösterilebilir.
+<figure class="wp-block-image size-full">![](images/tv.jpg)</figure>Yeni teknolojik ürünlerin Türkiye ve diğer ülkelere girişinin gecikmesinde en etkili sebeplerden biri olarak Çin’de üretim bantlarının çalışmaması, üretimin normal performansta yapılamıyor olması gerekçe olarak gösterilebilir.
 
 Henüz teknoloji mağazalarında cihaz sevkiyatında sorun olmadığı bilinse bile, yakın zamanda yeni cihazların Türkiye’ye ve diğer ülkelere ulaşması gecikebilir.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9903'
 permalink: /outlookta-vcard-ile-nasil-kisi-paylasilir/
 post_views_count:
     - '18'
-image: /wp-content/uploads/2020/12/outlook-ta-vcard-ile-nasil-kisi-paylasilir.png
+image: images/outlook-ta-vcard-ile-nasil-kisi-paylasilir.png
 categories:
     - 'Ne Nasıl?'
 tags:
@@ -26,7 +26,7 @@ vCard, Outlook ve diğer mail servislerinde e-postalara ekleyebileceğiniz ya da
 - “Yeni kişi”yi seçin ve ardından “Tamam” butonuna tıklayın.
 - vCard’da paylaşmak istediğiniz bilgileri ekleyin. Bu bilgilerin, eklediğiniz her e-postaya dahil edileceğini unutmayın, bu nedenle kişisel bilgilerden kaçınmak en iyisi. Giriş tamamlandığında “Kaydet ve Kapat”ı tıklayın.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/vcard-nedir.png)</figure>## Outlook’ta vCard dosyası nasıl gönderilir?
+<figure class="wp-block-image size-large">![](images/vcard-nedir.png)</figure>## Outlook’ta vCard dosyası nasıl gönderilir?
 
 - Yeni bir e-posta açın ve e-postayı ilgili kişiye iletin.
 - E-postaya dosya eklemek için, araç çubuğunda ataş simgesine tıklayın.

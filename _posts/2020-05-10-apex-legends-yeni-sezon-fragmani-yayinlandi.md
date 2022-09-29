@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6672'
 permalink: /apex-legends-yeni-sezon-fragmani-yayinlandi/
 post_views_count:
     - '73'
-image: /wp-content/uploads/2020/05/apex-legends-yeni-sezon-fragmani-yayinlandi.jpg
+image: images/apex-legends-yeni-sezon-fragmani-yayinlandi.jpg
 categories:
     - Oyun
 tags:
@@ -20,7 +20,7 @@ tags:
 
 Tüm oynaması ücretsiz battle royale oyunları gibi, **Apex Legends** da oyunu yeni içerik ve modlarla yenilemeye devam ediyor. Yeni sezonda ortaya çıkan **Loba** karakteriyle birlikte **Respawn**, oyuncuların haftalık avlara tek başına veya bir takımın parçası olarak katılabilecekleri bir **PvE modu** da ekleyecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apex-legends-1600x900.jpg)</figure>‘**The Broken Ghost**’ isimli mod, oyuncular ve yapay zeka arasında geçecek. Mod kapsamındaki 9 avın ilki **19 Mayıs**’ta açılacak ve her hafta yeni bir av oyuna eklenecek. **Kings Canyon at Night** haritasına iniş yapacak olan oyuncular avları tamamlandıkça parça parça hikâyeyi tamamlayacak.
+<figure class="wp-block-image size-large">![](images/apex-legends-1600x900.jpg)</figure>‘**The Broken Ghost**’ isimli mod, oyuncular ve yapay zeka arasında geçecek. Mod kapsamındaki 9 avın ilki **19 Mayıs**’ta açılacak ve her hafta yeni bir av oyuna eklenecek. **Kings Canyon at Night** haritasına iniş yapacak olan oyuncular avları tamamlandıkça parça parça hikâyeyi tamamlayacak.
 
 Bunların yanı sıra oyunda **Treasure Packs** isimli **yağmalanabilir bir eşya** olacak. Bu paketleri oyunun içinde bulan oyuncular lobiye döndüğünüzde direkt olarak paketleri açılabilecekler. Ancak her oyuncu, bir gün içerisinde **yalnızca bir adet** paket toplayabilecek.
 

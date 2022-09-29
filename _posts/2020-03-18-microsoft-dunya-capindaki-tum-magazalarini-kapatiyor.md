@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/microsoftstore1-scaled.jpg
+image: images/microsoftstore1-scaled.jpg
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Microsoft, koronavirüs **COVID-19**‘un sürekli yayılması sebebiyle dünyad
 
 Teknoloji devi Microsoft, müşterilerine “müşterilerimizin ve çalışanlarımızın sağlığını ve güvenliğini korumaya yardımcı olmak için” mağazalarını kapattığını belirten bir e-posta göndererek kararı duyurdu.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/microsoft-store-2.jpg)</figure>**Microsoft**, mağazaların kapanmasının ne kadar süreceğine dair bir şey söylemedi, ancak müşterilerin web sitesi aracılığıyla destek alabileceğini söylüyor.
+<figure class="wp-block-image size-large">![](images/microsoft-store-2.jpg)</figure>**Microsoft**, mağazaların kapanmasının ne kadar süreceğine dair bir şey söylemedi, ancak müşterilerin web sitesi aracılığıyla destek alabileceğini söylüyor.
 
 Microsoft ayrıca “Bu eşi benzeri görülmemiş süre boyunca, size hizmet etmenin en iyi yolu, virüsün yayılma riskini en aza indirmeye yardımcı olmak için elimizden gelen her şeyi yapmaktır.” şeklinde açıklamalarda bulundu.
 

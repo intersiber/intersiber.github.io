@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/Nico_art.0.jpg
+image: images/Nico_art.0.jpg
 categories:
     - Oyun
 tags:
@@ -28,7 +28,7 @@ Bilindiği üzere **GTA IV**, PC için epey zorlu dönemlerden geçmiş ve sık 
 
 **Grand Theft Auto IV: Complete Edition** olarak sunulacak oyun, **Rockstar Games Launcher** ile birlikte tekrar satışa çıkacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/740x479-gta-4-sistem-gereksinimleri-nelerdir-gta-4-kac-gb-1559300904011.jpg)</figure>## **GTA IV Multiplayer Modu Kaldırıldı**
+<figure class="wp-block-image size-large">![](images/740x479-gta-4-sistem-gereksinimleri-nelerdir-gta-4-kac-gb-1559300904011.jpg)</figure>## **GTA IV Multiplayer Modu Kaldırıldı**
 
 Rockstar tarafından bugün yapılan açıklamada GTA IV’ün yeniden satışa sunulacağı tarih ile birlikte çok önemli bir haber daha paylaşıldı. Şirket GTA IV multiplayer modu ile birlikte Leaderboards özelliğinin kaldırıldığını duyurdu.
 

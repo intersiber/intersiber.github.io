@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6633'
 permalink: /apple-abddeki-kapali-magazalarini-yeniden-aciyor/
 post_views_count:
     - '70'
-image: /wp-content/uploads/2020/05/apple-abd-deki-kapali-magazalarini-yeniden-aciyor.jpg
+image: images/apple-abd-deki-kapali-magazalarini-yeniden-aciyor.jpg
 categories:
     - Apple
     - Genel
@@ -22,7 +22,7 @@ Apple’ın ABD’deki perakende mağazaları, **koronavirüs** salgını nedeni
 
 ## 500’ün üzerinde mağazası var
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-in-kac-magazasi-var.jpg)</figure>Apple’ın belirtilen eyaletlerdeki mağaza sayısı altı. Ancak ABD’de ve dünyanın geri kalan ülkelerinde Apple’ın 500’den fazla mağazası var. Asya, Avrupa ve Avustralya’da yer alan 70’ün üzerinde mağaza, koronavirüs salgını ile mücadele etmek adına kapatıldıktan sonra şu anda yeniden açıldı. Çin’deki mağazalar da, ülkedeki normalleşmenin ardından hızlı bir şekilde açıldı. **Tim** **Cook**, Mayıs ayının ilk yarısında ABD’de birkaç mağazanın açılmasının söz konusu olduğunu söylemişti.
+<figure class="wp-block-image size-large">![](images/apple-in-kac-magazasi-var.jpg)</figure>Apple’ın belirtilen eyaletlerdeki mağaza sayısı altı. Ancak ABD’de ve dünyanın geri kalan ülkelerinde Apple’ın 500’den fazla mağazası var. Asya, Avrupa ve Avustralya’da yer alan 70’ün üzerinde mağaza, koronavirüs salgını ile mücadele etmek adına kapatıldıktan sonra şu anda yeniden açıldı. Çin’deki mağazalar da, ülkedeki normalleşmenin ardından hızlı bir şekilde açıldı. **Tim** **Cook**, Mayıs ayının ilk yarısında ABD’de birkaç mağazanın açılmasının söz konusu olduğunu söylemişti.
 
 ## Uygulanacak yeni kurallar
 

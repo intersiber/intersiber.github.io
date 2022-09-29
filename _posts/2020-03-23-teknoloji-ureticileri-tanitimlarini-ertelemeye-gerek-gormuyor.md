@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/wwdc-tanitim-etkinligi.jpg
+image: images/wwdc-tanitim-etkinligi.jpg
 categories:
     - Genel
 tags:
@@ -32,7 +32,7 @@ Teknoloji üreticisi çok sayıda şirket kısa süre içerisinde yeni cihazlar�
 
 Apple’ın bugün mevcut varlıklarının trilyon dolarla anılıyor olmasına rağmen şirketin üretim hattı için para ödediği biliniyor. Bu paranın cihaz satışları sayesinde ödendiği, ancak Nokia gibi nispeten daha küçük üreticilerin bu dönemde ciddi ekonomik sorunlar yaşama risklerinin olduğundan söz ediliyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/teknoloji-tanitim-etkinlik.jpg)</figure>Bazı teknoloji analistleri gelecek çeyrekte cihaz satışlarında rekor bir düşüş olacağından söz ederken, bazıları ise gelecek çeyrekte cihaz satışlarının büyük oranda gerilemiş olmasına bağlı olarak bu sene şirketlerin ekonomik ve üretim planlarını yeniden gözden geçirmek zorunda kalabileceklerine dikkat çekiyorlar.
+<figure class="wp-block-image size-full">![](images/teknoloji-tanitim-etkinlik.jpg)</figure>Bazı teknoloji analistleri gelecek çeyrekte cihaz satışlarında rekor bir düşüş olacağından söz ederken, bazıları ise gelecek çeyrekte cihaz satışlarının büyük oranda gerilemiş olmasına bağlı olarak bu sene şirketlerin ekonomik ve üretim planlarını yeniden gözden geçirmek zorunda kalabileceklerine dikkat çekiyorlar.
 
 ABD’de birçok teknoloji devi şirketin gelecek dönemde beklentilerini düşürmeye hazırlandığı iddia edilirken, bazı ülkelerde teknoloji marketlerinin kapanması sonucunda cihaz satışlarının direkt olarak zaten bu sebeple düşeceğinden söz ediliyor.
 

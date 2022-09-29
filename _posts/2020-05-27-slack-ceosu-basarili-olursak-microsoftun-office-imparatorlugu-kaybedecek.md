@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7652'
 permalink: /slack-ceosu-basarili-olursak-microsoftun-office-imparatorlugu-kaybedecek/
 post_views_count:
     - '52'
-image: /wp-content/uploads/2020/05/slack-ceo-su-basarili-olursak-microsoft-un-office-imparatorlugu-kaybedecek.png
+image: images/slack-ceo-su-basarili-olursak-microsoft-un-office-imparatorlugu-kaybedecek.png
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ Butterfield, **Microsoft** **Teams** ile **Slack** arasındaki karşılaştırma
 
 Microsoft, basın bülteninde Slack ile Teams’in kullanıcı sayısını kıyaslamıştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/microsoft-teams-ve-slack-karsilastirmali-ilan.png)</figure>Butterfield, Microsoft’un Teams ve Slack’in kullanıcı sayılarını karşılaştırdığı basın bültenine de dikkat çekti ve “Bunu hiçbir yazılım şirketi yapmadı” diye sitem etti.
+<figure class="wp-block-image size-large">![](images/microsoft-teams-ve-slack-karsilastirmali-ilan.png)</figure>Butterfield, Microsoft’un Teams ve Slack’in kullanıcı sayılarını karşılaştırdığı basın bültenine de dikkat çekti ve “Bunu hiçbir yazılım şirketi yapmadı” diye sitem etti.
 
 Butterfield, Microsoft’un Slack’in üzerine bu kadar odaklanmasının nedeninin, Slack’in **Microsoft** **Office** imparatorluğunu tehdit etmesi olduğunu söyledi. Zoom başarılı olursa, Microsoft’un sadece video ve sesli arama konusunda kan kaybedeceğini söyleyen Butterfield, Slack başarılı olursa durumun çok daha ciddi olduğunu söyledi. Butterfield’a göre, e-posta ile iletişimin daha az önemli hale gelmesi, üretkenlik uygulamaları pazarında, yıllık 35, 40 milyar doları ifade ediyor…

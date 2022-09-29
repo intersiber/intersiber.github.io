@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8126'
 permalink: /gmnin-teslaya-rakip-bir-elektrikli-arac-uzerinde-calistigi-iddia-edildi/
 post_views_count:
     - '22'
-image: /wp-content/uploads/2020/06/gm-nin-tesla-ya-rakip-bir-elektrikli-arac-uzerinde-calistigi-iddia-edildi.jpg
+image: images/gm-nin-tesla-ya-rakip-bir-elektrikli-arac-uzerinde-calistigi-iddia-edildi.jpg
 categories:
     - 'Elektrikli Otomobil'
 tags:
@@ -22,7 +22,7 @@ Reuters’ın aktardığı bilgiye göre, dünyanın en önemli otomobil üretic
 
 ## Kamyon ve ticari araçlarda ABD’de sektörü domine ediyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/general-motors-elektrikli-arac-uretecek.jpg)</figure>GM, Ford ile birlikte ABD’de ticari araçların yanı sıra, kamyonlar alanında da tekel denebilecek bir müşteri kitlesine sahip. **GM** bu hamle ile, **Tesla** ile rakip olmadan kendi müşterisini gelişmiş teknolojiye sahip elektrikli araçlara taşıyacak.
+<figure class="wp-block-image size-large">![](images/general-motors-elektrikli-arac-uretecek.jpg)</figure>GM, Ford ile birlikte ABD’de ticari araçların yanı sıra, kamyonlar alanında da tekel denebilecek bir müşteri kitlesine sahip. **GM** bu hamle ile, **Tesla** ile rakip olmadan kendi müşterisini gelişmiş teknolojiye sahip elektrikli araçlara taşıyacak.
 
 Gelen bilgiler, **GM’nin** aracın üretimini 2021 yılının sonlarına doğru başlatacağı yönünde. **BV1** kodu ile ifade edilen araçta GM’nin yakın zamanda tanıttığı yeni bir pil teknolojisi olan **ultium** yer alabilir. Bu teknoloji, tek şarjda 645 kilometreye kadar menzil sunuyor ve diğer batarya teknolojilerine göre çok daha iyi bir maliyet sunuyor.
 

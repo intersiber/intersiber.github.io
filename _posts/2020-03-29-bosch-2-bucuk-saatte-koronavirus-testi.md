@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/bosch.jpg
+image: images/bosch.jpg
 categories:
     - Genel
 tags:
@@ -29,7 +29,7 @@ Alman merkezli şirket **Bosch** Healthcare Solutions, Randox Laboratories Ltd. 
 
 Bosch’un geliştirdiği, Dünya Sağlık Örgütü’nün (DSÖ) kalite standartlarını da karşılayan tam otomatik yeni tip koronavirüs testinin amacı, doktor muayenehanelerinde, hastanelerde, laboratuvarlarda ve sağlık merkezleri gibi sağlık tesislerinde kısa sürede tanı teşhisi konulmasında yardımcı olmak.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/bosch-covid-19-testi.jpg)</figure>Şu anda hastalık şüphesiyle test yaptıran kişilerin, test sonuçlarını alabilmek için yaklaşık iki gün beklemesi gerekiyor. Ancak yoğun çalışmalar üzerine altı hafta içerisinde geliştirilen bu test sayesinde 2,5 saat içerisinde hastalarda **Covid-19** teşhisinde bulunulabiliyor. Test yüzde 95 oranında doğru sonuç veriyor.
+<figure class="wp-block-image size-full">![](images/bosch-covid-19-testi.jpg)</figure>Şu anda hastalık şüphesiyle test yaptıran kişilerin, test sonuçlarını alabilmek için yaklaşık iki gün beklemesi gerekiyor. Ancak yoğun çalışmalar üzerine altı hafta içerisinde geliştirilen bu test sayesinde 2,5 saat içerisinde hastalarda **Covid-19** teşhisinde bulunulabiliyor. Test yüzde 95 oranında doğru sonuç veriyor.
 
 Test için swap yardımıyla hastanın burnundan veya boğazından numune alınması gerekiyor. Gerekli ayıraçları içeren kartuşun, Vivalytic cihazının içerisine yerleştirilmesiyle numunelerin taşınmasına ihtiyaç duyulmadan doğrudan bakım noktasında gerçekleştirilebiliyor. Test, Covid-19 hastalığı haricinde aynı zamanda 9 solunum yolu hastalığının tespitine de imkan sağlıyor.
 

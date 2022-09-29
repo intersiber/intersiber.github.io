@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9958'
 permalink: /ios-14-2nin-iphone-sarjlarini-yari-yariya-dusurdugu-iddia-edildi/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/12/ios-14-2-nin-iphone-sarjlarini-yari-yariya-dusurdugu-iddia-edildi.png
+image: images/ios-14-2-nin-iphone-sarjlarini-yari-yariya-dusurdugu-iddia-edildi.png
 categories:
     - Apple
 tags:

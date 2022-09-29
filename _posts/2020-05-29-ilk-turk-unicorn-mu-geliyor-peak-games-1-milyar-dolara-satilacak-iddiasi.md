@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7775'
 permalink: /ilk-turk-unicorn-mu-geliyor-peak-games-1-milyar-dolara-satilacak-iddiasi/
 post_views_count:
     - '121'
-image: /wp-content/uploads/2020/05/ilk-turk-unicorn-mu-geliyor-peak-games-1-milyar-dolara-satilacak-iddiasi.jpg
+image: images/ilk-turk-unicorn-mu-geliyor-peak-games-1-milyar-dolara-satilacak-iddiasi.jpg
 categories:
     - Girişim
     - Oyun
@@ -26,7 +26,7 @@ Yerli girişimler içinde bu zamana kadar, küresel oyuncular tarafından satın
 
 ## Zynga 1 milyar dolara Peak Games’i alabilir
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/peak-games-ofisi.jpg)</figure>Kulislerde konuşulan bir iddia, Türkiye’de rekor bir satışın söz konusu olabileceği yorumlarına neden oldu. ABD’li oyun devi **Zynga’nın**, Peak Games’i **1 milyar doların** üzerinde bir fiyatla alabileceği iddia edildi.
+<figure class="wp-block-image size-large">![](images/peak-games-ofisi.jpg)</figure>Kulislerde konuşulan bir iddia, Türkiye’de rekor bir satışın söz konusu olabileceği yorumlarına neden oldu. ABD’li oyun devi **Zynga’nın**, Peak Games’i **1 milyar doların** üzerinde bir fiyatla alabileceği iddia edildi.
 
 Sektörde, 1 milyar doların üzerinde değerlemesi olan şirketler için “unicorn” ifadesi kullanılıyor. Henüz Türkiye’de bir **unicorn** **girişim** olmadı. Dünyada, unicorn statüsünde yaklaşık 500 girişim yer alırken, ülkemizde böyle bir girişim yok. Peak Games’in Zynga tarafından satın alınma iddiası gerçekleşirse, bu bir ilk olacak.
 

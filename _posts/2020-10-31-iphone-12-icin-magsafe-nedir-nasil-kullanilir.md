@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9442'
 permalink: /iphone-12-icin-magsafe-nedir-nasil-kullanilir/
 post_views_count:
     - '57'
-image: /wp-content/uploads/2020/10/iphone-icin-magsafe-nedir-nasil-kullanilir.jpg
+image: images/iphone-icin-magsafe-nedir-nasil-kullanilir.jpg
 categories:
     - Apple
 tags:
@@ -26,13 +26,13 @@ Daha önce MagSafe ismini duymuştum diyorsanız haklısınız. Apple daha önce
 
 MagSafe’in **kablosuz** **şarj** ve aksesuar özelliği iPhone 12, iPhone 12 Mini, iPhone 12 Pro ve Pro Max’te mevcut. Muhtemelen bu standart, gelecekteki iPhone modellerinde de yer alacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/apple-magsafe-nelerden-olusuyor.png)</figure>Apple, kablosuz şarjı ilk olarak iPhone 8’de tanıtmıştı ancak bu şarj, 7,5 w ile sınırlandı ve düşük bir şarj potansiyeli sundu. MagSafe bu verimi iki katına çıkarıyor ve 15 w kablosuz şarj sunuyor. Bu şarj hızı, iPhone’u hızlı şarj özellikli diğer Android cihazlarla aynı seviyeye getiriyor.
+<figure class="wp-block-image size-large">![](images/apple-magsafe-nelerden-olusuyor.png)</figure>Apple, kablosuz şarjı ilk olarak iPhone 8’de tanıtmıştı ancak bu şarj, 7,5 w ile sınırlandı ve düşük bir şarj potansiyeli sundu. MagSafe bu verimi iki katına çıkarıyor ve 15 w kablosuz şarj sunuyor. Bu şarj hızı, iPhone’u hızlı şarj özellikli diğer Android cihazlarla aynı seviyeye getiriyor.
 
 ## MagSafe fiyatı ne olacak?
 
 İlk MagSafe şark cihazı, Apple tarafından 49 dolar fiyat etiketiyle sunuldu. Bu da yaklaşık 410 TL’lik bir fiyatla, ürünün satışa çıkacağını gösteriyor. Apple, hem iPhone hem de Apple Watch için seyahat dostu bir MagSafe Duo sunmayı planlıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/magsafe-duo-nedir.png)</figure>Kablosuz şarj özelliğine ek olarak, şeffaf bir plastik kasa, silikon kılıf, cüzdan fonksiyonu gibi seçenekler de MagSafe’de yer alıyor.
+<figure class="wp-block-image size-large">![](images/magsafe-duo-nedir.png)</figure>Kablosuz şarj özelliğine ek olarak, şeffaf bir plastik kasa, silikon kılıf, cüzdan fonksiyonu gibi seçenekler de MagSafe’de yer alıyor.
 
 ## MagSafe’in diğer özellikleri
 

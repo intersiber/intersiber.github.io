@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7494'
 permalink: /netflixten-turkiyede-dizi-film-sektoru-calisanlarina-4-milyon-liralik-destek/
 post_views_count:
     - '83'
-image: /wp-content/uploads/2020/05/netflix-ten-turkiye-dizi-film-sektoru-calisanlarina-4-milyon-liralik-destek.jpeg
+image: images/netflix-ten-turkiye-dizi-film-sektoru-calisanlarina-4-milyon-liralik-destek.jpeg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ Türkiye’de **Hakan: Muhafız** ve **Atiye’nin** ardından, 3. orijinal yap�
 
 Sinema ve TV sektörü, koronavirüs nedeniyle birçok projenin durdurulduğu ve binlerce çalışanın gelirini kaybettiği bir alan. Netflix’in sunduğu desteğe, Türkiye çapında prodüksiyonların durmasından dolayı olumsuz etkilenen kamera arkası çalışanları başvurabilir. Kamera, ışık ve ses çalışanlarının yanı sıra, sanat yönetmenleri, makyaj profesyonelleri ve kostüm tasarımı, ulaştırma gibi alanlarda koordinatör, operatör ve teknisyen görevlerindeki çalışanlar, desteğe başvurabilecek. Sektörde, **Netflix’in** sunduğu destek bir kereye mahsus olarak 2 bin 500 TL olarak belirlendi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/netflix-4-milyon-lira-destek-fonu.jpg)</figure>## Desteğe nasıl başvuru yapılabilir?
+<figure class="wp-block-image size-large">![](images/netflix-4-milyon-lira-destek-fonu.jpg)</figure>## Desteğe nasıl başvuru yapılabilir?
 
 Sektör çalışanlarına verilen destekle ilgili detaylar, sinema tv sendikasının [**resmi sitesinde**](https://www.sinematvsendikasi.org/) yayınlandı. 27 Mayıs 2020’de, sitede yer alan online form üzerinden yapılabilecek başvurular 14 gün sürecek. **İKSV** ve Sendika’nın üyelerinden oluşan kurul ise, inceledikleri başvurular üzerinden destek alacak kişileri belirleyecek.
 

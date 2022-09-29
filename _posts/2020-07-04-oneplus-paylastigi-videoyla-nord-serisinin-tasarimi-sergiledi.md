@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8905'
 permalink: /oneplus-paylastigi-videoyla-nord-serisinin-tasarimi-sergiledi/
 post_views_count:
     - '19'
-image: /wp-content/uploads/2020/07/07F9B758-010D-4661-9262-D610D82817B7.jpeg
+image: images/07F9B758-010D-4661-9262-D610D82817B7.jpeg
 categories:
     - Mobil
 tags:

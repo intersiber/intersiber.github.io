@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10161'
 permalink: /google-drive-dosyalari-nasil-disa-aktarilir/
 post_views_count:
     - '13'
-image: /wp-content/uploads/2020/12/google-drive-dosyalari-nasil-disa-aktarilir.png
+image: images/google-drive-dosyalari-nasil-disa-aktarilir.png
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ Google Drive dosyalarını dışa aktarmak için ilk olarak **Google** **Paket**
 - Aşağıdaki ekranda Google, dışa aktarımı özelleştirmenize izin verir. Google’ın arşivi size e-postayla göndermesini ya da doğrudan başka bir bulut depolama servisine yüklemesini, dışa aktarmanın yapılandırmasını ve arşivin dosya türü ile boyutunu tanımlamasını isteyip istemediğinizi belirtme şansınız da vardır.
 - Dışa aktarımı onaylamak için, “Dışa aktarma oluştur”u tıklayın.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/google-drive-dosyalari-nasil-indirilir.png)</figure>- Google, seçtiğiniz klasörleri yedekleme başlar. Verinin boyutuna göre bu işlem günlerce sürebilir. Bu süreçte fikrinizi değiştirirseniz, “dışa aktarmayı iptal et” seçeneği ile iptal edebilirsiniz.
+<figure class="wp-block-image size-large">![](images/google-drive-dosyalari-nasil-indirilir.png)</figure>- Google, seçtiğiniz klasörleri yedekleme başlar. Verinin boyutuna göre bu işlem günlerce sürebilir. Bu süreçte fikrinizi değiştirirseniz, “dışa aktarmayı iptal et” seçeneği ile iptal edebilirsiniz.
 
 Süreç sona erdiğinde, “Google verileriniz indirilmeye hazır” başlıklı bir e-posta almalısınız. Bu mailin içinde “Dosyalarınızı indirin” butonuna tıklayın, kimliğinizi doğrulamak için Google hesabı bilgilerinizle yeniden oturum açın.
 

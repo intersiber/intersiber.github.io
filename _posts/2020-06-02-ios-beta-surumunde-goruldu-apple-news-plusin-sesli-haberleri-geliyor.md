@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8006'
 permalink: /ios-beta-surumunde-goruldu-apple-news-plusin-sesli-haberleri-geliyor/
 post_views_count:
     - '26'
-image: /wp-content/uploads/2020/06/ios-13-beta-surumunde-goruldu-apple-news-plus-in-sesli-haberleri-geliyor.png
+image: images/ios-13-beta-surumunde-goruldu-apple-news-plus-in-sesli-haberleri-geliyor.png
 categories:
     - Apple
 tags:
@@ -30,6 +30,6 @@ Beta sürümde, **Apple** **News** **Plus** uygulamasında içeriklerin sesli ha
 
 ## Abonelik aylık 9,99 dolar
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-news-nedir.jpg)</figure>Apple News Plus, aylık 9,99 dolar ücret ile abonelik alınabilen bir hizmet. Sesli hikayeler de, ücretli abonelere sunulabilecek. **Apple**, abonelik hizmetlerini uzun vadeli gelir modelinde ciddi olarak önemsiyor. Kaliteli uzun içerikler, podcaste yakın bir deneyim yaratma noktasında, Apple’ın abone sayısını artırabilir.
+<figure class="wp-block-image size-large">![](images/apple-news-nedir.jpg)</figure>Apple News Plus, aylık 9,99 dolar ücret ile abonelik alınabilen bir hizmet. Sesli hikayeler de, ücretli abonelere sunulabilecek. **Apple**, abonelik hizmetlerini uzun vadeli gelir modelinde ciddi olarak önemsiyor. Kaliteli uzun içerikler, podcaste yakın bir deneyim yaratma noktasında, Apple’ın abone sayısını artırabilir.
 
 Şirketin, **Apple** **News** **Plus** için sesli haberleri ne zaman yayına alacağı belli değil. Ancak iOS 13 kapsamında sunulması ve bu ay içinde iOS 14’ün tanıtılacağı beklentisi, bu özelliğin de çok fazla gecikmeyeceği öngörüsünü hakim kılıyor. iOS 14’ün, online düzenlenecek olan 2020 Dünya Geliştiriciler Konferansı’nda tanıtılması [bekleniyor](https://intersiber.com/bu-ay-tanitilmasi-bekleniyor-ios-14-hangi-iphone-modelleri-icin-sunulacak/).

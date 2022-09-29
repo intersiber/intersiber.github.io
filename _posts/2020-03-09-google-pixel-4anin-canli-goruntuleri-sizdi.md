@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '75'
-image: /wp-content/uploads/2020/03/google-pixel-4.jpeg
+image: images/google-pixel-4.jpeg
 categories:
     - Mobil
 tags:
@@ -27,10 +27,10 @@ Geçtiğimiz Ekim ayında duyurulan Google’ın amiral gemisi akıllı telefonl
 
 Google Pixel 4a’nın Qualcomm **Snapdragon 730** veya 765 yonga seti, 4GB RAM, 64 GB dahili depolama, 12.2 MP kamera ve **5G** desteği ile gelmesi bekleniyor.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/google-pixel-4a-calisan-goruntuleri-sizdi-2.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/google-pixel-4a-calisan-goruntuleri-sizdi-3.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/google-pixel-4a-calisan-goruntuleri-sizdi-4.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/google-pixel-4a-calisan-goruntuleri-sizdi.jpg)</figure>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](images/google-pixel-4a-calisan-goruntuleri-sizdi-2.jpg)</figure>
+- <figure>![](images/google-pixel-4a-calisan-goruntuleri-sizdi-3.jpg)</figure>
+- <figure>![](images/google-pixel-4a-calisan-goruntuleri-sizdi-4.jpg)</figure>
+- <figure>![](images/google-pixel-4a-calisan-goruntuleri-sizdi.jpg)</figure>
 
 <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>## Mayıs ayında tanıtılması bekleniyor
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/samsungzflip.jpg
+image: images/samsungzflip.jpg
 categories:
     - Mobil
 tags:
@@ -29,7 +29,7 @@ Samsung, **Galaxy Fold** ile katlanabilir bir telefon yayınlayan ilk Android ci
 
 Z Flip’de bir cam ekran kullanmak Samsung için çok önemliydi ve Galaxy Z Flip’in duyurusu sırasında bu özelliği tekrar tekrar vurguladı. Hem **Galaxy Fold** hem de **Motorola Razr**, cam ekranlardan daha fazla çizilmeye ve diğer hasar şekillerine eğilimli olan plastik ekranlara sahip. Bir OLED paneli için katlanabilir bir cam kapak yapmak anlaşılır bir şekilde zor ancak Samsung bunu Galaxy Z Flip ile yaptığını iddia etmişti.
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![](https://intersiber.com/wp-content/uploads/2020/03/samsung-galaxy-z-flip-cam-ekran-plastik-katman.jpg)</figure></div>JerryRigEverything, çoğu yeni akıllı telefonun dayanıklılık testlerini yapmasıyla meşhur bir kanal. Yapmış olduğu testlerden biri, Mohs ölçeğinde ekranın dayanıklılığını ölçmeye dayalı. Modern bir cam telefon altı ila yedi seviye arasında çizilirken, plastik ekranlar iki veya üç seviye civarında çiziliyor. JerryRigEverything’in videosu Galaxy Z Flip çizilmesinin tıpkı **Galaxy Fold** gibi seviye 2 olduğunu gösterdi, ancak ekran iddia edildiği gibi cam olsaydı bu durumun ortaya çıkmaması gerekiyordu.
+<div class="wp-block-image"><figure class="aligncenter size-large">![](images/samsung-galaxy-z-flip-cam-ekran-plastik-katman.jpg)</figure></div>JerryRigEverything, çoğu yeni akıllı telefonun dayanıklılık testlerini yapmasıyla meşhur bir kanal. Yapmış olduğu testlerden biri, Mohs ölçeğinde ekranın dayanıklılığını ölçmeye dayalı. Modern bir cam telefon altı ila yedi seviye arasında çizilirken, plastik ekranlar iki veya üç seviye civarında çiziliyor. JerryRigEverything’in videosu Galaxy Z Flip çizilmesinin tıpkı **Galaxy Fold** gibi seviye 2 olduğunu gösterdi, ancak ekran iddia edildiği gibi cam olsaydı bu durumun ortaya çıkmaması gerekiyordu.
 
 ## Samsung’dan cam ekran açıklaması
 

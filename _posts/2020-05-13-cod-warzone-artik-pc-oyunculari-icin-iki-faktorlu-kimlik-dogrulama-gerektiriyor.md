@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6866'
 permalink: /cod-warzone-artik-pc-oyunculari-icin-iki-faktorlu-kimlik-dogrulama-gerektiriyor/
 post_views_count:
     - '112'
-image: /wp-content/uploads/2020/05/cod-warzone-artik-pc-oyunculari-icin-iki-faktorlu-kimlik-dogrulama-gerektiriyor.jpg
+image: images/cod-warzone-artik-pc-oyunculari-icin-iki-faktorlu-kimlik-dogrulama-gerektiriyor.jpg
 categories:
     - Oyun
 tags:

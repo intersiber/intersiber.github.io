@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8443'
 permalink: /ilk-perabayt-kapasiteli-sabit-disk-surucusu-cam-icerebilir/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/06/ilk-perabayt-kapasiteli-sabit-disk-surucusu-cam-icerebilir.jpg
+image: images/ilk-perabayt-kapasiteli-sabit-disk-surucusu-cam-icerebilir.jpg
 categories:
     - Genel
 tags:
@@ -23,7 +23,7 @@ Depolama alanında boy gösteren şirketler, camın insanlığın veri depolama 
 
 ## Dünyanın en büyük sabit disk sürücüleri 20 TB kapasitede
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/perabayt-kapasiteli-sabit-disk-surucusu.jpeg)</figure>Microsoft, bu alanda yaptığı bir araştırma çalışmasında, **Project** **Silica** adı altında optik veri depolamasına odaklandı. Araştırmacılar, 2,5 inçlik sabit disk sürücüsünün büyüklüğünde bir silis parçasında 75,6 **terabayt** veri toplamayı başardı. Dünyanın en büyük sabit disk sürücüsünün 20 Tb olduğu düşünüldüğünde, Microsoft’un bu hamlesi dikkat çekici.
+<figure class="wp-block-image size-large">![](images/perabayt-kapasiteli-sabit-disk-surucusu.jpeg)</figure>Microsoft, bu alanda yaptığı bir araştırma çalışmasında, **Project** **Silica** adı altında optik veri depolamasına odaklandı. Araştırmacılar, 2,5 inçlik sabit disk sürücüsünün büyüklüğünde bir silis parçasında 75,6 **terabayt** veri toplamayı başardı. Dünyanın en büyük sabit disk sürücüsünün 20 Tb olduğu düşünüldüğünde, Microsoft’un bu hamlesi dikkat çekici.
 
 ## Cam, optik veri depolama için bir araç
 

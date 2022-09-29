@@ -16,7 +16,7 @@ ampforwp-amp-on-off:
     - default
 td_post_theme_settings:
     - 'a:2:{s:16:"td_post_template";s:15:"single_template";s:14:"td_primary_cat";s:2:"80";}'
-image: /wp-content/uploads/2019/01/nasa-server-hack.jpg
+image: images/nasa-server-hack.jpg
 categories:
     - 'Veri Sızıntıları'
 tags:

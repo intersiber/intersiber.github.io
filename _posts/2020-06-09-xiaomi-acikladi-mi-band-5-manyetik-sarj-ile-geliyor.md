@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8294'
 permalink: /xiaomi-acikladi-mi-band-5-manyetik-sarj-ile-geliyor/
 post_views_count:
     - '96'
-image: /wp-content/uploads/2020/06/xiaomi-acikladi-mi-band-5-manyetik-sarj-ile-geliyor.png
+image: images/xiaomi-acikladi-mi-band-5-manyetik-sarj-ile-geliyor.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -24,7 +24,7 @@ tags:
 
 Xiaomi, bugün yaptığı paylaşımda Mi Band 5’in şarj teknolojisini anlatan bir GIF paylaştı. Önceki modeller, diğer akıllı saatlerde olduğu gibi bir şarj aparatının üzerine oturarak aktarılıyordu ancak Xiaomi, Mi Band 5’te manyetik bir şarj cihazı sunacak. Bu da, saatin kordondan çıkmasına gerek kalmadan şarj edilmesini kolaylaştırıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/xiaomi-mi-band-ozellikleri.png)</figure>## Yeni sensörler
+<figure class="wp-block-image size-large">![](images/xiaomi-mi-band-ozellikleri.png)</figure>## Yeni sensörler
 
 Xiaomi’nin yeni akıllı saati, manyetik şarj dışında gelişmiş yeni sensörlere de sahip olacak. Bu sensörler uyku ve solunum verilerini daha iyi ölçerken, stres verilerini de analiz edebilecek.
 

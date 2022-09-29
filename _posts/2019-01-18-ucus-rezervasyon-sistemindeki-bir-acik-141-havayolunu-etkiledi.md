@@ -16,7 +16,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '306'
-image: /wp-content/uploads/2019/01/Kendini-tedavi-eden-kanatlar.jpg
+image: images/Kendini-tedavi-eden-kanatlar.jpg
 categories:
     - Güvenlik
 tags:

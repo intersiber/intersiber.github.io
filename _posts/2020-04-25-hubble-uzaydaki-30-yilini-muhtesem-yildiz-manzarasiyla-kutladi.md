@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5958'
 permalink: /hubble-uzaydaki-30-yilini-muhtesem-yildiz-manzarasiyla-kutladi/
 post_views_count:
     - '100'
-image: /wp-content/uploads/2020/04/hubble-uzaydaki-30-yilini-muhtesem-yildiz-manzarasiyla-kutluyor.jpg
+image: images/hubble-uzaydaki-30-yilini-muhtesem-yildiz-manzarasiyla-kutluyor.jpg
 categories:
     - Uzay
 tags:
@@ -21,7 +21,7 @@ tags:
 
 **24 Nisan 1990**‘da Hubble Uzay Teleskobu, beş astronot ekibi ile birlikte uzay mekiği **Discovery**‘e fırlatıldı. Bir gün sonra alçak Dünya yörüngesine yerleştirilen teleskop, o zamandan beri medeniyetimiz için dönüştürücü olan kozmosa yeni bir göz açtı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/hubblecelebrating-1600x1199.jpg)</figure>Hubble Uzay Teleskobu’nun ikonik görüntüleri ve bilimsel buluşları Evren hakkındaki görüşümüzü yeniden tanımladı.
+<figure class="wp-block-image size-large">![](images/hubblecelebrating-1600x1199.jpg)</figure>Hubble Uzay Teleskobu’nun ikonik görüntüleri ve bilimsel buluşları Evren hakkındaki görüşümüzü yeniden tanımladı.
 
 Otuz yıllık bilimsel keşifleri anmak için, bu görüntü teleskopun 30 yıllık ömrü boyunca gözlemlediği birçok çalkantılı yıldız kreşinin en fotojenik örneklerinden biri. Portre, yaklaşık 163.000 ışıkyılı uzaklıkta olan Samanyolu’nun bir uydu galaksisi olan Büyük Macellan Bulutu’nda büyük bir yıldız oluşturan bölgenin bir parçasını oluşturan dev bulutsu **NGC 2014** ve komşusu **NGC 2020**‘yi içeriyor. Görüntü “**Kozmik Resif**” olarak adlandırıldı çünkü araştırmacılar, görüntünün bir mercan resifine benzettiler.
 

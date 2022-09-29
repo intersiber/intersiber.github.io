@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '293'
-image: /wp-content/uploads/2020/03/apple-yeni-ipad-pro-2020.png
+image: images/apple-yeni-ipad-pro-2020.png
 categories:
     - Apple
 tags:
@@ -27,7 +27,7 @@ tags:
 
 **2020 iPad Pro** modelleri meraklı bekleyişin ardından çok kısa bir süre önce tanıtıldı. Yeni iPad Pro modelleri **11 inç** ve **12.9 inç**lik iki farklı ekran boyutuna sahip. Eski iPad Pro tasarımına bir hayli benzeyen yeni modellerde ilk göze çarpan değişiklik üçlü kamera sistemi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/apple-ipad-pro-2020-1600x901.jpg)</figure>## Üçlü Kamera Sistemi
+<figure class="wp-block-image size-large">![](images/apple-ipad-pro-2020-1600x901.jpg)</figure>## Üçlü Kamera Sistemi
 
 2020 iPad Pro modellerinde arka tarafda konumlandırılmış ve iPhone 11 Pro modeline benzer üçlü kamera sistemi, **12 MP F1.8** geniş açı, **10 MP F2.4** ultra geniş açılı lensin yanında bir de LiDAR sensörüyle geliyor. **LiDAR** sensörünü, kabaca ortamın üç boyutlu haritalandırılması için kullanılan bir üç boyutlu lazer görüntüleme sensörü olarak tanımlayabiliriz. LiDAR sensörü ile yeni iPad Pro, çok daha iyi ve gelişmiş artırılmış gerçeklik deneyimi sunmayı hedefliyor.
 
@@ -35,7 +35,7 @@ iPad Pro gelişmiş kamerası ile **4K** video kaydedebiliyor. 12 MP çözünür
 
 2020 iPad Pro modelleri gücünü oldukça iddialı olan **A12Z Bionic** işlemciden alıyor. Yeni iPad modellerinde bir diğer dikkat çeken özellik ise beşli mikrofon ile stüdyo kalitesinde kayıt alınabilmesi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/apple-ipad-pro-2020-kamera.jpg)</figure>## Trackpad’e Sahip Yeni iPad Pro Klavyesi
+<figure class="wp-block-image size-full">![](images/apple-ipad-pro-2020-kamera.jpg)</figure>## Trackpad’e Sahip Yeni iPad Pro Klavyesi
 
 Yeni iPad Pro 2020 modelleri için bir diğer yenilik ise uzun zamandır üzerinde konuşulan yeni klavyesi oldu. Geçtiğimiz haftalarda birbiri ardına gelen söylentiler yeni iPad Pro’nun harici mouse desteğini [iyileştireceği](https://intersiber.com/ipados-14-ile-daha-gelismis-fare-destegi-gelebilir/) ve bir [trackpad’e sahip klavyeye](https://intersiber.com/ipad-pro-yeni-klavyesiyle-neler-sunuyor/) sahip olabileceği yönündeydi. Söylentiler doğru çıktı ve iPad Pro 2020 modelleriyle birlikte trackpad’e sahip yeni bir klavye tanıtıldı.
 
@@ -51,8 +51,8 @@ Türkiye için başlangıç fiyatlarının ise, 11 inç modeli için **6.399 TL*
 
 Yeni iPad Pro klavyesi 11 inç model için 299 dolar, 12.9 inç model için olanı ise 349 dolar olarak ABD’de mayıs ayında satışa sunulacak.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/apple-ipad-pro-2020-klavye-1600x1224.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/apple-ipad-pro-2020-ekran-1600x1257.jpg)</figure>
-- <figure>![](https://intersiber.com/wp-content/uploads/2020/03/apple-ipad-pro-2020-lidar-1-1600x900.jpg)</figure>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](images/apple-ipad-pro-2020-klavye-1600x1224.jpg)</figure>
+- <figure>![](images/apple-ipad-pro-2020-ekran-1600x1257.jpg)</figure>
+- <figure>![](images/apple-ipad-pro-2020-lidar-1-1600x900.jpg)</figure>
 
 <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>

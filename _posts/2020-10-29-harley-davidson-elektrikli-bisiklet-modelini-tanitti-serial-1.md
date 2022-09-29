@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9414'
 permalink: /harley-davidson-elektrikli-bisiklet-modelini-tanitti-serial-1/
 post_views_count:
     - '45'
-image: /wp-content/uploads/2020/10/harley-davidson-elektrikli-bisikletini-tanitti-serial-1-cycle.png
+image: images/harley-davidson-elektrikli-bisikletini-tanitti-serial-1-cycle.png
 categories:
     - Genel
 ---

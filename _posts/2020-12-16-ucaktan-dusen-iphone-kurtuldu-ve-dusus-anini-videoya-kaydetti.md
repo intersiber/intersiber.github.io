@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10055'
 permalink: /ucaktan-dusen-iphone-kurtuldu-ve-dusus-anini-videoya-kaydetti/
 post_views_count:
     - '47'
-image: /wp-content/uploads/2020/12/brezilya-de-ucaktan-dusen-iphone-6s-dusus-anini-videoya-kaydetti.jpg
+image: images/brezilya-de-ucaktan-dusen-iphone-6s-dusus-anini-videoya-kaydetti.jpg
 categories:
     - Apple
     - Video

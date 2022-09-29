@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Apple-3.jpg
+image: images/Apple-3.jpg
 categories:
     - Apple
 tags:
@@ -28,7 +28,7 @@ Apple’dan yapılan resmi bir açıklama söz konusu olmazken, şirket internet
 
 Apple’ın **COVID-19** nedeniyle bir süredir üretim zincirinde yavaşlama olabileceği, bunun ise şirketin tedarik zincirinde ciddi problemler ile karşı karşıya kalmasına sebep olabileceği tahmin ediliyordu.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/apple-store.png)</figure>## Sadece Apple Değil, Tüm Şirketler Risk Altında
+<figure class="wp-block-image size-full">![](images/apple-store.png)</figure>## Sadece Apple Değil, Tüm Şirketler Risk Altında
 
 Apple’ın tedarik zinciri bozulmasın diye getirdiği kısıtlamalar bugün yeniden kaldırıldı. Şirket teslimat sürelerini daha uzun tutmaya başlarken, üretim ağında bir sorun olmadığına işaret eden bu kısıtlamaların kaldırılması kullanıcıları sevindirdi.
 

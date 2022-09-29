@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/huawei-abd.png
+image: images/huawei-abd.png
 categories:
     - Mobil
 tags:
@@ -26,6 +26,6 @@ tags:
 
 Bakanlığın bu açıklamasının sebebi merak ediliyor. Ancak Huawei markası ile ABD’li şirketlerin ve AB üyesi ülkelerin işbirliği kesmesinde dönüm noktası olması beklenen 20 Mart tarihinin, 25 gün uzatılmasının sebebi henüz bilinmiyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Huawei-2-1.jpg)</figure>Yaptırımların tam olarak 15 Mayıs 2020’de uygulanmaya başlayacak olmasından dolayı Huawei bu tarihe kadar bazı destekler almaya devam edecek.
+<figure class="wp-block-image size-large">![](images/Huawei-2-1.jpg)</figure>Yaptırımların tam olarak 15 Mayıs 2020’de uygulanmaya başlayacak olmasından dolayı Huawei bu tarihe kadar bazı destekler almaya devam edecek.
 
 Cihaz satışlarını ABD genelinde yapamayan, son dönemde AB üyesi ülkelerde de tercih edilebilirliği azalan Çinli markanın önünde gelecek yaz aylarında oldukça zorlu bir süreç olacak gibi görünüyor.

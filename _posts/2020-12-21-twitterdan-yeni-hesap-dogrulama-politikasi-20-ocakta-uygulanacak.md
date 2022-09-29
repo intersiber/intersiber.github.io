@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10111'
 permalink: /twitterdan-yeni-hesap-dogrulama-politikasi-20-ocakta-uygulanacak/
 post_views_count:
     - '19'
-image: /wp-content/uploads/2020/12/twitter-dan-yeni-hesap-dogrulama-politikasi-20-ocak-ta-uygulanacak.jpg
+image: images/twitter-dan-yeni-hesap-dogrulama-politikasi-20-ocak-ta-uygulanacak.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ tags:
 
 ## Botlar ve vefat eden kişiler için özel etiket
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/twitter-olen-kisilerin-hesabina-etiket-koyacak.png)</figure>Twitter, platformda faydalı içerikler sunan birçok bot hesap olduğunu ancak insanların bunu bilmeleri gerektiğini ifade ederek, bot hesaplar konusunda kullanıcıların bilgilendirileceğini aktardı.
+<figure class="wp-block-image size-large">![](images/twitter-olen-kisilerin-hesabina-etiket-koyacak.png)</figure>Twitter, platformda faydalı içerikler sunan birçok bot hesap olduğunu ancak insanların bunu bilmeleri gerektiğini ifade ederek, bot hesaplar konusunda kullanıcıların bilgilendirileceğini aktardı.
 
 Twitter öte yandan, sahibi hayatını kaybetmiş hesaplar için de bir “anma” etiketi koyacak.
 
@@ -29,7 +29,7 @@ Twitter öte yandan, sahibi hayatını kaybetmiş hesaplar için de bir “anma�
 
 Twitter, Haziran ayında yaptığı açıklamada doğrulama sürecinde daha şeffaf olunacağını ve altı farklı kategoride kullanıcıların hesaplarının doğrulanacağını aktardı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/twitter-nasil-hesap-dogrulanir.png)</figure>Twitter hesap doğrulama sürecinde mavi tik alabilecek kategoriler şu şekilde olacak:
+<figure class="wp-block-image size-large">![](images/twitter-nasil-hesap-dogrulanir.png)</figure>Twitter hesap doğrulama sürecinde mavi tik alabilecek kategoriler şu şekilde olacak:
 
 - Haber siteleri
 - Eğlence hesapları

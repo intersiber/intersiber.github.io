@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9855'
 permalink: /ornek-toplayip-dunyaya-getirecek-cinin-change-5-uzay-araci-ay-yorungesine-girdi/
 post_views_count:
     - '21'
-image: /wp-content/uploads/2020/11/ornek-toplayip-dunyaya-getirecek-cin-in-chang-e-5-uzay-araci-ay-yorungesine-girdi.png
+image: images/ornek-toplayip-dunyaya-getirecek-cin-in-chang-e-5-uzay-araci-ay-yorungesine-girdi.png
 categories:
     - Uzay
 tags:
@@ -23,7 +23,7 @@ tags:
 
 Çin’in, Ay’dan çeşitli madde örnekleri getirmek amacı ile geçtiğimiz hafta fırlattığını duyurduğu Chang’e 5 uzay aracı Ay yörüngesine girdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/cin-chang-e-5-uzay-araci-firlatilma-ani.jpg)<figcaption>Chang’e 5’in fırlatılma anı.</figcaption></figure>23 Kasım’da Çin’den fırlatılan uzay aracı, yörüngeye ulaşmak için 112 saatlik bir uçuş gerçekleştirdi. 8 ton ağırlığa sahip Chang’e 5, Ay’ın yüzeyinden 400 kilometre uzakta yörüngede görevini sürdürüyor.
+<figure class="wp-block-image size-large">![](images/cin-chang-e-5-uzay-araci-firlatilma-ani.jpg)<figcaption>Chang’e 5’in fırlatılma anı.</figcaption></figure>23 Kasım’da Çin’den fırlatılan uzay aracı, yörüngeye ulaşmak için 112 saatlik bir uçuş gerçekleştirdi. 8 ton ağırlığa sahip Chang’e 5, Ay’ın yüzeyinden 400 kilometre uzakta yörüngede görevini sürdürüyor.
 
 ## Ay’a iniş ne zaman gerçekleşecek?
 

@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/ıbm.jpg
+image: images/ibm.jpg
 categories:
     - Genel
 tags:
@@ -27,7 +27,7 @@ tags:
 
 Bir süredir devam eden COVID-19’a karşı diğer teknoloji devlerinin de IBM’in süper bilgisayar hamlesine destek verdiği belirtiliyor.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/ıbm-2.jpg)</figure>Bu bilgisayarlar sayesinde normal bir bilgisayarda yapılacak deney ve araştırmalar haftalarca sürerken, bu bilgisayarlarda bu araştırmaların ve çalışmaların sadece birkaç dakika veya saat sürdüğü belirtiliyor. IBM’in bu hamlesinin ardında Beyaz Saray ile ortaklığı bulunurken araştırmacıların bazı programları bu bilgisayarları kullanarak yapacakları çalışmaların çok daha kısa süre içerisinde başarıya ulaşması hedefleniyor.
+<figure class="wp-block-image size-full">![](images/ıbm-2.jpg)</figure>Bu bilgisayarlar sayesinde normal bir bilgisayarda yapılacak deney ve araştırmalar haftalarca sürerken, bu bilgisayarlarda bu araştırmaların ve çalışmaların sadece birkaç dakika veya saat sürdüğü belirtiliyor. IBM’in bu hamlesinin ardında Beyaz Saray ile ortaklığı bulunurken araştırmacıların bazı programları bu bilgisayarları kullanarak yapacakları çalışmaların çok daha kısa süre içerisinde başarıya ulaşması hedefleniyor.
 
 ## COVID-19 Araştırmalarında Simülasyonların Önemi Büyük
 

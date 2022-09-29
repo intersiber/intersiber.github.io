@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '191'
-image: /wp-content/uploads/2020/02/nintendo-playstation-acik-artirmada.jpg
+image: images/nintendo-playstation-acik-artirmada.jpg
 categories:
     - Konsol
 tags:
@@ -27,7 +27,7 @@ Nintendo ve Sony’nin birlikte geliştirdiği ancak satışa sunulmadan rafa ka
 
 Nintendo PlayStation’ı duyduğunuzda kafanız karışmış olabilir. Kulağa yanlış gelen bir şeyler olduğunu düşünüyorsanız yanılıyorsunuz. Nintendo PlayStation tamamen gerçek. Nintendo ve **Sony** işbirliğiyle 1980’lerin sonunda geliştirilen oyun konsolu [Heritage Auctions’ta açık artırmada](https://comics.ha.com/itm/video-games/nintendo-play-station-super-nes-cd-rom-prototype-sony-and-nintendo-c-1992/a/7224-93060.s?ic4=GalleryView-ShortDescription-071515) alıcısını bekliyor.
 
-<figure class="wp-block-image size-large">![Nintendo Playstation](https://intersiber.com/wp-content/uploads/2020/02/nintendo-playstation-acik-artirma-1600x985.jpg)</figure>Nintendo PlayStation açık artırmaya çıktıktan çok kısa bir süre sonra 200.000 Dolar teklifi gördü. **Oculus VR**‘ın kurucusu ve aynı zamanda bir oyun konsolu koleksiyoneri olan **Palmer Luckey** Twitter’da yaptığı paylaşımda en yüksek teklife sahip olduğunu duyurdu. Ancak şu an son teklif **300.000 Dolar**ı geçmiş durumda ve en yüksek teklifin kime ait olduğu belli değil.
+<figure class="wp-block-image size-large">![Nintendo Playstation](images/nintendo-playstation-acik-artirma-1600x985.jpg)</figure>Nintendo PlayStation açık artırmaya çıktıktan çok kısa bir süre sonra 200.000 Dolar teklifi gördü. **Oculus VR**‘ın kurucusu ve aynı zamanda bir oyun konsolu koleksiyoneri olan **Palmer Luckey** Twitter’da yaptığı paylaşımda en yüksek teklife sahip olduğunu duyurdu. Ancak şu an son teklif **300.000 Dolar**ı geçmiş durumda ve en yüksek teklifin kime ait olduğu belli değil.
 
 <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">> I am currently the highest bidder on this. Who are the other nutters who keep bidding against me?<https://t.co/MIPpVn90EW>
 > 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7332'
 permalink: /netflix-uzun-sure-kullanilmayan-hesaplari-kapatacak/
 post_views_count:
     - '33'
-image: /wp-content/uploads/2020/05/netflix.jpg
+image: images/netflix.jpg
 categories:
     - Genel
 tags:
@@ -19,7 +19,7 @@ tags:
 
 **Netflix** günden güne artan görüntülenmesi ve aboneliklerinin yanı sıra **hesaplarını kullanmayan** yüz binlerce abone olduğunu açıkladı. Şirket, insanların kullanmadığı bir hizmet için ödeme yapmasını istemiyor. Kullanıcıların aboneliğini iyi değerlendirmesini istiyor. Bu nedenle **Netflix**, uzun süre kullanılmayan hesapları **iptal etme** kararı aldı.
 
-<figure class="wp-block-gallery columns-1 is-cropped">- <figure>![](https://intersiber.com/wp-content/uploads/2020/05/nnn-1600x900.jpeg)</figure>
+<figure class="wp-block-gallery columns-1 is-cropped">- <figure>![](images/nnn-1600x900.jpeg)</figure>
 
 </figure>**Netflix**, en az bir yıl önce kaydolunup hiçbir şey izlenmemiş hesaplara ve son iki yıldır platformda bir şey yayınlamayan kullanıcılara **e-posta** veya **uygulama bildirimi** yoluyla aboneliklerine devam etmek isteyip istemediklerini soracak. Eğer abonelerden cevap gelmezse abonelik **otomatik** olarak iptal edilecek.
 

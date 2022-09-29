@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9584'
 permalink: /sony-airpeak-markasiyla-drone-sektorune-giriyor/
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/11/sony-airpeak-markasiyla-drone-sektorune-giriyor.png
+image: images/sony-airpeak-markasiyla-drone-sektorune-giriyor.png
 categories:
     - Genel
 tags:

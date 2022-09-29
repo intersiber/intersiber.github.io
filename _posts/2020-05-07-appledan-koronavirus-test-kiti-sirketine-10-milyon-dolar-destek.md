@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6566'
 permalink: /appledan-koronavirus-test-kiti-sirketine-10-milyon-dolar-destek/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/05/apple-dan-koronavirus-test-kiti-sirketine-10-milyon-dolar-destek.png
+image: images/apple-dan-koronavirus-test-kiti-sirketine-10-milyon-dolar-destek.png
 categories:
     - Apple
 tags:
@@ -23,7 +23,7 @@ Bir şirket sözcüsü, “**COPAN**, **koronavirüs** **test** **kitleri** içi
 
 ## Apple’ın koronavirüsle mücadelesi
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/apple-destek-fonu.jpg)</figure>Küresel salgına karşı birçok küresel şirket, etkili çözüm önerileri geliştirmek için projeler üzerinde çalışıyor. Açıklanan yatırım, Apple’ın koronavirüs salgınına karşı tek hamlesi değil. Şirket, sağlık çalışanlarına maske tedariğinin yanı sıra, yüz kalkanı tasarlama ve benzeri hamleler için, tedarik zincirini kullanıyor. Bunun yanı sıra Hastalık Kontrol ve Önleme Merkezi için bir tarama uygulaması da, **Apple** tarafından geliştiriliyor. Apple, koronavirüse karşı bir temas takip sistemi geliştirmek adına Google ile de bir işbirliği yapıyor.
+<figure class="wp-block-image size-large">![](images/apple-destek-fonu.jpg)</figure>Küresel salgına karşı birçok küresel şirket, etkili çözüm önerileri geliştirmek için projeler üzerinde çalışıyor. Açıklanan yatırım, Apple’ın koronavirüs salgınına karşı tek hamlesi değil. Şirket, sağlık çalışanlarına maske tedariğinin yanı sıra, yüz kalkanı tasarlama ve benzeri hamleler için, tedarik zincirini kullanıyor. Bunun yanı sıra Hastalık Kontrol ve Önleme Merkezi için bir tarama uygulaması da, **Apple** tarafından geliştiriliyor. Apple, koronavirüse karşı bir temas takip sistemi geliştirmek adına Google ile de bir işbirliği yapıyor.
 
 ## 5 milyar dolarlık fon
 

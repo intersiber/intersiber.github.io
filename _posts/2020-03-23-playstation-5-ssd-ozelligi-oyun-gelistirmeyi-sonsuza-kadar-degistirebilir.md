@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/playstation5-ssd.jpg
+image: images/playstation5-ssd.jpg
 categories:
     - Konsol
 tags:
@@ -30,6 +30,6 @@ Teknoloji devi Sony’nin en yeni oyun konsolu PlayStation 5 gelişmiş teknik �
 
 PlayStation baş mimarı Mark Cerny’nin bu haftaki açıklamasında açıkladığı gibi, Sony’nin bu geliştirici dostu yaklaşımı zaman içerisinde şekillendi. Açıklamalara göre, Sony oyun konsolunu tasarlarken PlayStation 5’te görmek istedikleri özellikler hakkında yeni bir yol izlemek için oyun geliştiricilerini ziyaret etti. En çok talep edilenler arasında ise bir SSD vardı.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/sonyps5ssd.png)</figure>Mark Cerny’nin derinlemesine detaylandırdığı şekliyle temel olarak, Sony bu geliştirme yaklaşımını içinden gelerek oluşturdu. **PlayStation 5**‘in tescilli **SSD** çözümü; 5.5 GB/s’lik inanılmaz yüksek okuma yazma hızı, altı öncelik seviyesi, ekstra %10 verimli Kraken sıkıştırma algoritması ve darboğazları azaltmak için çalışan bütünleşik özellikler sağlıyor.
+<figure class="wp-block-image size-full">![](images/sonyps5ssd.png)</figure>Mark Cerny’nin derinlemesine detaylandırdığı şekliyle temel olarak, Sony bu geliştirme yaklaşımını içinden gelerek oluşturdu. **PlayStation 5**‘in tescilli **SSD** çözümü; 5.5 GB/s’lik inanılmaz yüksek okuma yazma hızı, altı öncelik seviyesi, ekstra %10 verimli Kraken sıkıştırma algoritması ve darboğazları azaltmak için çalışan bütünleşik özellikler sağlıyor.
 
 **Sony** PlayStation 5’in yeni nesil tescilli SSD’si tüm bu sağladığı yenilikler ve özellikleri ile oyun geliştiricileri için büyük kolaylık sağlayacak ve geliştiricilerin oyun geliştirme aşamalarında içinde bulunduğu birçok çıkmazın içinden onları kurtaracak gibi görünüyor.

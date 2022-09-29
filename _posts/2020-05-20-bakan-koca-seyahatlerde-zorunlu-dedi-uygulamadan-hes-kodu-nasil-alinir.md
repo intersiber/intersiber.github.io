@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7255'
 permalink: /bakan-koca-seyahatlerde-zorunlu-dedi-uygulamadan-hes-kodu-nasil-alinir/
 post_views_count:
     - '95'
-image: /wp-content/uploads/2020/05/bakan-koca-seyahatlerde-zorunlu-dedi-uygulamadan-hes-kodu-nasil-alinir.png
+image: images/bakan-koca-seyahatlerde-zorunlu-dedi-uygulamadan-hes-kodu-nasil-alinir.png
 categories:
     - Genel
 tags:
@@ -33,7 +33,7 @@ Alternatif olarak **SMS** **ile** de **HES** **kodu** alabilirsiniz.
 
 - HES kodu almak için, arada boşluk bırakarak TC Kimlik no, seri numarasının son 4 hanesi ve paylaşım süresini (gün sayısı olarak) 2023’e mesaj atın.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/hes-kodu-nasil-alinir-saglik-bakani-fahrettin-koca-acikladi.png)</figure>## HES kodu ne işe yarıyor?
+<figure class="wp-block-image size-large">![](images/hes-kodu-nasil-alinir-saglik-bakani-fahrettin-koca-acikladi.png)</figure>## HES kodu ne işe yarıyor?
 
 Toplantıda yer alan bilgilerde, **HES** kodunun kişinin, sağlık durumunun sorgulanması için kullanıldığı aktarıldı.
 

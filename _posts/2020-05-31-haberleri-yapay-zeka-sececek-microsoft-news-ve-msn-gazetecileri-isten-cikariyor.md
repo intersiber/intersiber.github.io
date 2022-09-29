@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7841'
 permalink: /haberleri-yapay-zeka-sececek-microsoft-news-ve-msn-gazetecileri-isten-cikariyor/
 post_views_count:
     - '35'
-image: /wp-content/uploads/2020/05/haberleri-yapay-zeka-sececek-microsoft-news-be-msn-gazetecileri-isten-cikariyor.jpg
+image: images/haberleri-yapay-zeka-sececek-microsoft-news-be-msn-gazetecileri-isten-cikariyor.jpg
 categories:
     - Genel
 tags:
@@ -27,6 +27,6 @@ Bir **Microsoft** sözcüsü, şirketin tüm şirketler gibi mevcut işleri düz
 
 ## Microsoft, haber departmanında yapay zekaya gitgide daha fazla önem veriyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/microsoft-msn-com-haberleri-yapay-zeka-sececek-1600x983.jpg)</figure>Microsoft, **MSN’i** 1995 yılında başlattı ve 25 yıldır, dünyanın 50 lokasyonunda yüzlerce editör ile çalışıyordu. **Microsoft** **News** ise iki yıl önce tanıtıldı.
+<figure class="wp-block-image size-large">![](images/microsoft-msn-com-haberleri-yapay-zeka-sececek-1600x983.jpg)</figure>Microsoft, **MSN’i** 1995 yılında başlattı ve 25 yıldır, dünyanın 50 lokasyonunda yüzlerce editör ile çalışıyordu. **Microsoft** **News** ise iki yıl önce tanıtıldı.
 
 Şirket, son aylarda **Microsoft** **News** için yapay zekanın kullanımına gitgide daha fazla yer veriyordu ve gazetecileri de **AI’dan** faydalanmak için teşvik ediyordu. Microsoft’ta içerikleri taramak, seçmek ve filtrelemek için AI kullanılıyor. Bunun yanı sıra, içeriklerde fotoğraf önerilerini de **yapay** **zeka** hazırlıyor. Şirket, **MSN** ve **Microsoft** **News’te**, en önemli haberlerde insan editörlerini kullanıyordu…

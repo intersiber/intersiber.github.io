@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7766'
 permalink: /hedefleri-tutturdu-elon-musk-tesla-hisselerinden-775-milyon-dolar-gelir-elde-edecek/
 post_views_count:
     - '51'
-image: /wp-content/uploads/2020/05/hedefleri-tutturdu-elon-musk-tesla-hisselerinden-775-milyon-dolar-kar-elde-edecek.jpeg
+image: images/hedefleri-tutturdu-elon-musk-tesla-hisselerinden-775-milyon-dolar-kar-elde-edecek.jpeg
 categories:
     - 'Elektrikli Otomobil'
     - Genel
@@ -23,7 +23,7 @@ tags:
 
 Tesla ile Elon Musk arasında 2018 yılında yapılan anlaşmada, Musk’ın 10 yıllık orta vadeli plan kapsamında belli hedefleri yerine getirmesi ve şirketten maaş almaması durumunda, 1,7 milyon Tesla hissesi satın alma hakkı kazanmasına karar verilmişti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/tesla-hisseleri.png)<figcaption>Tesla hisselerinin beş yıllık performansı.</figcaption></figure>Şirket, ABD Menkul Kıymetler ve Borsa Komisyonu SEC’e geçtiğimiz günlerde sunduğu belgede, Musk’ın şirketten düşük fiyatlı hisse alma hakkına sahip olduğunu ifade etti.
+<figure class="wp-block-image size-large">![](images/tesla-hisseleri.png)<figcaption>Tesla hisselerinin beş yıllık performansı.</figcaption></figure>Şirket, ABD Menkul Kıymetler ve Borsa Komisyonu SEC’e geçtiğimiz günlerde sunduğu belgede, Musk’ın şirketten düşük fiyatlı hisse alma hakkına sahip olduğunu ifade etti.
 
 ## 775 milyon dolar kâr elde edecek
 

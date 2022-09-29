@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/5g.jpg
+image: images/5g.jpg
 categories:
     - Genel
 tags:
@@ -28,6 +28,6 @@ tags:
 
 Yasaların bu tür şiddet eylemlerine izin vermediğini belirten İngiliz siyasetçiler, olası sorunları engellemek ve yeniden kulelerin tahrip edilmesini önlemek adına gerekli tüm önlemlerin güvenlik güçlerince alınacağını belirtti.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/ingiltere-2.jpg)</figure>Bazı İngiliz yetkililer ise kulelerin yakılmasından dolayı sorumlu olanların yasalar tarafından en kısa süre içerisinde cezalandırılacaklarını, herhangi bir vatandaşın kulelere zarar vermeye hakkının bulunmadığı konusunda hemfikir olduklarını açıkladı.
+<figure class="wp-block-image size-large">![](images/ingiltere-2.jpg)</figure>Bazı İngiliz yetkililer ise kulelerin yakılmasından dolayı sorumlu olanların yasalar tarafından en kısa süre içerisinde cezalandırılacaklarını, herhangi bir vatandaşın kulelere zarar vermeye hakkının bulunmadığı konusunda hemfikir olduklarını açıkladı.
 
 5G baz istasyonları corona virüsü yaydığı iddiası sonrasında [İngiltere’de](https://intersiber.com/ingiltere-uyardi-5g-istasyonlarini-yakmayin/) yakılmış ve istasyonlar zarar görmüştü. İstasyonların virüsü yaydığı konusundaki asılsız iddialar sebebiyle milyonlarca dolar değerinde zarar oluşmuştu.

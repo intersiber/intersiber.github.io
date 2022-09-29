@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6625'
 permalink: /bitcoin-halvinge-gunler-kaldi-bitcoin-yarilanmasi-nedir-neden-gerceklesiyor/
 post_views_count:
     - '78'
-image: /wp-content/uploads/2020/05/bitcoin-halving-yaklasiyor-bitcoin-yarilanmasi-nedir-neden-gerceklesiyor.png
+image: images/bitcoin-halving-yaklasiyor-bitcoin-yarilanmasi-nedir-neden-gerceklesiyor.png
 categories:
     - Girişim
 tags:
@@ -25,7 +25,7 @@ Bitcoin yarılanması, madenciliği zorlaştıran ve maliyetleri artıran bir du
 
 Bitcoin’in gizemli yaratıcısı **Satoshi** **Nakamoto**, Bitcoin arzının üst sınırını 21 milyon olarak belirledi. Toplam **Bitcoin** **arzı** bu sayıya ulaştığında artık Bitcoin madenciliği yapılmayacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/bitcoin-enflasyonu-2020-yarilanmasi.png)</figure>Bitcoin, madencilere para birimi ile yapılan işlemlerin doğru bir şekilde çalışması adına, gerekli bilgisayar ekipmanını sağlayanlar için 2016 yılından beri bir blok tamamlandığında, 12,5 BTC ödeme yaptı. Önümüzdeki günlerde bu sayı, 6,25 BTC’ye düşecek. Bitcoin ödül düzeyinin yarılanmasının, Bitcoin madenciliği üzerinde etkileri olacak. Zira madencilerin para kazanma potansiyeli ciddi anlamda düşecek.
+<figure class="wp-block-image size-large">![](images/bitcoin-enflasyonu-2020-yarilanmasi.png)</figure>Bitcoin, madencilere para birimi ile yapılan işlemlerin doğru bir şekilde çalışması adına, gerekli bilgisayar ekipmanını sağlayanlar için 2016 yılından beri bir blok tamamlandığında, 12,5 BTC ödeme yaptı. Önümüzdeki günlerde bu sayı, 6,25 BTC’ye düşecek. Bitcoin ödül düzeyinin yarılanmasının, Bitcoin madenciliği üzerinde etkileri olacak. Zira madencilerin para kazanma potansiyeli ciddi anlamda düşecek.
 
 **Halving**, yani yarılanma süreci, Bitcoin’in enflasyon tehdidine karşı dengeli bir çizgi izlemesinin bir yolu. Dört yılda bir yapılması planlanan Bitcoin yarılanması, dolaşımdaki **BTC** arzını dengeli tutmak için düşünülen bir yaklaşım.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5707'
 permalink: /twitch-ve-youtubea-rakip-facebook-oyun-odakli-uygulamasini-bugun-tanitacak/
 post_views_count:
     - '35'
-image: /wp-content/uploads/2020/04/twitch-ve-youtube-a-rakip-facebook-oyun-odakli-mobil-uygulamasini-tanitacak.jpeg
+image: images/twitch-ve-youtube-a-rakip-facebook-oyun-odakli-mobil-uygulamasini-tanitacak.jpeg
 categories:
     - Oyun
 tags:
@@ -26,6 +26,6 @@ Facebook’un uygulamayı tanıtacağı haberinin duyuran New York Times gazetes
 
 ## Facebook Gaming’in büyümesi etkili oldu
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/facebook-oyun-uygulamasi-ozellikleri-nelerdir.png)</figure>Oyun yayını odaklı uygulamanın, yaz döneminde tanıtılması bekleniyordu. Ancak Facebook’un oyun alanındaki girişimlerinden **Facebook Gaming**’in hızlı büyümesi ve en önemlisi de, koronavirüs salgını nedeniyle bu servislerdeki içerik tüketiminin artması, Facebook’un lansmanı öne çekmesine neden oldu.
+<figure class="wp-block-image size-large">![](images/facebook-oyun-uygulamasi-ozellikleri-nelerdir.png)</figure>Oyun yayını odaklı uygulamanın, yaz döneminde tanıtılması bekleniyordu. Ancak Facebook’un oyun alanındaki girişimlerinden **Facebook Gaming**’in hızlı büyümesi ve en önemlisi de, koronavirüs salgını nedeniyle bu servislerdeki içerik tüketiminin artması, Facebook’un lansmanı öne çekmesine neden oldu.
 
 Uygulamanın özelliklerine gelirsek, klasik bir oyun yayın platformu gibi, **Facebook’un** **oyun** **uygulaması**nda da yayın açabilecek ve diğer oyuncuların yayınlarını takip edebileceksiniz.

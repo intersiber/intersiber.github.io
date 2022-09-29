@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6003'
 permalink: /nintendo-dogruladi-bilgisayar-korsanlari-160-bin-hesaba-eristi/
 post_views_count:
     - '29'
-image: /wp-content/uploads/2020/04/nintendo-dogruladi-bilgisayar-korsanlari-160-bin-hesaba-eristi.jpeg
+image: images/nintendo-dogruladi-bilgisayar-korsanlari-160-bin-hesaba-eristi.jpeg
 categories:
     - Güvenlik
     - Oyun
@@ -27,4 +27,4 @@ Nintendo, Japon web sitelerine konuyla ilgili bir bilgi notu gönderdi. 160 bin 
 
 ## Oluşan zararı telafi edecek
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/nintendo-dan-gelen-uyari-maili.jpeg)<figcaption>Nintendo’dan gelen uyarı maili.</figcaption></figure>Nintendo, yetkisiz erişimlerin artmasını engellemek adına tüm NNID hesaplarını devre dışı bırakma kararı aldı. Şirket ayrıca, yetkisiz erişim kaynaklı satın alımları hesaplara geri ödemeyi kabul etti. Nintendo hesaplarında iki faktörlü kimlik doğrulamanın etkinleştirilmesi, bu tarz kötü niyetli saldırıların oluşmasını engelleyebilir.
+<figure class="wp-block-image size-large">![](images/nintendo-dan-gelen-uyari-maili.jpeg)<figcaption>Nintendo’dan gelen uyarı maili.</figcaption></figure>Nintendo, yetkisiz erişimlerin artmasını engellemek adına tüm NNID hesaplarını devre dışı bırakma kararı aldı. Şirket ayrıca, yetkisiz erişim kaynaklı satın alımları hesaplara geri ödemeyi kabul etti. Nintendo hesaplarında iki faktörlü kimlik doğrulamanın etkinleştirilmesi, bu tarz kötü niyetli saldırıların oluşmasını engelleyebilir.

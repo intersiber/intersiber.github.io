@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6440'
 permalink: /google-muhendisleri-iki-yil-once-zoomu-satin-almayi-dusunmus/
 post_views_count:
     - '63'
-image: /wp-content/uploads/2020/05/google-muhendisleri-iki-yil-once-zoom-u-satin-almayi-dusunmus.png
+image: images/google-muhendisleri-iki-yil-once-zoom-u-satin-almayi-dusunmus.png
 categories:
     - Genel
 tags:
@@ -24,7 +24,7 @@ The Information’ın haberine göre, popüler video konferans uygulaması Zoom,
 
 ## Google Meet ile Zoom arasındaki rekabet sürüyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/google-meet-nedir-video-konferans-uygulamalari.jpg)</figure>Google çalışanları, o dönemde Meet yerine Zoom’u kullanmayı tercih ettiyse de, şu anda uygulamanın kullanılması şirket içinde yasak. Zoom, günlük 10 milyon olan ortalama kullanıcı sayısını, koronavirüs salgınının ardından 300 milyona çıkarmayı başarsa da, Google da Meet odaklı bir politika izliyor ve geçtiğimiz günlerde şirketin CEO’su Sundar Pichai, Google’ın video konferans uygulaması Meet’in günde ortalama **3** **milyon** **yeni** **kullanıcı** kazandığını söyledi.
+<figure class="wp-block-image size-large">![](images/google-meet-nedir-video-konferans-uygulamalari.jpg)</figure>Google çalışanları, o dönemde Meet yerine Zoom’u kullanmayı tercih ettiyse de, şu anda uygulamanın kullanılması şirket içinde yasak. Zoom, günlük 10 milyon olan ortalama kullanıcı sayısını, koronavirüs salgınının ardından 300 milyona çıkarmayı başarsa da, Google da Meet odaklı bir politika izliyor ve geçtiğimiz günlerde şirketin CEO’su Sundar Pichai, Google’ın video konferans uygulaması Meet’in günde ortalama **3** **milyon** **yeni** **kullanıcı** kazandığını söyledi.
 
 **Video** **konferans** alanında rekabet gün geçtikçe artarken, Zoom’un ‘dev’ rakipleri çeşitli hamlelerle pazardaki paylarını artırmaya çalışıyor. Bugünlerde ortaya çıkan bu ‘geçmişteki satın alma hikayesi’ ise, belki de Google çalışanlarının ne kadar büyük bir fırsatı kaçırdığını gösteriyor.
 

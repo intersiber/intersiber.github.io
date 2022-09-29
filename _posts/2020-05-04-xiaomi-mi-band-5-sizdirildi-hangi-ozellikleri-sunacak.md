@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6373'
 permalink: /xiaomi-mi-band-5-sizdirildi-hangi-ozellikleri-sunacak/
 post_views_count:
     - '106'
-image: /wp-content/uploads/2020/05/xiaomi-mi-band-5-sizdirildi-hangi-ozellikleri-sunacak.jpg
+image: images/xiaomi-mi-band-5-sizdirildi-hangi-ozellikleri-sunacak.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -19,7 +19,7 @@ tags:
 
 ## Akıllı bileklik tasarımı sızdırıldı iddiası
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/xiaomi-mi-band-5-akilli-bileklik-sizdirildi.png)</figure>**Giyilebilir** **teknoloji** alanında geliştirdiği ürünlerle piyasada dikkat çeken Xiaomi, sevilen akıllı bilekliği **Mi** **Band** **4**’ün ardından yeni modeli Mi Band 5’i piyasaya çıkaracak. Merakla beklenen Mi Band 5’e ilişkin tasarım ve özelliklerine dair bir sızıntı paylaşıldı. Akıllı bileklik, bir önceki modelle karşılaştırıldığında önemli bir ekran değişikliğiyle gelecek gibi görünüyor.
+<figure class="wp-block-image size-large">![](images/xiaomi-mi-band-5-akilli-bileklik-sizdirildi.png)</figure>**Giyilebilir** **teknoloji** alanında geliştirdiği ürünlerle piyasada dikkat çeken Xiaomi, sevilen akıllı bilekliği **Mi** **Band** **4**’ün ardından yeni modeli Mi Band 5’i piyasaya çıkaracak. Merakla beklenen Mi Band 5’e ilişkin tasarım ve özelliklerine dair bir sızıntı paylaşıldı. Akıllı bileklik, bir önceki modelle karşılaştırıldığında önemli bir ekran değişikliğiyle gelecek gibi görünüyor.
 
 Önceki **Mi Band** modellerindeki kare ekran tasarımının aksine, Xiaomi’nin yeni akıllı bilekliğinin ekranının oval bir konsepte sahip olacağı iddia edildi. Sızdırılan görüntüde delikli ve oval bir ekran görünüyor. Ekrandaki deliklerin hangi amaçla tasarlandığı tam olarak anlaşılmasa da, ekrana entegre bir kamera olma olasılığından söz ediliyor.
 

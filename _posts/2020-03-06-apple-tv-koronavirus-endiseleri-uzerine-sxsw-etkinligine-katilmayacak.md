@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/appletv.png
+image: images/appletv.png
 categories:
     - Apple
     - Etkinlik
@@ -28,6 +28,6 @@ Apple TV+, Austin Teksas’taki yıllık **SXSW** etkinliğine katılmayacağın
 
 13 Mart’ta başlayacak olan etkinlikte **Apple TV+**, etkinlik sırasında Beastie Boys hakkındaki Spike Jonze belgeseli de dahil olmak üzere üç yeni projeyi paylaşmayı planlamıştı. Bu artık olmayacak çünkü etkinlikten çekildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/appletv2.jpg)</figure>**Apple TV** **+**, son derece popüler **SXSW** etkinliğinde bulunmamaya karar veren ilk medya değil, **Netflix** ayrıca koronavirüs endişelerini de etkinliğe katılmayarak ortadan kaldırdı. Amazon, Facebook ve [Twitter](https://intersiber.com/twitter-koronavirus-endiseleri-nedeniyle-sxsw-konferansindan-cekildi/) da aynısını yaptı. Ancak tüm bunlara rağmen etkinliğin tamamen iptal edilmesi ile ilgili henüz kesin bir haber gelmedi.
+<figure class="wp-block-image size-large">![](images/appletv2.jpg)</figure>**Apple TV** **+**, son derece popüler **SXSW** etkinliğinde bulunmamaya karar veren ilk medya değil, **Netflix** ayrıca koronavirüs endişelerini de etkinliğe katılmayarak ortadan kaldırdı. Amazon, Facebook ve [Twitter](https://intersiber.com/twitter-koronavirus-endiseleri-nedeniyle-sxsw-konferansindan-cekildi/) da aynısını yaptı. Ancak tüm bunlara rağmen etkinliğin tamamen iptal edilmesi ile ilgili henüz kesin bir haber gelmedi.
 
 Apple’ın Mart ayında bir medya etkinliği planlamıştı ve yeni cihazların bu etkinlikte tanıtılması bekleniyordu. Bahsettiğimiz etkinlik artık olası görünmüyor, Apple bunun yerine daha küçük ve muhtemelen online tanıtımlar gerçekleştirecek.

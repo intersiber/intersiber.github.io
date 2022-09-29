@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/iphone-nasil-dezenfekte-edilir.jpg
+image: images/iphone-nasil-dezenfekte-edilir.jpg
 categories:
     - Apple
 tags:
@@ -31,7 +31,7 @@ Genel olarak, **Apple** gibi cihaz üreticileri sert dezenfektanlara karşı ç�
 
 Bu kaplama, telefonunuzu kullanırken doğal ve yavaş bir şekilde yıpranır, ancak sert temizleyiciler daha hızlı yıpranmasına neden olabilir.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/appledezenfeksiyon-1600x1053.jpg)</figure>9 Mart 2020’de **Apple**, dezenfekte edici mendillerin iPhone, iPad, MacBook ve diğer Apple ürünlerini temizlemenin kabul edilebilir bir yolu olduğunu söylemek [için resmi temizlik kılavuzunu](https://support.apple.com/en-us/HT204172) güncelledi.
+<figure class="wp-block-image size-large">![](images/appledezenfeksiyon-1600x1053.jpg)</figure>9 Mart 2020’de **Apple**, dezenfekte edici mendillerin iPhone, iPad, MacBook ve diğer Apple ürünlerini temizlemenin kabul edilebilir bir yolu olduğunu söylemek [için resmi temizlik kılavuzunu](https://support.apple.com/en-us/HT204172) güncelledi.
 
 **Apple** özellikle “%70 izopropil alkollü mendil veya Clorox Dezenfekte Mendil” kullanmanız gerektiğini söylüyor. İçinde çamaşır suyu olan hiçbir şey kullanmayın.
 

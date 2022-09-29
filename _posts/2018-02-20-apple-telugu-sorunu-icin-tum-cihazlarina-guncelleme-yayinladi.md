@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=952'
 permalink: /apple-telugu-sorunu-icin-tum-cihazlarina-guncelleme-yayinladi/
 post_views_count:
     - '237'
-image: /wp-content/uploads/2018/02/iphone-x.jpg
+image: images/iphone-x.jpg
 categories:
     - Apple
     - 'Öne Çıkan'
@@ -18,7 +18,7 @@ Geçtiğimiz günlerde, Apple cihazlarını etkileyen bir açık ortaya çıkmı
 
 Hindistan’da konuşulan bir dilden, tek bir karakterin gönderilmesi sonucunda uygulamaların çökmesi açığın basit gibi görünse de ne kadar büyük etkilere sahip olduğunu gösterdi. Öyle ki, bir Twitter kullanıcısı Telugu karakteri içeren bir twit attı ve durumunu beğenen iPhone kullanıcılarının Twitter uygulamalarını çökertmeyi başardı.
 
-![](https://www.intersiber.com/wp-content/uploads/2018/02/telugu-bug-twitter.jpg)
+![](https://www.intersiber.comimages/telugu-bug-twitter.jpg)
 
 Apple’ın halihazırda halka açık beta sürümünde var olmayan bu açık için Apple 11.3 sürümü öncesinde güncelleme yayınlamak zorunda kaldı.
 

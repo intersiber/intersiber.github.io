@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10154'
 permalink: /cyberpunk-2077-gelistiricisi-cd-projekt-rede-ilk-dava-acildi-durumu-biliyorlardi/
 post_views_count:
     - '16'
-image: /wp-content/uploads/2020/12/cyberpunk-2077-cd-projekt-red-e-ilk-dava-acildi-durumu-biliyorlardi.jpg
+image: images/cyberpunk-2077-cd-projekt-red-e-ilk-dava-acildi-durumu-biliyorlardi.jpg
 categories:
     - Oyun
 tags:

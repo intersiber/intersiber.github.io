@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=44'
 permalink: /vertical-scope-forumlari-hacklendi/
 post_views_count:
     - '740'
-image: /wp-content/uploads/2016/06/password.jpg
+image: images/password.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

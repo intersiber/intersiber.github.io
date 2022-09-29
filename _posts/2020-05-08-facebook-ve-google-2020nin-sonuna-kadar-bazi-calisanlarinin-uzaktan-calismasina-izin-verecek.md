@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6602'
 permalink: /facebook-ve-google-2020nin-sonuna-kadar-bazi-calisanlarinin-uzaktan-calismasina-izin-verecek/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/05/facebook-ve-google-2020nin-sonuna-kadar-bazi-calisanlarinin-uzaktan-calismasina-izin-verecek.gif
+image: images/facebook-ve-google-2020nin-sonuna-kadar-bazi-calisanlarinin-uzaktan-calismasina-izin-verecek.gif
 categories:
     - Genel
 tags:
@@ -21,7 +21,7 @@ Covid-19 salgını, **Google** ve **Facebook** dahil olmak üzere dünyanın dö
 
 Çoğu şirkette olduğu gibi, **Facebook** ve **Google** çalışanları yeni koronavirüsün yayılmasını yavaşlatmak için evden çalışıyorlar. Silikon Vadisi’ndeki en büyük iki şirketin duyuruları, teknoloji endüstrisinin geri kalanının önümüzdeki aylarda nasıl **yeniden açılmayı** planlayabileceğine dair ipuçları veriyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/facebook-google-1600x1155.jpg)</figure>Facebook sözcüsü, şirketin ofislerinin yeniden açılıp açılmayacağına karar verirken halk sağlığı verileri, hükümet rehberliği ve yerel nüanslar gibi çeşitli faktörlerin değerlendireceğini, ofislerinin çoğunu **6 Temmuz**‘a kadar yeniden açmayı planlamadıklarını söyledi. Bazı çalışanların işleri uzaktan yapılamazken, **Zuckerberg** işe geri dönüşün kademeli bir şekilde yapılması gerektiğini vurgulayarak “Genel olarak, herkesin bir süre ofislerimizde olmasını beklemiyoruz.” dedi.
+<figure class="wp-block-image size-large">![](images/facebook-google-1600x1155.jpg)</figure>Facebook sözcüsü, şirketin ofislerinin yeniden açılıp açılmayacağına karar verirken halk sağlığı verileri, hükümet rehberliği ve yerel nüanslar gibi çeşitli faktörlerin değerlendireceğini, ofislerinin çoğunu **6 Temmuz**‘a kadar yeniden açmayı planlamadıklarını söyledi. Bazı çalışanların işleri uzaktan yapılamazken, **Zuckerberg** işe geri dönüşün kademeli bir şekilde yapılması gerektiğini vurgulayarak “Genel olarak, herkesin bir süre ofislerimizde olmasını beklemiyoruz.” dedi.
 
 Google CEO’su **Sundar Pichai** yapılan şirket toplantısında çalışanlarının 2020’nin geri kalanında uzaktan çalışacaklarını duyurdu. Şirketin yerinde çalışması gereken kişiler için **Haziran** veya **Temmuz** aylarında ofislerini açmaya başlayacağını söyleyen Pichai, insanların birbirleriyle yakın temasta olmasını engellemek için ofislerine **ek güvenlik önlemleri** uygulayacaklarını belirtti.
 

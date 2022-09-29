@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/tiktok.jpg
+image: images/tiktok.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -28,7 +28,7 @@ Missouri’den Cumhuriyetçi senatörler Josh Hawley ve Florida’dan Rick Scott
 
 Hawley yaptığı açıklamada, “TikTok, Çin Komünist Partisi üyelerini yönetim kuruluna dahil eden bir Çinli şirkete ait ve yasaların kullanıcı verilerini Pekin ile paylaşması gerekiyor” dedi. “Şirket, uygulamalarının arka planda çalışırken insanların gönderdiği mesajlar, paylaştıkları resimler, tuş vuruşları ve konum verileri de dahil kullanıcı verilerini topladığını itiraf etti.” ifadelerini kullandı. Ayrıca uygulamanın hükümet cihazlarında “yeri yok” diye ekledi.
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/tiktok1.jpg)</figure>**TikTok** sözcüsü yaptığı açıklamada, “Endişelerin asılsız olduğunu düşünürken, onları anlıyoruz ve politikalarımızı açıklamak için milletvekilleri ile diyaloğumuzu artırırken güvencelerimizi daha da güçlendirmeye devam ediyoruz.” dedi. “Kısa bir süre önce LA’de üçüncü taraf uzmanlara kaynak kodumuzu ve veri gizliliği, güvenliği ve denetleme uygulamaları konusundaki çabalarımızı anlatacak bir şeffaflık merkezi duyurduk.” ifadelerini kullandı.
+<figure class="wp-block-image size-full">![](images/tiktok1.jpg)</figure>**TikTok** sözcüsü yaptığı açıklamada, “Endişelerin asılsız olduğunu düşünürken, onları anlıyoruz ve politikalarımızı açıklamak için milletvekilleri ile diyaloğumuzu artırırken güvencelerimizi daha da güçlendirmeye devam ediyoruz.” dedi. “Kısa bir süre önce LA’de üçüncü taraf uzmanlara kaynak kodumuzu ve veri gizliliği, güvenliği ve denetleme uygulamaları konusundaki çabalarımızı anlatacak bir şeffaflık merkezi duyurduk.” ifadelerini kullandı.
 
 Bu yasa tasarısı kabul edilirse ABD’de hiçbir çalışanın, uygulamayı iş için kullandığı cihazına indiremeyeceği anlamına geliyor. Yasak, TikTok’un ana şirketi **ByteDance** tarafından oluşturulan diğer uygulamalara da uzanacak.
 

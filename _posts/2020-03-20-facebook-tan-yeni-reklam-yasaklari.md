@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/facebook.jpeg
+image: images/facebook.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -27,6 +27,6 @@ tags:
 
 Bu dönemde daha çok COVID-19 test kitlerini yüksek fiyatlardan satmaya başlayan fırsatçılar, 15 dakikada hızlı test yapan bu kitleri 100 doları aşan fiyatlarla satmaya başladılar.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/facebook-reklam-yasaklari.jpg)</figure>Çok sayıda fırsatçının bir kerede önüne geçebilmek için Facebook yönetimi yeni bir karar aldı ve sonucunda bu tür reklamlara da yasak getirdiklerini bugün açıkladı.
+<figure class="wp-block-image size-large">![](images/facebook-reklam-yasaklari.jpg)</figure>Çok sayıda fırsatçının bir kerede önüne geçebilmek için Facebook yönetimi yeni bir karar aldı ve sonucunda bu tür reklamlara da yasak getirdiklerini bugün açıkladı.
 
 **Mark Zuckerberg** liderliğinde yapılan toplantılarda 5.000’den fazla çalışanının evden çalışmasını öneren Facebook, reklam yasakları arasına maske ve başka yöntemlerle fırsatçılığa sebep olan ürünleri de eklemişti.

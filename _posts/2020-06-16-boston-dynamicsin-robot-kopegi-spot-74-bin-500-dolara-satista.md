@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8510'
 permalink: /boston-dynamicsin-robot-kopegi-spot-74-bin-500-dolara-satista/
 post_views_count:
     - '77'
-image: /wp-content/uploads/2020/06/boston-dynamics-in-robot-kopegi-spot-74-bin-500-dolara-satista.png
+image: images/boston-dynamics-in-robot-kopegi-spot-74-bin-500-dolara-satista.png
 categories:
     - Genel
 tags:
@@ -20,7 +20,7 @@ tags:
 
 **Boston** **Dynamics**, **Spot** için ‘dünyanın en gelişmiş mobil robotu’ ifadesini kullanıyor. Son derece çevik bir robot olmasına karşın Spot, şu anda anket ya da veri toplama, uyarıda bulunma gibi temel faaliyetlerde bulunuyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/boston-dynamics-robot-kopegi-spot-ozellikleri.png)</figure>Şirket, Spot’u farklı sensörlerle özelleştirilebilen, devriye ya da denetim gibi işlemler yapabilen bir robot olarak tanımlıyor. Boston Dynamics’in robot mühendislerinden Zack Jackowski, “Robotu genellikle, bir insanın yapmasını istemedikleri bir şey yapmak istediklerinde satıyoruz. Genellikle tehlikeli ya da çok sık yapılması gereken işler, birçok kişiyi çıldırtabilir. Bir fabrikanın etrafını günde 40 kez dolaşmak ya da her defasında aynı resimleri çekmek gibi…” dedi.
+<figure class="wp-block-image size-large">![](images/boston-dynamics-robot-kopegi-spot-ozellikleri.png)</figure>Şirket, Spot’u farklı sensörlerle özelleştirilebilen, devriye ya da denetim gibi işlemler yapabilen bir robot olarak tanımlıyor. Boston Dynamics’in robot mühendislerinden Zack Jackowski, “Robotu genellikle, bir insanın yapmasını istemedikleri bir şey yapmak istediklerinde satıyoruz. Genellikle tehlikeli ya da çok sık yapılması gereken işler, birçok kişiyi çıldırtabilir. Bir fabrikanın etrafını günde 40 kez dolaşmak ya da her defasında aynı resimleri çekmek gibi…” dedi.
 
 **Boston** **Dynamics**, Spot’un geliştirmesine devam edeceğini ancak robotun genel satışa hazır olduğunu söyledi.
 

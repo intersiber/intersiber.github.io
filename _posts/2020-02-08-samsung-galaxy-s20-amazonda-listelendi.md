@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/71389.jpg
+image: images/71389.jpg
 categories:
     - Mobil
 tags:
@@ -26,6 +26,6 @@ Binlerce insanın büyük bir merakla beklediği Samsung **Galaxy S20** için ge
 
 Hem özellikleri hem de telefonun tasarımı konusunda pek çok otoriteden tam not alan **Galaxy S20** ile ilgili yeni gelişmelerde yaşanıyor. Amazon Birleşik Arap Emirlikleri’nin resmi web sitesinde Galaxy S20 modelinin LTE standart modeli de listelenerek şaşkınlık yarattı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/samsung-galaxy-s20-ailesi.jpg)</figure>## Özellikleri Büyük Beğeni Topladı
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-s20-ailesi.jpg)</figure>## Özellikleri Büyük Beğeni Topladı
 
 Samsung’un yeni modeli Galaxy S20 **6.2 inç** büyüklüğünde bir ekrana sahip. Infinity-O tasarımı olarak bilinen delikli ekranı ile şimdiden birçok kişinin gönlüne taht kurmayı başardı. **4000mAh** batarya gücüne sahip olan Galaxy S20, Android 10 sürümüyle kullanıcılarla buluşacak. Samsung’un yeni amiral gemisi için belirlenen liste fiyatı ise **847 dolar**.

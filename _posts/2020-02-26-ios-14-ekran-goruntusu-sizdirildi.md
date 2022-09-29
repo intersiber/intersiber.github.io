@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/ios-14-ozellikleri-sizdirildi.png
+image: images/ios-14-ozellikleri-sizdirildi.png
 categories:
     - Apple
 tags:
@@ -28,7 +28,7 @@ tags:
 
 Teknoloji analisti Ben Geskin, Apple’dan daha hiç açıklama yapılmamasına rağmen yeni sürüm hakkında Twitter üzerinden videolu bir açıklama paylaştı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/fcf3f8192b979e715d37f5bf4076c06e1ef61d82.jpeg)</figure>## Çoklu görev menüsü geliyor
+<figure class="wp-block-image size-large">![](images/fcf3f8192b979e715d37f5bf4076c06e1ef61d82.jpeg)</figure>## Çoklu görev menüsü geliyor
 
 Geçtiğimiz dönemlerde de henüz tanıtılmayan Apple ürünleriyle ilgili pek çok sızıntıyı kullanıcılarla paylaşan Geskin, iOS 14’ün iPad’lerde bulunan çoklu görev menüsüne sahip olacağını söyledi. Geskin’in iddialarını destekleyen, iPhone 11 Pro Max modeli ile çekilen videoda da görüldüğü üzere kesin olarak çoklu görev menüsü geliyor.
 

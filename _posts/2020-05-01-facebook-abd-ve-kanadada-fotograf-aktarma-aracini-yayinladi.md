@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6283'
 permalink: /facebook-abd-ve-kanadada-fotograf-aktarma-aracini-yayinladi/
 post_views_count:
     - '11'
-image: /wp-content/uploads/2020/05/facebook-abd-ve-kanadada-fotograf-aktarma-aracini-yayinladi.jpg
+image: images/facebook-abd-ve-kanadada-fotograf-aktarma-aracini-yayinladi.jpg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -21,7 +21,7 @@ tags:
 
 Araç, Apple, Twitter, Google ve Facebook’un kullanıcılara şirketlerin hizmetleri arasında veri aktarımı için daha kolay bir yol sağlamayı amaçladığı **Veri Aktarımı Projesi**‘nin bir parçası olarak tasarlandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/facebook-photo-transfer-tool-1600x900.jpg)</figure>Fotoğraf aktarma aracına erişmek için;
+<figure class="wp-block-image size-large">![](images/facebook-photo-transfer-tool-1600x900.jpg)</figure>Fotoğraf aktarma aracına erişmek için;
 
 - Facebook’u açıp “Ayarlar”a girin.
 - “Facebook Bilgileriniz”i seçin.

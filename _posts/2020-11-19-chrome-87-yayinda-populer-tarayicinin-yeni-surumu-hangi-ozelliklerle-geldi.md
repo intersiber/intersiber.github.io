@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9724'
 permalink: /chrome-87-yayinda-populer-tarayicinin-yeni-surumu-hangi-ozelliklerle-geldi/
 post_views_count:
     - '42'
-image: /wp-content/uploads/2020/11/chrome-87-yayinda-populer-tarayicinin-yeni-surumu-neler-sunuyor.png
+image: images/chrome-87-yayinda-populer-tarayicinin-yeni-surumu-neler-sunuyor.png
 categories:
     - Genel
 tags:
@@ -23,7 +23,7 @@ Google, Chrome’un son sürümü olan **Chrome** **87**’yi 17 Kasım’da yay
 
 ## Yenilenmiş PDF görüntüleyici
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/chrome-87-yeni-pdf-goruntuleyici.png)</figure>Chrome 87’de öne çıkan ciddi görsel değişikliklerden biri, PDF’lerle ilgili. **Chrome, PDF görüntüleyici** ile ilgili uzun bir süredir ilk kez böyle bir değişime gitti.
+<figure class="wp-block-image size-large">![](images/chrome-87-yeni-pdf-goruntuleyici.png)</figure>Chrome 87’de öne çıkan ciddi görsel değişikliklerden biri, PDF’lerle ilgili. **Chrome, PDF görüntüleyici** ile ilgili uzun bir süredir ilk kez böyle bir değişime gitti.
 
 Yeni PDF görünümü, tüm sayfaların önizlemesini gösteren bir kenar çubuğu içeriyor. Yakınlaştırma düğmeleri artık bir döndür düğmesi ve “Sayfaya sığdır” seçeneği ile ekranın üst kısmındadır. Menü ayrıca, sayfaları yan yana görüntülemek için yeni bir seçenek içerir.
 
@@ -35,7 +35,7 @@ Chrome’da birçok sekmeyi açık tutmayı seviyorsanız, bazen istediğinizi b
 
 ## Çok amaçlı adres çubuğundaki “Chrome işlemleri”
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/chrome-islemleri-ozelligi.png)</figure>Chrome çok amaçlı adres çubuğu, URL’leri girebileceğiniz ve arama yapabileceğiniz bir yer. Chrome 87 ile, güçlü özellikler içeren çok amaçlı adres çubuğuna “Chrome İşlemleri” adlı özelliği ekledi.
+<figure class="wp-block-image size-large">![](images/chrome-islemleri-ozelligi.png)</figure>Chrome çok amaçlı adres çubuğu, URL’leri girebileceğiniz ve arama yapabileceğiniz bir yer. Chrome 87 ile, güçlü özellikler içeren çok amaçlı adres çubuğuna “Chrome İşlemleri” adlı özelliği ekledi.
 
 Bu, belli görevleri gerçekleştirmek için daha hızlı bir yol sunan bir özellik. Örneğin şifreleri düzenle yazabilir ve doğrudan ayarların ilgili kısmına bir kısayol ile ulaşabilirsiniz.
 
@@ -53,4 +53,4 @@ Bu özellik, web sitelerine temiz bir JSON biçimli kaydedilmiş çerez listesi 
 
 ## Yeni duvar kağıtları
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/chrome-yeni-duvar-kagitlari.png)</figure>Google, Chrome OS’de bazı yeni duvar kağıtları ile, deneyiminize bir renk katmayı amaçlıyor. Yeni Chrome duvar kağıtları, duvar kağıdı seçme aracında “Made by canvas” ve “Collage” gibi koleksiyonlarında bulunabilir. Yeni sürümle toplamda 30’un üzerinde duvar kağıdı geldi.
+<figure class="wp-block-image size-large">![](images/chrome-yeni-duvar-kagitlari.png)</figure>Google, Chrome OS’de bazı yeni duvar kağıtları ile, deneyiminize bir renk katmayı amaçlıyor. Yeni Chrome duvar kağıtları, duvar kağıdı seçme aracında “Made by canvas” ve “Collage” gibi koleksiyonlarında bulunabilir. Yeni sürümle toplamda 30’un üzerinde duvar kağıdı geldi.

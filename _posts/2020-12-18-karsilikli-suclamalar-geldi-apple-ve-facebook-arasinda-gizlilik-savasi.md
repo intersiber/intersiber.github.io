@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10073'
 permalink: /karsilikli-suclamalar-geldi-apple-ve-facebook-arasinda-gizlilik-savasi/
 post_views_count:
     - '20'
-image: /wp-content/uploads/2020/12/karsilikli-suclamalar-geldi-apple-ve-facebook-arasinda-gizlilik-savasi.jpg
+image: images/karsilikli-suclamalar-geldi-apple-ve-facebook-arasinda-gizlilik-savasi.jpg
 categories:
     - Genel
 tags:
@@ -34,7 +34,7 @@ Facebook’un açıklamasında, Apple, uygulama mağazası üzerinden indirilen 
 
 ## Apple: Kullanıcılarımızın yanındayız
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/apple-facebook-kavgasi.jpg)</figure>Apple’dan bu eleştirilere bir yanıt geldi. Şirket sözcüsü, yaptığı açıklamada “Kullanıcılar hangi verilerin ne zaman toplandığını ve diğer uygulamalar ile internet sitelerine paylaşılıp paylaşılmadığını bilme yetkisine sahip olmalı” ifadelerini kullandı ve kullanıcılarımızın yanındayız dedi.
+<figure class="wp-block-image size-large">![](images/apple-facebook-kavgasi.jpg)</figure>Apple’dan bu eleştirilere bir yanıt geldi. Şirket sözcüsü, yaptığı açıklamada “Kullanıcılar hangi verilerin ne zaman toplandığını ve diğer uygulamalar ile internet sitelerine paylaşılıp paylaşılmadığını bilme yetkisine sahip olmalı” ifadelerini kullandı ve kullanıcılarımızın yanındayız dedi.
 
 Küçük işletmeleri zarara soktuğu iddialarını reddeden Apple, yakın zamanda uygulama mağazasında küçük geliştiriciler için App Store komisyonunu yüzde 30’dan yüzde 15’e düşürdüğünü de ekledi.
 

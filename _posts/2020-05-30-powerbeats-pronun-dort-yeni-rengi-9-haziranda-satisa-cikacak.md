@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7784'
 permalink: /powerbeats-pronun-dort-yeni-rengi-9-haziranda-satisa-cikacak/
 post_views_count:
     - '26'
-image: /wp-content/uploads/2020/05/powerbeats-pronun-dort-yeni-rengi-9-haziranda-satisa-cikacak-scaled.jpg
+image: images/powerbeats-pronun-dort-yeni-rengi-9-haziranda-satisa-cikacak-scaled.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -21,7 +21,7 @@ tags:
 
 **Powerbeats Pro, 9 Haziran**‘dan itibaren Bahar Sarısı, Bulut Pembesi, Lava Kırmızısı ve Buzul Mavisi renklerinde **Apple.com** ve diğer yetkili satıcılardan **249** dolara satın alınabilecek. Kulaklılar eski tasarıma göre daha parlak ve canlı olarak tasarlanmış. Kulaklıkların kirli beyaz bir modeli bile var.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/powerbeats_pro-1600x900.jpg)</figure>Beats’in, sporcular için tasarladığı yüksek performanslı kablosuz kulak içi kulaklıkları **Powerbeats Pro**;
+<figure class="wp-block-image size-large">![](images/powerbeats_pro-1600x900.jpg)</figure>Beats’in, sporcular için tasarladığı yüksek performanslı kablosuz kulak içi kulaklıkları **Powerbeats Pro**;
 
 - **Dokuz** saate kadar sürekli pil ömrü (kutusuyla birlikte **24** saat) sunuyor.
 - **IPX4** ter / su geçirmezlik özelliği,

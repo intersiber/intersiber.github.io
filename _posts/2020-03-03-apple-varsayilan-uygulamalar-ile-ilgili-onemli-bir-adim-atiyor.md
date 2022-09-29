@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/apple-ucuncu-parti-uygulamalarin-varsayilan-uygulama-olarak-ayarlanmasina-izin-verecek-2.jpeg
+image: images/apple-ucuncu-parti-uygulamalarin-varsayilan-uygulama-olarak-ayarlanmasina-izin-verecek-2.jpeg
 categories:
     - Apple
 tags:
@@ -29,7 +29,7 @@ Kullanıcıların iOS’ta üçüncü parti mobil uygulamaları yüklemesini ve 
 
 Yeni bir **Bloomberg** raporu , Apple’ın artık kullanıcıların üçüncü parti uygulamaları varsayılan seçenekleri olarak belirlemelerine izin vermeyi düşündüğünü iddia ediyor. Şu anda, tüm **iPhone** ve **iPad’ler** Safari, Haritalar, Fotoğraflar ve Mail uygulamaları önceden yüklenmiş olarak geliyor. Bu uygulamalar e-postanızı okumak, bir bağlantı açmak, yol tarifi almak ve fotoğrafları yönetmek istediğinizde iOS’un varsayılan olarak açtığı uygulamalar.
 
-<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.com/wp-content/uploads/2020/03/apple-ucuncu-parti-uygulamalarin-varsayilan-uygulama-olarak-ayarlanmasina-izin-verecek-3.jpeg?fit=640%2C329&ssl=1)</figure>Şu anda **iPhone** telefonlarda Gmail ve Chrome kullanmak mümkün, ancak posta bağlantıları Safari’de otomatik olarak açılıyor. Chrome’da bir bağlantı açmak için bağlantıları kopyalayıp yapıştırmak gerekiyor. Bu değişiklik, Posta bağlantılarının doğrudan Chrome ile açılmasını sağlayabilir. iOS için Gmail şu anda bu problemin etrafından dolaşarak çözüm üretmiş durumda. Google, Gmail’e bir web tarayıcısı entegre ederek uygulamadan hiç ayrılmadan veya Safari’yi açmadan bağlantıları açarak sorunu çözüyor.
+<figure class="wp-block-image size-large">![](https://i1.wp.com/intersiber.comimages/apple-ucuncu-parti-uygulamalarin-varsayilan-uygulama-olarak-ayarlanmasina-izin-verecek-3.jpeg?fit=640%2C329&ssl=1)</figure>Şu anda **iPhone** telefonlarda Gmail ve Chrome kullanmak mümkün, ancak posta bağlantıları Safari’de otomatik olarak açılıyor. Chrome’da bir bağlantı açmak için bağlantıları kopyalayıp yapıştırmak gerekiyor. Bu değişiklik, Posta bağlantılarının doğrudan Chrome ile açılmasını sağlayabilir. iOS için Gmail şu anda bu problemin etrafından dolaşarak çözüm üretmiş durumda. Google, Gmail’e bir web tarayıcısı entegre ederek uygulamadan hiç ayrılmadan veya Safari’yi açmadan bağlantıları açarak sorunu çözüyor.
 
 ## Apple önleyici bir tedbir alıyor olabilir
 

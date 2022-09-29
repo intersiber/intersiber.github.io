@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/Toyota.jpg
+image: images/Toyota.jpg
 categories:
     - Genel
 tags:
@@ -31,6 +31,6 @@ tags:
 
 Ford gibi Toyota’da 3D baskılı yüz kalkanlarının seri üretimine başlayacağını açıkladı. Şirket, maske üretimine başlamaya hazır olduğunu, ancak virüs parçacıklarını uzak tutan filtreler sağlamak için bir ortağa ihtiyacı olduğunu söyledi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Toyota-mask.png)</figure>Toyota, daha önce COVID-19’un yayılmasını önlemek için tüm Kuzey Amerika üretim merkezlerini kapatmıştı. Çok sayıda N95 maskeleri ve güvenlik gözlükleri gibi önemli malzemeleri de toplayıp sağlık çalışanlarına bağışlayan Japon otomobil üreticisi, General Motors ve Ford ortaklığı ile solunum cihazı üretimini arttırmak için hızlı bir şekilde çalıştıklarını belirtti.
+<figure class="wp-block-image size-large">![](images/Toyota-mask.png)</figure>Toyota, daha önce COVID-19’un yayılmasını önlemek için tüm Kuzey Amerika üretim merkezlerini kapatmıştı. Çok sayıda N95 maskeleri ve güvenlik gözlükleri gibi önemli malzemeleri de toplayıp sağlık çalışanlarına bağışlayan Japon otomobil üreticisi, General Motors ve Ford ortaklığı ile solunum cihazı üretimini arttırmak için hızlı bir şekilde çalıştıklarını belirtti.
 
 Toyota ürettiği ilk yüz kalkanlarını Teksas’taki yerel hastanelere göndereceğini ardından Indiana, Kentucy ve Michigan’a da sevkiyatta bulunmayı planladığını duyurdu.

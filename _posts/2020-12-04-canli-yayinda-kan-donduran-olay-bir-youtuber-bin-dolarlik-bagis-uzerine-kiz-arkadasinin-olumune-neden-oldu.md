@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9907'
 permalink: /canli-yayinda-kan-donduran-olay-bir-youtuber-bin-dolarlik-bagis-uzerine-kiz-arkadasinin-olumune-neden-oldu/
 post_views_count:
     - '102'
-image: /wp-content/uploads/2020/12/canli-yayinda-kan-donduran-olay-bir-youtuber-bin-dolarlik-bagis-uzerine-kiz-arkadasinin-olumune-neden-oldu.png
+image: images/canli-yayinda-kan-donduran-olay-bir-youtuber-bin-dolarlik-bagis-uzerine-kiz-arkadasinin-olumune-neden-oldu.png
 categories:
     - 'Sosyal Medya'
 tags:
@@ -32,7 +32,7 @@ Sadist davranışları ile bilinen YouTuber, son yaptığıyla kadının ölüm�
 
 Olayla ilgili diğer bir ilginç detay da, tüm bunlar yaşanırken YouTuber’ın soğukkanlılığını devam ettirmesiydi. Kadın balkondayken yayınını normal bir şekilde sürdüren Reeflay, sağlık ekipleri geldiğinde bile yayınını sürdürdü.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/rus-youtuber-kiz-arkadasini-oldurdu.png)</figure>Kadını balkondan içeri aldıktan sonra üzerine battaniye örten Reeflay, iyi olmadığını görünce sağlık ekiplerini çağırdı. Kadının nabzının olmadığını da yayında söyleyen YouTuber, çağırdığı ekiplerin tespitinin ardından cinayet soruşturmasına konu oldu ve yargılanacak. Ekipler, vücut sıcaklığının 35 derecenin altına düşmesinden ötürü hipotermi nedeni ile ölümün gerçekleştiğini söyledi.
+<figure class="wp-block-image size-large">![](images/rus-youtuber-kiz-arkadasini-oldurdu.png)</figure>Kadını balkondan içeri aldıktan sonra üzerine battaniye örten Reeflay, iyi olmadığını görünce sağlık ekiplerini çağırdı. Kadının nabzının olmadığını da yayında söyleyen YouTuber, çağırdığı ekiplerin tespitinin ardından cinayet soruşturmasına konu oldu ve yargılanacak. Ekipler, vücut sıcaklığının 35 derecenin altına düşmesinden ötürü hipotermi nedeni ile ölümün gerçekleştiğini söyledi.
 
 Bu haberler de ilginizi çekebilir:
 

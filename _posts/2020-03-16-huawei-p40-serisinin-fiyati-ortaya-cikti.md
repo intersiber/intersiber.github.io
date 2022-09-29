@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/huawei-p40-2.png
+image: images/huawei-p40-2.png
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ tags:
 
 Aynı anda 3 farklı **Huawei P40** modelinin tanıtılması beklenen dijital etkinlikte, cihazların özellikleri ve fiyatı gibi bilgilerin paylaşılacağı, serinin ilk olarak Çin genelinde satışa sunulacağı tahmin ediliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/Huawei-P40-2.jpg)</figure>## Huawei P40, P40 Pro, P40 Pe Fiyatı
+<figure class="wp-block-image size-large">![](images/Huawei-P40-2.jpg)</figure>## Huawei P40, P40 Pro, P40 Pe Fiyatı
 
 Huawei P40 modelleri ile ilgili bugün Twitter’da Yunanistan merkezli bir kaynak, cihazların Euro bazında fiyatlarını açıkladı. Kesin olup olmadığı bilinmeyen fiyat tablosuna göre Huawei P40 modellerinin en düşük P40 modelinin **799-899 Euro** fiyatla satılacağı açıklandı.
 

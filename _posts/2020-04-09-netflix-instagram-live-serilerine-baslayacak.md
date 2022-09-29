@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5248'
 permalink: /netflix-instagram-live-serilerine-baslayacak/
 post_views_count:
     - '54'
-image: /wp-content/uploads/2020/04/netflix-instagram-live-serilerine-baslayacak-1-scaled.jpg
+image: images/netflix-instagram-live-serilerine-baslayacak-1-scaled.jpg
 categories:
     - Genel
 tags:
@@ -23,6 +23,6 @@ Seride, To All The Boys I’ve Loved Before’dan **Noah Centineo**, The Kissing
 
 Seri, **14 Mayıs**‘a kadar **her Perşembe** **Netflix**‘in resmi **Instagram** hesabında yayınlanacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/instagram-netflix-1.jpg)</figure>Canlı akışta, yıldızlar **Ulusal Akıl Hastalıkları Birliği (NAMI)**, **Akıl Sağlığı Amerika**, **Trevor Projesi**, **Kriz Metin Hattı ve Amerikan İntiharı Önleme Vakfı** gibi kuruluşlardan akıl sağlığı uzmanlarıyla konuşacaklar.
+<figure class="wp-block-image size-large">![](images/instagram-netflix-1.jpg)</figure>Canlı akışta, yıldızlar **Ulusal Akıl Hastalıkları Birliği (NAMI)**, **Akıl Sağlığı Amerika**, **Trevor Projesi**, **Kriz Metin Hattı ve Amerikan İntiharı Önleme Vakfı** gibi kuruluşlardan akıl sağlığı uzmanlarıyla konuşacaklar.
 
 **Netflix**, konsepti açıklayan ve yıldızları tanıtan bu seri için bir **fragman** yayınladı. Şirket, ay boyunca Instagram’da gelecek bölümler hakkında daha fazla ayrıntı paylaşacağını söyledi.

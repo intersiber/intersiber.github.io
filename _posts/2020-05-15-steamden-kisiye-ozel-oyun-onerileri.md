@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6968'
 permalink: /steamden-kisiye-ozel-oyun-onerileri/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/05/steam-sahip-oldugunuz-oyunlari-bulmak-icin-ai-kullaniyor.jpg
+image: images/steam-sahip-oldugunuz-oyunlari-bulmak-icin-ai-kullaniyor.jpg
 categories:
     - Oyun
 tags:
@@ -21,4 +21,4 @@ tags:
 
 Video oyunu geliştiricisi ve video oyunu yayımcısı **Valve** şimdi en son istemci güncellemesi **Play Next**‘le **Steam**‘e ustaca bir özellik daha ekledi. Oyun platformu artık satın almanız için yeni oyunlar önermek yerine, zaten sahip olduğunuz oynanmamış oyunlardan öneriler verecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/steams.jpg)</figure>**Microsoft**, **Xbox** için benzer bir özelliği, oyunlarınızdan birini kendi başına seçecek bir **Beni Şaşırt** düğmesiyle başlattı. Şimdi de **Steam** bu özellikle dikkate değer bir yükselme yaşayabilir.
+<figure class="wp-block-image size-large">![](images/steams.jpg)</figure>**Microsoft**, **Xbox** için benzer bir özelliği, oyunlarınızdan birini kendi başına seçecek bir **Beni Şaşırt** düğmesiyle başlattı. Şimdi de **Steam** bu özellikle dikkate değer bir yükselme yaşayabilir.

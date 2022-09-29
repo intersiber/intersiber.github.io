@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/teknolojik-cihaz-temizligi.png
+image: images/teknolojik-cihaz-temizligi.png
 categories:
     - 'Ne Nasıl?'
 tags:
@@ -41,7 +41,7 @@ Televizyon kapalıyken televizyon ekranları için özel olarak üretilmiş spre
 
 ## Mobil Telefonlar Nasıl Temizlenmeli?
 
-<figure class="wp-block-image size-full">![](https://intersiber.com/wp-content/uploads/2020/03/temizlik-scaled.jpg)</figure>Çok ıslak olmayan alkollü ıslak mendiler cep telefonlarını temizlemek için en güvenilir yoldur. Eğer cihazınız suya dayanıklı ise çok ıslak olması durumunda bile cihazınız sıvıyı geçirmeyecektir, ancak yine de çok aşırı ıslak olmayan normal ıslaklıkta olan ıslak mendilleri tercih ederek cep telefonlarınızı silebilirsiniz.
+<figure class="wp-block-image size-full">![](images/temizlik-scaled.jpg)</figure>Çok ıslak olmayan alkollü ıslak mendiler cep telefonlarını temizlemek için en güvenilir yoldur. Eğer cihazınız suya dayanıklı ise çok ıslak olması durumunda bile cihazınız sıvıyı geçirmeyecektir, ancak yine de çok aşırı ıslak olmayan normal ıslaklıkta olan ıslak mendilleri tercih ederek cep telefonlarınızı silebilirsiniz.
 
 Cep telefonlarını temizlerken ayrıca yine mikrofiber bez ile kurulama yapabilirsiniz. Bu sayede cihaz hem daha temiz görünecektir, hem de özellikle ıslak kalmamış olacaktır.
 

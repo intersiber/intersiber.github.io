@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7918'
 permalink: /honor-magic-earbudslarin-turkiyeye-gelis-tarihi-belli-oldu/
 post_views_count:
     - '71'
-image: /wp-content/uploads/2020/06/Honor-Magic-Earbuds.jpg
+image: images/Honor-Magic-Earbuds.jpg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -19,10 +19,10 @@ Teknoloji devi **Honor**, geçtiğimiz aylarda piyasaya sürdüğü aktif gürü
 
 İnci beyazı ve açık mavi renkleriyle gelecek olan kulaklıklar **16 Temmuz**‘da satın alınabilecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/honor-magic-earbudslarin-turkiyeye-gelis-tarihi-belli-oldu-1600x900.jpg)</figure>**Honor Magic Earbuds**, yüksek kalitede müzik keyfi sunmak için iki mikrofonlu tasarımı ile 32dB’ye kadar gürültüyü engellemek üzere **Hibrit Aktif Gürültü Engelleme** teknolojisine sahip.
+<figure class="wp-block-image size-large">![](images/honor-magic-earbudslarin-turkiyeye-gelis-tarihi-belli-oldu-1600x900.jpg)</figure>**Honor Magic Earbuds**, yüksek kalitede müzik keyfi sunmak için iki mikrofonlu tasarımı ile 32dB’ye kadar gürültüyü engellemek üzere **Hibrit Aktif Gürültü Engelleme** teknolojisine sahip.
 
 Şirket kulaklıkların içinde bulunan üç mikrofon sayesinde telefon görüşmelerinizi her ortamda anlaşılır kılmayı amaçlamış. Ayrıca ANC özelliği açıkken kulaklılar 3 saat müzik dinleme veya 2 saat telefon görüşmesi imkanı sunuyor. Kulaklıklar şarj kutusuyla birlikte 13 saate kadar pil ömrüne sahip.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/Magic-Earbuds-1600x1042.jpg)</figure>Kutusunda 3 farklı boyda silikon uç ile gelen kulaklıklar her kulak ile uyum sağlıyor. Akıllı dokunmatik kontrollere sahip **Magic Earbuds**, **EMUI 10** işletim sistemli telefonlarla hızlıca kullanılabiliyor.
+<figure class="wp-block-image size-large">![](images/Magic-Earbuds-1600x1042.jpg)</figure>Kutusunda 3 farklı boyda silikon uç ile gelen kulaklıklar her kulak ile uyum sağlıyor. Akıllı dokunmatik kontrollere sahip **Magic Earbuds**, **EMUI 10** işletim sistemli telefonlarla hızlıca kullanılabiliyor.
 
 **Honor**, kulaklıkların Türkiye fiyatı hakkında henüz bir açıklamada bulunmadı.

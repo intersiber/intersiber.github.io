@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '186'
-image: /wp-content/uploads/2020/01/wikipedia-yasagi-kaldirildi-yasak-kalkti.jpg
+image: images/wikipedia-yasagi-kaldirildi-yasak-kalkti.jpg
 categories:
     - Genel
     - 'Öne Çıkan'

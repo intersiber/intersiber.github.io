@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/bing1.jpg
+image: images/bing1.jpg
 categories:
     - Genel
 tags:
@@ -30,7 +30,7 @@ Haritada Dünya Sağlık Örgütü (WHO), ABD Hastalık Kontrol ve Önleme Merke
 
 Harita, vakaları **global** olarak görüntüler, ancak kullanıcıların vakaları ülkeye göre görüntülemelerine ve o bölgedeki en son haberleri ve videoları görmelerine olanak tanır. Ayrıca vakaları her bölge için aktif, iyileşmiş ve ölümcül vakalara ayırır.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/bingcovid19-1600x900.jpg)</figure>Harita, izleyici olarak görüntüleyenlere güncel bilgiler sağlamak için düzenli olarak güncelleniyor.
+<figure class="wp-block-image size-large">![](images/bingcovid19-1600x900.jpg)</figure>Harita, izleyici olarak görüntüleyenlere güncel bilgiler sağlamak için düzenli olarak güncelleniyor.
 
 Web sitesi ayrıca, kullanıcıların salgındaki en son haberlerin arama sonuçlarını ve resmi hükümet tavsiyeleri ve sağlık kuruluşu web sitelerine bağlantılar sağlamalarını da sağlayarak insanların doğru bilgilere erişmesini sağlıyor.
 

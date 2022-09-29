@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9518'
 permalink: /androidde-bildirim-baloncuklari-nasil-devre-disi-birakilir/
 post_views_count:
     - '95'
-image: /wp-content/uploads/2020/11/android-de-bildirim-baloncuklari-nasil-devre-disi-birakilir.jpg
+image: images/android-de-bildirim-baloncuklari-nasil-devre-disi-birakilir.jpg
 categories:
     - 'Ne Nasıl?'
 tags:

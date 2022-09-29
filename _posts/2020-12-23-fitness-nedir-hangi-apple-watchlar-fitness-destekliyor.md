@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=10137'
 permalink: /fitness-nedir-hangi-apple-watchlar-fitness-destekliyor/
 post_views_count:
     - '16'
-image: /wp-content/uploads/2020/12/fitness-nedir-hangi-apple-watch-lar-fitness-destekliyor.png
+image: images/fitness-nedir-hangi-apple-watch-lar-fitness-destekliyor.png
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -21,7 +21,7 @@ Apple Fitness+, her ne kadar “Apple Watch tarafından destekleniyor” ifadesi
 
 ## Fitness+ destekleyen Apple Watch modelleri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/apple-fitness-plus-hangi-apple-watch-larda-kullaniliyor.png)</figure>Apple Fitness Plus’ı kullanmak için, watchOS 7.2 ya da sonraki bir sürümü çalıştıran, Apple Watch 3 ya da daha yeni bir modele ihtiyacınız var. Apple Fitness+ kullanmak için, aşağıdaki modellerden birine sahip olmanız gerekiyor:
+<figure class="wp-block-image size-large">![](images/apple-fitness-plus-hangi-apple-watch-larda-kullaniliyor.png)</figure>Apple Fitness Plus’ı kullanmak için, watchOS 7.2 ya da sonraki bir sürümü çalıştıran, Apple Watch 3 ya da daha yeni bir modele ihtiyacınız var. Apple Fitness+ kullanmak için, aşağıdaki modellerden birine sahip olmanız gerekiyor:
 
 - Apple Watch Series 3
 - Apple Watch Series 4
@@ -35,7 +35,7 @@ Hangi Apple Watch modeline sahip olduğunuzu öğrenmek istiyorsanız, model num
 
 ## Apple Fitness+ ne sunuyor?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/12/apple-fitness-plus-nasil-kullanilir.png)</figure>Apple Fitness+, abone olduğunuzda kuvvet, koşu bandı, bisiklet, yoga ya da daha fazlası da dahil birçok antrenmana erişim sağlıyor ve kalp atış hızı, kalori yakımı gibi verileri iPhone, iPad gibi aygıtlarınızla paylaşıyor. Antrenman sona erdiğinde aktivite verileriniz eş zamanlanıyor.
+<figure class="wp-block-image size-large">![](images/apple-fitness-plus-nasil-kullanilir.png)</figure>Apple Fitness+, abone olduğunuzda kuvvet, koşu bandı, bisiklet, yoga ya da daha fazlası da dahil birçok antrenmana erişim sağlıyor ve kalp atış hızı, kalori yakımı gibi verileri iPhone, iPad gibi aygıtlarınızla paylaşıyor. Antrenman sona erdiğinde aktivite verileriniz eş zamanlanıyor.
 
 Fitness+ ile antrenman seçmenin yanı sıra, her biri kendi tarzına sahip antrenör bulabilir her antrenörün listesini görebilirsiniz.
 

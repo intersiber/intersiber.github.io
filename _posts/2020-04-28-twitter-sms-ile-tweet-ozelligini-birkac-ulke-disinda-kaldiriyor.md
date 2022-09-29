@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=6106'
 permalink: /twitter-sms-ile-tweet-ozelligini-birkac-ulke-disinda-kaldiriyor/
 post_views_count:
     - '67'
-image: /wp-content/uploads/2020/04/twitter-sms-ile-tweet-ozelligini-birkac-ulke-disinde-kaldiriyor.jpeg
+image: images/twitter-sms-ile-tweet-ozelligini-birkac-ulke-disinde-kaldiriyor.jpeg
 categories:
     - 'Sosyal Medya'
 tags:
@@ -26,7 +26,7 @@ Yapılan değişiklik, Twitter için bir dönemin sonuna işaret ediyor. Uygulam
 
 ## Gerekçe ‘güvenlik sorunları’
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/twitter-kurucusu-jack-dorsey.jpeg)</figure>Twitter, Eylül ayında çeşitli güvenlik sorunları nedeniyle SMS ile metin tweeti oluşturma özelliğini devre dışı bırakmıştı. Bunun nedeni, hackerların CEO Jack Dorsey’in telefonuna erişip, hesabından SMS ile tweet atmaları oldu. Bu olayın ardından Twitter, birkaç konum dışında SMS yoluyla tweet göndermeyi hemen devre dışı bıraktı.
+<figure class="wp-block-image size-large">![](images/twitter-kurucusu-jack-dorsey.jpeg)</figure>Twitter, Eylül ayında çeşitli güvenlik sorunları nedeniyle SMS ile metin tweeti oluşturma özelliğini devre dışı bırakmıştı. Bunun nedeni, hackerların CEO Jack Dorsey’in telefonuna erişip, hesabından SMS ile tweet atmaları oldu. Bu olayın ardından Twitter, birkaç konum dışında SMS yoluyla tweet göndermeyi hemen devre dışı bıraktı.
 
 Bir **Twitter** yetkilisi, son güncellemenin “insanların hesaplarını güvende tutması için” yardımcı olan bir yapı. Tweet gönderme dışında, tweet alma uygulamasının kaldırılmasının nedenlerinden biri olarak da, şirketin ‘reklam gösteremeyeceği’ bir kitleye verdiği hizmet olarak değerlendiriliyor.
 

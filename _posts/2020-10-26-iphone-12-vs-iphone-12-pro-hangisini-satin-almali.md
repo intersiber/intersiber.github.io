@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9386'
 permalink: /iphone-12-vs-iphone-12-pro-hangisini-satin-almali/
 post_views_count:
     - '245'
-image: /wp-content/uploads/2020/10/iphone-12-vs-iphone-12-pro-hangisini-satin-almali.png
+image: images/iphone-12-vs-iphone-12-pro-hangisini-satin-almali.png
 categories:
     - Mobil
 tags:
@@ -25,7 +25,7 @@ Peki Apple’ın yeni iPhone modelleri içinde, bütçeden tasarruf ederek stand
 
 ### Ortak özellikler
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/iphone-12-renk-secenekleri.jpg)</figure>- HDR, True Tone, Haptic Touch
+<figure class="wp-block-image size-large">![](images/iphone-12-renk-secenekleri.jpg)</figure>- HDR, True Tone, Haptic Touch
 - 2532×1170 piksel 6,1 inç Süper Retina XDR ekran
 - A14 biyonik Çip
 - Sub-6Ghz 5G bağlantı
@@ -49,7 +49,7 @@ Apple, iPhone 12 serisinde birtakım ortak özellikleri sunuyor. Ancak yine de P
 
 #### iPhone 12 Pro
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/10/iphone-12-pro-alinir-mi-ozellikleri.jpg)</figure>- 800 nit maksimum parlaklığa sahip 6,1 inç Süper Retina XDR ekran
+<figure class="wp-block-image size-large">![](images/iphone-12-pro-alinir-mi-ozellikleri.jpg)</figure>- 800 nit maksimum parlaklığa sahip 6,1 inç Süper Retina XDR ekran
 - Paslanmaz çelik
 - 12 MP ultra geniş ve telefoto kamera lensleri
 - Çift optik görüntü sabitleme

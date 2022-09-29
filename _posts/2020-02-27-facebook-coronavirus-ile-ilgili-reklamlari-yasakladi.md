@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '76'
-image: /wp-content/uploads/2020/02/facebook-coronavirus-reklamlarini-yasakladi.jpg
+image: images/facebook-coronavirus-reklamlarini-yasakladi.jpg
 categories:
     - Genel
 tags:
@@ -26,7 +26,7 @@ Dünya çapında büyük paniğe yol açan ve binlerce insanın hayatını kaybe
 
 Facebook virüsün önlenmesi ve tedavi edilmesiyle ilgili yapılan reklamlara yasak getirdi. Yasağa sebep olarak, salgınla ilgili panik yaratılmasının önüne geçilmesi isteği gösterildi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/coronavirus-salgini.jpg)</figure>Facebook yetkilisi tarafından Business Insider’a yapılan [açıklamada](https://www.businessinsider.com/facebook-corona-virus-cracks-down-ads-2020-2), coronavirus salgını ile ilgili reklamlara yönelik hassas filtrelerin uygulanmaya başlandığı ve reklamlara getirilen yasakla birlikte salgından fırsat çıkarmak isteyenlerin önüne geçilmek istendiği belirtildi.
+<figure class="wp-block-image size-large">![](images/coronavirus-salgini.jpg)</figure>Facebook yetkilisi tarafından Business Insider’a yapılan [açıklamada](https://www.businessinsider.com/facebook-corona-virus-cracks-down-ads-2020-2), coronavirus salgını ile ilgili reklamlara yönelik hassas filtrelerin uygulanmaya başlandığı ve reklamlara getirilen yasakla birlikte salgından fırsat çıkarmak isteyenlerin önüne geçilmek istendiği belirtildi.
 
 ## Haberlere bir yasak uygulanmıyor
 

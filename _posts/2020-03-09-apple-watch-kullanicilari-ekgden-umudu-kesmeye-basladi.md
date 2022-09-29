@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/apple-watch-ekg-ozelligi-turkiye.jpeg
+image: images/apple-watch-ekg-ozelligi-turkiye.jpeg
 categories:
     - 'Giyilebilir Teknoloji'
 tags:
@@ -26,6 +26,6 @@ Apple’ın birçok Avrupa ülkesi ve ABD’de Watch serisinin bazı modellerind
 
 Kullanıcılar birçok ABD’li kurum tarafından doğruluğu onaylanan, Avrupa ülkelerinde onay ve kabul gören Apple Watch’ın bu özelliğinin Türkiye’de sunulmaması konusunda, şirketten çok bakanlığı sorumlu olarak görmeye başladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/apple-watch.jpg)</figure>Apple Türkiye’den bugüne kadar gerek onay, gerek ise özelliğin kullanıma girmesi ile ilgili hiçbir açıklama yapılmazken, birçok Apple Watch kullanıcısı bundan sonra özelliğin cihazlara gelmesinin pek mümkün olmayacağını iddia etmeye başladı.
+<figure class="wp-block-image size-large">![](images/apple-watch.jpg)</figure>Apple Türkiye’den bugüne kadar gerek onay, gerek ise özelliğin kullanıma girmesi ile ilgili hiçbir açıklama yapılmazken, birçok Apple Watch kullanıcısı bundan sonra özelliğin cihazlara gelmesinin pek mümkün olmayacağını iddia etmeye başladı.
 
 Çok sayıda Watch sahibi kullanıcı, cihazlarında bu özellikten yararlanamadığı için cihazlarından soğuduğunu ifade ederken, bazı kullanıcılar ise cihazın bu özelliğine her zaman ihtiyaç olmadığı ile kendini ‘avutmaya’ çalışıyor.

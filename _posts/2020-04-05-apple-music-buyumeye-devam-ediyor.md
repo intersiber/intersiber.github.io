@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/apple-music.jpg
+image: images/apple-music.jpg
 categories:
     - Apple
 tags:
@@ -26,6 +26,6 @@ Apple Music, rakiplerinden sonra gündeme gelmiş olmasına rağmen büyük bir 
 
 Küresel müzik uygulamaları arasında %19 kullanım payı ile 2. sırada olan Apple Music, rakibi olan Spotify’a oranla daha az kullanıcı sayısına sahip olsa da 2021 yılında şirketin 1. sırada yer alabileceği veya rakibine çok daha yakın olabileceği tahmin ediliyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/apple-music-iphone.jpg)</figure>Sürekli yeni sanatçılar ve yeni müzikler eklemeyi sürdüren Apple, özellikle kullanıcılarına sunduğu promosyonlar ile beraber 1 aylık ücretsiz kullanım, 3 aylık ücretsiz kullanım gibi promosyonlar sayesinde uygulamayı tüm Apple kullanıcılarına sevdirmeyi planlıyor.
+<figure class="wp-block-image size-large">![](images/apple-music-iphone.jpg)</figure>Sürekli yeni sanatçılar ve yeni müzikler eklemeyi sürdüren Apple, özellikle kullanıcılarına sunduğu promosyonlar ile beraber 1 aylık ücretsiz kullanım, 3 aylık ücretsiz kullanım gibi promosyonlar sayesinde uygulamayı tüm Apple kullanıcılarına sevdirmeyi planlıyor.
 
 Apple’ın müzik platformu aynı zamanda Android cihazlarda da son derece fazla kullanılıyor.

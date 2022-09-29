@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8140'
 permalink: /piyasa-degeri-144-trilyon-dolar-apple-hisseleri-tarihinin-en-yuksek-seviyesinde/
 post_views_count:
     - '69'
-image: /wp-content/uploads/2020/06/piyasa-degeri-1-44-trilyon-dolar-apple-hisseleri-tarihinin-en-yuksek-seviyesinde.jpg
+image: images/piyasa-degeri-1-44-trilyon-dolar-apple-hisseleri-tarihinin-en-yuksek-seviyesinde.jpg
 categories:
     - Genel
 tags:
@@ -28,4 +28,4 @@ Dünya genelinde 6,86 milyonu etkileyen ve **400 bine yakın** insanın hayatın
 
 500’ün üzerinde mağazasını kapatan, etkinliklerini erteleyen ve üretimin durmasından ötürü tedarik zincirinde sorun yaşayan Apple, 4 aylık aranın ardından hisse senetlerindeki düşüşü tamamen telafi etti ve tarihi zirvesini gördü. Salgın sürecinde 224 dolara kadar düşen **Apple** **hisseleri**, son işlem gününde **331,5** doları gördü ve rekor kırdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/apple-hisselerinin-1-yillik-grafigi-tarihi-zirve.png)</figure>Bu seviye ile **Apple’ın** piyasa değeri de **1,44 trilyon** dolara ulaştı. Apple, dünyanın en değerli şirketi olma özelliğini korurken **Apple’ı** 1,42 trilyon dolar ile **Microsoft** takip ediyor. Jeff Bezos’ın kurucusu olduğu **Amazon** ise 1,24 trilyon dolar değerinde.
+<figure class="wp-block-image size-large">![](images/apple-hisselerinin-1-yillik-grafigi-tarihi-zirve.png)</figure>Bu seviye ile **Apple’ın** piyasa değeri de **1,44 trilyon** dolara ulaştı. Apple, dünyanın en değerli şirketi olma özelliğini korurken **Apple’ı** 1,42 trilyon dolar ile **Microsoft** takip ediyor. Jeff Bezos’ın kurucusu olduğu **Amazon** ise 1,24 trilyon dolar değerinde.

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8721'
 permalink: /facebook-mobil-uygulamasinda-karanlik-modu-test-ediyor/
 post_views_count:
     - '43'
-image: /wp-content/uploads/2020/06/D07926DE-E9EC-4F77-BEB1-C27C0776DEAC.jpeg
+image: images/D07926DE-E9EC-4F77-BEB1-C27C0776DEAC.jpeg
 categories:
     - 'Sosyal Medya'
 tags:

@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '80'
-image: /wp-content/uploads/2020/02/facebook-super-bowl-reklami.jpg
+image: images/facebook-super-bowl-reklami.jpg
 categories:
     - Genel
     - 'Öne Çıkan'

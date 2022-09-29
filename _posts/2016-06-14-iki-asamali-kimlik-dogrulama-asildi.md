@@ -8,7 +8,7 @@ guid: 'http://www.intersiber.com/?p=31'
 permalink: /iki-asamali-kimlik-dogrulama-asildi/
 post_views_count:
     - '663'
-image: /wp-content/uploads/2016/06/banner-encryption-locks.jpg
+image: images/banner-encryption-locks.jpg
 categories:
     - Güvenlik
     - 'Öne Çıkan'

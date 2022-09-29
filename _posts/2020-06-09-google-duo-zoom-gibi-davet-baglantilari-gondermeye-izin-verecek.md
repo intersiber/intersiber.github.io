@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8246'
 permalink: /google-duo-zoom-gibi-davet-baglantilari-gondermeye-izin-verecek/
 post_views_count:
     - '27'
-image: /wp-content/uploads/2020/06/google-duo-zoom-gibi-davet-baglantilari-gondermeye-izin-verecek.jpg
+image: images/google-duo-zoom-gibi-davet-baglantilari-gondermeye-izin-verecek.jpg
 categories:
     - Genel
 tags:
@@ -22,7 +22,7 @@ tags:
 
 ## Bir çağrıda 12 kişiye kadar destekleniyor
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/google-duo-ozellikleri-neler.jpeg)</figure>AV1 codec bileşenini destekleyen **Google** **Duo**, bir çağrıda 12 kişiye kadar destek veriyor. Masaüstü ya da dizüstü bilgisayarda, web tabanlı ve daha güçlü bir video konferans altyapısına ihtiyaç duyanlar içinse Google, Nisan ayının sonunda ücretsiz Google Meet kullanımı sundu.
+<figure class="wp-block-image size-large">![](images/google-duo-ozellikleri-neler.jpeg)</figure>AV1 codec bileşenini destekleyen **Google** **Duo**, bir çağrıda 12 kişiye kadar destek veriyor. Masaüstü ya da dizüstü bilgisayarda, web tabanlı ve daha güçlü bir video konferans altyapısına ihtiyaç duyanlar içinse Google, Nisan ayının sonunda ücretsiz Google Meet kullanımı sundu.
 
 ## Yeni Google Duo özellikleri
 

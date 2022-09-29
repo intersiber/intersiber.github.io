@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7364'
 permalink: /google-bilissel-engelli-kisilere-yardimci-olmak-icin-action-blocks-uygulamasini-yayinladi/
 post_views_count:
     - '31'
-image: /wp-content/uploads/2020/05/google-bilissel-engelli-kisilere-yardimci-olmak-icin-action-blocks-uygulamasini-yayinladi.jpg
+image: images/google-bilissel-engelli-kisilere-yardimci-olmak-icin-action-blocks-uygulamasini-yayinladi.jpg
 categories:
     - Genel
 tags:
@@ -20,7 +20,7 @@ tags:
 
 **Action Blocks** uygulaması **Google Asistan** ile birlikte çalışıyor. Böylece Google Asistan’a söyleyerek istediğiniz eylemi yazdırabiliyorsunuz. Ayrıca bu özellik sayesinde bir aile üyesini arayabiliyor, ışıkları kapatabiliyor veya ana ekranda tek bir dokunuşla selfie çekebiliyorsunuz. Ayrıca komutları ana ekranda bir **buton** olarak da kaydedebiliyorsunuz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/voice-control-1600x1067.jpg)</figure>Uygulamanın **Canlı Transkripsiyon** özelliği işitme engelli veya işitme güçlüğü çekenler için oldukça yararlı. Bu özelliği aktifleştirdikten sonra uygulama etrafı dinlemeye başlıyor ve çevredeki konuşmaları eş zamanlı olarak yazıya döküyor.
+<figure class="wp-block-image size-large">![](images/voice-control-1600x1067.jpg)</figure>Uygulamanın **Canlı Transkripsiyon** özelliği işitme engelli veya işitme güçlüğü çekenler için oldukça yararlı. Bu özelliği aktifleştirdikten sonra uygulama etrafı dinlemeye başlıyor ve çevredeki konuşmaları eş zamanlı olarak yazıya döküyor.
 
 **Action Blocks**, yakındaki biri adınızı söylediğinde telefonunuzu titreştirebiliyor, yerler ve nesneler için özel adlar oluşturmanıza izin veriyor ve geçmiş görüşmelerle arama yapmayı kolaylaştırıyor. Ayrıca **Arnavutça**, **Estonca** ve **Pencap** da dahil **yedi** yeni dile erişim sağlıyor.
 

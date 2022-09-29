@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/02/oppo-reno-3.png
+image: images/oppo-reno-3.png
 categories:
     - Mobil
 tags:
@@ -25,10 +25,10 @@ tags:
 
 **Oppo**, şüphesiz ki son zamanların en çok ismi duyulan akıllı telefon markalarından biri. Bilinildiği üzere 2020 Dünya Mobil Kongresi Coronavirüs salgını nedeniyle iptal edildi. Bu etkinlikte Oppo, piyasaya yeni çıkaracağı **Reno 3 Pro** isimli yeni amiral gemisini tanıtacaktı. Tanıtımın, etkinlik yüzünden iptal edilmesi sebebiyle, Oppo 2 Mart’ta bir tanıtım düzenleyecek ancak tanıtımdan önce Oppo Reno 3 Pro’nun fotoğrafları sızdı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/5def2f6ac9de3d2440373092.jpeg)</figure>Oppo şirketi, diğer markalar gibi piyasada köklü bir geçmişe sahip değil. Ancak son zamanlarda yaptıkları yatırım ve yeni teknolojik gelişimlerle birlikte akıllı telefon piyasasında söz sahibi olacağının sinyallerini verdi.
+<figure class="wp-block-image size-large">![](images/5def2f6ac9de3d2440373092.jpeg)</figure>Oppo şirketi, diğer markalar gibi piyasada köklü bir geçmişe sahip değil. Ancak son zamanlarda yaptıkları yatırım ve yeni teknolojik gelişimlerle birlikte akıllı telefon piyasasında söz sahibi olacağının sinyallerini verdi.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/oppo-reno-3-fotograflari-sizdi.jpg)</figure>## **Oppo Reno 3 Pro Kamera Detayları**
+<figure class="wp-block-image size-large">![](images/oppo-reno-3-fotograflari-sizdi.jpg)</figure>## **Oppo Reno 3 Pro Kamera Detayları**
 
 Gelen yeni görüntülerde, Hindistan’da bir mağazada görüntülenen Oppo Reno 3 Pro’nun arkasında 4 adet kamera görülüyor. Ayrıca arka tarafında bulunan ana kameranın ise 64 MP’lik bir çözünürlüğe sahip olacağı söylenmekte. Fotoğrafları dikkatle incelediğimizde ise alt tarafta Oppo logosu çok net bir şekilde görülüyor. Bu da piyasaya sürülen fotoğrafların büyük bir olasılıkla doğru olabileceğini de kanıtlıyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/oppo-reno-3-fotograflari-sizdi-2.jpg)</figure>Oppo Reno 3 Pro’da aslında arka kamera sayısı ve özellikleri zaten bekleniyordu. Fakat şaşırtıcı olan ön yani selfie kamerasında 2 adet kamera olması. Yine sızıntılara göre bu 2 kameranın çözünürlüğü ise 44 MP olacak.
+<figure class="wp-block-image size-large">![](images/oppo-reno-3-fotograflari-sizdi-2.jpg)</figure>Oppo Reno 3 Pro’da aslında arka kamera sayısı ve özellikleri zaten bekleniyordu. Fakat şaşırtıcı olan ön yani selfie kamerasında 2 adet kamera olması. Yine sızıntılara göre bu 2 kameranın çözünürlüğü ise 44 MP olacak.

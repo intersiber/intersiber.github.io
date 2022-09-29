@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9599'
 permalink: /one-more-thing-apple-silicon-tabanli-yeni-macbook-modelleri-tanitilacak/
 post_views_count:
     - '43'
-image: /wp-content/uploads/2020/11/one-more-thing-apple-silicon-tabanli-yeni-macbook-modelleri-tanitilacak.jpg
+image: images/one-more-thing-apple-silicon-tabanli-yeni-macbook-modelleri-tanitilacak.jpg
 categories:
     - Apple
 tags:
@@ -25,7 +25,7 @@ Apple, iPhone ve iPad’lerde de kendi üretimi olan işlemcileri kullanıyor. Y
 
 ## Yeni Mac modellerinde nasıl bir değişim olacak?
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/apple-silicon-islemci-nedir-ozellikleri.jpg)</figure>Apple’ın, Mac’lerde kendi işlemcisini kullanma ve Intel’e olan bağımlılığı bitirme hamlesinin nasıl bir değişim yaratacağını göreceğiz. Gelen bilgilere göre **Apple** **işlemcili** **Mac’ler**, pil ömrünün yanı sıra performans konusunda daha iyi bir noktada olacak. Apple bu hamle ile, bilgisayarların yazılım alanında olduğu gibi, donanım alanında da kontrolünü ele almış olacak.
+<figure class="wp-block-image size-large">![](images/apple-silicon-islemci-nedir-ozellikleri.jpg)</figure>Apple’ın, Mac’lerde kendi işlemcisini kullanma ve Intel’e olan bağımlılığı bitirme hamlesinin nasıl bir değişim yaratacağını göreceğiz. Gelen bilgilere göre **Apple** **işlemcili** **Mac’ler**, pil ömrünün yanı sıra performans konusunda daha iyi bir noktada olacak. Apple bu hamle ile, bilgisayarların yazılım alanında olduğu gibi, donanım alanında da kontrolünü ele almış olacak.
 
 Bu değişimin getirdiği en önemli farklardan biri de, Apple uygulamalarının artık iPhone ve iPad’de olduğu gibi, Mac modellerinde de çalışabilmesi. Mac bilgisayarlarda kullanılması beklenen **Apple** **Silicon** ismine sahip işlemci, iPhone 12 modellerinde kullanılan A14 Bionic işlemci ile benzeri bir temelde üretildi. Kısacası One More Thing etkinliğinde tüm gözler, yeni işlemci ve Mac modellerinde olacak.
 

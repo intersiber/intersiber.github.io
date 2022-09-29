@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=7224'
 permalink: /microsoft-edgee-yeni-bir-kenar-cubugu-arama-ozelligi-ve-pinterest-entegrasyonu-geliyor/
 post_views_count:
     - '84'
-image: /wp-content/uploads/2020/05/microsoft-edgee-yeni-bir-kenar-cubugu-arama-ozelligi-ve-pinterest-entegrasyonu-geliyor.jpg
+image: images/microsoft-edgee-yeni-bir-kenar-cubugu-arama-ozelligi-ve-pinterest-entegrasyonu-geliyor.jpg
 categories:
     - Genel
 tags:
@@ -19,15 +19,15 @@ tags:
 
 **Microsoft**, **Edge** tarayıcısının çok yakında yeni özelliklere sahip olacağını duyurdu. **Edge**‘i rakiplerinden ayırmak için tarayıcıya yeni özellikler ekleyen şirket bazı yeni özellikleri ile sıradan kullanıcılara hitap etmeyi hedeflerken diğer özellikleri ile çalışan kullanıcılarını hedef almış gibi görünüyor.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/Edge-SideBar_Searchs.gif)</figure>**Microsoft Edge**‘in ilk yeni özelliği, sekmeden ayrılmak zorunda kalmadan web’de **arama** yapmanıza izin vermek için tasarlanmış yeni bir **kenar çubuğu arama** seçeneği olarak karşımıza çıkıyor.
+<figure class="wp-block-image size-large">![](images/Edge-SideBar_Searchs.gif)</figure>**Microsoft Edge**‘in ilk yeni özelliği, sekmeden ayrılmak zorunda kalmadan web’de **arama** yapmanıza izin vermek için tasarlanmış yeni bir **kenar çubuğu arama** seçeneği olarak karşımıza çıkıyor.
 
 Artık bir sayfadaki metni seçip kenar çubuğunda arama yapmak için sağ tıkladıktan sonra arama sonuçlarını, görüntülemekte olduğunuz sayfanın yan tarafında görebileceksiniz. Sekmeler arasında hareket ederken de bu kenar çubuğu kalıcı olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/Edge-Collections_Pinterest.gif)</figure>Yeni güncellemede **Pinterest**, tarayıcının içindeki **Koleksiyonlar** özelliğine öneriler getirmek için **Microsoft Edge** ile ortaklık kuruyor.
+<figure class="wp-block-image size-large">![](images/Edge-Collections_Pinterest.gif)</figure>Yeni güncellemede **Pinterest**, tarayıcının içindeki **Koleksiyonlar** özelliğine öneriler getirmek için **Microsoft Edge** ile ortaklık kuruyor.
 
 Yeni özellik etkinleştirilirse Edge, **Pinterest** önerilerini gösterecek olan Koleksiyonların altında bulunacak olan bir araç sunacak. **Microsoft**, bu araca tıkladığınızda kullanıcıları benzer, trend olan **Pinlerden** oluşan bir Pinterest panosuna götürecek. Böylece kullanıcılar koleksiyonlarıyla ilgili fikirleri hızlı bir şekilde bulabilecek ve kendi koleksiyonlarını Pinterest’e ekleyebilecekler.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/05/Edge-Auto_Profile_Switching.gif)</figure>İlgili duyuruda **Microsoft** ayrıca **Edge**‘in artık **Windows 10**‘da kişisel ve kurumsal verileri ayıran ve uyumluluk için denetim raporlaması içeren **Windows Bilgi Korumasını** destekleyeceğini söyledi.
+<figure class="wp-block-image size-large">![](images/Edge-Auto_Profile_Switching.gif)</figure>İlgili duyuruda **Microsoft** ayrıca **Edge**‘in artık **Windows 10**‘da kişisel ve kurumsal verileri ayıran ve uyumluluk için denetim raporlaması içeren **Windows Bilgi Korumasını** destekleyeceğini söyledi.
 
 **Güncelleme de **Microsoft,** geliştiriciler** için birkaç yeni özellik ve araç da sunacak. Bunlardan biri, geliştiricilerin web sitelerindeki deneysel web özelliklerini Edge kullanıcıları ile belirli bir süre boyunca test etmelerine olanak tanıyan **Origin Denemeleri**‘dir. Bunlar aslında **genel web** için etkinleştirilmeyen ancak sitenizde **Microsoft Edge**‘deki ziyaretçilerinizin bir seçimi için çalışacak ve nihai **API**‘ı etkileyebilecek erken geri bildirim toplamanızı sağlayan prototipler olacak.
 

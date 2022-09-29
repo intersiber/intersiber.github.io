@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/mi10.jpg
+image: images/mi10.jpg
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ tags:
 
 XiaomiIndia Twitter hesabından yaptığı “Enerjimizi #COVID19 mücadelesinde ulusa destek olmaya odaklıyoruz. Yaptığımız görüşmeler sonrasında, **31 Mart 202**0’de yapılması planlanan **\#Mi10**‘un Hindistan’daki lansmanını ertelemeye karar verdik. Desteğiniz için teşekkür ederiz. #StaySafeEveryone” paylaşımıyla kararı açıkladı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/xiaomi-mi-note-10-ozellikleri-yorumlar-ve-fiyat-1-1600x900.jpg)</figure>Hindistan kalabalık nüfusu ve artan koronavirüs salgını nedeniyle beş hafta ülkeye giriş çıkışları kapattı. Şirket şu anda dünya çapında yayılan hastalığın durumunu takip etmekte ve yakın zamanda yeni bir lansman tarihi yayınlanacak.
+<figure class="wp-block-image size-large">![](images/xiaomi-mi-note-10-ozellikleri-yorumlar-ve-fiyat-1-1600x900.jpg)</figure>Hindistan kalabalık nüfusu ve artan koronavirüs salgını nedeniyle beş hafta ülkeye giriş çıkışları kapattı. Şirket şu anda dünya çapında yayılan hastalığın durumunu takip etmekte ve yakın zamanda yeni bir lansman tarihi yayınlanacak.
 
 Xiaomi Mi 10 Pro’nun kullanıcılara sunulan fiyatlar ise şu şekilde:
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8942'
 permalink: /microsoft-xbox-series-x-oyunlari-etkinligini-23-temmuzda-gerceklestirecegini-duyurdu/
 post_views_count:
     - '46'
-image: /wp-content/uploads/2020/07/3AF3F459-48B9-466A-BE8B-8E16CE389163.jpeg
+image: images/3AF3F459-48B9-466A-BE8B-8E16CE389163.jpeg
 categories:
     - Genel
 tags:
@@ -20,6 +20,6 @@ tags:
 
 Twitter, Facebook, YouTube veya Xbox web sitesinden izlenebilecek olan Microsoft’un gösterisinin büyük yıldızı **Halo Infinite** olacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/07/80F03920-EC71-41AE-8B99-63B240EA9CB3-1600x900.jpeg)</figure>Her geçen gün yeni bir oyun stüdyosunu bünyesine katan **Microsoft**’un şu anda toplam **15** **Xbox Oyun Stüdyosu** bulunuyor. Xbox hayranları ise bu stüdyoların **Xbox Series X** için neler yapacağını merakla bekliyor.
+<figure class="wp-block-image size-large">![](images/80F03920-EC71-41AE-8B99-63B240EA9CB3-1600x900.jpeg)</figure>Her geçen gün yeni bir oyun stüdyosunu bünyesine katan **Microsoft**’un şu anda toplam **15** **Xbox Oyun Stüdyosu** bulunuyor. Xbox hayranları ise bu stüdyoların **Xbox Series X** için neler yapacağını merakla bekliyor.
 
 **Microsoft**, etkinlikte **Xbox Game Studios**‘tan bazıları için yeni oyunları, **Xbox Series X** için optimize edilmiş oyunları ve hatta pek çok yeni oyun duyuruları sunacağına söz verdi.

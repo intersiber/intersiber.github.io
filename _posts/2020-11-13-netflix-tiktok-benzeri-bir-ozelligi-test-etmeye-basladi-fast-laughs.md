@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9641'
 permalink: /netflix-tiktok-benzeri-bir-ozelligi-test-etmeye-basladi-fast-laughs/
 post_views_count:
     - '28'
-image: /wp-content/uploads/2020/11/netflix-tiktok-benzeri-bir-ozelligi-test-etmeye-basladi-fast-laughs.png
+image: images/netflix-tiktok-benzeri-bir-ozelligi-test-etmeye-basladi-fast-laughs.png
 categories:
     - Genel
 tags:

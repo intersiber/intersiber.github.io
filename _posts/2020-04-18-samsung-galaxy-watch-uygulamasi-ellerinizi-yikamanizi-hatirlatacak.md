@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=5624'
 permalink: /samsung-galaxy-watch-uygulamasi-ellerinizi-yikamanizi-hatirlatacak/
 post_views_count:
     - '13'
-image: /wp-content/uploads/2020/04/samsung-galaxy-watch-uygulamasi-ellerinizi-yikamanizi-hatirlatacak.png
+image: images/samsung-galaxy-watch-uygulamasi-ellerinizi-yikamanizi-hatirlatacak.png
 categories:
     - 'Giyilebilir Teknoloji'
 ---
@@ -27,6 +27,6 @@ Uygulamayı Galaxy Store’dan [indirebilirsiniz](https://galaxystore.samsung.co
 
 ## Dünya genelinde vaka sayısı 2,25 milyonu geçti
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/dunya-geneli-koronavirus-vaka-sayisi-2-25-milyonu-gecti.jpeg)</figure>2019’un Aralık ayında Çin’in Hubey eyaletinde bağlı Vuhan şehrinde ortaya çıkan yeni tip koronavirüs (kovid-19) salgını, 18 Nisan itibariyle 2,25 milyon kişiye bulaştı ve 155 bine yakın insanın hayatını kaybetmesine neden oldu.
+<figure class="wp-block-image size-large">![](images/dunya-geneli-koronavirus-vaka-sayisi-2-25-milyonu-gecti.jpeg)</figure>2019’un Aralık ayında Çin’in Hubey eyaletinde bağlı Vuhan şehrinde ortaya çıkan yeni tip koronavirüs (kovid-19) salgını, 18 Nisan itibariyle 2,25 milyon kişiye bulaştı ve 155 bine yakın insanın hayatını kaybetmesine neden oldu.
 
 Birçok şirket ve kurum, koronavirüsle mücadelede insanlara yardımcı olacak çeşitli uygulamalar ve projeler geliştirmeye çalışıyor. Bu kapsamda Sağlık Bakanlığı da, **Hayat Eve Sığar** isimli uygulamayı yayına aldı.

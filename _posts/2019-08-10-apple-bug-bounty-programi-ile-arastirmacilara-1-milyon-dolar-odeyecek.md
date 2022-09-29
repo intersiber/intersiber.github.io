@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '79'
-image: /wp-content/uploads/2019/08/apple-bug-bounty-program.jpg
+image: images/apple-bug-bounty-program.jpg
 categories:
     - Apple
     - Genel
@@ -31,7 +31,7 @@ Apple Black Hat güvenlik konferansı öncesinde, bug bounty programının kural
 
 Güncellemenin en önemli maddelerinden birisi, Apple Bug Bounty programı kapsamında ödemeyi önerdiği en yüksek rakamı güncelledi. Önceden 200.000 $ olan maksimum ödeme artık 1.000.000 $’a yükseltildi.
 
-<figure class="wp-block-image">![](https://intersiber.com/wp-content/uploads/2019/08/applebugbountypayouts-1200x900.jpg)</figure>1.000.000 $’lık ödeme için elbette ciddi düzeyde bir güvenlik zafiyetinin raporlanması bekleniyor. Bu rakamı hak etmek için, ölümcül düzeyde bir açık bulunması ve bu açığın cihazın kernel düzeyinde kalıcı bir kontrol sağlayabilmesi gerekiyor. Nispeten daha önemsiz zafiyetler içinse daha küçük miktarlarda ödeme yapılacak.
+<figure class="wp-block-image">![](images/applebugbountypayouts-1200x900.jpg)</figure>1.000.000 $’lık ödeme için elbette ciddi düzeyde bir güvenlik zafiyetinin raporlanması bekleniyor. Bu rakamı hak etmek için, ölümcül düzeyde bir açık bulunması ve bu açığın cihazın kernel düzeyinde kalıcı bir kontrol sağlayabilmesi gerekiyor. Nispeten daha önemsiz zafiyetler içinse daha küçük miktarlarda ödeme yapılacak.
 
 Apple’ın Bug Bounty programı daha önceden yalnızca Apple’ın mobil işletim sistemi iOS üzerindeki zafiyetler için geçerliydi. Ancak şimdi iOS’in yanında macOS, watchOS, tvOS, iPadOS ve iCloud için de geçerli.
 

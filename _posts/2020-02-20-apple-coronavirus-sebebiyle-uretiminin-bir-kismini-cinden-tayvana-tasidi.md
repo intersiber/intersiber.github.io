@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '35'
-image: /wp-content/uploads/2020/02/apple-coronavirus-salgini-nedeniyle-uretimini-cin-den-tayvana-tasidi.jpg
+image: images/apple-coronavirus-salgini-nedeniyle-uretimini-cin-den-tayvana-tasidi.jpg
 categories:
     - Apple
 tags:
@@ -26,7 +26,7 @@ tags:
 
 Coronavirus salgınından etkilenen şirketlerin başında gelen Apple, üretim aksamalarının önüne geçmeye çalışıyor. Şirket, üretiminin büyük bir kısmını sağladığı Çin’de patlak veren salgın nedeniyle önlemler almak zorunda kaldı. iPad, Apple Watch ve AirPods üretiminin bir kısmı Tayvan’da devam edecek.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/02/apple-coronavirus-salgini-nedeniyle-uretimini-cin-den-tayvana-tasidi-2.jpg)</figure>Salgının ne zaman sona ereceği henüz belli değil ancak Apple’ın salgının sona ermesinin ardından üretimini tekrar Çin’de devam ettireceği düşünülüyor. Elbette salgının sona ermesi yeterli olmayacak ve Çin’in salgın sonrası yaralarını tamamen sarması gerekiyor.
+<figure class="wp-block-image size-large">![](images/apple-coronavirus-salgini-nedeniyle-uretimini-cin-den-tayvana-tasidi-2.jpg)</figure>Salgının ne zaman sona ereceği henüz belli değil ancak Apple’ın salgının sona ermesinin ardından üretimini tekrar Çin’de devam ettireceği düşünülüyor. Elbette salgının sona ermesi yeterli olmayacak ve Çin’in salgın sonrası yaralarını tamamen sarması gerekiyor.
 
 ## Macbook üretimi de Tayvan’da
 

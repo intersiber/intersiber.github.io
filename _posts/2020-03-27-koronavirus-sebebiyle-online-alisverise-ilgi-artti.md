@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/e-ticaret-online-alisveris.jpg
+image: images/e-ticaret-online-alisveris.jpg
 categories:
     - Genel
 tags:
@@ -30,7 +30,7 @@ E Ticaret siteleri son dönemde çok hızlı, çok yoğun bir çalışma gerçek
 
 **Getir**, **BanaBi** gibi platformlara ilgi artarken, aynı zamanda **E Ticaret** sitelerinin de kullanımında büyük değişimler görüldü.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/koronavirus-alisveris.jpg)</figure>Başta tuvalet kağıdı, su, temel gıda ve benzer ürünler olmak üzere çok sayıda vatandaş alışveriş sitelerinden sipariş vermeye başladı. Daha önce internet üzerinden hiç alışveriş yapmamış olan insanlar bile bu dönemde yapılan çağrılara ayak uydurdu.
+<figure class="wp-block-image size-large">![](images/koronavirus-alisveris.jpg)</figure>Başta tuvalet kağıdı, su, temel gıda ve benzer ürünler olmak üzere çok sayıda vatandaş alışveriş sitelerinden sipariş vermeye başladı. Daha önce internet üzerinden hiç alışveriş yapmamış olan insanlar bile bu dönemde yapılan çağrılara ayak uydurdu.
 
 **Hepsiburada** gibi platformlar daha önce internetten alışveriş yapmayan ve güven problemi yaşayan potansiyel müşterileri kendisine çekmek için “internetten alışverişin en güvenli yolu” slogan ve afişleri kullanmaya başladı.
 

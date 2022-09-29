@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=8111'
 permalink: /huaweinin-yeni-telefonunda-vucut-sicakligi-olcumu-yapilabilecek/
 post_views_count:
     - '53'
-image: /wp-content/uploads/2020/06/huawei-nin-yeni-telefonunda-vucut-sicakligi-olcumu-yapilabilecek.png
+image: images/huawei-nin-yeni-telefonunda-vucut-sicakligi-olcumu-yapilabilecek.png
 categories:
     - Mobil
 tags:
@@ -27,7 +27,7 @@ Telefonlarda halihazırda bulunan IR sensörlerinin yaygınlığı göz önüne 
 
 ## Honor Play 4 Pro’nun diğer özellikleri
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/06/huawei-honor-play-serisi-sicaklik-sensoru.png)</figure>Sıcaklık sensörü dışında, telefonun diğer özelliklerine gelirsek Kirin 990 yonga seti, 8GB RAM ve 128GB hafıza karşımıza çıkıyor.
+<figure class="wp-block-image size-large">![](images/huawei-honor-play-serisi-sicaklik-sensoru.png)</figure>Sıcaklık sensörü dışında, telefonun diğer özelliklerine gelirsek Kirin 990 yonga seti, 8GB RAM ve 128GB hafıza karşımıza çıkıyor.
 
 Çin’de telefonun satış fiyatı 2999 yuan, yani 2862 TL civarında.
 

@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9924'
 permalink: /pfizer-biontech-asisi-dark-webe-dustu-10-bin-liraya-satiyorlar/
 post_views_count:
     - '24'
-image: /wp-content/uploads/2020/12/pfizer-biontech-asisi-dark-webe-dustu-10-bin-liraya-satiyorlar.jpg
+image: images/pfizer-biontech-asisi-dark-webe-dustu-10-bin-liraya-satiyorlar.jpg
 categories:
     - Genel
 tags:

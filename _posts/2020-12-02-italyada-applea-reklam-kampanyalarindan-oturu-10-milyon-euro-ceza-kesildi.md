@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9891'
 permalink: /italyada-applea-reklam-kampanyalarindan-oturu-10-milyon-euro-ceza-kesildi/
 post_views_count:
     - '22'
-image: /wp-content/uploads/2020/12/italya-da-apple-a-reklam-filmlerinden-oturu-10-milyon-euro-ceza.jpg
+image: images/italya-da-apple-a-reklam-filmlerinden-oturu-10-milyon-euro-ceza.jpg
 categories:
     - Apple
 tags:

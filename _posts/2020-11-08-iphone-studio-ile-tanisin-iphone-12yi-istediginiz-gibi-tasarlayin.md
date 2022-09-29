@@ -8,7 +8,7 @@ guid: 'https://intersiber.com/?p=9570'
 permalink: /iphone-studio-ile-tanisin-iphone-12yi-istediginiz-gibi-tasarlayin/
 post_views_count:
     - '63'
-image: /wp-content/uploads/2020/11/iphone-studio-ile-tanisin-iphone-12-yi-istediginiz-gibi-tasarlayin.png
+image: images/iphone-studio-ile-tanisin-iphone-12-yi-istediginiz-gibi-tasarlayin.png
 categories:
     - Apple
 tags:
@@ -32,6 +32,6 @@ Daha önce Apple, Apple Watch kişiselleştirme seçeneklerinde bine yakın fark
 
 iPhone Studio özelliğinde, başta telefonun rengini değiştirme, telefona kılıf ekleme ya da bir MagSafe cüzdan ekleme seçeneklerine sahipsiniz. Kılıf ve cüzdanın da rengini değiştirebilir, isminizi tasarımın üzerine yazabiliyorsunuz.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/11/iphone-12-studio-tasarim-nasil-yapilir.png)</figure>**iPhone** **Studio’da**, telefonunuzun rengine göre cüzdan ya da kılıfın rengini belirleyebilirsiniz.
+<figure class="wp-block-image size-large">![](images/iphone-12-studio-tasarim-nasil-yapilir.png)</figure>**iPhone** **Studio’da**, telefonunuzun rengine göre cüzdan ya da kılıfın rengini belirleyebilirsiniz.
 
 Hayalinizde nasıl bir iPhone var bilmiyoruz ancak özel iPhone ve iPhone kılıfı tasarımı oluşturmayı sağlayan bu özellikle, siz de kişiselleştirilmiş bir tasarım ortaya çıkarabilirsiniz.

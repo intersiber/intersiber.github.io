@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/04/Galaxy-S20-2-scaled.jpg
+image: images/Galaxy-S20-2-scaled.jpg
 categories:
     - Mobil
 tags:
@@ -25,7 +25,7 @@ SamMobile’da yer alan habere göre Güney Kore merkezli teknoloji üreticisi S
 
 Tayvan ve Hong Kong için yayınlandığı bildirilen açıklamada 435 MB boyutunda olan güncellemenin özellikle geliştirilmiş kamera özellikleri ve performans adına yayınlandığı açıklandı.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/04/samsung-galaxy-s20-guncelleme.jpg)</figure>## Diğer Bölgeler İçin Yayınlanmayabilir
+<figure class="wp-block-image size-large">![](images/samsung-galaxy-s20-guncelleme.jpg)</figure>## Diğer Bölgeler İçin Yayınlanmayabilir
 
 Bu güncellemenin sadece 2 bölge için özel olabileceği tahmin ediliyor. Ancak kamera özelliklerinde geliştirilmiş performansı hedefleyen ve güvenlik güncellemesini içeren bu 400 MB’ı aşkın güncellemenin diğer bölgeler için yayınlanması Galaxy S20 kullanıcılarının kamera performansından daha fazla memnun olmasında katkıda bulunabilir.
 

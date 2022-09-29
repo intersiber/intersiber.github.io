@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
     - default
 post_views_count:
     - '84'
-image: /wp-content/uploads/2020/01/safari-technology-preview.jpg
+image: images/safari-technology-preview.jpg
 categories:
     - Apple
     - 'Öne Çıkan'

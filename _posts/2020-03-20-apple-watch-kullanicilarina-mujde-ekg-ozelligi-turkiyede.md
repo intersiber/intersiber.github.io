@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
     - null
 ampforwp-amp-on-off:
     - default
-image: /wp-content/uploads/2020/03/watch-ekg-2.jpeg
+image: images/watch-ekg-2.jpeg
 categories:
     - Apple
 tags:
@@ -29,6 +29,6 @@ Apple’ın 21 Mart 2020’de yayınlaması beklenen yeni güncellemesi ile bera
 
 Apple Watch 4 ve Watch 5 modellerine ise bir süredir T.C. Sağlık Bakanlığı tarafından onay beklediği iddiasıyla kullanıma açılmadığı düşünülen EKG özelliği sonunda açılacak.
 
-<figure class="wp-block-image size-large">![](https://intersiber.com/wp-content/uploads/2020/03/watch-ekgwatch-ekg.jpg)</figure>Kullanıcılar EKG özelliğini kullanarak akıllı saatleri ile kalp sağlığı durumunu daha fazla kontrol edebilecek, olası bir kalp krizi geçirmeleri durumunda daha erken uyarı alarak kısa süre içerisinde sorundan haberdar olabilecekler.
+<figure class="wp-block-image size-large">![](images/watch-ekgwatch-ekg.jpg)</figure>Kullanıcılar EKG özelliğini kullanarak akıllı saatleri ile kalp sağlığı durumunu daha fazla kontrol edebilecek, olası bir kalp krizi geçirmeleri durumunda daha erken uyarı alarak kısa süre içerisinde sorundan haberdar olabilecekler.
 
 Apple’ın yeni güncellemesinin 21 Mart 2020’de 20.00 gibi yayınlanması bekleniyor.
