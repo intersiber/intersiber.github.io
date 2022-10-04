@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Hakkında
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/intersiber.jpg
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+intersiber siber güvenlik ve teknoloji ile ilgili konularda 2016 yılında yayına başlamış bir internet sitesidir. 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Sosyal medya bağlantılarımıza aşağıdaki linklerden ulaşabilir ve takip edebilirsiniz.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+[Twitter](https://twitter.com/intersiber)
+[Instagram](https://instagram.com/intersiber)
+[Facebook](https://facebook.com/intersiber)
 
