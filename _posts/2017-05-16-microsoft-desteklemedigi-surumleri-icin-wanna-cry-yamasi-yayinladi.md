@@ -8,7 +8,7 @@ guid: 'https://www.intersiber.com/?p=848'
 permalink: /microsoft-desteklemedigi-surumleri-icin-wanna-cry-yamasi-yayinladi/
 post_views_count:
     - '1071'
-image: images/microsoft-wanna-cry-patch.gif
+image: images/microsoft-wanna-cry-patch.jpg
 categories:
     - Genel
     - Güvenlik
