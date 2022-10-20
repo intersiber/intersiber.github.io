@@ -1,5 +1,5 @@
-# Affiliates - Free Jekyll Theme
+# intersiber - siber güvenlik
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+[intersiber'e git](https://intersiber.com/) | [Twitter](https://twitter.com/intersiber/) |  [Instagram](https://instagram.com/intersiber/)
 
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+![intersiber](https://intersiber.com/assets/images/intersiber.jpg)
