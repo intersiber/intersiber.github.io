@@ -18,20 +18,20 @@ html {
   
 body {
     background:#fff;
-    font-size:17px;
+    font-size:15px;
     transition: all 200ms linear;
     font-family: "PT Sans",sans-serif;
     line-height:1.7;
     color: #333;
     overflow-x:hidden;
-    padding-top:116px;
+    padding-top:95px;
     
 }
 .serif-font {
     font-family:PT Serif;
 }
 .navbar{
-    padding:10px 15px!important;
+    padding:5px 0px!important;
 }
 @media (max-width: 1366px) {
     .container-xl, .container-lg, .container-md, .container-sm, .container {
@@ -115,6 +115,8 @@ small, .small {
 	transition : all 0.3s ease-out;
     position:fixed;
     background:#fff;
+    border-top:5px solid #05a500;
+    box-shadow:5px 2px 9px #e5e5e5;
 }
 .social-icon {
     display: inline-block !important;
