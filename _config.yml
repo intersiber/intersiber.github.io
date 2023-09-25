@@ -37,10 +37,26 @@ authors:
     name: Hakan Torun
     display_name: Hakan Torun
     avatar: 'assets/images/hakan-torun.jpg'
-    email: wowthemesnet@gmail.com
+    email: hakan@intersiber.com
     web: https://hakan.io
     twitter: https://twitter.com/onepase
     description: "Hakan Torun"
+  Ahmet Can Bilici:
+    name: Ahmet Can Bilici
+    display_name: Ahmet Can Bilici
+    avatar: 'assets/images/intersiber.png'
+    email: ahmet@intersiber.com
+    web: https://intersiber.com
+    twitter: https://twitter.com/intersiber
+    description: "Ahmet Can Bilici"
+  Beyza Bayrakdar:
+    name: Beyza Bayrakdar
+    display_name: Beyza Bayrakdar
+    avatar: 'assets/images/intersiber.png'
+    email: beyza@intersiber.com
+    web: https://intersiber.com
+    twitter: https://twitter.com/intersiber
+    description: "Beyza Bayrakdar"
 
 # Social
 social:

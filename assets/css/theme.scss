@@ -97,7 +97,7 @@ small, .small {
    
 }
 .start-header.scroll-on {	
-	padding: 5px 0;
+	padding: 0;
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
     box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.05);
@@ -615,7 +615,7 @@ span.navigation:before {
 }
 
 .footer {
-    margin-top:4rem;
+    margin-top:1rem;
     padding:30px 0;
     ul li {
         display: inline-block;
