@@ -28,3 +28,6 @@ footermenu:
 
 - title: Hakkında
   url: "about/"
+
+- title: AI Image Generator
+  url: "https://puq.ai"
