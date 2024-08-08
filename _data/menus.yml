@@ -31,3 +31,4 @@ footermenu:
 
 - title: AI Image Generator
   url: "https://puq.ai"
+  external: true
