@@ -3,7 +3,7 @@ email: intersibercom@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon.png'
 author: intersiber
 paginate: 10
@@ -57,6 +57,14 @@ authors:
     web: https://intersiber.com
     twitter: https://twitter.com/intersiber
     description: "Beyza Bayrakdar"
+  Berkan Yıldırım:
+    name: Berkan
+    display_name: Berkan
+    avatar: 'assets/images/intersiber.png'
+    email: berkan@intersiber.com
+    web: https://intersiber.com
+    twitter: https://twitter.com/intersiber
+    description: "Berkan"
 
 # Social
 social:
